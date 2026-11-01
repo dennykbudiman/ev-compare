@@ -1,0 +1,310 @@
+{
+  "make": "Denza",
+  "model": "Z9 GT",
+  "trims": [
+    {
+      "id": "denza-z9-gt-2026-awd",
+      "model_year": 2026,
+      "variant": "Z9 GT (tri-motor AWD)",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 2250000000,
+        "range_km": 701,
+        "range_standard": "NEDC",
+        "motor_count": 3,
+        "drive": "AWD",
+        "power_kw": 850,
+        "torque_nm": 1210,
+        "accel_0_100_s": 2.7,
+        "length_mm": 5180,
+        "width_mm": 1990,
+        "height_mm": 1490,
+        "wheelbase_mm": 3125,
+        "turning_radius_m": 4.62,
+        "platform": "e³ platform",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 122.5,
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "kerb_weight_kg": 2895,
+        "boot_l": 495,
+        "seats": 5,
+        "airbags": 9,
+        "adas": "ACC, AEB, FCW, LKA, BSM",
+        "top_speed_kmh": 269,
+        "tyre_size": "225/45 R20"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8392483/denza-z9-gt-dijual-di-indonesia-tahun-ini",
+            "title": "Denza Z9 GT Dijual di Indonesia Tahun Ini",
+            "date": "2026-03",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8392483/denza-z9-gt-dijual-di-indonesia-tahun-ini",
+            "title": "Denza Z9 GT Dijual di Indonesia Tahun Ini",
+            "date": "2026-03",
+            "type": "press"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8392483/denza-z9-gt-dijual-di-indonesia-tahun-ini",
+            "title": "Denza Z9 GT Dijual di Indonesia Tahun Ini",
+            "date": "2026-03",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.carbase.my/denza/z9-gt/mk1/e3-2026",
+            "title": "Denza Z9 GT e3 2026 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched in Indonesia 14 Oct 2026 at Rp2.25 billion (sources do not say OTR); badged 'Danza'. Body is a five-door grand tourer/shooting brake, filed as Hatchback. Power 850 kW (1,156 PS) per Moladin; detik (Mar 2026, pre-launch) said nearly 1,000 hp and 0–100 in 3.4 s, Kontan/Moladin launch reports say 2.7 s. Flash Charging claim 10–70% in 5 min. Battery capacity not stated in Indonesian sources. Rear-wheel steering. Assembly not stated. Battery chemistry and capacity, AC/DC charging power and connectors, kerb weight, boot, seats, airbags, ADAS list, top speed and tyre size from the Malaysian spec (carbase.my, same 1,140 hp/1,210 Nm tri-motor version); the 1,500 kW DC figure is the Flash Charging peak. BYD Flash Charging: up to 1,500 kW and 10–70% in about 5 minutes, but only on BYD flash chargers; the normal DC rate on a CCS2 charger is not published, so the DC fields are left empty (Kontan, carbase.my).",
+      "notes_id": "Diluncurkan di Indonesia 14 Oktober 2026 seharga Rp2,25 miliar (sumber tidak menyebut OTR); disebut 'Danza'. Bodinya grand tourer/shooting brake lima pintu, dimasukkan sebagai Hatchback. Tenaga 850 kW (1.156 PS) menurut Moladin; detik (Maret 2026, sebelum peluncuran) menyebut hampir 1.000 hp dan 0–100 dalam 3,4 detik, sedangkan laporan peluncuran Kontan/Moladin menyebut 2,7 detik. Flash Charging diklaim 10–70% dalam 5 menit. Kapasitas baterai tidak disebutkan sumber Indonesia. Dilengkapi rear-wheel steering. Status perakitan tidak disebutkan. Kimia dan kapasitas baterai, daya dan konektor pengisian AC/DC, berat kosong, bagasi, jumlah kursi, airbag, daftar ADAS, kecepatan maksimum, dan ukuran ban dari spesifikasi Malaysia (carbase.my, versi tiga motor 1.140 hp/1.210 Nm yang sama); angka DC 1.500 kW adalah puncak Flash Charging. BYD Flash Charging: hingga 1.500 kW dan 10–70% sekitar 5 menit, tetapi hanya di pengisi daya flash BYD; daya DC normal di pengisi CCS2 tidak dipublikasikan, jadi kolom DC dikosongkan (Kontan, carbase.my)."
+    }
+  ]
+}

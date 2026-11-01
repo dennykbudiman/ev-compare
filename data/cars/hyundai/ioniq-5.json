@@ -1,0 +1,3548 @@
+{
+  "make": "Hyundai",
+  "model": "Ioniq 5",
+  "trims": [
+    {
+      "id": "hyundai-ioniq-5-2026-prime-standard-range",
+      "model_year": 2026,
+      "variant": "Prime Standard Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "range_standard": "WLTP",
+        "dc_10_80_min": 18,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3+1 years or 60,000 km",
+        "platform": "E-GMP",
+        "torque_nm": 350,
+        "motor_count": 1,
+        "drive": "RWD",
+        "ground_clearance_mm": 160,
+        "boot_l": 527,
+        "seats": 5,
+        "airbags": 6,
+        "price_otr_idr": 809000000,
+        "battery_gross_kwh": 58,
+        "range_km": 384,
+        "power_kw": 125,
+        "motor_type": "PMSM",
+        "pack_nominal_voltage_v": 522.7,
+        "tyre_size": "235/55 R19",
+        "frunk_l": 52,
+        "headroom_front_mm": 1046,
+        "headroom_rear_mm": 970,
+        "legroom_front_mm": 1138,
+        "legroom_rear_mm": 1002,
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "top_speed_kmh": 185,
+        "accel_0_100_s": 8.5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/the-price-of-the-hyundai-ioniq-5-increased-by-rp-81-million-in-mid-january-2026-22971",
+            "title": "The Price of the Hyundai Ioniq 5 Increased by Rp 81 Million in Mid January 2026",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/the-price-of-the-hyundai-ioniq-5-increased-by-rp-81-million-in-mid-january-2026-22971",
+            "title": "The Price of the Hyundai Ioniq 5 Increased by Rp 81 Million in Mid January 2026",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "headroom_front_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "headroom_rear_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "legroom_front_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "legroom_rear_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Indonesian Ioniq 5 keeps the 58 / 72.6 kWh batteries (not the 63 / 84 kWh of the global facelift). Same specs 2024-2026; prices rose about Rp70-81 jt in January 2026 (katadata), e.g. Prime SR Rp738.3 jt -> Rp809 jt. DC 10-80% is 18 min on a 350 kW charger per Hyundai Indonesia (oto.com and Moladin say 17 min). oto.com gives height 1,647 mm; Hyundai Indonesia and Moladin give 1,605 mm. The Signature LR 'Batik' edition (Rp933.6 jt on oto.com) is no longer offered per katadata. Power 170 PS (= 125 kW). oto.com lists no adaptive cruise, BSM or RCTA on the Prime SR; Moladin's equipment list differs. AC charging (11 kW, Type 2), 0-100 km/h and top speed from the Malaysian 58 kWh RWD spec (autobuzz.my).",
+      "notes_id": "Ioniq 5 Indonesia tetap memakai baterai 58 / 72,6 kWh (bukan 63 / 84 kWh seperti facelift global). Spesifikasi sama 2024-2026; harga naik sekitar Rp70-81 jt pada Januari 2026 (katadata), misalnya Prime SR Rp738,3 jt -> Rp809 jt. DC 10-80% 18 menit dengan charger 350 kW menurut Hyundai Indonesia (oto.com dan Moladin menyebut 17 menit). oto.com menyebut tinggi 1.647 mm; Hyundai Indonesia dan Moladin menyebut 1.605 mm. Edisi Signature LR 'Batik' (Rp933,6 jt di oto.com) sudah tidak ditawarkan menurut katadata. Tenaga 170 PS (= 125 kW). oto.com tidak mencantumkan adaptive cruise, BSM, atau RCTA pada Prime SR; daftar fitur Moladin berbeda. Pengisian AC (11 kW, Type 2), 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Malaysia 58 kWh RWD (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2026-prime-long-range",
+      "model_year": 2026,
+      "variant": "Prime Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "range_standard": "WLTP",
+        "dc_10_80_min": 18,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3+1 years or 60,000 km",
+        "platform": "E-GMP",
+        "torque_nm": 350,
+        "motor_count": 1,
+        "drive": "RWD",
+        "ground_clearance_mm": 160,
+        "boot_l": 527,
+        "seats": 5,
+        "airbags": 6,
+        "price_otr_idr": 851500000,
+        "battery_gross_kwh": 72.6,
+        "range_km": 481,
+        "power_kw": 160,
+        "pack_nominal_voltage_v": 653.4,
+        "tyre_size": "235/55 R19",
+        "frunk_l": 52,
+        "battery_chemistry": "NCM",
+        "battery_usable_kwh": 70.0,
+        "cell_count": 360,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 221,
+        "charge_port": "Right rear",
+        "top_speed_kmh": 185
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/the-price-of-the-hyundai-ioniq-5-increased-by-rp-81-million-in-mid-january-2026-22971",
+            "title": "The Price of the Hyundai Ioniq 5 Increased by Rp 81 Million in Mid January 2026",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/the-price-of-the-hyundai-ioniq-5-increased-by-rp-81-million-in-mid-january-2026-22971",
+            "title": "The Price of the Hyundai Ioniq 5 Increased by Rp 81 Million in Mid January 2026",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Indonesian Ioniq 5 keeps the 58 / 72.6 kWh batteries (not the 63 / 84 kWh of the global facelift). Same specs 2024-2026; prices rose about Rp70-81 jt in January 2026 (katadata), e.g. Prime SR Rp738.3 jt -> Rp809 jt. DC 10-80% is 18 min on a 350 kW charger per Hyundai Indonesia (oto.com and Moladin say 17 min). oto.com gives height 1,647 mm; Hyundai Indonesia and Moladin give 1,605 mm. The Signature LR 'Batik' edition (Rp933.6 jt on oto.com) is no longer offered per katadata. Power 217 PS (= 160 kW). Battery chemistry, usable capacity, cell count, 800 V, AC/DC charging, connectors, charge port and top speed from the European 72.6 kWh RWD spec (ev-database.org).",
+      "notes_id": "Ioniq 5 Indonesia tetap memakai baterai 58 / 72,6 kWh (bukan 63 / 84 kWh seperti facelift global). Spesifikasi sama 2024-2026; harga naik sekitar Rp70-81 jt pada Januari 2026 (katadata), misalnya Prime SR Rp738,3 jt -> Rp809 jt. DC 10-80% 18 menit dengan charger 350 kW menurut Hyundai Indonesia (oto.com dan Moladin menyebut 17 menit). oto.com menyebut tinggi 1.647 mm; Hyundai Indonesia dan Moladin menyebut 1.605 mm. Edisi Signature LR 'Batik' (Rp933,6 jt di oto.com) sudah tidak ditawarkan menurut katadata. Tenaga 217 PS (= 160 kW). Kimia baterai, kapasitas usable, jumlah sel, 800 V, pengisian AC/DC, konektor, letak port, dan kecepatan maksimum dari spesifikasi Eropa 72,6 kWh RWD (ev-database.org)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2026-signature-standard-range",
+      "model_year": 2026,
+      "variant": "Signature Standard Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "range_standard": "WLTP",
+        "dc_10_80_min": 18,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3+1 years or 60,000 km",
+        "platform": "E-GMP",
+        "price_otr_idr": 873900000,
+        "battery_gross_kwh": 58,
+        "range_km": 384,
+        "power_kw": 125,
+        "adas": "ACC, BSM, RCTA, SVM",
+        "drive": "RWD",
+        "torque_nm": 350,
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "top_speed_kmh": 185,
+        "accel_0_100_s": 8.5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/the-price-of-the-hyundai-ioniq-5-increased-by-rp-81-million-in-mid-january-2026-22971",
+            "title": "The Price of the Hyundai Ioniq 5 Increased by Rp 81 Million in Mid January 2026",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/the-price-of-the-hyundai-ioniq-5-increased-by-rp-81-million-in-mid-january-2026-22971",
+            "title": "The Price of the Hyundai Ioniq 5 Increased by Rp 81 Million in Mid January 2026",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Indonesian Ioniq 5 keeps the 58 / 72.6 kWh batteries (not the 63 / 84 kWh of the global facelift). Same specs 2024-2026; prices rose about Rp70-81 jt in January 2026 (katadata), e.g. Prime SR Rp738.3 jt -> Rp809 jt. DC 10-80% is 18 min on a 350 kW charger per Hyundai Indonesia (oto.com and Moladin say 17 min). oto.com gives height 1,647 mm; Hyundai Indonesia and Moladin give 1,605 mm. The Signature LR 'Batik' edition (Rp933.6 jt on oto.com) is no longer offered per katadata. Signature adds heated/ventilated seats, sunroof, 360 camera, ACC, BSM, RCTA, memory seats and Bose audio (oto.com / Hyundai Indonesia). Power 170 PS (= 125 kW). Drive, torque, AC charging (11 kW, Type 2), V2L 3.6 kW, 0-100 km/h and top speed from the Malaysian 58 kWh RWD spec (autobuzz.my).",
+      "notes_id": "Ioniq 5 Indonesia tetap memakai baterai 58 / 72,6 kWh (bukan 63 / 84 kWh seperti facelift global). Spesifikasi sama 2024-2026; harga naik sekitar Rp70-81 jt pada Januari 2026 (katadata), misalnya Prime SR Rp738,3 jt -> Rp809 jt. DC 10-80% 18 menit dengan charger 350 kW menurut Hyundai Indonesia (oto.com dan Moladin menyebut 17 menit). oto.com menyebut tinggi 1.647 mm; Hyundai Indonesia dan Moladin menyebut 1.605 mm. Edisi Signature LR 'Batik' (Rp933,6 jt di oto.com) sudah tidak ditawarkan menurut katadata. Signature menambahkan jok dengan pemanas/ventilasi, sunroof, kamera 360, ACC, BSM, RCTA, jok memori, dan audio Bose (oto.com / Hyundai Indonesia). Tenaga 170 PS (= 125 kW). Penggerak, torsi, pengisian AC (11 kW, Type 2), V2L 3,6 kW, 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Malaysia 58 kWh RWD (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2026-signature-long-range",
+      "model_year": 2026,
+      "variant": "Signature Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "range_standard": "WLTP",
+        "dc_10_80_min": 18,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3+1 years or 60,000 km",
+        "platform": "E-GMP",
+        "torque_nm": 350,
+        "motor_count": 1,
+        "drive": "RWD",
+        "ground_clearance_mm": 160,
+        "boot_l": 527,
+        "seats": 5,
+        "airbags": 6,
+        "price_otr_idr": 925600000,
+        "battery_gross_kwh": 72.6,
+        "range_km": 451,
+        "power_kw": 160,
+        "pack_nominal_voltage_v": 653.4,
+        "kerb_weight_kg": 1910,
+        "tyre_size": "255/45 R20",
+        "battery_chemistry": "NCM",
+        "battery_usable_kwh": 70.0,
+        "cell_count": 360,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 221,
+        "charge_port": "Right rear",
+        "top_speed_kmh": 185,
+        "v2l": true,
+        "v2l_kw": 3.6
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/the-price-of-the-hyundai-ioniq-5-increased-by-rp-81-million-in-mid-january-2026-22971",
+            "title": "The Price of the Hyundai Ioniq 5 Increased by Rp 81 Million in Mid January 2026",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/ioniq-5/spesifikasi",
+            "title": "Hyundai Ioniq 5 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/the-price-of-the-hyundai-ioniq-5-increased-by-rp-81-million-in-mid-january-2026-22971",
+            "title": "The Price of the Hyundai Ioniq 5 Increased by Rp 81 Million in Mid January 2026",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-ioniq-5-prime-standard-range-dan-hyundai-ioniq-5-signature-long-range",
+            "title": "Hyundai IONIQ 5 Prime - Standard Range vs Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Indonesian Ioniq 5 keeps the 58 / 72.6 kWh batteries (not the 63 / 84 kWh of the global facelift). Same specs 2024-2026; prices rose about Rp70-81 jt in January 2026 (katadata), e.g. Prime SR Rp738.3 jt -> Rp809 jt. DC 10-80% is 18 min on a 350 kW charger per Hyundai Indonesia (oto.com and Moladin say 17 min). oto.com gives height 1,647 mm; Hyundai Indonesia and Moladin give 1,605 mm. The Signature LR 'Batik' edition (Rp933.6 jt on oto.com) is no longer offered per katadata. Range 451 km WLTP on 20-inch wheels (Prime LR 481 km on 19-inch). Moladin shows a stale price (Rp783.1 jt) and length 4,653 mm for this variant; Hyundai Indonesia gives 4,635 mm. Battery chemistry, usable capacity, cell count, 800 V, AC/DC charging, connectors, charge port, V2L 3.6 kW and top speed from the European 72.6 kWh RWD spec (ev-database.org).",
+      "notes_id": "Ioniq 5 Indonesia tetap memakai baterai 58 / 72,6 kWh (bukan 63 / 84 kWh seperti facelift global). Spesifikasi sama 2024-2026; harga naik sekitar Rp70-81 jt pada Januari 2026 (katadata), misalnya Prime SR Rp738,3 jt -> Rp809 jt. DC 10-80% 18 menit dengan charger 350 kW menurut Hyundai Indonesia (oto.com dan Moladin menyebut 17 menit). oto.com menyebut tinggi 1.647 mm; Hyundai Indonesia dan Moladin menyebut 1.605 mm. Edisi Signature LR 'Batik' (Rp933,6 jt di oto.com) sudah tidak ditawarkan menurut katadata. Jarak tempuh 451 km WLTP dengan pelek 20 inci (Prime LR 481 km dengan pelek 19 inci). Moladin menampilkan harga lama (Rp783,1 jt) dan panjang 4.653 mm untuk varian ini; Hyundai Indonesia menyebut 4.635 mm. Kimia baterai, kapasitas usable, jumlah sel, 800 V, pengisian AC/DC, konektor, letak port, V2L 3,6 kW, dan kecepatan maksimum dari spesifikasi Eropa 72,6 kWh RWD (ev-database.org)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2022-prime-standard-range",
+      "model_year": 2022,
+      "variant": "Prime Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 718000000,
+        "battery_gross_kwh": 58,
+        "range_km": 384,
+        "range_standard": "WLTP",
+        "power_kw": 125,
+        "torque_nm": 350,
+        "accel_0_100_s": 8.5,
+        "ac_full_hours": 5,
+        "platform": "E-GMP",
+        "v2l": false,
+        "drive": "RWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "top_speed_kmh": 185,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223249057/harga-resmi-mobil-listrik-hyundai-ioniq-5-akhirnya-diumumkan-mulai-rp-718-juta",
+            "title": "Harga Resmi Mobil Listrik Hyundai IONIQ 5 Akhirnya Diumumkan, Mulai Rp 718 Juta",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223249057/harga-resmi-mobil-listrik-hyundai-ioniq-5-akhirnya-diumumkan-mulai-rp-718-juta",
+            "title": "Harga Resmi Mobil Listrik Hyundai IONIQ 5 Akhirnya Diumumkan, Mulai Rp 718 Juta",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Prices announced 22 Apr 2022, OTR Jakarta, built at HMMI Cikarang. Power 170 PS (= 125 kW). DC on a 50 kW charger takes 46 min to 80% (start level not stated, so no dc_10_80_min); about 18 min to 80% on 350 kW was quoted as a future option. V2L is listed for Signature variants only. Prices rose by Dec 2022 (see 2023 record); same specs continue through 2026. Drive, AC charging (11 kW, Type 2), top speed and dimensions from the Malaysian 58 kWh RWD spec (autobuzz.my).",
+      "notes_id": "Harga diumumkan 22 April 2022, OTR Jakarta, dirakit di HMMI Cikarang. Tenaga 170 PS (= 125 kW). DC dengan charger 50 kW butuh 46 menit hingga 80% (titik awal tidak disebutkan, sehingga dc_10_80_min tidak diisi); sekitar 18 menit hingga 80% dengan 350 kW disebut sebagai opsi ke depan. V2L hanya tercantum untuk varian Signature. Harga naik pada Desember 2022 (lihat data 2023); spesifikasi sama berlanjut hingga 2026. Penggerak, pengisian AC (11 kW, Type 2), kecepatan maksimum, dan dimensi dari spesifikasi Malaysia 58 kWh RWD (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2023-prime-standard-range",
+      "model_year": 2023,
+      "variant": "Prime Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 748000000,
+        "battery_gross_kwh": 58,
+        "range_km": 384,
+        "range_standard": "WLTP",
+        "power_kw": 125,
+        "torque_nm": 350,
+        "accel_0_100_s": 8.5,
+        "ac_full_hours": 5,
+        "platform": "E-GMP",
+        "v2l": false,
+        "drive": "RWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "top_speed_kmh": 185,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233638962/harga-hyundai-kona-electric-naik-di-awal-tahun-ioniq-5-bakal-ikutan",
+            "title": "Harga Hyundai Kona Electric Naik di Awal Tahun, Ioniq 5 Bakal Ikutan",
+            "date": "2023-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223249057/harga-resmi-mobil-listrik-hyundai-ioniq-5-akhirnya-diumumkan-mulai-rp-718-juta",
+            "title": "Harga Resmi Mobil Listrik Hyundai IONIQ 5 Akhirnya Diumumkan, Mulai Rp 718 Juta",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Same car as the 2022 record; price is OTR Jakarta in January 2023 (unchanged from December 2022, otomotifnet). Specs are from the April 2022 launch report. Power 170 PS (= 125 kW). Same specs 2022-2026. Drive, AC charging (11 kW, Type 2), top speed and dimensions from the Malaysian 58 kWh RWD spec (autobuzz.my).",
+      "notes_id": "Mobil yang sama dengan data 2022; harga OTR Jakarta Januari 2023 (tidak berubah sejak Desember 2022, otomotifnet). Spesifikasi dari laporan peluncuran April 2022. Tenaga 170 PS (= 125 kW). Spesifikasi sama 2022-2026. Penggerak, pengisian AC (11 kW, Type 2), kecepatan maksimum, dan dimensi dari spesifikasi Malaysia 58 kWh RWD (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2022-prime-long-range",
+      "model_year": 2022,
+      "variant": "Prime Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 759000000,
+        "battery_gross_kwh": 72.6,
+        "range_km": 481,
+        "range_standard": "WLTP",
+        "power_kw": 160,
+        "torque_nm": 350,
+        "accel_0_100_s": 7.4,
+        "ac_full_hours": 6,
+        "platform": "E-GMP",
+        "v2l": false,
+        "battery_chemistry": "NCM",
+        "battery_usable_kwh": 70.0,
+        "cell_count": 360,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 221,
+        "charge_port": "Right rear",
+        "top_speed_kmh": 185,
+        "drive": "RWD",
+        "dc_10_80_min": 17,
+        "seats": 5,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223249057/harga-resmi-mobil-listrik-hyundai-ioniq-5-akhirnya-diumumkan-mulai-rp-718-juta",
+            "title": "Harga Resmi Mobil Listrik Hyundai IONIQ 5 Akhirnya Diumumkan, Mulai Rp 718 Juta",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Prices announced 22 Apr 2022, OTR Jakarta, built at HMMI Cikarang. Power 217 PS (= 160 kW). DC on a 50 kW charger takes 57 min to 80% (start level not stated, so no dc_10_80_min); about 18 min to 80% on 350 kW was quoted as a future option. Gridoto gives 72.8 kWh for the Long Range battery; Detik and Hyundai's later figures give 72.6 kWh. V2L is listed for Signature variants only. Prices rose by Dec 2022 (see 2023 record); same specs continue through 2026. Battery chemistry, usable capacity, cell count, 800 V, drive, AC/DC charging (DC 10-80% 17 min), connectors, charge port, seats and top speed from the European 72.6 kWh RWD spec (ev-database.org); dimensions from the Malaysian spec (autobuzz.my).",
+      "notes_id": "Harga diumumkan 22 April 2022, OTR Jakarta, dirakit di HMMI Cikarang. Tenaga 217 PS (= 160 kW). DC dengan charger 50 kW butuh 57 menit hingga 80% (titik awal tidak disebutkan, sehingga dc_10_80_min tidak diisi); sekitar 18 menit hingga 80% dengan 350 kW disebut sebagai opsi ke depan. Gridoto menyebut baterai Long Range 72,8 kWh; Detik dan data Hyundai berikutnya menyebut 72,6 kWh. V2L hanya tercantum untuk varian Signature. Harga naik pada Desember 2022 (lihat data 2023); spesifikasi sama berlanjut hingga 2026. Kimia baterai, kapasitas usable, jumlah sel, 800 V, penggerak, pengisian AC/DC (DC 10-80% 17 menit), konektor, letak port, jumlah kursi, dan kecepatan maksimum dari spesifikasi Eropa 72,6 kWh RWD (ev-database.org); dimensi dari spesifikasi Malaysia (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2023-prime-long-range",
+      "model_year": 2023,
+      "variant": "Prime Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 789000000,
+        "battery_gross_kwh": 72.6,
+        "range_km": 481,
+        "range_standard": "WLTP",
+        "power_kw": 160,
+        "torque_nm": 350,
+        "accel_0_100_s": 7.4,
+        "ac_full_hours": 6,
+        "platform": "E-GMP",
+        "v2l": false,
+        "battery_chemistry": "NCM",
+        "battery_usable_kwh": 70.0,
+        "cell_count": 360,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 221,
+        "charge_port": "Right rear",
+        "top_speed_kmh": 185,
+        "drive": "RWD",
+        "dc_10_80_min": 17,
+        "seats": 5,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233638962/harga-hyundai-kona-electric-naik-di-awal-tahun-ioniq-5-bakal-ikutan",
+            "title": "Harga Hyundai Kona Electric Naik di Awal Tahun, Ioniq 5 Bakal Ikutan",
+            "date": "2023-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Same car as the 2022 record; price is OTR Jakarta in January 2023 (unchanged from December 2022, otomotifnet). Specs are from the April 2022 launch report. Power 217 PS (= 160 kW). Same specs 2022-2026. Battery chemistry, usable capacity, cell count, 800 V, drive, AC/DC charging (DC 10-80% 17 min), connectors, charge port, seats and top speed from the European 72.6 kWh RWD spec (ev-database.org); dimensions from the Malaysian spec (autobuzz.my).",
+      "notes_id": "Mobil yang sama dengan data 2022; harga OTR Jakarta Januari 2023 (tidak berubah sejak Desember 2022, otomotifnet). Spesifikasi dari laporan peluncuran April 2022. Tenaga 217 PS (= 160 kW). Spesifikasi sama 2022-2026. Kimia baterai, kapasitas usable, jumlah sel, 800 V, penggerak, pengisian AC/DC (DC 10-80% 17 menit), konektor, letak port, jumlah kursi, dan kecepatan maksimum dari spesifikasi Eropa 72,6 kWh RWD (ev-database.org); dimensi dari spesifikasi Malaysia (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2022-signature-standard-range",
+      "model_year": 2022,
+      "variant": "Signature Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 779000000,
+        "battery_gross_kwh": 58,
+        "range_km": 384,
+        "range_standard": "WLTP",
+        "power_kw": 125,
+        "torque_nm": 350,
+        "accel_0_100_s": 8.5,
+        "ac_full_hours": 5,
+        "platform": "E-GMP",
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "drive": "RWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "top_speed_kmh": 185,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223249057/harga-resmi-mobil-listrik-hyundai-ioniq-5-akhirnya-diumumkan-mulai-rp-718-juta",
+            "title": "Harga Resmi Mobil Listrik Hyundai IONIQ 5 Akhirnya Diumumkan, Mulai Rp 718 Juta",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223249057/harga-resmi-mobil-listrik-hyundai-ioniq-5-akhirnya-diumumkan-mulai-rp-718-juta",
+            "title": "Harga Resmi Mobil Listrik Hyundai IONIQ 5 Akhirnya Diumumkan, Mulai Rp 718 Juta",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Prices announced 22 Apr 2022, OTR Jakarta, built at HMMI Cikarang. Power 170 PS (= 125 kW). DC on a 50 kW charger takes 46 min to 80% (start level not stated, so no dc_10_80_min); about 18 min to 80% on 350 kW was quoted as a future option. V2L (3.6 kW) is Signature-only. Prices rose by Dec 2022 (see 2023 record); same specs continue through 2026. Drive, AC charging (11 kW, Type 2), top speed and dimensions from the Malaysian 58 kWh RWD spec (autobuzz.my).",
+      "notes_id": "Harga diumumkan 22 April 2022, OTR Jakarta, dirakit di HMMI Cikarang. Tenaga 170 PS (= 125 kW). DC dengan charger 50 kW butuh 46 menit hingga 80% (titik awal tidak disebutkan, sehingga dc_10_80_min tidak diisi); sekitar 18 menit hingga 80% dengan 350 kW disebut sebagai opsi ke depan. V2L (3,6 kW) hanya untuk Signature. Harga naik pada Desember 2022 (lihat data 2023); spesifikasi sama berlanjut hingga 2026. Penggerak, pengisian AC (11 kW, Type 2), kecepatan maksimum, dan dimensi dari spesifikasi Malaysia 58 kWh RWD (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2023-signature-standard-range",
+      "model_year": 2023,
+      "variant": "Signature Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 809000000,
+        "battery_gross_kwh": 58,
+        "range_km": 384,
+        "range_standard": "WLTP",
+        "power_kw": 125,
+        "torque_nm": 350,
+        "accel_0_100_s": 8.5,
+        "ac_full_hours": 5,
+        "platform": "E-GMP",
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "drive": "RWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "top_speed_kmh": 185,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233638962/harga-hyundai-kona-electric-naik-di-awal-tahun-ioniq-5-bakal-ikutan",
+            "title": "Harga Hyundai Kona Electric Naik di Awal Tahun, Ioniq 5 Bakal Ikutan",
+            "date": "2023-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223249057/harga-resmi-mobil-listrik-hyundai-ioniq-5-akhirnya-diumumkan-mulai-rp-718-juta",
+            "title": "Harga Resmi Mobil Listrik Hyundai IONIQ 5 Akhirnya Diumumkan, Mulai Rp 718 Juta",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Same car as the 2022 record; price is OTR Jakarta in January 2023 (unchanged from December 2022, otomotifnet). Specs are from the April 2022 launch report. Power 170 PS (= 125 kW). Same specs 2022-2026. Drive, AC charging (11 kW, Type 2), top speed and dimensions from the Malaysian 58 kWh RWD spec (autobuzz.my).",
+      "notes_id": "Mobil yang sama dengan data 2022; harga OTR Jakarta Januari 2023 (tidak berubah sejak Desember 2022, otomotifnet). Spesifikasi dari laporan peluncuran April 2022. Tenaga 170 PS (= 125 kW). Spesifikasi sama 2022-2026. Penggerak, pengisian AC (11 kW, Type 2), kecepatan maksimum, dan dimensi dari spesifikasi Malaysia 58 kWh RWD (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2022-signature-long-range",
+      "model_year": 2022,
+      "variant": "Signature Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 829000000,
+        "battery_gross_kwh": 72.6,
+        "range_km": 451,
+        "range_standard": "WLTP",
+        "power_kw": 160,
+        "torque_nm": 350,
+        "accel_0_100_s": 7.4,
+        "ac_full_hours": 6,
+        "platform": "E-GMP",
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "battery_chemistry": "NCM",
+        "battery_usable_kwh": 70.0,
+        "cell_count": 360,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 221,
+        "charge_port": "Right rear",
+        "top_speed_kmh": 185,
+        "drive": "RWD",
+        "dc_10_80_min": 17,
+        "seats": 5,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223249057/harga-resmi-mobil-listrik-hyundai-ioniq-5-akhirnya-diumumkan-mulai-rp-718-juta",
+            "title": "Harga Resmi Mobil Listrik Hyundai IONIQ 5 Akhirnya Diumumkan, Mulai Rp 718 Juta",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Prices announced 22 Apr 2022, OTR Jakarta, built at HMMI Cikarang. Power 217 PS (= 160 kW). DC on a 50 kW charger takes 57 min to 80% (start level not stated, so no dc_10_80_min); about 18 min to 80% on 350 kW was quoted as a future option. Gridoto gives 72.8 kWh for the Long Range battery; Detik and Hyundai's later figures give 72.6 kWh. V2L (3.6 kW) is Signature-only. Prices rose by Dec 2022 (see 2023 record); same specs continue through 2026. Battery chemistry, usable capacity, cell count, 800 V, drive, AC/DC charging (DC 10-80% 17 min), connectors, charge port, seats and top speed from the European 72.6 kWh RWD spec (ev-database.org); dimensions from the Malaysian spec (autobuzz.my).",
+      "notes_id": "Harga diumumkan 22 April 2022, OTR Jakarta, dirakit di HMMI Cikarang. Tenaga 217 PS (= 160 kW). DC dengan charger 50 kW butuh 57 menit hingga 80% (titik awal tidak disebutkan, sehingga dc_10_80_min tidak diisi); sekitar 18 menit hingga 80% dengan 350 kW disebut sebagai opsi ke depan. Gridoto menyebut baterai Long Range 72,8 kWh; Detik dan data Hyundai berikutnya menyebut 72,6 kWh. V2L (3,6 kW) hanya untuk Signature. Harga naik pada Desember 2022 (lihat data 2023); spesifikasi sama berlanjut hingga 2026. Kimia baterai, kapasitas usable, jumlah sel, 800 V, penggerak, pengisian AC/DC (DC 10-80% 17 menit), konektor, letak port, jumlah kursi, dan kecepatan maksimum dari spesifikasi Eropa 72,6 kWh RWD (ev-database.org); dimensi dari spesifikasi Malaysia (autobuzz.my)."
+    },
+    {
+      "id": "hyundai-ioniq-5-2023-signature-long-range",
+      "model_year": 2023,
+      "variant": "Signature Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 859000000,
+        "battery_gross_kwh": 72.6,
+        "range_km": 451,
+        "range_standard": "WLTP",
+        "power_kw": 160,
+        "torque_nm": 350,
+        "accel_0_100_s": 7.4,
+        "ac_full_hours": 6,
+        "platform": "E-GMP",
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "battery_chemistry": "NCM",
+        "battery_usable_kwh": 70.0,
+        "cell_count": 360,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 221,
+        "charge_port": "Right rear",
+        "top_speed_kmh": 185,
+        "drive": "RWD",
+        "dc_10_80_min": 17,
+        "seats": 5,
+        "length_mm": 4635,
+        "width_mm": 1890,
+        "height_mm": 1605,
+        "wheelbase_mm": 3000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233638962/harga-hyundai-kona-electric-naik-di-awal-tahun-ioniq-5-bakal-ikutan",
+            "title": "Harga Hyundai Kona Electric Naik di Awal Tahun, Ioniq 5 Bakal Ikutan",
+            "date": "2023-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6045151/pengumuman-ini-harga-resmi-hyundai-ioniq-5-made-in-cikarang",
+            "title": "Pengumuman! Ini Harga Resmi Hyundai Ioniq 5 'Made In Cikarang'",
+            "date": "2022-04",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/car/1478/Hyundai-IONIQ-5-Long-Range-2WD",
+            "title": "Hyundai IONIQ 5 Long Range 2WD (MY21) - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autobuzz.my/2022/03/09/facts-figures-fully-electric-hyundai-ioniq-5-lite-plus-max-launched-in-malaysia-from-rm199888/",
+            "title": "Facts & Figures: Fully electric Hyundai IONIQ 5 Lite, Plus & Max launched in Malaysia, from RM199,888 - autobuzz.my",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Same car as the 2022 record; price is OTR Jakarta in January 2023 (unchanged from December 2022, otomotifnet). Specs are from the April 2022 launch report. Power 217 PS (= 160 kW). Same specs 2022-2026. Battery chemistry, usable capacity, cell count, 800 V, drive, AC/DC charging (DC 10-80% 17 min), connectors, charge port, seats and top speed from the European 72.6 kWh RWD spec (ev-database.org); dimensions from the Malaysian spec (autobuzz.my).",
+      "notes_id": "Mobil yang sama dengan data 2022; harga OTR Jakarta Januari 2023 (tidak berubah sejak Desember 2022, otomotifnet). Spesifikasi dari laporan peluncuran April 2022. Tenaga 217 PS (= 160 kW). Spesifikasi sama 2022-2026. Kimia baterai, kapasitas usable, jumlah sel, 800 V, penggerak, pengisian AC/DC (DC 10-80% 17 menit), konektor, letak port, jumlah kursi, dan kecepatan maksimum dari spesifikasi Eropa 72,6 kWh RWD (ev-database.org); dimensi dari spesifikasi Malaysia (autobuzz.my)."
+    }
+  ]
+}

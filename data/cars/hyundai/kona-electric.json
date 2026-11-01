@@ -1,0 +1,1846 @@
+{
+  "make": "Hyundai",
+  "model": "Kona Electric",
+  "trims": [
+    {
+      "id": "hyundai-kona-electric-2026-style-standard-range",
+      "model_year": 2026,
+      "variant": "Style Standard Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "torque_nm": 255,
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "airbags": 6,
+        "seats": 5,
+        "boot_l": 466,
+        "length_mm": 4355,
+        "width_mm": 1825,
+        "wheelbase_mm": 2660,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "range_standard": "NEDC",
+        "battery_gross_kwh": 48.9,
+        "range_km": 448,
+        "power_kw": 115,
+        "top_speed_kmh": 155,
+        "price_otr_idr": 565250000,
+        "height_mm": 1575,
+        "motor_type": "PMSM",
+        "ac_full_hours": 4,
+        "tyre_size": "215/60 R17"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Same specs 2024-2026 (launched July 2024, CKD at HMMI Cikarang with battery cells from HLI Green Power). Price is the current oto.com Jakarta OTR; prices rose in 2026 (e.g. Style SR was Rp516 jt OTR Jakarta in March 2025 per Hyundai Indonesia). Power 156 hp/115 kW (SR) and 217 hp/160 kW (LR) per autobuzz; oto.com lists 154-214 hp. Battery 48.9/66 kWh is the Indonesian figure (global Kona: 48.4/65.4 kWh). Standard Range DC charging is unclear: autobuzz (launch report) gives up to 50 kW and about 57 min 10-80%, oto.com lists 38 min for the Style, and Hyundai Indonesia's 2025 price article gives 47 min on a 100 kW charger for the model, so DC figures are left out. oto.com lists no adaptive cruise, blind-spot monitor or rear cross-traffic alert on the Style.",
+      "notes_id": "Spesifikasi sama 2024-2026 (diluncurkan Juli 2024, CKD di HMMI Cikarang dengan sel baterai dari HLI Green Power). Harga mengacu OTR Jakarta terkini di oto.com; harga naik pada 2026 (misalnya Style SR seharga Rp516 jt OTR Jakarta pada Maret 2025 menurut Hyundai Indonesia). Tenaga 156 hp/115 kW (SR) dan 217 hp/160 kW (LR) menurut autobuzz; oto.com mencantumkan 154-214 hp. Baterai 48,9/66 kWh adalah angka Indonesia (Kona global: 48,4/65,4 kWh). Pengisian DC Standard Range belum jelas: autobuzz (laporan peluncuran) menyebut hingga 50 kW dan sekitar 57 menit 10-80%, oto.com mencantumkan 38 menit untuk Style, dan artikel harga 2025 Hyundai Indonesia menyebut 47 menit dengan charger 100 kW untuk model ini, sehingga angka DC dikosongkan. oto.com tidak mencantumkan adaptive cruise, blind-spot monitor, atau rear cross-traffic alert pada Style."
+    },
+    {
+      "id": "hyundai-kona-electric-2026-prime-standard-range",
+      "model_year": 2026,
+      "variant": "Prime Standard Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "torque_nm": 255,
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "airbags": 6,
+        "seats": 5,
+        "boot_l": 466,
+        "length_mm": 4355,
+        "width_mm": 1825,
+        "wheelbase_mm": 2660,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "range_standard": "NEDC",
+        "battery_gross_kwh": 48.9,
+        "range_km": 448,
+        "power_kw": 115,
+        "top_speed_kmh": 155,
+        "price_otr_idr": 583500000,
+        "adas": "AEB (with junction turning), ACC (stop & go), LKA, LFA, DAW"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Same specs 2024-2026 (launched July 2024, CKD at HMMI Cikarang with battery cells from HLI Green Power). Price is the current oto.com Jakarta OTR; prices rose in 2026 (e.g. Style SR was Rp516 jt OTR Jakarta in March 2025 per Hyundai Indonesia). Power 156 hp/115 kW (SR) and 217 hp/160 kW (LR) per autobuzz; oto.com lists 154-214 hp. Battery 48.9/66 kWh is the Indonesian figure (global Kona: 48.4/65.4 kWh). Standard Range DC charging is unclear: autobuzz (launch report) gives up to 50 kW and about 57 min 10-80%, oto.com lists 38 min for the Style, and Hyundai Indonesia's 2025 price article gives 47 min on a 100 kW charger for the model, so DC figures are left out. Height left out: model-level sources give 1,575 mm (oto.com) and 1,580 mm (Moladin news).",
+      "notes_id": "Spesifikasi sama 2024-2026 (diluncurkan Juli 2024, CKD di HMMI Cikarang dengan sel baterai dari HLI Green Power). Harga mengacu OTR Jakarta terkini di oto.com; harga naik pada 2026 (misalnya Style SR seharga Rp516 jt OTR Jakarta pada Maret 2025 menurut Hyundai Indonesia). Tenaga 156 hp/115 kW (SR) dan 217 hp/160 kW (LR) menurut autobuzz; oto.com mencantumkan 154-214 hp. Baterai 48,9/66 kWh adalah angka Indonesia (Kona global: 48,4/65,4 kWh). Pengisian DC Standard Range belum jelas: autobuzz (laporan peluncuran) menyebut hingga 50 kW dan sekitar 57 menit 10-80%, oto.com mencantumkan 38 menit untuk Style, dan artikel harga 2025 Hyundai Indonesia menyebut 47 menit dengan charger 100 kW untuk model ini, sehingga angka DC dikosongkan. Tinggi dikosongkan: sumber tingkat model menyebut 1.575 mm (oto.com) dan 1.580 mm (berita Moladin)."
+    },
+    {
+      "id": "hyundai-kona-electric-2026-prime-long-range",
+      "model_year": 2026,
+      "variant": "Prime Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "torque_nm": 255,
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "airbags": 6,
+        "seats": 5,
+        "boot_l": 466,
+        "length_mm": 4355,
+        "width_mm": 1825,
+        "wheelbase_mm": 2660,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "range_standard": "NEDC",
+        "battery_gross_kwh": 66,
+        "power_kw": 160,
+        "dc_max_kw": 100,
+        "dc_10_80_min": 38,
+        "top_speed_kmh": 167,
+        "price_otr_idr": 634500000,
+        "range_km": 602,
+        "adas": "AEB (with junction turning), ACC (stop & go), LKA, LFA, DAW"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Same specs 2024-2026 (launched July 2024, CKD at HMMI Cikarang with battery cells from HLI Green Power). Price is the current oto.com Jakarta OTR; prices rose in 2026 (e.g. Style SR was Rp516 jt OTR Jakarta in March 2025 per Hyundai Indonesia). Power 156 hp/115 kW (SR) and 217 hp/160 kW (LR) per autobuzz; oto.com lists 154-214 hp. Battery 48.9/66 kWh is the Indonesian figure (global Kona: 48.4/65.4 kWh). Prime LR range 602 km NEDC on 17-inch wheels; Signature LR is 549 km on 19-inch wheels. Height left out (1,575 vs 1,580 mm in model-level sources).",
+      "notes_id": "Spesifikasi sama 2024-2026 (diluncurkan Juli 2024, CKD di HMMI Cikarang dengan sel baterai dari HLI Green Power). Harga mengacu OTR Jakarta terkini di oto.com; harga naik pada 2026 (misalnya Style SR seharga Rp516 jt OTR Jakarta pada Maret 2025 menurut Hyundai Indonesia). Tenaga 156 hp/115 kW (SR) dan 217 hp/160 kW (LR) menurut autobuzz; oto.com mencantumkan 154-214 hp. Baterai 48,9/66 kWh adalah angka Indonesia (Kona global: 48,4/65,4 kWh). Jarak tempuh Prime LR 602 km NEDC dengan pelek 17 inci; Signature LR 549 km dengan pelek 19 inci. Tinggi dikosongkan (1.575 vs 1.580 mm di sumber tingkat model)."
+    },
+    {
+      "id": "hyundai-kona-electric-2026-signature-standard-range",
+      "model_year": 2026,
+      "variant": "Signature Standard Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "torque_nm": 255,
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "airbags": 6,
+        "seats": 5,
+        "boot_l": 466,
+        "length_mm": 4355,
+        "width_mm": 1825,
+        "wheelbase_mm": 2660,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "range_standard": "NEDC",
+        "battery_gross_kwh": 48.9,
+        "range_km": 448,
+        "power_kw": 115,
+        "top_speed_kmh": 155,
+        "price_otr_idr": 651650000,
+        "adas": "AEB (with junction turning), ACC (stop & go), LKA, LFA, DAW, BSM, BCA, RCTA, PCA, SVM",
+        "v2l": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Same specs 2024-2026 (launched July 2024, CKD at HMMI Cikarang with battery cells from HLI Green Power). Price is the current oto.com Jakarta OTR; prices rose in 2026 (e.g. Style SR was Rp516 jt OTR Jakarta in March 2025 per Hyundai Indonesia). Power 156 hp/115 kW (SR) and 217 hp/160 kW (LR) per autobuzz; oto.com lists 154-214 hp. Battery 48.9/66 kWh is the Indonesian figure (global Kona: 48.4/65.4 kWh). Standard Range DC charging is unclear: autobuzz (launch report) gives up to 50 kW and about 57 min 10-80%, oto.com lists 38 min for the Style, and Hyundai Indonesia's 2025 price article gives 47 min on a 100 kW charger for the model, so DC figures are left out. Signature adds V2L, BSM, RCTA, 360 camera, Bose audio and glass roof.",
+      "notes_id": "Spesifikasi sama 2024-2026 (diluncurkan Juli 2024, CKD di HMMI Cikarang dengan sel baterai dari HLI Green Power). Harga mengacu OTR Jakarta terkini di oto.com; harga naik pada 2026 (misalnya Style SR seharga Rp516 jt OTR Jakarta pada Maret 2025 menurut Hyundai Indonesia). Tenaga 156 hp/115 kW (SR) dan 217 hp/160 kW (LR) menurut autobuzz; oto.com mencantumkan 154-214 hp. Baterai 48,9/66 kWh adalah angka Indonesia (Kona global: 48,4/65,4 kWh). Pengisian DC Standard Range belum jelas: autobuzz (laporan peluncuran) menyebut hingga 50 kW dan sekitar 57 menit 10-80%, oto.com mencantumkan 38 menit untuk Style, dan artikel harga 2025 Hyundai Indonesia menyebut 47 menit dengan charger 100 kW untuk model ini, sehingga angka DC dikosongkan. Signature menambahkan V2L, BSM, RCTA, kamera 360, audio Bose, dan atap kaca."
+    },
+    {
+      "id": "hyundai-kona-electric-2026-signature-long-range",
+      "model_year": 2026,
+      "variant": "Signature Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "torque_nm": 255,
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "airbags": 6,
+        "seats": 5,
+        "boot_l": 466,
+        "length_mm": 4355,
+        "width_mm": 1825,
+        "wheelbase_mm": 2660,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "range_standard": "NEDC",
+        "battery_gross_kwh": 66,
+        "power_kw": 160,
+        "dc_max_kw": 100,
+        "dc_10_80_min": 38,
+        "top_speed_kmh": 167,
+        "price_otr_idr": 668550000,
+        "range_km": 549,
+        "height_mm": 1575,
+        "ground_clearance_mm": 158,
+        "kerb_weight_kg": 1795,
+        "tyre_size": "235/45 R19",
+        "voltage_architecture": "~400 V",
+        "adas": "AEB (with junction turning), ACC (stop & go), LKA, LFA, DAW, BSM, BCA, RCTA, PCA, SVM",
+        "v2l": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-signature-long-range",
+            "title": "Hyundai All New Kona Electric Signature - Long Range - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Same specs 2024-2026 (launched July 2024, CKD at HMMI Cikarang with battery cells from HLI Green Power). Price is the current oto.com Jakarta OTR; prices rose in 2026 (e.g. Style SR was Rp516 jt OTR Jakarta in March 2025 per Hyundai Indonesia). Power 156 hp/115 kW (SR) and 217 hp/160 kW (LR) per autobuzz; oto.com lists 154-214 hp. Battery 48.9/66 kWh is the Indonesian figure (global Kona: 48.4/65.4 kWh). Moladin lists AC 0-100% in about 6 hours for this variant.",
+      "notes_id": "Spesifikasi sama 2024-2026 (diluncurkan Juli 2024, CKD di HMMI Cikarang dengan sel baterai dari HLI Green Power). Harga mengacu OTR Jakarta terkini di oto.com; harga naik pada 2026 (misalnya Style SR seharga Rp516 jt OTR Jakarta pada Maret 2025 menurut Hyundai Indonesia). Tenaga 156 hp/115 kW (SR) dan 217 hp/160 kW (LR) menurut autobuzz; oto.com mencantumkan 154-214 hp. Baterai 48,9/66 kWh adalah angka Indonesia (Kona global: 48,4/65,4 kWh). Moladin mencantumkan AC 0-100% sekitar 6 jam untuk varian ini."
+    },
+    {
+      "id": "hyundai-kona-electric-2026-n-line",
+      "model_year": 2026,
+      "variant": "N Line",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "torque_nm": 255,
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "airbags": 6,
+        "seats": 5,
+        "boot_l": 466,
+        "length_mm": 4355,
+        "width_mm": 1825,
+        "wheelbase_mm": 2660,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "range_standard": "NEDC",
+        "battery_gross_kwh": 66,
+        "power_kw": 160,
+        "dc_10_80_min": 38,
+        "top_speed_kmh": 167,
+        "price_otr_idr": 689550000,
+        "range_km": 549,
+        "height_mm": 1575,
+        "ground_clearance_mm": 158,
+        "kerb_weight_kg": 1815,
+        "tyre_size": "235/45 R19",
+        "voltage_architecture": "~400 V",
+        "adas": "AEB (with junction turning), ACC (stop & go), LKA, LFA, BVM, BCA, RCCA"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/17/all-new-2024-hyundai-kona-electric-launched-in-indonesia-ckd-ev-with-locally-produced-batteries/",
+            "title": "All-new 2024 Hyundai Kona Electric launched in Indonesia - CKD EV with locally produced batteries",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/hyundai-kona-electric-n-line-resmi-diluncurkan-di-indonesia/",
+            "title": "Hyundai Kona Electric N-Line Resmi Diluncurkan di Indonesia",
+            "date": "2024-12",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-n-line",
+            "title": "Hyundai All New Kona Electric N Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-all-new-kona-electric-2024/",
+            "title": "Spesifikasi All New Kona Electric 2024 - Moladin",
+            "date": "2024-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/hyundai/kona-electric/spesifikasi",
+            "title": "Hyundai Kona Electric spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-n-line",
+            "title": "Hyundai All New Kona Electric N Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/hyundai-kona-electric-n-line-resmi-diluncurkan-di-indonesia/",
+            "title": "Hyundai Kona Electric N-Line Resmi Diluncurkan di Indonesia",
+            "date": "2024-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-n-line",
+            "title": "Hyundai All New Kona Electric N Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-n-line",
+            "title": "Hyundai All New Kona Electric N Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-n-line",
+            "title": "Hyundai All New Kona Electric N Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-n-line",
+            "title": "Hyundai All New Kona Electric N Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-n-line",
+            "title": "Hyundai All New Kona Electric N Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/hyundai-all-new-kona-electric-n-line",
+            "title": "Hyundai All New Kona Electric N Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/hyundai-kona-electric-n-line-resmi-diluncurkan-di-indonesia/",
+            "title": "Hyundai Kona Electric N-Line Resmi Diluncurkan di Indonesia",
+            "date": "2024-12",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Launched 12 Dec 2024 at about Rp608.5 jt; current price from oto.com. Uses the 66 kWh Long Range battery with the same 549 km NEDC range as Signature LR (Zigwheels). Power given as 217 PS (= 160 kW). CKD like other Kona Electric variants. Battery warranty from Hyundai Indonesia's general EV statement.",
+      "notes_id": "Diluncurkan 12 Desember 2024 seharga sekitar Rp608,5 jt; harga terkini dari oto.com. Memakai baterai Long Range 66 kWh dengan jarak tempuh 549 km NEDC, sama dengan Signature LR (Zigwheels). Tenaga disebut 217 PS (= 160 kW). CKD seperti varian Kona Electric lainnya. Garansi baterai mengacu pernyataan umum Hyundai Indonesia untuk mobil listriknya."
+    },
+    {
+      "id": "hyundai-kona-electric-2020-first-generation",
+      "model_year": 2020,
+      "variant": "First generation",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 674800000,
+        "battery_gross_kwh": 39.2,
+        "range_km": 289,
+        "range_standard": "WLTP",
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "power_kw": 100,
+        "torque_nm": 395,
+        "dc_10_80_min": 54,
+        "dc_time_window": "0–80%",
+        "length_mm": 4180,
+        "width_mm": 1800,
+        "height_mm": 1555,
+        "ground_clearance_mm": 158,
+        "airbags": 6,
+        "ac_max_kw": 7.2,
+        "dc_max_kw": 50,
+        "wheelbase_mm": 2600,
+        "boot_l": 332,
+        "accel_0_100_s": 9.9,
+        "top_speed_kmh": 155
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5245043/hyundai-kona-electric-riilis-di-indonesia-ini-spesifikasi-fitur-dan-harganya",
+            "title": "Hyundai Kona Electric Riilis di Indonesia: Ini Spesifikasi, Fitur, dan Harganya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2021/11/23/hyundai-kona-electric-dilancarkan-di-malaysia",
+            "title": "Hyundai Kona Electric dilancarkan di Malaysia - tiga varian, jarak 305 km dan 484 km - paultan.org",
+            "date": "2021-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2021/11/23/hyundai-kona-electric-dilancarkan-di-malaysia",
+            "title": "Hyundai Kona Electric dilancarkan di Malaysia - tiga varian, jarak 305 km dan 484 km - paultan.org",
+            "date": "2021-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2021/11/23/hyundai-kona-electric-dilancarkan-di-malaysia",
+            "title": "Hyundai Kona Electric dilancarkan di Malaysia - tiga varian, jarak 305 km dan 484 km - paultan.org",
+            "date": "2021-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/2021/11/23/hyundai-kona-electric-dilancarkan-di-malaysia",
+            "title": "Hyundai Kona Electric dilancarkan di Malaysia - tiga varian, jarak 305 km dan 484 km - paultan.org",
+            "date": "2021-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/2021/11/23/hyundai-kona-electric-dilancarkan-di-malaysia",
+            "title": "Hyundai Kona Electric dilancarkan di Malaysia - tiga varian, jarak 305 km dan 484 km - paultan.org",
+            "date": "2021-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2021/11/23/hyundai-kona-electric-dilancarkan-di-malaysia",
+            "title": "Hyundai Kona Electric dilancarkan di Malaysia - tiga varian, jarak 305 km dan 484 km - paultan.org",
+            "date": "2021-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Pre-facelift first-generation Kona Electric, launched 6 Nov 2020 at Rp674.8 jt OTR Jakarta (first-car registration); variant name not given. Range 289 km WLTP (345 km NEDC in the same sources). Power 136 PS (= 100 kW). DC time is 0-80% in about 54 min at a 100 kW charger. The 1,114 L cargo figure in the sources is with rear seats folded, so boot is left out. 17-inch wheels. Over 200 orders by Jan 2021; customers from 2021 got the facelift. AC 7.2 kW, DC 50 kW, wheelbase, boot (seats up), 0-100 km/h and top speed from the Malaysian 39.2 kWh spec (paultan.org; facelifted car with the same 39.2 kWh / 136 PS / 395 Nm powertrain).",
+      "notes_id": "Kona Electric generasi pertama sebelum facelift, diluncurkan 6 November 2020 seharga Rp674,8 jt OTR Jakarta (kepemilikan mobil pertama); nama varian tidak disebutkan. Jarak tempuh 289 km WLTP (345 km NEDC di sumber yang sama). Tenaga 136 PS (= 100 kW). Waktu DC 0-80% sekitar 54 menit dengan charger 100 kW. Angka bagasi 1.114 L di sumber adalah dengan kursi belakang dilipat, sehingga bagasi tidak diisi. Pelek 17 inci. Lebih dari 200 pesanan hingga Januari 2021; konsumen sejak 2021 menerima versi facelift. AC 7,2 kW, DC 50 kW, jarak sumbu roda, bagasi (kursi tegak), 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Malaysia 39,2 kWh (paultan.org; versi facelift dengan powertrain 39,2 kWh / 136 PS / 395 Nm yang sama)."
+    },
+    {
+      "id": "hyundai-kona-electric-2021-first-generation-facelift",
+      "model_year": 2021,
+      "variant": "First generation facelift",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 697000000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232545264/hyundai-kona-electric-facelift-bisa-dicicil-angsuran-per-bulan-mulai-rp-15-jutaan?page=all",
+            "title": "Hyundai Kona Electric Facelift Bisa Dicicil, Angsuran per Bulan Mulai Rp 15 Jutaan",
+            "date": "2021-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232545264/hyundai-kona-electric-facelift-bisa-dicicil-angsuran-per-bulan-mulai-rp-15-jutaan?page=all",
+            "title": "Hyundai Kona Electric Facelift Bisa Dicicil, Angsuran per Bulan Mulai Rp 15 Jutaan",
+            "date": "2021-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-5351557/baru-3-bulan-meluncur-hyundai-kona-electric-anyar-segera-hadir",
+            "title": "Baru 3 Bulan Meluncur, Hyundai Kona Electric Anyar Segera Hadir",
+            "date": "2021-01",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Facelifted first-generation Kona Electric (new bumper, grille, lights, two-tone wheels), shown at dealers from Feb 2021 without a formal launch. Rp697 jt OTR Jakarta per a dealer (otomotifnet, unit missing in the article but stated as Rp20 jt above the old car) and Hyundai's website (Detik, Jan 2021). No Indonesian spec sheet for the facelift was found, so battery, range and power are left out rather than copied from the 2020 car.",
+      "notes_id": "Kona Electric generasi pertama versi facelift (bumper, gril, lampu baru, pelek dua warna), dipajang di diler sejak Februari 2021 tanpa peluncuran resmi. Rp697 jt OTR Jakarta menurut diler (otomotifnet, satuan tidak tertulis di artikel tetapi disebut Rp20 jt di atas mobil lama) dan situs Hyundai (Detik, Januari 2021). Lembar spesifikasi Indonesia untuk facelift tidak ditemukan, sehingga baterai, jarak tempuh dan tenaga tidak diisi alih-alih disalin dari mobil 2020."
+    },
+    {
+      "id": "hyundai-kona-electric-2022-signature-first-generation",
+      "model_year": 2022,
+      "variant": "Signature (first generation)",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 742000000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233638962/harga-hyundai-kona-electric-naik-di-awal-tahun-ioniq-5-bakal-ikutan",
+            "title": "Harga Hyundai Kona Electric Naik di Awal Tahun, Ioniq 5 Bakal Ikutan",
+            "date": "2023-01",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233638962/harga-hyundai-kona-electric-naik-di-awal-tahun-ioniq-5-bakal-ikutan",
+            "title": "Harga Hyundai Kona Electric Naik di Awal Tahun, Ioniq 5 Bakal Ikutan",
+            "date": "2023-01",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Facelifted first-generation Kona Electric, sold as a single Signature AT variant. Price is the December 2022 OTR Jakarta price (last known for 2022). Specs not restated in the source, so only price is recorded.",
+      "notes_id": "Kona Electric generasi pertama versi facelift, dijual dalam satu varian Signature AT. Harga adalah OTR Jakarta Desember 2022 (terakhir diketahui untuk 2022). Spesifikasi tidak disebutkan ulang di sumber, sehingga hanya harga yang dicatat."
+    },
+    {
+      "id": "hyundai-kona-electric-2023-signature-first-generation",
+      "model_year": 2023,
+      "variant": "Signature (first generation)",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 750000000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233638962/harga-hyundai-kona-electric-naik-di-awal-tahun-ioniq-5-bakal-ikutan",
+            "title": "Harga Hyundai Kona Electric Naik di Awal Tahun, Ioniq 5 Bakal Ikutan",
+            "date": "2023-01",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233638962/harga-hyundai-kona-electric-naik-di-awal-tahun-ioniq-5-bakal-ikutan",
+            "title": "Harga Hyundai Kona Electric Naik di Awal Tahun, Ioniq 5 Bakal Ikutan",
+            "date": "2023-01",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Single Signature AT variant; price rose Rp8 jt to Rp750 jt OTR Jakarta in early January 2023. Replaced by the second-generation Kona Electric (CKD) in July 2024. Specs not restated in the source, so only price is recorded.",
+      "notes_id": "Satu varian Signature AT; harga naik Rp8 jt menjadi Rp750 jt OTR Jakarta pada awal Januari 2023. Digantikan Kona Electric generasi kedua (CKD) pada Juli 2024. Spesifikasi tidak disebutkan ulang di sumber, sehingga hanya harga yang dicatat."
+    }
+  ]
+}

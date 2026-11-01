@@ -1,0 +1,914 @@
+{
+  "make": "Farizon",
+  "model": "SV (SuperVan)",
+  "trims": [
+    {
+      "id": "farizon-sv-2026-high-roof",
+      "model_year": 2026,
+      "variant": "High Roof (16-seat)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "seats": 16,
+        "battery_gross_kwh": 82.88,
+        "battery_chemistry": "LFP",
+        "cell_supplier": "Gotion",
+        "voltage_architecture": "~400 V",
+        "range_km": 400,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "FWD",
+        "power_kw": 170,
+        "torque_nm": 336,
+        "dc_connector": "CCS2",
+        "dc_max_kw": 140,
+        "dc_10_80_min": 36,
+        "dc_time_window": "20–80%",
+        "service_interval": "Every 30,000 km or 12 months",
+        "platform": "GXA-M",
+        "airbags": 2,
+        "length_mm": 5995,
+        "width_mm": 1980,
+        "wheelbase_mm": 3850,
+        "tyre_size": "215/75 R16C",
+        "height_mm": 2500,
+        "ground_clearance_mm": 150,
+        "top_speed_kmh": 135,
+        "accel_0_100_s": 12,
+        "price_otr_idr": 725000000,
+        "body_type": "Minibus",
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "service_interval": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.gridoto.com/amp/224344772/farizon-sv-meluncur-di-indonesia-harga-mepet-toyota-hiace-premio",
+            "title": "Farizon SV Meluncur di Indonesia, Harga Mepet Toyota Hiace Premio (GridOto)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched January 2026 as the 'Farizon SV' (the launch unit is the High Roof, 2,500 mm tall). Price: Rp 725 juta OTR Jakarta per Otomotifnet (August 2026); launch price was Rp 698 juta OTR Jakarta (January 2026) and Moladin lists Rp 720 juta (updated 31 July 2026). Top speed and 0–100 km/h from the GAIKINDO GIICOMVEC preview. Sold by PT Arista Auto Elektrindo (Arista Group). It is a 16-seat minibus (15 passengers plus driver); no cargo-panel SV is sold in Indonesia. It is listed as Small cargo (light commercial) by the project rule for minibuses; GVW is not published for Indonesia, and the 16 seats exceed the usual 9-seat range for this class. Power 170 kW (228 PS) and torque 336 Nm from the launch releases (Moladin lists 227 hp, GAIKINDO 226 hp). Range: 'up to 400 km' at launch (detikOto, Katadata; Moladin news calls it WLTP); Moladin's spec page lists 380 km WLTP and Otomotifnet 360–380 km WLTP, so range_standard is left out. DC: CCS2, 140 kW, 20–80% in about 36 min (Otomotifnet: about 30 min). Moladin lists AC 15–100% in 6.5–10 hours (not recorded). Battery 82.88 kWh LFP with Gotion cells (detikOto: 82.8 kWh), 400 V. Front-mounted PMSM driving the front wheels, GXA-M architecture. Service interval from detikOto (one year or 30,000 km). Warranty and assembly (CKD or CBU) are not stated in Indonesian sources.",
+      "notes_id": "Diluncurkan Januari 2026 sebagai 'Farizon SV' (unit peluncuran adalah High Roof, tinggi 2.500 mm). Harga: Rp725 juta OTR Jakarta menurut Otomotifnet (Agustus 2026); harga peluncuran Rp698 juta OTR Jakarta (Januari 2026) dan Moladin mencantumkan Rp720 juta (diperbarui 31 Juli 2026). Kecepatan maksimum dan 0–100 km/jam dari pratinjau GIICOMVEC GAIKINDO. Dijual oleh PT Arista Auto Elektrindo (Arista Group). Berupa minibus 16 kursi (15 penumpang plus pengemudi); versi van kargo SV tidak dijual di Indonesia. Dimasukkan ke kelas Small cargo (niaga ringan) sesuai aturan proyek untuk minibus; JBB untuk Indonesia tidak dipublikasikan, dan 16 kursi melebihi rentang umum 9 kursi untuk kelas ini. Tenaga 170 kW (228 PS) dan torsi 336 Nm dari rilis peluncuran (Moladin mencantumkan 227 hp, GAIKINDO 226 hp). Jarak tempuh: 'hingga 400 km' saat peluncuran (detikOto, Katadata; berita Moladin menyebutnya WLTP); halaman spesifikasi Moladin mencantumkan 380 km WLTP dan Otomotifnet 360–380 km WLTP, sehingga standar uji tidak diisi. DC: CCS2, 140 kW, 20–80% sekitar 36 menit (Otomotifnet: sekitar 30 menit). Moladin mencantumkan AC 15–100% dalam 6,5–10 jam (tidak dicatat). Baterai LFP 82,88 kWh dengan sel Gotion (detikOto: 82,8 kWh), 400 V. Motor PMSM di depan menggerakkan roda depan, arsitektur GXA-M. Interval servis dari detikOto (satu tahun atau 30.000 km). Garansi dan status perakitan (CKD atau CBU) tidak disebut sumber Indonesia."
+    },
+    {
+      "id": "farizon-sv-2026-medium-roof",
+      "model_year": 2026,
+      "variant": "Medium Roof",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "seats": 16,
+        "battery_gross_kwh": 82.88,
+        "battery_chemistry": "LFP",
+        "cell_supplier": "Gotion",
+        "voltage_architecture": "~400 V",
+        "range_km": 400,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "FWD",
+        "power_kw": 170,
+        "torque_nm": 336,
+        "dc_connector": "CCS2",
+        "dc_max_kw": 140,
+        "dc_10_80_min": 36,
+        "dc_time_window": "20–80%",
+        "service_interval": "Every 30,000 km or 12 months",
+        "platform": "GXA-M",
+        "airbags": 2,
+        "length_mm": 5995,
+        "width_mm": 1980,
+        "wheelbase_mm": 3850,
+        "tyre_size": "215/75 R16C",
+        "price_otr_idr": 725000000,
+        "body_type": "Minibus",
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "service_interval": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8326261/seberapa-irit-farizon-sv-buat-kendaraan-niaga",
+            "title": "Seberapa Irit Farizon SV buat Kendaraan Niaga? (detikOto)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.gridoto.com/amp/224344772/farizon-sv-meluncur-di-indonesia-harga-mepet-toyota-hiace-premio",
+            "title": "Farizon SV Meluncur di Indonesia, Harga Mepet Toyota Hiace Premio (GridOto)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/farizon-sv/",
+            "title": "Farizon SV (Moladin news)",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/supervan-sv-model-farizons-ace-the-giicomvec-2026/",
+            "title": "SuperVan SV Model, Farizon's Ace at GIICOMVEC 2026 (GAIKINDO)",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/farizon-sv-officially-launched-ready-to-challenge-hiace-23173",
+            "title": "Farizon SV Officially Launched, Ready to Challenge Hiace (Katadata OTO)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234407698/farizon-sv-high-roof-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Farizon SV High Roof EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ybJd78AK-farizon-luncurkan-empat-kendaraan-niaga-listrik-di-giias-2026-dua-model-dirakit-lokal",
+            "title": "Farizon Luncurkan Empat Kendaraan Niaga Listrik di GIIAS 2026, Dua Model Dirakit Lokal (Medcom)",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/berita-mobil/farizon-dan-arista-group-rilis-4-kendaraan-niaga-listrik-di-giias-2026-siapkan-rakitan-lokal-ckd",
+            "title": "Farizon dan Arista Group Rilis 4 Kendaraan Niaga Listrik di GIIAS 2026, Siapkan Rakitan Lokal CKD (OTO)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/technology/pasar-mobil-listrik-ri-kedatangan-pemain-baru-asal-china-kenalkan-4-kendaraan-niaga-di-giias-2026/all",
+            "title": "Pasar Mobil Listrik RI Kedatangan Pemain Baru asal China, Kenalkan 4 Kendaraan Niaga di GIIAS 2026 (IDX Channel)",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8321214/tantang-toyota-hiace-farizon-sv-meluncur-dengan-harga-rp-698-juta",
+            "title": "Tantang Toyota Hiace, Farizon SV Meluncur dengan Harga Rp 698 Juta (detikOto)",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-sv/spesifikasi",
+            "title": "Farizon SV spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS 2026 (July 2026) at Rp 725 juta OTR Jakarta. Otomotifnet says the two SV variants differ only in roof design, so the powertrain, battery, length, width and wheelbase are taken as shared; the Medium Roof's height is not published (Moladin repeats the High Roof's 2,500 mm, which was not used), and ground clearance, top speed and acceleration are left out. Seats: Moladin lists 16 for both variants. Sold by PT Arista Auto Elektrindo (Arista Group). It is a 16-seat minibus (15 passengers plus driver); no cargo-panel SV is sold in Indonesia. It is listed as Small cargo (light commercial) by the project rule for minibuses; GVW is not published for Indonesia, and the 16 seats exceed the usual 9-seat range for this class. Power 170 kW (228 PS) and torque 336 Nm from the launch releases (Moladin lists 227 hp, GAIKINDO 226 hp). Range: 'up to 400 km' at launch (detikOto, Katadata; Moladin news calls it WLTP); Moladin's spec page lists 380 km WLTP and Otomotifnet 360–380 km WLTP, so range_standard is left out. DC: CCS2, 140 kW, 20–80% in about 36 min (Otomotifnet: about 30 min). Moladin lists AC 15–100% in 6.5–10 hours (not recorded). Battery 82.88 kWh LFP with Gotion cells (detikOto: 82.8 kWh), 400 V. Front-mounted PMSM driving the front wheels, GXA-M architecture. Service interval from detikOto (one year or 30,000 km). Warranty and assembly (CKD or CBU) are not stated in Indonesian sources.",
+      "notes_id": "Diluncurkan di GIIAS 2026 (Juli 2026) dengan harga Rp725 juta OTR Jakarta. Otomotifnet menyebut kedua varian SV hanya berbeda pada desain atap, sehingga penggerak, baterai, panjang, lebar, dan jarak sumbu roda dianggap sama; tinggi Medium Roof tidak dipublikasikan (Moladin mengulang 2.500 mm milik High Roof, yang tidak dipakai), dan ground clearance, kecepatan maksimum, serta akselerasi tidak diisi. Kursi: Moladin mencantumkan 16 untuk kedua varian. Dijual oleh PT Arista Auto Elektrindo (Arista Group). Berupa minibus 16 kursi (15 penumpang plus pengemudi); versi van kargo SV tidak dijual di Indonesia. Dimasukkan ke kelas Small cargo (niaga ringan) sesuai aturan proyek untuk minibus; JBB untuk Indonesia tidak dipublikasikan, dan 16 kursi melebihi rentang umum 9 kursi untuk kelas ini. Tenaga 170 kW (228 PS) dan torsi 336 Nm dari rilis peluncuran (Moladin mencantumkan 227 hp, GAIKINDO 226 hp). Jarak tempuh: 'hingga 400 km' saat peluncuran (detikOto, Katadata; berita Moladin menyebutnya WLTP); halaman spesifikasi Moladin mencantumkan 380 km WLTP dan Otomotifnet 360–380 km WLTP, sehingga standar uji tidak diisi. DC: CCS2, 140 kW, 20–80% sekitar 36 menit (Otomotifnet: sekitar 30 menit). Moladin mencantumkan AC 15–100% dalam 6,5–10 jam (tidak dicatat). Baterai LFP 82,88 kWh dengan sel Gotion (detikOto: 82,8 kWh), 400 V. Motor PMSM di depan menggerakkan roda depan, arsitektur GXA-M. Interval servis dari detikOto (satu tahun atau 30.000 km). Garansi dan status perakitan (CKD atau CBU) tidak disebut sumber Indonesia."
+    }
+  ]
+}

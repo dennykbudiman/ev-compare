@@ -1,0 +1,2673 @@
+{
+  "make": "Porsche",
+  "model": "Taycan",
+  "trims": [
+    {
+      "id": "porsche-taycan-2026-base",
+      "model_year": 2026,
+      "variant": "Taycan",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "power_kw": 300,
+        "accel_0_100_s": 4.8,
+        "top_speed_kmh": 230,
+        "range_km": 566,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "RWD",
+        "battery_gross_kwh": 89,
+        "battery_usable_kwh": 82.3,
+        "motor_type": "PMSM",
+        "torque_nm": 410,
+        "ac_max_kw": 11,
+        "dc_max_kw": 270,
+        "dc_10_80_min": 18,
+        "length_mm": 4963,
+        "width_mm": 1966,
+        "height_mm": 1379,
+        "wheelbase_mm": 2900,
+        "kerb_weight_kg": 2090,
+        "boot_l": 407,
+        "frunk_l": 84
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-indonesia-meluncurkan-taycan-baru/",
+            "title": "Porsche Indonesia Meluncurkan Taycan Baru - Moladin",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://configurator.porsche.com/en-WW/model/Y1AAI1/technical-data",
+            "title": "Taycan technical data - Porsche Car Configurator (international)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Global"
+          },
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:e4e9b06c-6732-4742-a84f-d4a64beff900/pag-taycan-td-en.pdf.PDF",
+            "title": "Taycan technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Base 'Sport Saloon'; 300 kW is 'power up to'. Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified). Battery (89 kWh gross / 82.3 kWh net, Performance Battery), torque, charging, dimensions, kerb weight (DIN) and luggage volumes from Porsche's international configurator technical data (Global; its 566 km ECE range matches the Indonesian figure) and the EU press-kit data sheet; motor type from the EU press-kit sheet (Europe). Matched on 300 kW and RWD, which only the Performance Battery version has.",
+      "notes_id": "'Sport Saloon' dasar; 300 kW adalah 'tenaga hingga'. Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan). Baterai (89 kWh kotor / 82,3 kWh bersih, Performance Battery), torsi, pengisian daya, dimensi, berat kosong (DIN), dan volume bagasi dari data teknis konfigurator internasional Porsche (Global; jarak tempuh ECE 566 km sama dengan angka Indonesia) dan lembar data press kit Eropa; jenis motor dari lembar data press kit Eropa. Dicocokkan pada 300 kW dan RWD, yang hanya dimiliki versi Performance Battery."
+    },
+    {
+      "id": "porsche-taycan-2026-4",
+      "model_year": 2026,
+      "variant": "Taycan 4",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "power_kw": 300,
+        "accel_0_100_s": 4.6,
+        "top_speed_kmh": 230,
+        "range_km": 545,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "AWD",
+        "battery_gross_kwh": 89,
+        "battery_usable_kwh": 82.3,
+        "motor_type": "PMSM",
+        "torque_nm": 585,
+        "ac_max_kw": 11,
+        "dc_max_kw": 270,
+        "dc_10_80_min": 18,
+        "length_mm": 4963,
+        "width_mm": 1966,
+        "height_mm": 1379,
+        "wheelbase_mm": 2900,
+        "kerb_weight_kg": 2170,
+        "boot_l": 407,
+        "frunk_l": 84
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://firstev.de/porsche/taycan/gts-facelift-technische-daten-97kwh-2025/",
+            "title": "Porsche Taycan 4 Facelift technische Daten - FirstEV.de",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:345788fd-9387-43e2-9b12-d9207d75890b/pag-taycan-4-en.pdf",
+            "title": "Taycan 4 technical data (Porsche newsroom, MY S 11/2024, EU/Germany)",
+            "date": "2024-11",
+            "type": "official",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "300 kW is 'power up to'. Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified). Battery capacity (89 kWh, Performance Battery), motor type, torque, charging, dimensions, kerb weight (DIN) and luggage volumes from Porsche's EU press data sheet (newsroom.porsche.com, Europe); usable 82.3 kWh from the European spec (firstev.de). Matched on 300 kW AWD, which only the Performance Battery version has.",
+      "notes_id": "300 kW adalah 'tenaga hingga'. Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan). Kapasitas baterai (89 kWh, Performance Battery), jenis motor, torsi, pengisian daya, dimensi, berat kosong (DIN), dan volume bagasi dari lembar data pers Porsche Eropa (newsroom.porsche.com, Eropa); kapasitas bersih 82,3 kWh dari spesifikasi Eropa (firstev.de). Dicocokkan pada 300 kW AWD, yang hanya dimiliki versi Performance Battery."
+    },
+    {
+      "id": "porsche-taycan-2026-4s",
+      "model_year": 2026,
+      "variant": "Taycan 4S",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "power_kw": 400,
+        "accel_0_100_s": 3.7,
+        "top_speed_kmh": 250,
+        "range_km": 544,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "AWD",
+        "battery_gross_kwh": 89,
+        "battery_usable_kwh": 82.3,
+        "motor_type": "PMSM",
+        "torque_nm": 695,
+        "ac_max_kw": 11,
+        "dc_max_kw": 270,
+        "dc_10_80_min": 18,
+        "length_mm": 4963,
+        "width_mm": 1966,
+        "height_mm": 1379,
+        "wheelbase_mm": 2900,
+        "kerb_weight_kg": 2170,
+        "boot_l": 407,
+        "frunk_l": 84
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:6f919575-99ea-4d5d-8063-dc466e7dfd87/pag-taycan-4s-td-en.pdf.PDF",
+            "title": "Taycan 4S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified). Battery (89 kWh gross / 82.3 kWh net, Performance Battery), motor type, torque, charging, dimensions, kerb weight (DIN) and luggage volumes from Porsche's EU press data sheet (newsroom.porsche.com, Europe). Matched on 400 kW with Launch Control; the Performance Battery Plus 4S has 440 kW.",
+      "notes_id": "Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan). Baterai (89 kWh kotor / 82,3 kWh bersih, Performance Battery), jenis motor, torsi, pengisian daya, dimensi, berat kosong (DIN), dan volume bagasi dari lembar data pers Porsche Eropa (newsroom.porsche.com, Eropa). Dicocokkan pada 400 kW dengan Launch Control; 4S dengan Performance Battery Plus bertenaga 440 kW."
+    },
+    {
+      "id": "porsche-taycan-2026-gts",
+      "model_year": 2026,
+      "variant": "Taycan GTS",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "power_kw": 515,
+        "accel_0_100_s": 3.3,
+        "top_speed_kmh": 250,
+        "range_km": 624,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "AWD"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified).",
+      "notes_id": "Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan)."
+    },
+    {
+      "id": "porsche-taycan-2026-turbo",
+      "model_year": 2026,
+      "variant": "Taycan Turbo",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "power_kw": 650,
+        "accel_0_100_s": 2.7,
+        "top_speed_kmh": 260,
+        "range_km": 626,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "AWD",
+        "battery_gross_kwh": 105,
+        "battery_usable_kwh": 97,
+        "motor_type": "PMSM",
+        "torque_nm": 890,
+        "ac_max_kw": 11,
+        "dc_max_kw": 320,
+        "dc_10_80_min": 18,
+        "length_mm": 4962,
+        "width_mm": 1966,
+        "height_mm": 1381,
+        "wheelbase_mm": 2900,
+        "kerb_weight_kg": 2290,
+        "boot_l": 366,
+        "frunk_l": 84
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:b3d2bc61-5e95-4455-b69d-d3193b26b1d3/pag-taycan-turbo-td-en.pdf.PDF",
+            "title": "Taycan Turbo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified). Battery (105 kWh gross / 97 kWh net), motor type, torque, charging, dimensions, kerb weight (DIN) and luggage volumes from Porsche's EU press data sheet (newsroom.porsche.com, Europe); matched on 650 kW, 2.7 s and 260 km/h.",
+      "notes_id": "Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan). Baterai (105 kWh kotor / 97 kWh bersih), jenis motor, torsi, pengisian daya, dimensi, berat kosong (DIN), dan volume bagasi dari lembar data pers Porsche Eropa (newsroom.porsche.com, Eropa); dicocokkan pada 650 kW, 2,7 detik, dan 260 km/jam."
+    },
+    {
+      "id": "porsche-taycan-2026-turbo-s",
+      "model_year": 2026,
+      "variant": "Taycan Turbo S",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "power_kw": 700,
+        "accel_0_100_s": 2.4,
+        "top_speed_kmh": 260,
+        "range_km": 626,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "AWD",
+        "battery_gross_kwh": 105,
+        "battery_usable_kwh": 97,
+        "motor_type": "PMSM",
+        "torque_nm": 1110,
+        "ac_max_kw": 11,
+        "dc_max_kw": 320,
+        "dc_10_80_min": 18,
+        "length_mm": 4962,
+        "width_mm": 1966,
+        "height_mm": 1378,
+        "wheelbase_mm": 2900,
+        "kerb_weight_kg": 2295,
+        "boot_l": 366,
+        "frunk_l": 84
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-indonesia-meluncurkan-taycan-baru/",
+            "title": "Porsche Indonesia Meluncurkan Taycan Baru - Moladin",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-indonesia-meluncurkan-taycan-baru/",
+            "title": "Porsche Indonesia Meluncurkan Taycan Baru - Moladin",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:36531be5-a8a3-46ec-b146-27272996361d/pag-taycan-turbo-s-td-en.pdf.PDF",
+            "title": "Taycan Turbo S technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Turbo S named at the GIIAS 2024 launch (700 kW / 952 PS with Launch Control, 2.4 s). Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified). Battery (105 kWh gross / 97 kWh net), motor type, torque, charging, dimensions, kerb weight (DIN) and luggage volumes from Porsche's EU press data sheet (newsroom.porsche.com, Europe); matched on 700 kW, 2.4 s and 260 km/h.",
+      "notes_id": "Turbo S disebut saat peluncuran GIIAS 2024 (700 kW / 952 PS dengan Launch Control, 2,4 detik). Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan). Baterai (105 kWh kotor / 97 kWh bersih), jenis motor, torsi, pengisian daya, dimensi, berat kosong (DIN), dan volume bagasi dari lembar data pers Porsche Eropa (newsroom.porsche.com, Eropa); dicocokkan pada 700 kW, 2,4 detik, dan 260 km/jam."
+    },
+    {
+      "id": "porsche-taycan-2026-turbo-gt",
+      "model_year": 2026,
+      "variant": "Taycan Turbo GT",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "power_kw": 760,
+        "accel_0_100_s": 2.3,
+        "top_speed_kmh": 290,
+        "range_km": 605,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "AWD",
+        "battery_gross_kwh": 105,
+        "battery_usable_kwh": 97,
+        "motor_type": "PMSM",
+        "torque_nm": 1240,
+        "ac_max_kw": 11,
+        "dc_max_kw": 320,
+        "dc_10_80_min": 18,
+        "length_mm": 4968,
+        "width_mm": 1998,
+        "height_mm": 1378,
+        "wheelbase_mm": 2900,
+        "kerb_weight_kg": 2290,
+        "boot_l": 326,
+        "frunk_l": 84
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:db7be217-7b2a-44a6-b2b3-3493b5baf1c1/pag-taycan-turbo-gt-td-en.pdf.PDF",
+            "title": "Taycan Turbo GT technical data (Porsche newsroom press kit, MY S 03/2024, EU/Germany)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "With Weissach Package: 2.2 s and 305 km/h, same power and range. Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified). Battery (105 kWh gross / 97 kWh net), motor type, torque, charging, dimensions, kerb weight (DIN) and luggage volumes from Porsche's EU press data sheet for the Turbo GT without Weissach Package (newsroom.porsche.com, Europe); matched on 760 kW, 2.3 s and 290 km/h.",
+      "notes_id": "Dengan Weissach Package: 2,2 detik dan 305 km/jam, tenaga dan jarak tempuh sama. Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan). Baterai (105 kWh kotor / 97 kWh bersih), jenis motor, torsi, pengisian daya, dimensi, berat kosong (DIN), dan volume bagasi dari lembar data pers Porsche Eropa untuk Turbo GT tanpa Weissach Package (newsroom.porsche.com, Eropa); dicocokkan pada 760 kW, 2,3 detik, dan 290 km/jam."
+    },
+    {
+      "id": "porsche-taycan-2026-4-cross-turismo",
+      "model_year": 2026,
+      "variant": "Taycan 4 Cross Turismo",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Crossover",
+        "power_kw": 320,
+        "accel_0_100_s": 4.7,
+        "top_speed_kmh": 220,
+        "range_km": 601,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "AWD",
+        "battery_gross_kwh": 105,
+        "battery_usable_kwh": 97,
+        "motor_type": "PMSM",
+        "torque_nm": 610,
+        "ac_max_kw": 11,
+        "dc_max_kw": 320,
+        "dc_10_80_min": 18,
+        "length_mm": 4974,
+        "width_mm": 1967,
+        "height_mm": 1409,
+        "wheelbase_mm": 2904,
+        "kerb_weight_kg": 2280,
+        "boot_l": 446,
+        "frunk_l": 84
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://newsroom.porsche.com/dam/jcr:8ee6f537-4ff9-435f-b3b4-7142d8972324/pag-taycan-4-cross-turismo-td-en.pdf.PDF",
+            "title": "Taycan 4 Cross Turismo technical data (Porsche newsroom press kit, MY S 02/2024, EU/Germany)",
+            "date": "2024-02",
+            "type": "official",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Raised estate body filed as Crossover; 320 kW is 'power up to'. Drive not stated on the page for Cross Turismo models. Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified). Drive, battery (105 kWh gross / 97 kWh net), motor type, torque, charging, dimensions, kerb weight (DIN) and luggage volumes from Porsche's EU press data sheet (newsroom.porsche.com, Europe); matched on 320 kW, 4.7 s and 220 km/h.",
+      "notes_id": "Bodi estate yang ditinggikan dimasukkan sebagai Crossover; 320 kW adalah 'tenaga hingga'. Penggerak tidak disebutkan di halaman untuk model Cross Turismo. Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan). Penggerak, baterai (105 kWh kotor / 97 kWh bersih), jenis motor, torsi, pengisian daya, dimensi, berat kosong (DIN), dan volume bagasi dari lembar data pers Porsche Eropa (newsroom.porsche.com, Eropa); dicocokkan pada 320 kW, 4,7 detik, dan 220 km/jam."
+    },
+    {
+      "id": "porsche-taycan-2026-4s-cross-turismo",
+      "model_year": 2026,
+      "variant": "Taycan 4S Cross Turismo",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Crossover",
+        "power_kw": 440,
+        "accel_0_100_s": 3.8,
+        "top_speed_kmh": 240,
+        "range_km": 601,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "AWD",
+        "battery_gross_kwh": 105,
+        "battery_usable_kwh": 97,
+        "battery_cooling": "Liquid",
+        "torque_nm": 710,
+        "ac_max_kw": 11,
+        "dc_max_kw": 320,
+        "dc_10_80_min": 18,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "length_mm": 4974,
+        "width_mm": 1967,
+        "height_mm": 1409,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://m.arenaev.com/porsche_taycan_cross_turismo_4s_2024-specs-625.php",
+            "title": "Porsche Taycan 4S Cross Turismo 2024 specs - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Raised estate body filed as Crossover. Drive not stated on the page for Cross Turismo models. Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified). Drive, battery (105 kWh gross / 97 kWh net), battery cooling, torque, charging, connectors, dimensions and heat pump from the European spec (arenaev.com); matched on 440 kW and 240 km/h.",
+      "notes_id": "Bodi estate yang ditinggikan dimasukkan sebagai Crossover. Penggerak tidak disebutkan di halaman untuk model Cross Turismo. Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan). Penggerak, baterai (105 kWh kotor / 97 kWh bersih), pendinginan baterai, torsi, pengisian daya, konektor, dimensi, dan heat pump dari spesifikasi Eropa (arenaev.com); dicocokkan pada 440 kW dan 240 km/jam."
+    },
+    {
+      "id": "porsche-taycan-2026-turbo-cross-turismo",
+      "model_year": 2026,
+      "variant": "Taycan Turbo Cross Turismo",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Crossover",
+        "power_kw": 650,
+        "accel_0_100_s": 2.8,
+        "top_speed_kmh": 250,
+        "range_km": 597,
+        "voltage_architecture": "800 V",
+        "battery_warranty": "8 yrs / 160,000 km"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/configure/",
+            "title": "Porsche Taycan Models and Configurator - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/taycan/taycan-models/taycan/",
+            "title": "Porsche Taycan - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "Raised estate body filed as Crossover. Drive not stated on the page for Cross Turismo models. Updated Taycan launched at GIIAS July 2024 by Porsche Indonesia (Eurokars). Prices not published as OTR (Porsche Indonesia quotes off-the-road via dealers), so price left out. Range is Porsche Indonesia's 'ECE' combined figure (test cycle not named WLTP), so range_standard left out. Power is the peak figure Porsche Indonesia lists (overboost/Launch Control where marked); 0-100 with Launch Control. The Indonesian site shows the current configuration as model year 2027; recorded as 2026. Battery warranty 8 years/160,000 km per Porsche Indonesia (min. 70% capacity). 800 V system; DC up to 320 kW with Performance Battery Plus, 10-80% in 18 min (site headline, variant not specified).",
+      "notes_id": "Bodi estate yang ditinggikan dimasukkan sebagai Crossover. Penggerak tidak disebutkan di halaman untuk model Cross Turismo. Taycan terbaru diluncurkan Porsche Indonesia (Eurokars) di GIIAS Juli 2024. Harga tidak dipublikasikan sebagai OTR (Porsche Indonesia menyebut harga off the road melalui diler), sehingga harga dikosongkan. Jarak tempuh adalah angka gabungan 'ECE' versi Porsche Indonesia (siklus uji tidak disebut WLTP), sehingga range_standard dikosongkan. Tenaga adalah angka puncak yang dicantumkan Porsche Indonesia (overboost/Launch Control jika ditandai); 0-100 dengan Launch Control. Situs Indonesia menampilkan konfigurasi saat ini sebagai model year 2027; dicatat sebagai 2026. Garansi baterai 8 tahun/160.000 km menurut Porsche Indonesia (kapasitas minimal 70%). Sistem 800 V; DC hingga 320 kW dengan Performance Battery Plus, 10-80% dalam 18 menit (judul situs, varian tidak disebutkan)."
+    },
+    {
+      "id": "porsche-taycan-2021-4s",
+      "model_year": 2021,
+      "variant": "4S",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Taycan launched in Indonesia in February 2021 by Porsche Indonesia (Eurokars) in 4S, Turbo and Turbo S form; the Cross Turismo followed on 25 October 2021 (variants and specs not given in the launch report, so no Cross Turismo record). Launch prices were only given as 'Rp2.5-6 billion depending on variant and options', not OTR, so price left out. Entry variant at launch; no Indonesian spec figures for the 4S were found (global specs not added).",
+      "notes_id": "Taycan diluncurkan di Indonesia pada Februari 2021 oleh Porsche Indonesia (Eurokars) dalam varian 4S, Turbo dan Turbo S; Cross Turismo menyusul pada 25 Oktober 2021 (varian dan spesifikasi tidak disebutkan laporan peluncuran, sehingga tidak ada catatan Cross Turismo). Harga peluncuran hanya disebut 'Rp2,5-6 miliar tergantung varian dan opsi', bukan OTR, sehingga harga dikosongkan. Varian termurah saat peluncuran; tidak ditemukan angka spesifikasi Indonesia untuk 4S (spesifikasi global tidak ditambahkan)."
+    },
+    {
+      "id": "porsche-taycan-2021-turbo-s",
+      "model_year": 2021,
+      "variant": "Turbo S",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "battery_gross_kwh": 93.4,
+        "range_km": 416,
+        "drive": "AWD",
+        "power_kw": 560,
+        "torque_nm": 1050,
+        "accel_0_100_s": 2.6,
+        "ac_max_kw": 11,
+        "ac_full_hours": 9,
+        "seats": 4,
+        "motor_type": "PMSM",
+        "pack_nominal_voltage_v": 723,
+        "cell_count": 396,
+        "cell_config": "198s2p"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-taycan-mengaspal-harga-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mengaspal, Harga Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-taycan-mengaspal-harga-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mengaspal, Harga Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-taycan-mengaspal-harga-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mengaspal, Harga Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://newsroom.porsche.com:443/dam/jcr:f0326d9f-b493-4d76-9a74-636daddc97a5/TaycanTechnicalSpecSheet20210304.pdf.PDF",
+            "title": "Porsche Taycan technical specification sheet, MY21 (Porsche Cars North America)",
+            "date": "2021-03",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-taycan-mengaspal-harga-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mengaspal, Harga Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-taycan-mengaspal-harga-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mengaspal, Harga Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/porsche-taycan-mengaspal-harga-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mengaspal, Harga Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-taycan-turbo-s-mendarat-di-indonesia-ditawarkan-mulai-rp-25-miliar/",
+            "title": "Porsche Taycan Mendarat di Indonesia, Ditawarkan Mulai Rp 2,5 Miliar",
+            "date": "2021-02",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com:443/dam/jcr:f0326d9f-b493-4d76-9a74-636daddc97a5/TaycanTechnicalSpecSheet20210304.pdf.PDF",
+            "title": "Porsche Taycan technical specification sheet, MY21 (Porsche Cars North America)",
+            "date": "2021-03",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://newsroom.porsche.com:443/dam/jcr:f0326d9f-b493-4d76-9a74-636daddc97a5/TaycanTechnicalSpecSheet20210304.pdf.PDF",
+            "title": "Porsche Taycan technical specification sheet, MY21 (Porsche Cars North America)",
+            "date": "2021-03",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://newsroom.porsche.com:443/dam/jcr:f0326d9f-b493-4d76-9a74-636daddc97a5/TaycanTechnicalSpecSheet20210304.pdf.PDF",
+            "title": "Porsche Taycan technical specifications MY21 (Porsche Cars North America)",
+            "date": "2021-03",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "cell_config": [
+          {
+            "url": "https://newsroom.porsche.com:443/dam/jcr:f0326d9f-b493-4d76-9a74-636daddc97a5/TaycanTechnicalSpecSheet20210304.pdf.PDF",
+            "title": "Porsche Taycan technical specifications MY21 (Porsche Cars North America)",
+            "date": "2021-03",
+            "type": "official",
+            "market": "United States"
+          }
+        ]
+      },
+      "notes": "Taycan launched in Indonesia in February 2021 by Porsche Indonesia (Eurokars) in 4S, Turbo and Turbo S form; the Cross Turismo followed on 25 October 2021 (variants and specs not given in the launch report, so no Cross Turismo record). Launch prices were only given as 'Rp2.5-6 billion depending on variant and options', not OTR, so price left out. Torque 1,050 Nm with Launch Control (940 Nm without). Range 390-416 km, standard not stated (top figure used). Battery 93.4 kWh (Performance Battery Plus, gross). Two-speed gearbox; AC 0-100% about 9 h at 11 kW; DC 30-40 min quoted without a window. Motor type and pack voltage (723 V, 93.4 kWh pack) from the US MY21 Porsche technical sheet. Cell count and configuration (396 cells, 198s2p) from the US MY21 Porsche technical sheet (United States). Power corrected (Nov 2026): Indonesian reports give 464 kW / 623 hp, which is the normal rating (Porsche: 460 kW); like the other Taycan records, the peak with overboost/Launch Control is used: 560 kW from Porsche's US MY21 technical sheet.",
+      "notes_id": "Taycan diluncurkan di Indonesia pada Februari 2021 oleh Porsche Indonesia (Eurokars) dalam varian 4S, Turbo dan Turbo S; Cross Turismo menyusul pada 25 Oktober 2021 (varian dan spesifikasi tidak disebutkan laporan peluncuran, sehingga tidak ada catatan Cross Turismo). Harga peluncuran hanya disebut 'Rp2,5-6 miliar tergantung varian dan opsi', bukan OTR, sehingga harga dikosongkan. Tenaga 464 kW menurut moladin (zigwheels 623 hp); angka ini di bawah rating overboost global Porsche, jadi perlu hati-hati. Torsi 1.050 Nm dengan Launch Control (940 Nm tanpa). Jarak tempuh 390-416 km, standar tidak disebutkan (angka tertinggi dipakai). Baterai 93,4 kWh (Performance Battery Plus, gross). Transmisi dua percepatan; AC 0-100% sekitar 9 jam dengan 11 kW; DC 30-40 menit disebut tanpa rentang. Jenis motor dan tegangan paket (723 V, paket 93,4 kWh) dari lembar teknis Porsche AS MY21. Jumlah dan konfigurasi sel (396 sel, 198s2p) dari lembar teknis Porsche AS MY21 (Amerika Serikat). Tenaga dikoreksi (Nov 2026): laporan Indonesia menyebut 464 kW / 623 hp, yaitu tenaga normal (Porsche: 460 kW); seperti data Taycan lainnya, yang dipakai adalah tenaga puncak dengan overboost/Launch Control: 560 kW dari lembar teknis Porsche AS MY21."
+    },
+    {
+      "id": "porsche-taycan-2022-turbo",
+      "model_year": 2022,
+      "variant": "Turbo",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "range_km": 512,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "power_kw": 500,
+        "accel_0_100_s": 3.2,
+        "top_speed_kmh": 260,
+        "voltage_architecture": "800 V",
+        "dc_10_80_min": 22.5,
+        "dc_time_window": "5–80%",
+        "motor_type": "PMSM",
+        "pack_nominal_voltage_v": 723,
+        "battery_gross_kwh": 93.4,
+        "drive": "AWD",
+        "cell_count": 396,
+        "cell_config": "198s2p"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://eurokarsgroup.com/newsroom/porsche-indonesia-showcases-performance-luxury-and-e-mobility-at-the-gaikindo-indonesia-international-auto-show-2022",
+            "title": "Porsche Indonesia Showcases Performance, Luxury and E-Mobility at the Gaikindo Indonesia International Auto Show 2022",
+            "date": "2022-08",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://newsroom.porsche.com:443/dam/jcr:f0326d9f-b493-4d76-9a74-636daddc97a5/TaycanTechnicalSpecSheet20210304.pdf.PDF",
+            "title": "Porsche Taycan technical specification sheet, MY21 (Porsche Cars North America)",
+            "date": "2021-03",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://newsroom.porsche.com:443/dam/jcr:f0326d9f-b493-4d76-9a74-636daddc97a5/TaycanTechnicalSpecSheet20210304.pdf.PDF",
+            "title": "Porsche Taycan technical specification sheet, MY21 (Porsche Cars North America)",
+            "date": "2021-03",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://download.newsroom.porsche.com/dam/jcr:0bf91231-daa1-4cf0-b4bd-51c665034a1f/MY23%20Porsche%20Taycan%20Technical%20Specifications.pdf",
+            "title": "MY23 Porsche Taycan technical specifications (Porsche Cars North America)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://download.newsroom.porsche.com/dam/jcr:0bf91231-daa1-4cf0-b4bd-51c665034a1f/MY23%20Porsche%20Taycan%20Technical%20Specifications.pdf",
+            "title": "MY23 Porsche Taycan technical specifications (Porsche Cars North America)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://download.newsroom.porsche.com/dam/jcr:0bf91231-daa1-4cf0-b4bd-51c665034a1f/MY23%20Porsche%20Taycan%20Technical%20Specifications.pdf",
+            "title": "MY23 Porsche Taycan technical specifications (Porsche Cars North America)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "United States"
+          }
+        ],
+        "cell_config": [
+          {
+            "url": "https://download.newsroom.porsche.com/dam/jcr:0bf91231-daa1-4cf0-b4bd-51c665034a1f/MY23%20Porsche%20Taycan%20Technical%20Specifications.pdf",
+            "title": "MY23 Porsche Taycan technical specifications (Porsche Cars North America)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "United States"
+          }
+        ]
+      },
+      "notes": "Taycan launched in Indonesia in February 2021 by Porsche Indonesia (Eurokars) in 4S, Turbo and Turbo S form; the Cross Turismo followed on 25 October 2021 (variants and specs not given in the launch report, so no Cross Turismo record). Launch prices were only given as 'Rp2.5-6 billion depending on variant and options', not OTR, so price left out. Specs from Porsche Indonesia's GIIAS August 2022 release for the model-year update of July 2022: 500 kW (680 PS) with overboost/Launch Control, 0-100 3.2 s, up to 512 km WLTP, two-speed rear gearbox. DC time is 5-80% in 22.5 min (ideal conditions). The Turbo was also on sale from the February 2021 launch; 2021 specs not published separately. Motor type and pack voltage (723 V, 93.4 kWh pack) from the US MY21 Porsche technical sheet. Battery 93.4 kWh (Porsche's gross figure; not labelled gross/net on the sheet), drive, cell count and configuration from the US MY23 Porsche technical specifications (United States); matched on 500 kW with Launch Control (670 hp).",
+      "notes_id": "Taycan diluncurkan di Indonesia pada Februari 2021 oleh Porsche Indonesia (Eurokars) dalam varian 4S, Turbo dan Turbo S; Cross Turismo menyusul pada 25 Oktober 2021 (varian dan spesifikasi tidak disebutkan laporan peluncuran, sehingga tidak ada catatan Cross Turismo). Harga peluncuran hanya disebut 'Rp2,5-6 miliar tergantung varian dan opsi', bukan OTR, sehingga harga dikosongkan. Spesifikasi dari rilis Porsche Indonesia di GIIAS Agustus 2022 untuk pembaruan model year Juli 2022: 500 kW (680 PS) dengan overboost/Launch Control, 0-100 3,2 detik, hingga 512 km WLTP, transmisi dua percepatan di poros belakang. Waktu DC 5-80% dalam 22,5 menit (kondisi ideal). Turbo juga sudah dijual sejak peluncuran Februari 2021; spesifikasi 2021 tidak dipublikasikan terpisah. Jenis motor dan tegangan paket (723 V, paket 93,4 kWh) dari lembar teknis Porsche AS MY21. Baterai 93,4 kWh (angka kotor Porsche; di lembar tidak diberi label kotor/bersih), penggerak, jumlah dan konfigurasi sel dari spesifikasi teknis Porsche AS MY23 (Amerika Serikat); dicocokkan pada 500 kW dengan Launch Control (670 hp)."
+    }
+  ]
+}

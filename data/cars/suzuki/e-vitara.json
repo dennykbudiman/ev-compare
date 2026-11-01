@@ -1,0 +1,876 @@
+{
+  "make": "Suzuki",
+  "model": "e Vitara",
+  "trims": [
+    {
+      "id": "suzuki-e-vitara-2026-one-tone",
+      "model_year": 2026,
+      "variant": "One Tone",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 755000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 61,
+        "cell_supplier": "BYD",
+        "range_km": 428,
+        "range_standard": "WLTP",
+        "drive": "FWD",
+        "power_kw": 128,
+        "torque_nm": 193,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 50,
+        "dc_time_window": "15–80%",
+        "length_mm": 4275,
+        "width_mm": 1800,
+        "height_mm": 1640,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 185,
+        "turning_radius_m": 5.8,
+        "airbags": 7,
+        "tyre_size": "225/55 R18",
+        "adas": "AEB (DSBS II), ACC, LKA, LDP, BSM, RCTA, AHB, SVM, multi-collision braking",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "vehicle_warranty": "5 yrs / 100,000 km",
+        "free_service": "Free parts and periodic service for 30 months or 50,000 km",
+        "platform": "Heartect-e",
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 7,
+        "dc_max_kw": 67,
+        "kerb_weight_kg": 1788,
+        "boot_l": 306,
+        "seats": 5,
+        "accel_0_100_s": 8.7,
+        "top_speed_kmh": 150
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://auto.katadata.co.id/car/suzuki-evitara-to-be-launched-at-iims-2026-still-cbu-from-india-23306",
+            "title": "Suzuki eVitara to be Launched at IIMS 2026, Still CBU from India",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched IIMS 5 Feb 2026, CBU from India; both variants share specs and equipment (wapcar). Range: Detik/kabarbursa 428 km (WLTP), wapcar 426 km WLTP. Power 128 kW (wapcar: 174 PS). DC charging time is 15-80% in 50 min (kW not published). Vehicle and electric supply unit warranty 5 yrs/100,000 km. Detik lists a 562 L boot, far above the global figure, so it is not used. The AllGrip-e AWD version is not sold in Indonesia. Single-tone price is not explicitly labelled OTR in kabarbursa. ~400 V, AC 7 kW, DC 67 kW, weight, boot, seats, 0-100 km/h and top speed from the Malaysian 61 kWh FWD spec (paultan.org).",
+      "notes_id": "Diluncurkan di IIMS 5 Februari 2026, CBU dari India; kedua varian berbagi spesifikasi dan perlengkapan (wapcar). Jarak tempuh: Detik/kabarbursa 428 km (WLTP), wapcar 426 km WLTP. Tenaga 128 kW (wapcar: 174 PS). Waktu pengisian DC adalah 15-80% dalam 50 menit (kW tidak dipublikasikan). Garansi kendaraan dan unit suplai listrik 5 tahun/100.000 km. Detik mencantumkan bagasi 562 L, jauh di atas angka global, sehingga tidak dipakai. Versi AWD AllGrip-e tidak dijual di Indonesia. Harga single-tone tidak secara eksplisit disebut OTR oleh kabarbursa. ~400 V, AC 7 kW, DC 67 kW, berat, bagasi, jumlah kursi, 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Malaysia 61 kWh FWD (paultan.org)."
+    },
+    {
+      "id": "suzuki-e-vitara-2026-two-tone",
+      "model_year": 2026,
+      "variant": "Two Tone",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 758000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 61,
+        "cell_supplier": "BYD",
+        "range_km": 428,
+        "range_standard": "WLTP",
+        "drive": "FWD",
+        "power_kw": 128,
+        "torque_nm": 193,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 50,
+        "dc_time_window": "15–80%",
+        "length_mm": 4275,
+        "width_mm": 1800,
+        "height_mm": 1640,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 185,
+        "turning_radius_m": 5.8,
+        "airbags": 7,
+        "tyre_size": "225/55 R18",
+        "adas": "AEB (DSBS II), ACC, LKA, LDP, BSM, RCTA, AHB, SVM, multi-collision braking",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "vehicle_warranty": "5 yrs / 100,000 km",
+        "free_service": "Free parts and periodic service for 30 months or 50,000 km",
+        "platform": "Heartect-e",
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 7,
+        "dc_max_kw": 67,
+        "kerb_weight_kg": 1788,
+        "boot_l": 306,
+        "seats": 5,
+        "accel_0_100_s": 8.7,
+        "top_speed_kmh": 150
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://auto.katadata.co.id/car/suzuki-evitara-to-be-launched-at-iims-2026-still-cbu-from-india-23306",
+            "title": "Suzuki eVitara to be Launched at IIMS 2026, Still CBU from India",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8343450/spesifikasi-suzuki-e-vitara-harga-tembus-rp-755-juta",
+            "title": "Spesifikasi Suzuki e Vitara, Harga Tembus Rp 755 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/suzuki-hadirkan-e-vitara-suv-listrik-rp755-juta-di-iims-2026",
+            "title": "Suzuki Hadirkan e Vitara SUV Listrik Rp755 Juta di IIMS 2026",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.wapcar.my/news/suzuki-e-vitara-bev-makes-asean-debut-in-indonesia-174-ps-193-nm-426-km-wltp-equivalent-of-rm-177k-750327",
+            "title": "Suzuki e Vitara BEV makes ASEAN debut in Indonesia - 174 PS/193 Nm, 426 km WLTP",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/suzuki/evitara/sz171c-sz181c/fwd-2026/",
+            "title": "Suzuki eVitara FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched IIMS 5 Feb 2026, CBU from India; both variants share specs and equipment (wapcar). Range: Detik/kabarbursa 428 km (WLTP), wapcar 426 km WLTP. Power 128 kW (wapcar: 174 PS). DC charging time is 15-80% in 50 min (kW not published). Vehicle and electric supply unit warranty 5 yrs/100,000 km. Detik lists a 562 L boot, far above the global figure, so it is not used. The AllGrip-e AWD version is not sold in Indonesia. ~400 V, AC 7 kW, DC 67 kW, weight, boot, seats, 0-100 km/h and top speed from the Malaysian 61 kWh FWD spec (paultan.org).",
+      "notes_id": "Diluncurkan di IIMS 5 Februari 2026, CBU dari India; kedua varian berbagi spesifikasi dan perlengkapan (wapcar). Jarak tempuh: Detik/kabarbursa 428 km (WLTP), wapcar 426 km WLTP. Tenaga 128 kW (wapcar: 174 PS). Waktu pengisian DC adalah 15-80% dalam 50 menit (kW tidak dipublikasikan). Garansi kendaraan dan unit suplai listrik 5 tahun/100.000 km. Detik mencantumkan bagasi 562 L, jauh di atas angka global, sehingga tidak dipakai. Versi AWD AllGrip-e tidak dijual di Indonesia. ~400 V, AC 7 kW, DC 67 kW, berat, bagasi, jumlah kursi, 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Malaysia 61 kWh FWD (paultan.org)."
+    }
+  ]
+}

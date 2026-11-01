@@ -1,0 +1,932 @@
+{
+  "make": "MG",
+  "model": "MGS5 EV",
+  "trims": [
+    {
+      "id": "mg-mgs5-ev-2026-ignite",
+      "model_year": 2026,
+      "variant": "Ignite",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "drive": "RWD",
+        "length_mm": 4476,
+        "width_mm": 1849,
+        "height_mm": 1621,
+        "wheelbase_mm": 2730,
+        "turning_radius_m": 5.1,
+        "airbags": 7,
+        "v2l": true,
+        "crash_rating": "5 stars (ASEAN NCAP)",
+        "battery_ip": "IP68",
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic maintenance for 4 years",
+        "price_otr_idr": 333900000,
+        "battery_gross_kwh": 49,
+        "range_km": 415,
+        "power_kw": 125,
+        "torque_nm": 250,
+        "dc_max_kw": 120,
+        "dc_10_80_min": 24,
+        "tyre_size": "215/60 R17",
+        "motor_count": 1,
+        "ac_max_kw": 7,
+        "v2l_kw": 2.5,
+        "accel_0_100_s": 7.0,
+        "boot_l": 453,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain, knee"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "No ADAS pack on Ignite per Moladin (MG Pilot is Magnify Max only). Launched IIMS February 2026. Prices on mgmotor.id (October 2026, OTR Jakarta, 'may change'): Ignite Rp333,900,000, Magnify Rp365,900,000, Magnify Max Rp409,900,000. Launch/special-program prices were Rp333.9 / 355.9 / 455.9 million (Moladin June 2026, CNN July 2026); GridOto reported a temporary Magnify Max OTR of Rp399.9 million to end of September 2026. Power 170 PS x0.7355 = 125 kW; 204 PS = 150 kW. Assembly (CKD/CBU) not confirmed. Gridoto also cites IP69K for the battery. Motor count, AC power, V2L output, 0–100 km/h, boot, seats and airbag positions from the Malaysian spec of the same 49 kWh, 168 hp RWD S5 EV Com (paultan.org); Malaysian ADAS not used because Indonesian sources differ by trim.",
+      "notes_id": "Tidak ada paket ADAS di Ignite menurut Moladin (MG Pilot hanya ada di Magnify Max). Diluncurkan di IIMS Februari 2026. Harga di mgmotor.id (Oktober 2026, OTR Jakarta, 'dapat berubah'): Ignite Rp333.900.000, Magnify Rp365.900.000, Magnify Max Rp409.900.000. Harga peluncuran/program spesial adalah Rp333,9 / 355,9 / 455,9 juta (Moladin Juni 2026, CNN Juli 2026); GridOto melaporkan OTR sementara Magnify Max Rp399,9 juta hingga akhir September 2026. Tenaga 170 PS x0,7355 = 125 kW; 204 PS = 150 kW. Status perakitan (CKD/CBU) belum terkonfirmasi. Gridoto juga menyebut baterai berstandar IP69K. Jumlah motor, daya AC, output V2L, 0–100 km/jam, bagasi, kursi, dan posisi airbag dari spesifikasi Malaysia untuk S5 EV Com 49 kWh, 168 hp RWD yang sama (paultan.org); ADAS Malaysia tidak dipakai karena sumber Indonesia berbeda per varian."
+    },
+    {
+      "id": "mg-mgs5-ev-2026-magnify",
+      "model_year": 2026,
+      "variant": "Magnify",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "drive": "RWD",
+        "length_mm": 4476,
+        "width_mm": 1849,
+        "height_mm": 1621,
+        "wheelbase_mm": 2730,
+        "turning_radius_m": 5.1,
+        "airbags": 7,
+        "v2l": true,
+        "crash_rating": "5 stars (ASEAN NCAP)",
+        "battery_ip": "IP68",
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic maintenance for 4 years",
+        "price_otr_idr": 365900000,
+        "battery_gross_kwh": 49,
+        "range_km": 410,
+        "power_kw": 125,
+        "torque_nm": 250,
+        "dc_max_kw": 120,
+        "dc_10_80_min": 24,
+        "tyre_size": "225/55 R18",
+        "motor_count": 1,
+        "ac_max_kw": 7,
+        "v2l_kw": 2.5,
+        "accel_0_100_s": 7.0,
+        "boot_l": 453,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain, knee"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/mg/s5/es34/com-2026/",
+            "title": "MG S5 EV Com - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched IIMS February 2026. Prices on mgmotor.id (October 2026, OTR Jakarta, 'may change'): Ignite Rp333,900,000, Magnify Rp365,900,000, Magnify Max Rp409,900,000. Launch/special-program prices were Rp333.9 / 355.9 / 455.9 million (Moladin June 2026, CNN July 2026); GridOto reported a temporary Magnify Max OTR of Rp399.9 million to end of September 2026. Power 170 PS x0.7355 = 125 kW; 204 PS = 150 kW. Assembly (CKD/CBU) not confirmed. Gridoto also cites IP69K for the battery. Motor count, AC power, V2L output, 0–100 km/h, boot, seats and airbag positions from the Malaysian spec of the same 49 kWh, 168 hp RWD S5 EV Com (paultan.org); Malaysian ADAS not used because Indonesian sources differ by trim.",
+      "notes_id": "Diluncurkan di IIMS Februari 2026. Harga di mgmotor.id (Oktober 2026, OTR Jakarta, 'dapat berubah'): Ignite Rp333.900.000, Magnify Rp365.900.000, Magnify Max Rp409.900.000. Harga peluncuran/program spesial adalah Rp333,9 / 355,9 / 455,9 juta (Moladin Juni 2026, CNN Juli 2026); GridOto melaporkan OTR sementara Magnify Max Rp399,9 juta hingga akhir September 2026. Tenaga 170 PS x0,7355 = 125 kW; 204 PS = 150 kW. Status perakitan (CKD/CBU) belum terkonfirmasi. Gridoto juga menyebut baterai berstandar IP69K. Jumlah motor, daya AC, output V2L, 0–100 km/jam, bagasi, kursi, dan posisi airbag dari spesifikasi Malaysia untuk S5 EV Com 49 kWh, 168 hp RWD yang sama (paultan.org); ADAS Malaysia tidak dipakai karena sumber Indonesia berbeda per varian."
+    },
+    {
+      "id": "mg-mgs5-ev-2026-magnify-max",
+      "model_year": 2026,
+      "variant": "Magnify Max",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "drive": "RWD",
+        "length_mm": 4476,
+        "width_mm": 1849,
+        "height_mm": 1621,
+        "wheelbase_mm": 2730,
+        "turning_radius_m": 5.1,
+        "airbags": 7,
+        "v2l": true,
+        "crash_rating": "5 stars (ASEAN NCAP)",
+        "battery_ip": "IP68",
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic maintenance for 4 years",
+        "price_otr_idr": 409900000,
+        "battery_gross_kwh": 62,
+        "range_km": 545,
+        "power_kw": 150,
+        "torque_nm": 350,
+        "dc_max_kw": 150,
+        "dc_10_80_min": 26,
+        "tyre_size": "225/55 R18",
+        "adas": "ACC, LKA, BSD, RCTA, AEB"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www.gridoto.com/amp/224351537/resmi-meluncur-di-iims-2026-ini-modal-spesifikasi-mgs5-ev?page=all",
+            "title": "Resmi Meluncur di IIMS 2026, Ini Modal Spesifikasi MGS5 EV - GridOto",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20260705101439-603-1377039/serah-terima-1000-unit-mg-s5-ev",
+            "title": "Serah Terima 1.000 Unit MG S5 EV - CNN Indonesia",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224396082/dulu-rp-4559-juta-kini-harga-mgs5-ev-magnify-max-tinggal-segini",
+            "title": "Dulu Rp 455,9 Juta, Kini Harga MGS5 EV Magnify Max Tinggal Segini - GridOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgs5ev",
+            "title": "MGS5 EV - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/news/harga-otr-mg-s5-ev-juni-2026/",
+            "title": "Harga OTR MG S5 EV Juni 2026 - Moladin",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Power/torque conflict: mgmotor.id 204 PS / 350 Nm vs GridOto 170 PS / 250 Nm for this variant (official used). Moladin quotes about 425 km NEDC without naming the variant. Launched IIMS February 2026. Prices on mgmotor.id (October 2026, OTR Jakarta, 'may change'): Ignite Rp333,900,000, Magnify Rp365,900,000, Magnify Max Rp409,900,000. Launch/special-program prices were Rp333.9 / 355.9 / 455.9 million (Moladin June 2026, CNN July 2026); GridOto reported a temporary Magnify Max OTR of Rp399.9 million to end of September 2026. Power 170 PS x0.7355 = 125 kW; 204 PS = 150 kW. Assembly (CKD/CBU) not confirmed. Gridoto also cites IP69K for the battery.",
+      "notes_id": "Tenaga/torsi berbeda: mgmotor.id 204 PS / 350 Nm vs GridOto 170 PS / 250 Nm untuk varian ini (dipakai angka resmi). Moladin menyebut sekitar 425 km NEDC tanpa menyebut variannya. Diluncurkan di IIMS Februari 2026. Harga di mgmotor.id (Oktober 2026, OTR Jakarta, 'dapat berubah'): Ignite Rp333.900.000, Magnify Rp365.900.000, Magnify Max Rp409.900.000. Harga peluncuran/program spesial adalah Rp333,9 / 355,9 / 455,9 juta (Moladin Juni 2026, CNN Juli 2026); GridOto melaporkan OTR sementara Magnify Max Rp399,9 juta hingga akhir September 2026. Tenaga 170 PS x0,7355 = 125 kW; 204 PS = 150 kW. Status perakitan (CKD/CBU) belum terkonfirmasi. Gridoto juga menyebut baterai berstandar IP69K."
+    }
+  ]
+}

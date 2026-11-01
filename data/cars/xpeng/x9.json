@@ -1,0 +1,1351 @@
+{
+  "make": "XPeng",
+  "model": "X9",
+  "trims": [
+    {
+      "id": "xpeng-x9-2025-standard-range-pro",
+      "model_year": 2025,
+      "variant": "Standard Range Pro",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 990000000,
+        "battery_gross_kwh": 84.5,
+        "battery_chemistry": "LFP",
+        "range_km": 500,
+        "segment": "MPV",
+        "drive": "FWD",
+        "length_mm": 5293,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "dc_10_80_min": 20,
+        "ac_full_hours": 11,
+        "range_standard": "WLTP",
+        "battery_warranty": "8 yrs",
+        "vehicle_warranty": "8 yrs",
+        "assembly": "CKD Indonesia",
+        "power_kw": 235,
+        "torque_nm": 450,
+        "motor_count": 1,
+        "accel_0_100_s": 7.7,
+        "top_speed_kmh": 200,
+        "seats": 7,
+        "voltage_architecture": "800 V",
+        "airbag_positions": "front, side, curtain",
+        "boot_l": 755
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/xpeng/x9/h93/",
+            "title": "Xpeng X9 - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/xpeng/x9/h93/",
+            "title": "Xpeng X9 - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched 19 June 2025; CKD at PT Handal Indonesia Motor, Purwakarta, from July 2025 (XPeng's first overseas assembly). Prices per detik (OTR not stated). AC 5-100% in 11 h; DC 10-80% in 20 min. Warranty quoted as '8 years for battery and vehicle' without a km limit. NEDC ranges: 580 / 690 km. Airbag positions and boot capacity from the Malaysian X9 line-up spec listing, which gives the same figures for every 84.5 kWh, 315 hp FWD variant (paultan.org).",
+      "notes_id": "Diluncurkan 19 Juni 2025; CKD di PT Handal Indonesia Motor, Purwakarta, mulai Juli 2025 (perakitan luar negeri pertama XPeng). Harga menurut detik (tidak disebutkan OTR). AC 5-100% dalam 11 jam; DC 10-80% dalam 20 menit. Garansi disebut '8 tahun untuk baterai dan kendaraan' tanpa batas km. Jarak tempuh NEDC: 580 / 690 km. Posisi airbag dan kapasitas bagasi dari daftar spesifikasi varian X9 Malaysia, yang memberi angka sama untuk setiap varian 84,5 kWh, 315 hp FWD (paultan.org)."
+    },
+    {
+      "id": "xpeng-x9-2025-long-range-pro",
+      "model_year": 2025,
+      "variant": "Long Range Pro",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 1059000000,
+        "battery_gross_kwh": 101.5,
+        "battery_chemistry": "NCM",
+        "range_km": 590,
+        "segment": "MPV",
+        "drive": "FWD",
+        "length_mm": 5293,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "dc_10_80_min": 20,
+        "ac_full_hours": 11,
+        "range_standard": "WLTP",
+        "battery_warranty": "8 yrs",
+        "vehicle_warranty": "8 yrs",
+        "assembly": "CKD Indonesia",
+        "power_kw": 235,
+        "torque_nm": 450,
+        "motor_count": 1,
+        "accel_0_100_s": 7.7,
+        "top_speed_kmh": 200,
+        "seats": 7,
+        "voltage_architecture": "800 V",
+        "airbag_positions": "front, side, curtain",
+        "boot_l": 755
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/xpeng/x9/h93/",
+            "title": "Xpeng X9 - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/xpeng/x9/h93/",
+            "title": "Xpeng X9 - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched 19 June 2025; CKD at PT Handal Indonesia Motor, Purwakarta, from July 2025 (XPeng's first overseas assembly). Prices per detik (OTR not stated). AC 5-100% in 11 h; DC 10-80% in 20 min. Warranty quoted as '8 years for battery and vehicle' without a km limit. NEDC ranges: 580 / 690 km. Airbag positions and boot capacity from the Malaysian X9 line-up spec listing, which gives the same figures for every 101.5 kWh NMC, 315 hp FWD variant (paultan.org).",
+      "notes_id": "Diluncurkan 19 Juni 2025; CKD di PT Handal Indonesia Motor, Purwakarta, mulai Juli 2025 (perakitan luar negeri pertama XPeng). Harga menurut detik (tidak disebutkan OTR). AC 5-100% dalam 11 jam; DC 10-80% dalam 20 menit. Garansi disebut '8 tahun untuk baterai dan kendaraan' tanpa batas km. Jarak tempuh NEDC: 580 / 690 km. Posisi airbag dan kapasitas bagasi dari daftar spesifikasi varian X9 Malaysia, yang memberi angka sama untuk setiap varian 101,5 kWh NMC, 315 hp FWD (paultan.org)."
+    },
+    {
+      "id": "xpeng-x9-2025-long-range-pro-plus",
+      "model_year": 2025,
+      "variant": "Long Range Pro+",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 1099000000,
+        "battery_gross_kwh": 101.5,
+        "battery_chemistry": "NCM",
+        "range_km": 590,
+        "segment": "MPV",
+        "drive": "FWD",
+        "length_mm": 5293,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "dc_10_80_min": 20,
+        "ac_full_hours": 11,
+        "range_standard": "WLTP",
+        "battery_warranty": "8 yrs",
+        "vehicle_warranty": "8 yrs",
+        "assembly": "CKD Indonesia",
+        "power_kw": 235,
+        "torque_nm": 450,
+        "motor_count": 1,
+        "accel_0_100_s": 7.7,
+        "top_speed_kmh": 200,
+        "seats": 7,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_max_kw": 317,
+        "dc_connector": "CCS2",
+        "airbags": 6,
+        "airbag_positions": "front, side, curtain",
+        "kerb_weight_kg": 2590,
+        "boot_l": 755,
+        "tyre_size": "235/50 R20",
+        "adas": "AEB, LKA, ACC, 360 camera, park assist"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7973511/spesifikasi-xpeng-x9-yang-dijual-lebih-tinggi-dari-denza-d9-di-indonesia/amp",
+            "title": "Spesifikasi Xpeng X9 yang Dijual Lebih Tinggi dari Denza D9 di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://carz.com.my/2025/07/xpeng-x9-ckd-debuts-in-indonesia-est-from-rm256k-malaysia-next",
+            "title": "Xpeng X9 CKD Debuts in Indonesia – Est. From RM256K, Malaysia Next?",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/xpeng/x9/h93/",
+            "title": "Xpeng X9 - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/xpeng/x9/h93/",
+            "title": "Xpeng X9 - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carbase.my/xpeng/x9/h93/long-range-2wd-pro-plus-2025",
+            "title": "Xpeng X9 (2025) Long Range 2WD Pro Plus - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched 19 June 2025; CKD at PT Handal Indonesia Motor, Purwakarta, from July 2025 (XPeng's first overseas assembly). Prices per detik (OTR not stated). AC 5-100% in 11 h; DC 10-80% in 20 min. Warranty quoted as '8 years for battery and vehicle' without a km limit. NEDC ranges: 580 / 690 km. Charging, connectors, airbags, kerb weight (listed as weight), boot, tyres and ADAS from the Malaysian spec of the same 101.5 kWh NMC, 315 hp FWD Long Range 2WD Pro Plus (CarBase.my, paultan.org).",
+      "notes_id": "Diluncurkan 19 Juni 2025; CKD di PT Handal Indonesia Motor, Purwakarta, mulai Juli 2025 (perakitan luar negeri pertama XPeng). Harga menurut detik (tidak disebutkan OTR). AC 5-100% dalam 11 jam; DC 10-80% dalam 20 menit. Garansi disebut '8 tahun untuk baterai dan kendaraan' tanpa batas km. Jarak tempuh NEDC: 580 / 690 km. Pengisian daya, konektor, airbag, berat kosong (tertulis sebagai berat), bagasi, ban, dan ADAS dari spesifikasi Malaysia untuk Long Range 2WD Pro Plus 101,5 kWh NMC, 315 hp FWD yang sama (CarBase.my, paultan.org)."
+    },
+    {
+      "id": "xpeng-x9-2026-standard-range-pro",
+      "model_year": 2026,
+      "variant": "Standard Range Pro",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 1140000000,
+        "battery_gross_kwh": 94,
+        "segment": "MPV",
+        "power_kw": 235,
+        "torque_nm": 450,
+        "drive": "FWD",
+        "accel_0_100_s": 7.7,
+        "length_mm": 5293,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/x9/harga-karawang",
+            "title": "XPENG X9 harga (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/x9/harga-karawang",
+            "title": "XPENG X9 harga (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/x9/harga-karawang",
+            "title": "XPENG X9 harga (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Battery 94 kWh per oto.com price page (single source); range for this variant not published. Facelift launched 28 June 2026 (detik: from Rp1.1 M); 5C fast charging supported but kW / 10-80% time not published. Power 235 kW (oto.com 315 hp). Assembly of the facelift not stated by sources read (2025 X9 was CKD at Handal).",
+      "notes_id": "Baterai 94 kWh menurut halaman harga oto.com (satu sumber); jarak tempuh varian ini tidak dipublikasikan. Facelift diluncurkan 28 Juni 2026 (detik: mulai Rp1,1 M); mendukung pengisian cepat 5C, tetapi kW / waktu 10-80% tidak dipublikasikan. Tenaga 235 kW (oto.com 315 hp). Status perakitan facelift tidak disebutkan sumber yang dibaca (X9 2025 dirakit CKD di Handal)."
+    },
+    {
+      "id": "xpeng-x9-2026-long-range-pro",
+      "model_year": 2026,
+      "variant": "Long Range Pro",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 1219000000,
+        "battery_gross_kwh": 110,
+        "range_km": 615,
+        "range_standard": "WLTP",
+        "segment": "MPV",
+        "power_kw": 235,
+        "torque_nm": 450,
+        "drive": "FWD",
+        "accel_0_100_s": 7.7,
+        "length_mm": 5293,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/x9/harga-karawang",
+            "title": "XPENG X9 harga (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/x9/harga-karawang",
+            "title": "XPENG X9 harga (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Battery: detik says 110 kWh / 615 km WLTP for the facelift (no variant named); oto.com lists 101 kWh for both Long Range variants — detik used. Facelift launched 28 June 2026 (detik: from Rp1.1 M); 5C fast charging supported but kW / 10-80% time not published. Power 235 kW (oto.com 315 hp). Assembly of the facelift not stated by sources read (2025 X9 was CKD at Handal).",
+      "notes_id": "Baterai: detik menyebut 110 kWh / 615 km WLTP untuk facelift (tanpa menyebut varian); oto.com mencantumkan 101 kWh untuk kedua varian Long Range — dipakai detik. Facelift diluncurkan 28 Juni 2026 (detik: mulai Rp1,1 M); mendukung pengisian cepat 5C, tetapi kW / waktu 10-80% tidak dipublikasikan. Tenaga 235 kW (oto.com 315 hp). Status perakitan facelift tidak disebutkan sumber yang dibaca (X9 2025 dirakit CKD di Handal)."
+    },
+    {
+      "id": "xpeng-x9-2026-long-range-pro-plus",
+      "model_year": 2026,
+      "variant": "Long Range Pro+",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 1259000000,
+        "battery_gross_kwh": 110,
+        "range_km": 615,
+        "range_standard": "WLTP",
+        "segment": "MPV",
+        "power_kw": 235,
+        "torque_nm": 450,
+        "drive": "FWD",
+        "accel_0_100_s": 7.7,
+        "length_mm": 5293,
+        "width_mm": 1988,
+        "height_mm": 1785,
+        "wheelbase_mm": 3160,
+        "seats": 7
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/x9/harga-karawang",
+            "title": "XPENG X9 harga (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8549827/xpeng-x9-facelift-resmi-meluncur-makin-premium-dan-sarat-teknologi",
+            "title": "XPENG X9 Facelift Resmi Meluncur, Makin Premium dan Sarat Teknologi",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/x9/harga-karawang",
+            "title": "XPENG X9 harga (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Battery: detik says 110 kWh / 615 km WLTP for the facelift (no variant named); oto.com lists 101 kWh — detik used. Facelift launched 28 June 2026 (detik: from Rp1.1 M); 5C fast charging supported but kW / 10-80% time not published. Power 235 kW (oto.com 315 hp). Assembly of the facelift not stated by sources read (2025 X9 was CKD at Handal).",
+      "notes_id": "Baterai: detik menyebut 110 kWh / 615 km WLTP untuk facelift (tanpa menyebut varian); oto.com mencantumkan 101 kWh — dipakai detik. Facelift diluncurkan 28 Juni 2026 (detik: mulai Rp1,1 M); mendukung pengisian cepat 5C, tetapi kW / waktu 10-80% tidak dipublikasikan. Tenaga 235 kW (oto.com 315 hp). Status perakitan facelift tidak disebutkan sumber yang dibaca (X9 2025 dirakit CKD di Handal)."
+    }
+  ]
+}

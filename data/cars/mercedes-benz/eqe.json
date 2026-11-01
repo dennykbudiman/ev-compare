@@ -1,0 +1,477 @@
+{
+  "make": "Mercedes-Benz",
+  "model": "EQE",
+  "trims": [
+    {
+      "id": "mercedes-benz-eqe-2025-350-plus-electric-art-line",
+      "model_year": 2025,
+      "variant": "EQE 350+ Electric Art Line",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "assembly": "CBU import",
+        "price_otr_idr": 2415000000,
+        "range_km": 673,
+        "motor_type": "PMSM",
+        "power_kw": 218,
+        "torque_nm": 565,
+        "accel_0_100_s": 6.4,
+        "top_speed_kmh": 210,
+        "ac_full_hours": 8.5,
+        "length_mm": 4946,
+        "height_mm": 1510,
+        "kerb_weight_kg": 2355,
+        "seats": 5,
+        "turning_radius_m": 6.25,
+        "adas": "LKA, LDW, BSM, RCTA, park assist, 360 camera",
+        "battery_warranty": "10 yrs / 250,000 km",
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 328,
+        "drive": "RWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "v2l": false,
+        "frunk_l": 0,
+        "battery_usable_kwh": 90,
+        "battery_gross_kwh": 100.0
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7414905/sabar-mercedes-benz-baru-rakit-mobil-listrik-di-wanaherang-2027",
+            "title": "Sabar! Mercedes-Benz Baru Rakit Mobil Listrik di Wanaherang 2027 - detikOto",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe/350-electric-art-line",
+            "title": "Mercedes Benz EQE 350+ Electric Art Line Price, Review and Specs - Oto",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-EQE-350",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "OTR Rp2,415,000,000 (oto.com, Jakarta Selatan); Mercedes-Benz Indonesia price page 'from Rp2,330,000,000' (basis not stated); September 2024 dealer list Rp2,385,000,000. Power 292 hp x0.7457 = 218 kW (Mercedes rates it 215 kW / 292 PS). Range standard not stated. Width 2,103 mm on oto.com looks like width incl. mirrors, so left out. Same specs 2024-2026. Chemistry (NCM811), voltage, drive, AC power, connectors, charge port, V2L and frunk from the European spec of the pre-update EQE 350+ (ev-database.org, MY22-23). Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 90 kWh figure is stored as usable capacity; gross 100.0 kWh is from the European spec (ev-database.org).",
+      "notes_id": "OTR Rp2.415.000.000 (oto.com, Jakarta Selatan); halaman harga Mercedes-Benz Indonesia 'mulai Rp2.330.000.000' (dasar harga tidak disebutkan); daftar diler September 2024 Rp2.385.000.000. Tenaga 292 hp x0,7457 = 218 kW (Mercedes menyebut 215 kW / 292 PS). Standar pengujian jarak tempuh tidak disebutkan. Lebar 2.103 mm di oto.com tampaknya termasuk spion, sehingga dikosongkan. Spesifikasi sama 2024-2026. Kimia baterai (NCM811), tegangan, penggerak, daya AC, konektor, posisi port, V2L, dan frunk dari spesifikasi Eropa untuk EQE 350+ sebelum pembaruan (ev-database.org, MY22-23). Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 90 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 100 kWh dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "mercedes-benz-eqe-2022-350-plus-electric-art-line",
+      "model_year": 2022,
+      "variant": "350+ Electric Art Line",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 2215000000,
+        "range_km": 660,
+        "battery_usable_kwh": 90.6,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 328,
+        "drive": "RWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "v2l": false,
+        "frunk_l": 0,
+        "power_kw": 215,
+        "torque_nm": 565,
+        "battery_gross_kwh": 100.0
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-Benz-EQE-350plus",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1538/Mercedes-EQE-350",
+            "title": "Mercedes-Benz EQE 350+ (MY22-23) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched alongside the EQS in Jakarta on 8 December 2022. OTR Jakarta Rp2,215,000,000 at launch (Fortune IDN, 'from'); later Rp2,385,000,000 (September 2024) and Rp2,415,000,000 OTR (2025 record). Range up to 660 km per moladin, standard not stated (WLTP consumption 15.9-18.7 kWh/100 km quoted). Battery, power and charging not given in the launch sources. Usable battery 90.6 kWh, chemistry (NCM811), voltage, drive, power (215 kW), torque (565 Nm), AC power, connectors, charge port, V2L and frunk from the European spec of the EQE 350+ (ev-database.org, MY22-23); matched on the variant name only, as no Indonesian power or battery figure was published. Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 90.6 kWh figure is stored as usable capacity; gross 100.0 kWh is from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan bersama EQS di Jakarta pada 8 Desember 2022. OTR Jakarta Rp2.215.000.000 saat peluncuran (Fortune IDN, 'mulai'); kemudian Rp2.385.000.000 (September 2024) dan Rp2.415.000.000 OTR (catatan 2025). Jarak tempuh hingga 660 km menurut moladin, standar tidak disebutkan (konsumsi WLTP 15,9-18,7 kWh/100 km). Baterai, tenaga dan pengisian tidak disebutkan sumber peluncuran. Baterai usable 90,6 kWh, kimia baterai (NCM811), tegangan, penggerak, daya (215 kW), torsi (565 Nm), daya AC, konektor, posisi port, V2L, dan frunk dari spesifikasi Eropa untuk EQE 350+ (ev-database.org, MY22-23); dicocokkan hanya dari nama varian karena tidak ada angka daya atau baterai Indonesia yang dipublikasikan. Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 90,6 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 100 kWh dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

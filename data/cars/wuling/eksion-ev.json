@@ -1,0 +1,482 @@
+{
+  "make": "Wuling",
+  "model": "Eksion EV",
+  "trims": [
+    {
+      "id": "wuling-eksion-ev-2026-ev-ce",
+      "model_year": 2026,
+      "variant": "EV CE",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 399000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 69.2,
+        "range_km": 530,
+        "range_standard": "CLTC",
+        "drive": "FWD",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "dc_connector": "CCS2",
+        "free_service": "Free periodic service for 3 years or 35,000 km (early-bird program)",
+        "seats": 7,
+        "length_mm": 4745,
+        "width_mm": 1850,
+        "height_mm": 1755,
+        "wheelbase_mm": 2810
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-eksion-officially-launched-indonesias-first-7-seater-suv-with-ev-plug-in-hybrid",
+            "title": "Wuling Eksion Officially Launched, Indonesia's First 7-Seater SUV with EV & Plug-in Hybrid",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-eksion-officially-launched-indonesias-first-7-seater-suv-with-ev-plug-in-hybrid",
+            "title": "Wuling Eksion Officially Launched, Indonesia's First 7-Seater SUV with EV & Plug-in Hybrid",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-eksion-officially-launched-indonesias-first-7-seater-suv-with-ev-plug-in-hybrid",
+            "title": "Wuling Eksion Officially Launched, Indonesia's First 7-Seater SUV with EV & Plug-in Hybrid",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "BEV version of the Eksion 7-seat SUV (a PHEV version also exists and is not covered here). Launched 22 April 2026 at early-bird prices of Rp389 jt (CE) and Rp459 jt (EX) for the first 2,000 buyers; Sept 2026 price per Moladin is Rp399 jt (CE) and Rp469 jt (EX). Wuling says 'up to 6 SRS airbags' and Level 2 ADAS; Moladin says Level 2 ADAS is EX-only, so the 6 airbags and ADAS list are given for EX only and CE airbag count is unknown. Power 150 kW = 201 hp / 204 PS. AC/DC kW and charge times not published. Assembly location not stated in sources found (the PHEV/EV range is presumably built in Cikarang but not confirmed).",
+      "notes_id": "Versi BEV dari SUV 7 penumpang Eksion (versi PHEV juga ada, tetapi tidak dibahas di sini). Diluncurkan 22 April 2026 dengan harga early-bird Rp389 jt (CE) dan Rp459 jt (EX) untuk 2.000 pembeli pertama; harga September 2026 menurut Moladin Rp399 jt (CE) dan Rp469 jt (EX). Wuling menyebut 'hingga 6 SRS airbag' dan ADAS Level 2; Moladin menyebut ADAS Level 2 hanya untuk EX, sehingga 6 airbag dan daftar ADAS hanya dicantumkan untuk EX, sedangkan jumlah airbag CE tidak diketahui. Tenaga 150 kW = 201 hp / 204 PS. Daya AC/DC kW dan waktu pengisian tidak dipublikasikan. Lokasi perakitan tidak disebutkan sumber yang ditemukan (lini PHEV/EV diduga dirakit di Cikarang, tetapi belum terkonfirmasi)."
+    },
+    {
+      "id": "wuling-eksion-ev-2026-ev-ex",
+      "model_year": 2026,
+      "variant": "EV EX",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 469000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 69.2,
+        "range_km": 530,
+        "range_standard": "CLTC",
+        "drive": "FWD",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "dc_connector": "CCS2",
+        "free_service": "Free periodic service for 3 years or 35,000 km (early-bird program)",
+        "seats": 7,
+        "length_mm": 4745,
+        "width_mm": 1850,
+        "height_mm": 1755,
+        "wheelbase_mm": 2810,
+        "adas": "ACC, IDA, FCW, AEB, LDW, BSD, LCA, DOW, RCTA, RCW, IHMA",
+        "airbags": 6
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-eksion-officially-launched-indonesias-first-7-seater-suv-with-ev-plug-in-hybrid",
+            "title": "Wuling Eksion Officially Launched, Indonesia's First 7-Seater SUV with EV & Plug-in Hybrid",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www3.wuling.id/?p=30406",
+            "title": "Wuling Eksion Available in EV and Plug-in Hybrid Options with Two Variants | Wuling",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-eksion-officially-launched-indonesias-first-7-seater-suv-with-ev-plug-in-hybrid",
+            "title": "Wuling Eksion Officially Launched, Indonesia's First 7-Seater SUV with EV & Plug-in Hybrid",
+            "date": "2026-04",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-eksion-officially-launched-indonesias-first-7-seater-suv-with-ev-plug-in-hybrid",
+            "title": "Wuling Eksion Officially Launched, Indonesia's First 7-Seater SUV with EV & Plug-in Hybrid",
+            "date": "2026-04",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-wuling-eksion-ev-ce-2026-segini/?show_all=1",
+            "title": "Harga Wuling Eksion EV CE 2026 (Moladin)",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8457188/spesifikasi-wuling-eksion-yang-dijual-mulai-rp-389-juta",
+            "title": "Spesifikasi Wuling Eksion yang Dijual Mulai Rp 389 Juta",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "BEV version of the Eksion 7-seat SUV (a PHEV version also exists and is not covered here). Launched 22 April 2026 at early-bird prices of Rp389 jt (CE) and Rp459 jt (EX) for the first 2,000 buyers; Sept 2026 price per Moladin is Rp399 jt (CE) and Rp469 jt (EX). Wuling says 'up to 6 SRS airbags' and Level 2 ADAS; Moladin says Level 2 ADAS is EX-only, so the 6 airbags and ADAS list are given for EX only and CE airbag count is unknown. Power 150 kW = 201 hp / 204 PS. AC/DC kW and charge times not published. Assembly location not stated in sources found (the PHEV/EV range is presumably built in Cikarang but not confirmed).",
+      "notes_id": "Versi BEV dari SUV 7 penumpang Eksion (versi PHEV juga ada, tetapi tidak dibahas di sini). Diluncurkan 22 April 2026 dengan harga early-bird Rp389 jt (CE) dan Rp459 jt (EX) untuk 2.000 pembeli pertama; harga September 2026 menurut Moladin Rp399 jt (CE) dan Rp469 jt (EX). Wuling menyebut 'hingga 6 SRS airbag' dan ADAS Level 2; Moladin menyebut ADAS Level 2 hanya untuk EX, sehingga 6 airbag dan daftar ADAS hanya dicantumkan untuk EX, sedangkan jumlah airbag CE tidak diketahui. Tenaga 150 kW = 201 hp / 204 PS. Daya AC/DC kW dan waktu pengisian tidak dipublikasikan. Lokasi perakitan tidak disebutkan sumber yang ditemukan (lini PHEV/EV diduga dirakit di Cikarang, tetapi belum terkonfirmasi)."
+    }
+  ]
+}

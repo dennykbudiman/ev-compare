@@ -1,0 +1,761 @@
+{
+  "make": "Wuling",
+  "model": "Aira ev",
+  "trims": [
+    {
+      "id": "wuling-aira-ev-2026-standard-range",
+      "model_year": 2026,
+      "variant": "Standard Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 155000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 16.2,
+        "range_km": 205,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 85,
+        "top_speed_kmh": 101,
+        "ac_full_hours": 4.8,
+        "dc_10_80_min": 35,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime (core EV components, launch package T&C)",
+        "seats": 4,
+        "length_mm": 3268,
+        "width_mm": 1550,
+        "height_mm": 1575,
+        "wheelbase_mm": 2190,
+        "turning_radius_m": 4.5,
+        "boot_l": 170,
+        "tyre_size": "155/70 R13",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "motor_type": "PMSM",
+        "kerb_weight_kg": 790,
+        "heat_pump": false
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.gridoto.com/amp/224402027/sudah-diproduksi-lokal-segini-tkdn-wuling-aira-ev?page=all",
+            "title": "Sudah Diproduksi Lokal, Segini TKDN Wuling Aira ev",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://data.carnewschina.com/database/wuling/wuling-hongguang-mini-ev/2026/params",
+            "title": "Wuling Hongguang Mini EV 2026 params (CarNewsChina database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://data.carnewschina.com/database/wuling/wuling-hongguang-mini-ev/2026/params",
+            "title": "Wuling Hongguang Mini EV 2026 params (CarNewsChina database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/wuling/wuling-hongguang-mini-ev/2026/params",
+            "title": "Wuling Hongguang Mini EV 2026 params (CarNewsChina database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS July 2026. Four-door city car based on the Hongguang Mini EV platform. AC time is SOC 20–100%; DC time is 30–80% (DC power and connector not published). Boot 170 L with seats up, 838 L folded. Conflicts: oto.com lists power '67' and torque 91 Nm and 5 seats, and gives the SR battery as 16 kWh; Moladin's preview gives width 1,520 mm; the official wuling.id figures (30 kW, 85 Nm, 4 seats, 1,550 mm) are used. Lifetime core-component warranty was quoted as part of the GIIAS 2026 launch package. Standard Range has disc/drum brakes and no ESC, EPB, hill hold or rear camera. Motor type, kerb weight and heat pump (none) from the Chinese spec of the 2026 four-door Hongguang Mini EV 205 km (16.2 kWh, 30 kW, 85 Nm; data.carnewschina.com).",
+      "notes_id": "Diluncurkan di GIIAS Juli 2026. City car empat pintu berbasis platform Hongguang Mini EV. Waktu AC untuk SOC 20–100%; waktu DC untuk 30–80% (daya DC dan jenis konektor tidak dipublikasikan). Bagasi 170 L dengan jok tegak, 838 L saat dilipat. Data berbeda: oto.com mencantumkan tenaga '67', torsi 91 Nm, dan 5 kursi, serta baterai SR 16 kWh; pratinjau Moladin menyebut lebar 1.520 mm; dipakai angka resmi wuling.id (30 kW, 85 Nm, 4 kursi, 1.550 mm). Garansi komponen inti seumur hidup disebut sebagai bagian paket peluncuran GIIAS 2026. Standard Range memakai rem cakram/tromol tanpa ESC, EPB, hill hold, maupun kamera belakang. Tipe motor, berat kosong, dan heat pump (tidak ada) dari spesifikasi Tiongkok Hongguang Mini EV empat pintu 2026 versi 205 km (16,2 kWh, 30 kW, 85 Nm; data.carnewschina.com)."
+    },
+    {
+      "id": "wuling-aira-ev-2026-long-range",
+      "model_year": 2026,
+      "variant": "Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 175000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 25.1,
+        "range_km": 301,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 85,
+        "top_speed_kmh": 101,
+        "ac_full_hours": 7.2,
+        "dc_10_80_min": 35,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime (core EV components, launch package T&C)",
+        "seats": 4,
+        "length_mm": 3268,
+        "width_mm": 1550,
+        "height_mm": 1575,
+        "wheelbase_mm": 2190,
+        "turning_radius_m": 4.5,
+        "boot_l": 170,
+        "tyre_size": "155/70 R13",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "ground_clearance_mm": 184,
+        "motor_type": "PMSM",
+        "kerb_weight_kg": 860,
+        "heat_pump": false
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.gridoto.com/amp/224402027/sudah-diproduksi-lokal-segini-tkdn-wuling-aira-ev?page=all",
+            "title": "Sudah Diproduksi Lokal, Segini TKDN Wuling Aira ev",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/news/wuling-aira-ev-vs-wuling-air-ev/",
+            "title": "Wuling Aira EV vs Wuling Air EV (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596289/spesifikasi-wuling-aira-ev-yang-dijual-mulai-rp-155-juta",
+            "title": "Spesifikasi Wuling Aira ev yang Dijual Mulai Rp 155 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://wuling.id/en/aira-ev",
+            "title": "Wuling Aira ev specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/wuling/aira-ev/long-range",
+            "title": "Wuling Aira EV Long Range (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://data.carnewschina.com/database/wuling/wuling-hongguang-mini-ev/2026/params",
+            "title": "Wuling Hongguang Mini EV 2026 params (CarNewsChina database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://data.carnewschina.com/database/wuling/wuling-hongguang-mini-ev/2026/params",
+            "title": "Wuling Hongguang Mini EV 2026 params (CarNewsChina database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/wuling/wuling-hongguang-mini-ev/2026/params",
+            "title": "Wuling Hongguang Mini EV 2026 params (CarNewsChina database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS July 2026. Four-door city car based on the Hongguang Mini EV platform. AC time is SOC 20–100%; DC time is 30–80% (DC power and connector not published). Boot 170 L with seats up, 838 L folded. Conflicts: oto.com lists power '67' and torque 91 Nm and 5 seats, and gives the SR battery as 16 kWh; Moladin's preview gives width 1,520 mm; the official wuling.id figures (30 kW, 85 Nm, 4 seats, 1,550 mm) are used. Lifetime core-component warranty was quoted as part of the GIIAS 2026 launch package. Long Range adds ESC, EPB with auto hold, hill hold, rear camera, smart entry and 10.1-inch screen. Ground clearance 184 mm from oto.com only. Motor type, kerb weight and heat pump (none) from the Chinese spec of the 2026 four-door Hongguang Mini EV 301 km (25.1 kWh, 30 kW, 85 Nm; data.carnewschina.com).",
+      "notes_id": "Diluncurkan di GIIAS Juli 2026. City car empat pintu berbasis platform Hongguang Mini EV. Waktu AC untuk SOC 20–100%; waktu DC untuk 30–80% (daya DC dan jenis konektor tidak dipublikasikan). Bagasi 170 L dengan jok tegak, 838 L saat dilipat. Data berbeda: oto.com mencantumkan tenaga '67', torsi 91 Nm, dan 5 kursi, serta baterai SR 16 kWh; pratinjau Moladin menyebut lebar 1.520 mm; dipakai angka resmi wuling.id (30 kW, 85 Nm, 4 kursi, 1.550 mm). Garansi komponen inti seumur hidup disebut sebagai bagian paket peluncuran GIIAS 2026. Long Range menambahkan ESC, EPB dengan auto hold, hill hold, kamera belakang, smart entry, dan layar 10,1 inci. Ground clearance 184 mm hanya dari oto.com. Tipe motor, berat kosong, dan heat pump (tidak ada) dari spesifikasi Tiongkok Hongguang Mini EV empat pintu 2026 versi 301 km (25,1 kWh, 30 kW, 85 Nm; data.carnewschina.com)."
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "make": "VinFast",
+  "model": "Limo Green",
+  "trims": [
+    {
+      "id": "vinfast-limo-green-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "MPV",
+        "price_otr_idr": 389000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 60.13,
+        "range_km": 450,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 150,
+        "torque_nm": 280,
+        "dc_10_80_min": 30,
+        "dc_time_window": "10–70%",
+        "seats": 7,
+        "length_mm": 4740,
+        "width_mm": 1872,
+        "height_mm": 1723,
+        "wheelbase_mm": 2840,
+        "ground_clearance_mm": 180,
+        "tyre_size": "235/55 R18",
+        "airbags": 4,
+        "airbag_positions": "driver, front passenger, curtain",
+        "dc_max_kw": 80
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://industri.kontan.co.id/news/vinfast-tetapkan-harga-limo-green-rp-389-juta-bidik-segmen-mpv-listrik-7-penumpang",
+            "title": "VinFast Tetapkan Harga Limo Green Rp 389 Juta, Bidik Segmen MPV Listrik 7 Penumpang",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://industri.kontan.co.id/news/vinfast-tetapkan-harga-limo-green-rp-389-juta-bidik-segmen-mpv-listrik-7-penumpang",
+            "title": "VinFast Tetapkan Harga Limo Green Rp 389 Juta, Bidik Segmen MPV Listrik 7 Penumpang",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://industri.kontan.co.id/news/vinfast-tetapkan-harga-limo-green-rp-389-juta-bidik-segmen-mpv-listrik-7-penumpang",
+            "title": "VinFast Tetapkan Harga Limo Green Rp 389 Juta, Bidik Segmen MPV Listrik 7 Penumpang",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://industri.kontan.co.id/news/vinfast-tetapkan-harga-limo-green-rp-389-juta-bidik-segmen-mpv-listrik-7-penumpang",
+            "title": "VinFast Tetapkan Harga Limo Green Rp 389 Juta, Bidik Segmen MPV Listrik 7 Penumpang",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://industri.kontan.co.id/news/vinfast-tetapkan-harga-limo-green-rp-389-juta-bidik-segmen-mpv-listrik-7-penumpang",
+            "title": "VinFast Tetapkan Harga Limo Green Rp 389 Juta, Bidik Segmen MPV Listrik 7 Penumpang",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-limo-green/spesifikasi",
+            "title": "Spesifikasi VinFast Limo Green (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-vinfast-limo-green-at-2026-18398",
+            "title": "Chi tiết Thông số kĩ thuật của xe VinFast Limo Green năm 2026 Phiên bản AT (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ]
+      },
+      "notes": "Launched Feb 2026; Rp389 jt OTR Jakarta incl. battery (battery subscription Rp319 jt). Power published as 201 hp (= 150 kW). AC charge 0–100% in 8–10 h per Moladin. DC time is 10–70%. Moladin's review text says range 'around 400-something km' while its table and kontan say 450 km. Basic safety only (no BSM/360 camera per Moladin). CBU import from Vietnam. Price is the battery-included (battery ownership) OTR Jakarta price; VinFast also sells with a battery subscription at a lower upfront price. DC peak charging power from the Vietnamese spec (bonbanh.com).",
+      "notes_id": "Diluncurkan Februari 2026; Rp389 jt OTR Jakarta termasuk baterai (dengan sewa baterai Rp319 jt). Tenaga dipublikasikan sebagai 201 hp (= 150 kW). Pengisian AC 0–100% dalam 8–10 jam menurut Moladin. Waktu DC adalah 10–70%. Teks ulasan Moladin menyebut jarak tempuh 'sekitar 400-an km', sementara tabelnya dan kontan menyebut 450 km. Hanya fitur keselamatan dasar (tanpa BSM/kamera 360 menurut Moladin). CBU impor dari Vietnam. Harga adalah OTR Jakarta termasuk baterai (baterai milik sendiri); VinFast juga menjual dengan skema sewa baterai dengan harga awal lebih rendah. Daya puncak pengisian DC dari spesifikasi Vietnam (bonbanh.com)."
+    }
+  ]
+}

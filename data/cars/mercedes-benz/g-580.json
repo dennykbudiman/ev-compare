@@ -1,0 +1,188 @@
+{
+  "make": "Mercedes-Benz",
+  "model": "G 580 with EQ Technology",
+  "trims": [
+    {
+      "id": "mercedes-benz-g-580-2025-eq-technology",
+      "model_year": 2025,
+      "variant": "G 580 with EQ Technology",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "motor_count": 4,
+        "drive": "AWD",
+        "power_kw": 432,
+        "torque_nm": 1164,
+        "accel_0_100_s": 4.7,
+        "top_speed_kmh": 180,
+        "ac_max_kw": 11,
+        "dc_max_kw": 200,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "length_mm": 4613,
+        "width_mm": 1984,
+        "height_mm": 1969,
+        "wheelbase_mm": 2890,
+        "boot_l": 667,
+        "seats": 5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://pdn.mercedes-benz.co.id/en/buy/pricelist/",
+            "title": "Download Mercedes-Benz Price List - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/g-class/n465/g580-with-eq-technology-edition-one-2026",
+            "title": "Mercedes-Benz G580 with EQ Technology Edition One (2026) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Listed on the Mercedes-Benz Indonesia price page 'from Rp6,410,000,000' (OTR/off-road basis not stated, so price left out). No Indonesian spec source found; global specs not added. The Mercedes-Maybach EQS 680 SUV (from Rp7,650,000,000) is also listed but no Indonesian specs were found, so it has no file. Electric CLA: not listed in Indonesia (only the CLA Coupé, not identified as electric). Motor count, drive, power (579 hp = 432 kW), torque, 0-100, top speed, AC/DC power, connectors, dimensions, boot and seats from the Malaysian spec of the G 580 with EQ Technology Edition One (carbase.my); matched on the model name only, since the G 580 is sold with a single powertrain and no Indonesian figures were published. Battery and range left out (capacity not labelled, range standard not stated).",
+      "notes_id": "Tercantum di halaman harga Mercedes-Benz Indonesia 'mulai Rp6.410.000.000' (dasar OTR/off the road tidak disebutkan, sehingga harga dikosongkan). Tidak ditemukan sumber spesifikasi Indonesia; spesifikasi global tidak ditambahkan. Mercedes-Maybach EQS 680 SUV (mulai Rp7.650.000.000) juga tercantum, tetapi tidak ditemukan spesifikasi Indonesia, sehingga tidak dibuatkan file. CLA listrik: tidak tercantum di Indonesia (hanya CLA Coupé, yang tidak disebut sebagai versi listrik). Jumlah motor, penggerak, daya (579 hp = 432 kW), torsi, 0-100, kecepatan maksimum, daya AC/DC, konektor, dimensi, bagasi, dan jumlah kursi dari spesifikasi Malaysia untuk G 580 with EQ Technology Edition One (carbase.my); dicocokkan hanya dari nama model karena G 580 dijual dengan satu powertrain dan tidak ada angka Indonesia yang dipublikasikan. Baterai dan jarak tempuh tidak diisi (kapasitas tidak berlabel, standar jarak tempuh tidak disebut)."
+    }
+  ]
+}

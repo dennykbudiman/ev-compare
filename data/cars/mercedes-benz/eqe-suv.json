@@ -1,0 +1,342 @@
+{
+  "make": "Mercedes-Benz",
+  "model": "EQE SUV",
+  "trims": [
+    {
+      "id": "mercedes-benz-eqe-suv-2025-350-4matic-amg-line",
+      "model_year": 2025,
+      "variant": "EQE 350 4MATIC SUV AMG Line",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 2925000000,
+        "range_km": 566,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 215,
+        "torque_nm": 765,
+        "accel_0_100_s": 6.6,
+        "top_speed_kmh": 210,
+        "ac_full_hours": 9.5,
+        "dc_10_80_min": 31,
+        "length_mm": 4863,
+        "height_mm": 1685,
+        "wheelbase_mm": 3022,
+        "kerb_weight_kg": 2580,
+        "boot_l": 520,
+        "seats": 5,
+        "tyre_size": "245/55 R20",
+        "adas": "LKA, LDW, BSM, PRE-SAFE Impulse, 360 camera",
+        "battery_warranty": "10 yrs / 250,000 km",
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "v2l": false,
+        "frunk_l": 0,
+        "battery_usable_kwh": 90,
+        "battery_gross_kwh": 100.0
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7414905/sabar-mercedes-benz-baru-rakit-mobil-listrik-di-wanaherang-2027",
+            "title": "Sabar! Mercedes-Benz Baru Rakit Mobil Listrik di Wanaherang 2027 - detikOto",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqe-suv/",
+            "title": "Mercedes-Benz EQE SUV - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+            "title": "Mercedes-Benz EQE SUV 350 4MATIC (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+            "title": "Mercedes-Benz EQE SUV 350 4MATIC (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+            "title": "Mercedes-Benz EQE SUV 350 4MATIC (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+            "title": "Mercedes-Benz EQE SUV 350 4MATIC (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+            "title": "Mercedes-Benz EQE SUV 350 4MATIC (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+            "title": "Mercedes-Benz EQE SUV 350 4MATIC (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+            "title": "Mercedes-Benz EQE SUV 350 4MATIC (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqe-suv/spesifikasi",
+            "title": "Mercedes Benz EQE SUV 2026 Specification - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/2047/Mercedes-Benz-EQE-SUV-350-4MATIC",
+            "title": "Mercedes-Benz EQE SUV 350 4MATIC (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "OTR Rp2,925,000,000 (oto.com); Mercedes-Benz Indonesia price page 'from Rp2,885,000,000' (basis not stated); September 2024 dealer list Rp2,890,000,000 (named '350+ 4MATIC SUV'). Kerb weight: Mercedes 2,580 kg vs oto.com 2,560 kg. Width 2,141 mm is incl. mirrors, left out. Same specs 2024-2026. Voltage, AC power, connectors, charge port, V2L and frunk from the European spec of the 215 kW EQE SUV 350 4MATIC (ev-database.org, MY23-24; the MY25 European version has 235 kW). Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 90 kWh figure is stored as usable capacity; gross 100.0 kWh is from the European spec (ev-database.org).",
+      "notes_id": "OTR Rp2.925.000.000 (oto.com); halaman harga Mercedes-Benz Indonesia 'mulai Rp2.885.000.000' (dasar harga tidak disebutkan); daftar diler September 2024 Rp2.890.000.000 (bernama '350+ 4MATIC SUV'). Bobot kosong: Mercedes 2.580 kg vs oto.com 2.560 kg. Lebar 2.141 mm sudah termasuk spion, dikosongkan. Spesifikasi sama 2024-2026. Tegangan, daya AC, konektor, posisi port, V2L, dan frunk dari spesifikasi Eropa untuk EQE SUV 350 4MATIC 215 kW (ev-database.org, MY23-24; versi Eropa MY25 bertenaga 235 kW). Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 90 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 100 kWh dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

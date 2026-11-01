@@ -1,0 +1,1180 @@
+{
+  "make": "Polytron",
+  "model": "G3",
+  "trims": [
+    {
+      "id": "polytron-g3-2025-g3",
+      "model_year": 2025,
+      "variant": "G3",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 419000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 51.916,
+        "range_km": 402,
+        "range_standard": "CLTC",
+        "power_kw": 150,
+        "torque_nm": 320,
+        "drive": "FWD",
+        "dc_10_80_min": 35,
+        "dc_time_window": "20–70%",
+        "top_speed_kmh": 150,
+        "accel_0_100_s": 9.6,
+        "length_mm": 4720,
+        "width_mm": 1908,
+        "height_mm": 1696,
+        "wheelbase_mm": 2800,
+        "airbags": 6,
+        "adas": "ACC, AEB, BSD (Level 2, 14 functions)"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224371149/bikin-bangga-indonesia-begini-spek-dan-harga-terbaru-polytron-g3?page=all",
+            "title": "Bikin Bangga Indonesia, Begini Spek dan Harga Terbaru Polytron G3+",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Polytron's first car, a locally adapted Skywell BE11, launched May 2025. Price is the battery-included OTR Jakarta price; Polytron also sells it with a battery subscription (BaaS): Rp299 jt (G3) / Rp339 jt (G3+) at launch. Battery 51.916 kWh per Polytron and detik (launch); detik Feb 2026 writes 51.196 kWh (likely a typo). DC time is 20–70% in under 35 min. Dimensions: detik Feb 2026 4,720 x 1,908 x 1,696 mm vs oto.com 4,750 x 1,910 x 1,701 mm. Top speed: Polytron 150 km/h vs oto.com 160 km/h. 0–100 km/h 9.6 s claimed (a media test measured 8.7 s). Boot 1,141 L is the maximum figure quoted. Assembly location not confirmed in sources found. G3 has 19-inch wheels and no panoramic sunroof; its AC charging is slower than the G3+ (time not published).",
+      "notes_id": "Mobil pertama Polytron, adaptasi lokal Skywell BE11, diluncurkan Mei 2025. Harga adalah OTR Jakarta termasuk baterai; Polytron juga menjualnya dengan skema sewa baterai (BaaS): Rp299 jt (G3) / Rp339 jt (G3+) saat peluncuran. Baterai 51,916 kWh menurut Polytron dan detik (peluncuran); detik Februari 2026 menulis 51,196 kWh (kemungkinan salah ketik). Waktu DC adalah 20–70% dalam kurang dari 35 menit. Dimensi: detik Februari 2026 4.720 x 1.908 x 1.696 mm vs oto.com 4.750 x 1.910 x 1.701 mm. Kecepatan maksimum: Polytron 150 km/jam vs oto.com 160 km/jam. Klaim 0–100 km/jam 9,6 detik (uji salah satu media mencatat 8,7 detik). Bagasi 1.141 L adalah angka maksimum yang disebutkan. Lokasi perakitan belum terkonfirmasi di sumber yang ditemukan. G3 memakai pelek 19 inci tanpa sunroof panoramik; pengisian AC-nya lebih lambat daripada G3+ (waktunya tidak dipublikasikan)."
+    },
+    {
+      "id": "polytron-g3-2026-g3",
+      "model_year": 2026,
+      "variant": "G3",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 461500000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 51.916,
+        "range_km": 402,
+        "range_standard": "CLTC",
+        "power_kw": 150,
+        "torque_nm": 320,
+        "drive": "FWD",
+        "dc_10_80_min": 35,
+        "dc_time_window": "20–70%",
+        "top_speed_kmh": 150,
+        "accel_0_100_s": 9.6,
+        "length_mm": 4720,
+        "width_mm": 1908,
+        "height_mm": 1696,
+        "wheelbase_mm": 2800,
+        "airbags": 6,
+        "adas": "ACC, AEB, BSD (Level 2, 14 functions)"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224371149/bikin-bangga-indonesia-begini-spek-dan-harga-terbaru-polytron-g3?page=all",
+            "title": "Bikin Bangga Indonesia, Begini Spek dan Harga Terbaru Polytron G3+",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Polytron's first car, a locally adapted Skywell BE11, launched May 2025. Price is the battery-included OTR Jakarta price; Polytron also sells it with a battery subscription (BaaS): Rp329.5 jt (G3) / Rp373.5 jt (G3+) in 2026. Battery 51.916 kWh per Polytron and detik (launch); detik Feb 2026 writes 51.196 kWh (likely a typo). DC time is 20–70% in under 35 min. Dimensions: detik Feb 2026 4,720 x 1,908 x 1,696 mm vs oto.com 4,750 x 1,910 x 1,701 mm. Top speed: Polytron 150 km/h vs oto.com 160 km/h. 0–100 km/h 9.6 s claimed (a media test measured 8.7 s). Boot 1,141 L is the maximum figure quoted. Assembly location not confirmed in sources found. G3 has 19-inch wheels and no panoramic sunroof; its AC charging is slower than the G3+ (time not published).",
+      "notes_id": "Mobil pertama Polytron, adaptasi lokal Skywell BE11, diluncurkan Mei 2025. Harga adalah OTR Jakarta termasuk baterai; Polytron juga menjualnya dengan skema sewa baterai (BaaS): Rp329,5 jt (G3) / Rp373,5 jt (G3+) pada 2026. Baterai 51,916 kWh menurut Polytron dan detik (peluncuran); detik Februari 2026 menulis 51,196 kWh (kemungkinan salah ketik). Waktu DC adalah 20–70% dalam kurang dari 35 menit. Dimensi: detik Februari 2026 4.720 x 1.908 x 1.696 mm vs oto.com 4.750 x 1.910 x 1.701 mm. Kecepatan maksimum: Polytron 150 km/jam vs oto.com 160 km/jam. Klaim 0–100 km/jam 9,6 detik (uji salah satu media mencatat 8,7 detik). Bagasi 1.141 L adalah angka maksimum yang disebutkan. Lokasi perakitan belum terkonfirmasi di sumber yang ditemukan. G3 memakai pelek 19 inci tanpa sunroof panoramik; pengisian AC-nya lebih lambat daripada G3+ (waktunya tidak dipublikasikan)."
+    },
+    {
+      "id": "polytron-g3-2025-g3-plus",
+      "model_year": 2025,
+      "variant": "G3+",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 459000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 51.916,
+        "range_km": 402,
+        "range_standard": "CLTC",
+        "power_kw": 150,
+        "torque_nm": 320,
+        "drive": "FWD",
+        "dc_10_80_min": 35,
+        "dc_time_window": "20–70%",
+        "top_speed_kmh": 150,
+        "accel_0_100_s": 9.6,
+        "length_mm": 4720,
+        "width_mm": 1908,
+        "height_mm": 1696,
+        "wheelbase_mm": 2800,
+        "airbags": 6,
+        "adas": "ACC, AEB, BSD (Level 2, 14 functions)",
+        "ac_full_hours": 3.5,
+        "dc_max_kw": 70,
+        "ground_clearance_mm": 159,
+        "kerb_weight_kg": 1870,
+        "seats": 5,
+        "boot_l": 1141,
+        "tyre_size": "245/45 R20",
+        "airbag_positions": "driver, front passenger, front side, curtain"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224371149/bikin-bangga-indonesia-begini-spek-dan-harga-terbaru-polytron-g3?page=all",
+            "title": "Bikin Bangga Indonesia, Begini Spek dan Harga Terbaru Polytron G3+",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Polytron's first car, a locally adapted Skywell BE11, launched May 2025. Price is the battery-included OTR Jakarta price; Polytron also sells it with a battery subscription (BaaS): Rp299 jt (G3) / Rp339 jt (G3+) at launch. Battery 51.916 kWh per Polytron and detik (launch); detik Feb 2026 writes 51.196 kWh (likely a typo). DC time is 20–70% in under 35 min. Dimensions: detik Feb 2026 4,720 x 1,908 x 1,696 mm vs oto.com 4,750 x 1,910 x 1,701 mm. Top speed: Polytron 150 km/h vs oto.com 160 km/h. 0–100 km/h 9.6 s claimed (a media test measured 8.7 s). Boot 1,141 L is the maximum figure quoted. Assembly location not confirmed in sources found. G3+ has 20-inch wheels and AC charging under 3.5 h; DC peak 70 kW per listrikindonesia (single source).",
+      "notes_id": "Mobil pertama Polytron, adaptasi lokal Skywell BE11, diluncurkan Mei 2025. Harga adalah OTR Jakarta termasuk baterai; Polytron juga menjualnya dengan skema sewa baterai (BaaS): Rp299 jt (G3) / Rp339 jt (G3+) saat peluncuran. Baterai 51,916 kWh menurut Polytron dan detik (peluncuran); detik Februari 2026 menulis 51,196 kWh (kemungkinan salah ketik). Waktu DC adalah 20–70% dalam kurang dari 35 menit. Dimensi: detik Februari 2026 4.720 x 1.908 x 1.696 mm vs oto.com 4.750 x 1.910 x 1.701 mm. Kecepatan maksimum: Polytron 150 km/jam vs oto.com 160 km/jam. Klaim 0–100 km/jam 9,6 detik (uji salah satu media mencatat 8,7 detik). Bagasi 1.141 L adalah angka maksimum yang disebutkan. Lokasi perakitan belum terkonfirmasi di sumber yang ditemukan. G3+ memakai pelek 20 inci dan pengisian AC kurang dari 3,5 jam; puncak DC 70 kW menurut listrikindonesia (satu sumber)."
+    },
+    {
+      "id": "polytron-g3-2026-g3-plus",
+      "model_year": 2026,
+      "variant": "G3+",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 505500000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 51.916,
+        "range_km": 402,
+        "range_standard": "CLTC",
+        "power_kw": 150,
+        "torque_nm": 320,
+        "drive": "FWD",
+        "dc_10_80_min": 35,
+        "dc_time_window": "20–70%",
+        "top_speed_kmh": 150,
+        "accel_0_100_s": 9.6,
+        "length_mm": 4720,
+        "width_mm": 1908,
+        "height_mm": 1696,
+        "wheelbase_mm": 2800,
+        "airbags": 6,
+        "adas": "ACC, AEB, BSD (Level 2, 14 functions)",
+        "ac_full_hours": 3.5,
+        "dc_max_kw": 70,
+        "ground_clearance_mm": 159,
+        "kerb_weight_kg": 1870,
+        "seats": 5,
+        "boot_l": 1141,
+        "tyre_size": "245/45 R20",
+        "airbag_positions": "driver, front passenger, front side, curtain"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224371149/bikin-bangga-indonesia-begini-spek-dan-harga-terbaru-polytron-g3?page=all",
+            "title": "Bikin Bangga Indonesia, Begini Spek dan Harga Terbaru Polytron G3+",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://polytron.co.id/produk/polytron-g3-battery-as-a-service-mobil-listrik-pelunasan-online/",
+            "title": "Polytron G3 Battery as a Service (polytron.co.id)",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7902184/resmi-meluncur-segini-harga-mobil-listrik-polytron",
+            "title": "Resmi Meluncur, Segini Harga Mobil Listrik Polytron",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://listrikindonesia.com/detail/19890/mobil-listrik-lokal-waktunya-tampil-ini-spesifikasi-polytron-g3",
+            "title": "Mobil Listrik Lokal Waktunya Tampil, Ini Spesifikasi Polytron G3",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8359638/daftar-harga-mobil-polytron-terbaru-sekarang-termurah-segini",
+            "title": "Daftar Harga Mobil Polytron Terbaru, Sekarang Termurah Segini",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.oto.com/mobil-baru/polytron/g3-series/battery-subscription",
+            "title": "Polytron G3+ Series Battery Subscription (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Polytron's first car, a locally adapted Skywell BE11, launched May 2025. Price is the battery-included OTR Jakarta price; Polytron also sells it with a battery subscription (BaaS): Rp329.5 jt (G3) / Rp373.5 jt (G3+) in 2026. Battery 51.916 kWh per Polytron and detik (launch); detik Feb 2026 writes 51.196 kWh (likely a typo). DC time is 20–70% in under 35 min. Dimensions: detik Feb 2026 4,720 x 1,908 x 1,696 mm vs oto.com 4,750 x 1,910 x 1,701 mm. Top speed: Polytron 150 km/h vs oto.com 160 km/h. 0–100 km/h 9.6 s claimed (a media test measured 8.7 s). Boot 1,141 L is the maximum figure quoted. Assembly location not confirmed in sources found. G3+ has 20-inch wheels and AC charging under 3.5 h; DC peak 70 kW per listrikindonesia (single source).",
+      "notes_id": "Mobil pertama Polytron, adaptasi lokal Skywell BE11, diluncurkan Mei 2025. Harga adalah OTR Jakarta termasuk baterai; Polytron juga menjualnya dengan skema sewa baterai (BaaS): Rp329,5 jt (G3) / Rp373,5 jt (G3+) pada 2026. Baterai 51,916 kWh menurut Polytron dan detik (peluncuran); detik Februari 2026 menulis 51,196 kWh (kemungkinan salah ketik). Waktu DC adalah 20–70% dalam kurang dari 35 menit. Dimensi: detik Februari 2026 4.720 x 1.908 x 1.696 mm vs oto.com 4.750 x 1.910 x 1.701 mm. Kecepatan maksimum: Polytron 150 km/jam vs oto.com 160 km/jam. Klaim 0–100 km/jam 9,6 detik (uji salah satu media mencatat 8,7 detik). Bagasi 1.141 L adalah angka maksimum yang disebutkan. Lokasi perakitan belum terkonfirmasi di sumber yang ditemukan. G3+ memakai pelek 20 inci dan pengisian AC kurang dari 3,5 jam; puncak DC 70 kW menurut listrikindonesia (satu sumber)."
+    }
+  ]
+}

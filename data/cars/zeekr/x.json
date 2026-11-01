@@ -1,0 +1,321 @@
+{
+  "make": "Zeekr",
+  "model": "X",
+  "trims": [
+    {
+      "id": "zeekr-x-2024-x",
+      "model_year": 2024,
+      "variant": "X",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CBU import",
+        "price_otr_idr": 1100000000,
+        "battery_gross_kwh": 66,
+        "range_km": 440,
+        "range_standard": "WLTP",
+        "dc_max_kw": 150,
+        "dc_10_80_min": 30,
+        "airbags": 7,
+        "accel_0_100_s": 3.8,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 315,
+        "torque_nm": 543,
+        "ac_max_kw": 11,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "length_mm": 4432,
+        "width_mm": 1836,
+        "height_mm": 1566,
+        "wheelbase_mm": 2750,
+        "boot_l": 362,
+        "seats": 5,
+        "airbag_positions": "front, side, curtain, knee",
+        "adas": "AEB, FCW, ACC, LCC, LKA, ALC, BSD, FCTA, RCTA, DOW",
+        "tyre_size": "235/50 R19",
+        "top_speed_kmh": 180
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.electrive.com/2026/02/12/zeekr-re-enters-indonesia-confirms-local-assembly/",
+            "title": "Zeekr re-enters Indonesia, confirms local assembly",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.electrive.com/2026/02/12/zeekr-re-enters-indonesia-confirms-local-assembly/",
+            "title": "Zeekr re-enters Indonesia, confirms local assembly",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.electrive.com/2026/02/12/zeekr-re-enters-indonesia-confirms-local-assembly/",
+            "title": "Zeekr re-enters Indonesia, confirms local assembly",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2024/12/06/2024-zeekr-x-launched-in-malaysia-rwd-and-awd-66kwh-battery-440km-range-rm156k/",
+            "title": "2024 Zeekr X launched in Malaysia - RWD and AWD, 66kWh battery, 440km range, RM156k",
+            "date": "2024-12",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2024/12/06/2024-zeekr-x-launched-in-malaysia-rwd-and-awd-66kwh-battery-440km-range-rm156k/",
+            "title": "2024 Zeekr X launched in Malaysia - RWD and AWD, 66kWh battery, 440km range, RM156k",
+            "date": "2024-12",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2024/12/06/2024-zeekr-x-launched-in-malaysia-rwd-and-awd-66kwh-battery-440km-range-rm156k/",
+            "title": "2024 Zeekr X launched in Malaysia - RWD and AWD, 66kWh battery, 440km range, RM156k",
+            "date": "2024-12",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2024/12/06/2024-zeekr-x-launched-in-malaysia-rwd-and-awd-66kwh-battery-440km-range-rm156k/",
+            "title": "2024 Zeekr X launched in Malaysia - RWD and AWD, 66kWh battery, 440km range, RM156k",
+            "date": "2024-12",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2024/12/06/2024-zeekr-x-launched-in-malaysia-rwd-and-awd-66kwh-battery-440km-range-rm156k/",
+            "title": "2024 Zeekr X launched in Malaysia - RWD and AWD, 66kWh battery, 440km range, RM156k",
+            "date": "2024-12",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/12/06/2024-zeekr-x-launched-in-malaysia-rwd-and-awd-66kwh-battery-440km-range-rm156k/",
+            "title": "2024 Zeekr X launched in Malaysia - RWD and AWD, 66kWh battery, 440km range, RM156k",
+            "date": "2024-12",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/zeekr/x/bx1e/flagship-awd-2025/",
+            "title": "Zeekr X Flagship AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched GJAW Nov 2024 as a CBU import via Premium Auto Prima; detik gives an indicative Rp1.1-1.3 M, electrive Rp1.1 M (OTR not stated). Variant/drive not stated; the 3.8 s 0-100 time is that of the AWD version. detik also quotes 540 km NEDC. Not part of Zeekr's Feb 2026 relaunch line-up (7X and 009), so treated as discontinued. Matched to the Malaysian 66 kWh Flagship AWD by its 3.8 s 0–100 time and 150 kW DC; motors, drive, power, torque, AC, V2L, dimensions, boot, seats, airbags, ADAS, tyres and top speed from the Malaysian spec (paultan.org, autobuzz.my). Power: paultan 422 hp, autobuzz 428 hp, both about 315 kW. Top speed: paultan 180 km/h vs autobuzz 190 km/h (paultan used).",
+      "notes_id": "Diluncurkan di GJAW November 2024 sebagai CBU impor melalui Premium Auto Prima; detik menyebut harga indikatif Rp1,1-1,3 M, electrive Rp1,1 M (tidak disebutkan OTR). Varian/penggerak tidak disebutkan; waktu 0-100 3,8 detik adalah milik versi AWD. detik juga menyebut 540 km NEDC. Tidak termasuk dalam jajaran peluncuran ulang Zeekr Februari 2026 (7X dan 009), sehingga dianggap sudah tidak dijual. Dicocokkan dengan Flagship AWD 66 kWh Malaysia berdasarkan 0–100 km/jam 3,8 detik dan DC 150 kW; jumlah motor, penggerak, daya, torsi, AC, V2L, dimensi, bagasi, kursi, airbag, ADAS, ban, dan kecepatan maksimum dari spesifikasi Malaysia (paultan.org, autobuzz.my). Daya: paultan 422 hp, autobuzz 428 hp, keduanya sekitar 315 kW. Kecepatan maksimum: paultan 180 km/jam vs autobuzz 190 km/jam (paultan dipakai)."
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "make": "Lexus",
+  "model": "UX 300e",
+  "trims": [
+    {
+      "id": "lexus-ux-300e-2020-300e",
+      "model_year": 2020,
+      "variant": "300e",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 1245000000,
+        "battery_gross_kwh": 54.3,
+        "range_km": 300,
+        "range_standard": "WLTP",
+        "power_kw": 150,
+        "torque_nm": 300,
+        "motor_type": "PMSM",
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 50,
+        "airbags": 8,
+        "adas": "PCS (AEB), DRCC (ACC), LDA, AHS, BSM, PVM",
+        "battery_warranty": "8 yrs / unlimited km",
+        "free_service": "Free periodic service and parts for 5 years, no mileage limit",
+        "drive": "FWD",
+        "battery_cooling": "Air",
+        "pack_nominal_voltage_v": 355,
+        "ac_connector": "Type 2",
+        "dc_connector": "CHAdeMO",
+        "dc_10_80_min": 52,
+        "heat_pump": true,
+        "length_mm": 4495,
+        "width_mm": 1840,
+        "height_mm": 1545,
+        "wheelbase_mm": 2640,
+        "seats": 5,
+        "accel_0_100_s": 7.5,
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.wapcar.my/news/fullyelectric-2021-lexus-ux-300e-launched-in-indonesia-marks-asean-debut-15704",
+            "title": "Fully-electric 2021 Lexus UX 300e launched in Indonesia; marks ASEAN debut",
+            "date": "2020-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232443148/lexus-ux-300e-mobil-listrik-pertama-lexus-segini-harga-jualnya?page=all",
+            "title": "Lexus UX 300e Mobil Listrik Pertama Lexus, Segini Harga Jualnya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.inews.id/otomotif/mobil/mobil-listrik-lexus-ux-300e-mengaspal-di-indonesia-harga-rp12-miliaran-bisa-berjalan-hingga-300-km/1",
+            "title": "Mobil Listrik Lexus UX 300e Mengaspal di Indonesia, Harga Rp1,2 Miliaran Bisa Berjalan hingga 300 Km",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5269550/spesifikasi-lexus-ux-300e-mobil-listrik-seharga-rp-12-miliar",
+            "title": "Spesifikasi Lexus UX 300e, Mobil Listrik Seharga Rp 1,2 Miliar",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.wapcar.my/news/fullyelectric-2021-lexus-ux-300e-launched-in-indonesia-marks-asean-debut-15704",
+            "title": "Fully-electric 2021 Lexus UX 300e launched in Indonesia; marks ASEAN debut",
+            "date": "2020-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5269550/spesifikasi-lexus-ux-300e-mobil-listrik-seharga-rp-12-miliar",
+            "title": "Spesifikasi Lexus UX 300e, Mobil Listrik Seharga Rp 1,2 Miliar",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.inews.id/otomotif/mobil/mobil-listrik-lexus-ux-300e-mengaspal-di-indonesia-harga-rp12-miliaran-bisa-berjalan-hingga-300-km/1",
+            "title": "Mobil Listrik Lexus UX 300e Mengaspal di Indonesia, Harga Rp1,2 Miliaran Bisa Berjalan hingga 300 Km",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5269550/spesifikasi-lexus-ux-300e-mobil-listrik-seharga-rp-12-miliar",
+            "title": "Spesifikasi Lexus UX 300e, Mobil Listrik Seharga Rp 1,2 Miliar",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.inews.id/otomotif/mobil/mobil-listrik-lexus-ux-300e-mengaspal-di-indonesia-harga-rp12-miliaran-bisa-berjalan-hingga-300-km/1",
+            "title": "Mobil Listrik Lexus UX 300e Mengaspal di Indonesia, Harga Rp1,2 Miliaran Bisa Berjalan hingga 300 Km",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5269550/spesifikasi-lexus-ux-300e-mobil-listrik-seharga-rp-12-miliar",
+            "title": "Spesifikasi Lexus UX 300e, Mobil Listrik Seharga Rp 1,2 Miliar",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232443148/lexus-ux-300e-mobil-listrik-pertama-lexus-segini-harga-jualnya?page=all",
+            "title": "Lexus UX 300e Mobil Listrik Pertama Lexus, Segini Harga Jualnya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5269550/spesifikasi-lexus-ux-300e-mobil-listrik-seharga-rp-12-miliar",
+            "title": "Spesifikasi Lexus UX 300e, Mobil Listrik Seharga Rp 1,2 Miliar",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232443148/lexus-ux-300e-mobil-listrik-pertama-lexus-segini-harga-jualnya?page=all",
+            "title": "Lexus UX 300e Mobil Listrik Pertama Lexus, Segini Harga Jualnya",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.wapcar.my/news/fullyelectric-2021-lexus-ux-300e-launched-in-indonesia-marks-asean-debut-15704",
+            "title": "Fully-electric 2021 Lexus UX 300e launched in Indonesia; marks ASEAN debut",
+            "date": "2020-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232443148/lexus-ux-300e-mobil-listrik-pertama-lexus-segini-harga-jualnya?page=all",
+            "title": "Lexus UX 300e Mobil Listrik Pertama Lexus, Segini Harga Jualnya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.wapcar.my/news/fullyelectric-2021-lexus-ux-300e-launched-in-indonesia-marks-asean-debut-15704",
+            "title": "Fully-electric 2021 Lexus UX 300e launched in Indonesia; marks ASEAN debut",
+            "date": "2020-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.wapcar.my/news/fullyelectric-2021-lexus-ux-300e-launched-in-indonesia-marks-asean-debut-15704",
+            "title": "Fully-electric 2021 Lexus UX 300e launched in Indonesia; marks ASEAN debut",
+            "date": "2020-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5269550/spesifikasi-lexus-ux-300e-mobil-listrik-seharga-rp-12-miliar",
+            "title": "Spesifikasi Lexus UX 300e, Mobil Listrik Seharga Rp 1,2 Miliar",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232443148/lexus-ux-300e-mobil-listrik-pertama-lexus-segini-harga-jualnya?page=all",
+            "title": "Lexus UX 300e Mobil Listrik Pertama Lexus, Segini Harga Jualnya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232443148/lexus-ux-300e-mobil-listrik-pertama-lexus-segini-harga-jualnya?page=all",
+            "title": "Lexus UX 300e Mobil Listrik Pertama Lexus, Segini Harga Jualnya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5269550/spesifikasi-lexus-ux-300e-mobil-listrik-seharga-rp-12-miliar",
+            "title": "Spesifikasi Lexus UX 300e, Mobil Listrik Seharga Rp 1,2 Miliar",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5269550/spesifikasi-lexus-ux-300e-mobil-listrik-seharga-rp-12-miliar",
+            "title": "Spesifikasi Lexus UX 300e, Mobil Listrik Seharga Rp 1,2 Miliar",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232443148/lexus-ux-300e-mobil-listrik-pertama-lexus-segini-harga-jualnya?page=all",
+            "title": "Lexus UX 300e Mobil Listrik Pertama Lexus, Segini Harga Jualnya",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://m.arenaev.com/lexus_ux_300e_54kwh_2018-specs-amps-134.php",
+            "title": "Lexus UX 300e - Full specifications - ArenaEV",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Lexus's first BEV and Indonesia was its first ASEAN market: launched 25-26 Nov 2020 at Rp1.245 billion OTR Jakarta, wall charger included. Power 201 dk/hp (= 150 kW); Wapcar says 201 PS, a pre-launch report says 204 dk. Gridoto gives 54.35 kWh; a pre-launch report claimed 400 km (standard not stated). AC 5-6 h on the wall charger; DC about 50 min at public SPKLU (window not stated). Detik describes an 8-year warranty with no km limit covering the battery. No Indonesian source found for the 2023 global update (72.8 kWh), and no later price; status in 2024+ not confirmed. Drive, air battery cooling, pack voltage, connectors (Type 2 / CHAdeMO), DC 10-80% 52 min, heat pump, dimensions, seats, 0-100 km/h (0-62 mph) and top speed from the European 54.3 kWh spec (ArenaEV).",
+      "notes_id": "BEV pertama Lexus dan Indonesia menjadi pasar ASEAN pertamanya: diluncurkan 25-26 November 2020 seharga Rp1,245 miliar OTR Jakarta, termasuk wall charger. Tenaga 201 dk/hp (= 150 kW); Wapcar menyebut 201 PS, laporan sebelum peluncuran menyebut 204 dk. Gridoto menyebut 54,35 kWh; laporan sebelum peluncuran mengklaim 400 km (standar tidak disebutkan). AC 5-6 jam dengan wall charger; DC sekitar 50 menit di SPKLU umum (rentang tidak disebutkan). Detik menyebut garansi 8 tahun tanpa batas km yang mencakup baterai. Tidak ditemukan sumber Indonesia untuk pembaruan global 2023 (72,8 kWh) maupun harga berikutnya; status 2024 ke atas belum terkonfirmasi. Penggerak, pendinginan baterai udara, tegangan paket, konektor (Type 2 / CHAdeMO), DC 10-80% 52 menit, heat pump, dimensi, jumlah kursi, 0-100 km/jam (0-62 mph), dan kecepatan maksimum dari spesifikasi Eropa 54,3 kWh (ArenaEV)."
+    }
+  ]
+}

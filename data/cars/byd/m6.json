@@ -1,0 +1,2856 @@
+{
+  "make": "BYD",
+  "model": "M6",
+  "trims": [
+    {
+      "id": "byd-m6-2024-standard",
+      "model_year": 2024,
+      "variant": "Standard 7-Seater",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 55.4,
+        "range_km": 420,
+        "range_standard": "NEDC",
+        "power_kw": 120,
+        "torque_nm": 310,
+        "ac_max_kw": 7,
+        "dc_max_kw": 89,
+        "accel_0_100_s": 10.1,
+        "airbags": 6,
+        "v2l": true,
+        "seats": 7,
+        "seat_layout": "2+2+3",
+        "price_otr_idr": 379000000,
+        "assembly": "CBU import"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS July 2024 at Rp379 jt; Rp383 jt in 2025. Power quoted as 163 PS (120 kW) by Paultan and 161 hp by AutoBuzz; OTO's 154 hp figure is not used. No ADAS on Standard per Paultan/AutoBuzz. Imported from China.",
+      "notes_id": "Diluncurkan di GIIAS Juli 2024 seharga Rp379 jt; Rp383 jt pada 2025. Tenaga disebut 163 PS (120 kW) oleh Paultan dan 161 hp oleh AutoBuzz; angka 154 hp dari OTO tidak dipakai. Tidak ada ADAS di tipe Standard menurut Paultan/AutoBuzz. Diimpor dari China."
+    },
+    {
+      "id": "byd-m6-2024-superior-7-seater",
+      "model_year": 2024,
+      "variant": "Superior 7-Seater",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 71.8,
+        "range_km": 530,
+        "range_standard": "NEDC",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_max_kw": 7,
+        "dc_max_kw": 115,
+        "dc_10_80_min": 40,
+        "accel_0_100_s": 8.6,
+        "airbags": 6,
+        "adas": "AEB, ACC, LCC, BSM, AHB",
+        "v2l": true,
+        "seats": 7,
+        "seat_layout": "2+2+3",
+        "price_otr_idr": 419000000,
+        "assembly": "CBU import"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Power 204 PS converted to 150 kW. Torque 310 Nm from OTO (Paultan gives it only for Standard). Detik's 2025 list calls this 'Super'. 10–80% about 40 min per launch reports. Same specs through 2026; superseded by the 2026-priced record.",
+      "notes_id": "Tenaga 204 PS dikonversi menjadi 150 kW. Torsi 310 Nm dari OTO (Paultan hanya menyebutkannya untuk Standard). Daftar detik 2025 menyebut tipe ini 'Super'. 10–80% sekitar 40 menit menurut laporan peluncuran. Spesifikasi sama hingga 2026; digantikan oleh data dengan harga 2026."
+    },
+    {
+      "id": "byd-m6-2024-superior-captain-seat",
+      "model_year": 2024,
+      "variant": "Superior Captain Seat 6-Seater",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 71.8,
+        "range_km": 530,
+        "range_standard": "NEDC",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_max_kw": 7,
+        "dc_max_kw": 115,
+        "dc_10_80_min": 40,
+        "accel_0_100_s": 8.6,
+        "airbags": 6,
+        "adas": "AEB, ACC, LCC, BSM, AHB",
+        "v2l": true,
+        "seats": 6,
+        "seat_layout": "2+2+2",
+        "price_otr_idr": 429000000,
+        "assembly": "CBU import"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Superior trim with second-row captain chairs; powertrain figures are those quoted for 'Superior' (sources do not list the 6-seater separately). Moladin (Oct 2026) confirms 71.8 kWh / 530 km NEDC for the Captain Seat.",
+      "notes_id": "Tipe Superior dengan captain seat di baris kedua; angka powertrain mengikuti yang disebut untuk 'Superior' (sumber tidak mencantumkan versi 6 penumpang secara terpisah). Moladin (Oktober 2026) mengonfirmasi 71,8 kWh / 530 km NEDC untuk Captain Seat."
+    },
+    {
+      "id": "byd-m6-2025-standard",
+      "model_year": 2025,
+      "variant": "Standard 7-Seater",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 55.4,
+        "range_km": 420,
+        "range_standard": "NEDC",
+        "power_kw": 120,
+        "torque_nm": 310,
+        "ac_max_kw": 7,
+        "dc_max_kw": 89,
+        "accel_0_100_s": 10.1,
+        "airbags": 6,
+        "v2l": true,
+        "seats": 7,
+        "seat_layout": "2+2+3",
+        "price_otr_idr": 383000000,
+        "assembly": "CBU import"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Rp383 jt through 2025 (detik Feb and Nov 2025); Rp379 jt at 2024 launch. Replaced by the locally built 58 kWh Standard in July 2026. Power quoted as 163 PS (120 kW) by Paultan and 161 hp by AutoBuzz; OTO's 154 hp figure is not used. No ADAS on Standard per Paultan/AutoBuzz. Imported from China.",
+      "notes_id": "Rp383 jt sepanjang 2025 (detik Februari dan November 2025); Rp379 jt saat peluncuran 2024. Digantikan Standard 58 kWh produksi lokal pada Juli 2026. Tenaga disebut 163 PS (120 kW) oleh Paultan dan 161 hp oleh AutoBuzz; angka 154 hp dari OTO tidak dipakai. Tidak ada ADAS di tipe Standard menurut Paultan/AutoBuzz. Diimpor dari China."
+    },
+    {
+      "id": "byd-m6-2025-superior-7-seater",
+      "model_year": 2025,
+      "variant": "Superior 7-Seater",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 71.8,
+        "range_km": 530,
+        "range_standard": "NEDC",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_max_kw": 7,
+        "dc_max_kw": 115,
+        "dc_10_80_min": 40,
+        "accel_0_100_s": 8.6,
+        "airbags": 6,
+        "adas": "AEB, ACC, LCC, BSM, AHB",
+        "v2l": true,
+        "seats": 7,
+        "seat_layout": "2+2+3",
+        "price_otr_idr": 423000000,
+        "assembly": "CBU import"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Power 204 PS converted to 150 kW. Torque 310 Nm from OTO (Paultan gives it only for Standard). Detik's 2025 list calls this 'Super'. 10–80% about 40 min per launch reports. Same specs through 2026; superseded by the 2026-priced record.",
+      "notes_id": "Tenaga 204 PS dikonversi menjadi 150 kW. Torsi 310 Nm dari OTO (Paultan hanya menyebutkannya untuk Standard). Daftar detik 2025 menyebut tipe ini 'Super'. 10–80% sekitar 40 menit menurut laporan peluncuran. Spesifikasi sama hingga 2026; digantikan oleh data dengan harga 2026."
+    },
+    {
+      "id": "byd-m6-2025-superior-captain-seat",
+      "model_year": 2025,
+      "variant": "Superior Captain Seat 6-Seater",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 71.8,
+        "range_km": 530,
+        "range_standard": "NEDC",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_max_kw": 7,
+        "dc_max_kw": 115,
+        "dc_10_80_min": 40,
+        "accel_0_100_s": 8.6,
+        "airbags": 6,
+        "adas": "AEB, ACC, LCC, BSM, AHB",
+        "v2l": true,
+        "seats": 6,
+        "seat_layout": "2+2+2",
+        "price_otr_idr": 433000000,
+        "assembly": "CBU import"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Superior trim with second-row captain chairs; powertrain figures are those quoted for 'Superior' (sources do not list the 6-seater separately). Moladin (Oct 2026) confirms 71.8 kWh / 530 km NEDC for the Captain Seat.",
+      "notes_id": "Tipe Superior dengan captain seat di baris kedua; angka powertrain mengikuti yang disebut untuk 'Superior' (sumber tidak mencantumkan versi 6 penumpang secara terpisah). Moladin (Oktober 2026) mengonfirmasi 71,8 kWh / 530 km NEDC untuk Captain Seat."
+    },
+    {
+      "id": "byd-m6-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard 7-Seater",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "price_otr_idr": 395000000,
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 58,
+        "range_km": 450,
+        "power_kw": 150,
+        "torque_nm": 310,
+        "accel_0_100_s": 7.9,
+        "seats": 7
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-m6-ev-terbaru-rakitan-lokal-meluncur-jarak-tempuh-jadi-450-km",
+            "title": "BYD M6 EV Terbaru Rakitan Lokal Meluncur, Jarak Tempuh Jadi 450 km",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-m6-ev-terbaru-rakitan-lokal-meluncur-jarak-tempuh-jadi-450-km",
+            "title": "BYD M6 EV Terbaru Rakitan Lokal Meluncur, Jarak Tempuh Jadi 450 km",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-m6-ev-terbaru-rakitan-lokal-meluncur-jarak-tempuh-jadi-450-km",
+            "title": "BYD M6 EV Terbaru Rakitan Lokal Meluncur, Jarak Tempuh Jadi 450 km",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-m6-ev-terbaru-rakitan-lokal-meluncur-jarak-tempuh-jadi-450-km",
+            "title": "BYD M6 EV Terbaru Rakitan Lokal Meluncur, Jarak Tempuh Jadi 450 km",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-m6-ev-terbaru-rakitan-lokal-meluncur-jarak-tempuh-jadi-450-km",
+            "title": "BYD M6 EV Terbaru Rakitan Lokal Meluncur, Jarak Tempuh Jadi 450 km",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-m6-ev-terbaru-rakitan-lokal-meluncur-jarak-tempuh-jadi-450-km",
+            "title": "BYD M6 EV Terbaru Rakitan Lokal Meluncur, Jarak Tempuh Jadi 450 km",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-m6-ev-terbaru-rakitan-lokal-meluncur-jarak-tempuh-jadi-450-km",
+            "title": "BYD M6 EV Terbaru Rakitan Lokal Meluncur, Jarak Tempuh Jadi 450 km",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Updated Standard shown at GIIAS 29 July 2026: battery up from 55.4 to 58 kWh, range 420 to 450 km (test cycle not stated), power up to 150 kW, 10.25-inch digital cluster and column shifter; KabarBursa says it is now produced in Indonesia. Charging figures for the new battery not published yet.",
+      "notes_id": "Standard yang diperbarui tampil di GIIAS 29 Juli 2026: baterai naik dari 55,4 ke 58 kWh, jarak tempuh dari 420 ke 450 km (metode uji tidak disebutkan), tenaga naik menjadi 150 kW, panel instrumen digital 10,25 inci, dan tuas transmisi di kolom setir; KabarBursa menyebut kini diproduksi di Indonesia. Angka pengisian untuk baterai baru belum dipublikasikan."
+    },
+    {
+      "id": "byd-m6-2026-superior-7-seater",
+      "model_year": 2026,
+      "variant": "Superior 7-Seater",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 71.8,
+        "range_km": 530,
+        "range_standard": "NEDC",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_max_kw": 7,
+        "dc_max_kw": 115,
+        "dc_10_80_min": 40,
+        "accel_0_100_s": 8.6,
+        "airbags": 6,
+        "adas": "AEB, ACC, LCC, BSM, AHB",
+        "v2l": true,
+        "seats": 7,
+        "seat_layout": "2+2+3",
+        "price_otr_idr": 435000000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Rp435 jt on the October 2026 list (Rp423 jt in 2025). Specs unchanged from 2024–2025 per Moladin (71.8 kWh, 530 km NEDC); whether 2026 Superior units are locally assembled and get the new cluster/shifter is not confirmed.",
+      "notes_id": "Rp435 jt di daftar Oktober 2026 (Rp423 jt pada 2025). Spesifikasi tidak berubah dari 2024–2025 menurut Moladin (71,8 kWh, 530 km NEDC); belum terkonfirmasi apakah unit Superior 2026 dirakit lokal dan mendapat panel instrumen/tuas transmisi baru."
+    },
+    {
+      "id": "byd-m6-2026-superior-captain-seat",
+      "model_year": 2026,
+      "variant": "Superior Captain Seat 6-Seater",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 4710,
+        "width_mm": 1810,
+        "height_mm": 1690,
+        "wheelbase_mm": 2800,
+        "ground_clearance_mm": 170,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 71.8,
+        "range_km": 530,
+        "range_standard": "NEDC",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_max_kw": 7,
+        "dc_max_kw": 115,
+        "dc_10_80_min": 40,
+        "accel_0_100_s": 8.6,
+        "airbags": 6,
+        "adas": "AEB, ACC, LCC, BSM, AHB",
+        "v2l": true,
+        "seats": 6,
+        "seat_layout": "2+2+2",
+        "price_otr_idr": 445000000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-byd-m6-superior-captain-seat-naik/",
+            "title": "Harga BYD M6 Superior Captain Seat Naik",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/07/18/byd-m6-2024-di-indonesia-facelift-e6-hingga-204-ps-310-nm-jarak-gerak-530-km-dari-rm110k-rm124k/",
+            "title": "BYD M6 2024 di Indonesia - hingga 204 PS, 310 Nm, jarak gerak 530 km",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/m6",
+            "title": "BYD M6 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://autobuzz.my/2024/07/23/byd-m6-launched-in-indonesia-from-approx-rm110k-ev-mpv-with-up-to-530km-range/",
+            "title": "BYD M6 launched in Indonesia, from approx. RM110k",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Rp445 jt on the October 2026 list (Rp433 jt in 2025). Moladin's text says the Captain Seat rose Rp12 jt to Rp435 jt but its own table shows Rp445 jt; the official-list figure (VIVA/Moladin OTR list) is used. Specs unchanged from 2024–2025 per Moladin (71.8 kWh, 530 km NEDC); whether 2026 Superior units are locally assembled and get the new cluster/shifter is not confirmed.",
+      "notes_id": "Rp445 jt di daftar Oktober 2026 (Rp433 jt pada 2025). Teks Moladin menyebut Captain Seat naik Rp12 jt menjadi Rp435 jt, tetapi tabelnya sendiri menunjukkan Rp445 jt; dipakai angka daftar resmi (daftar OTR VIVA/Moladin). Spesifikasi tidak berubah dari 2024–2025 menurut Moladin (71,8 kWh, 530 km NEDC); belum terkonfirmasi apakah unit Superior 2026 dirakit lokal dan mendapat panel instrumen/tuas transmisi baru."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "make": "XCMG",
+  "model": "XT490TH EV",
+  "trims": [
+    {
+      "id": "xcmg-xt490th-2026-6x4",
+      "model_year": 2026,
+      "variant": "6x4 tractor head (422.8 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Heavy",
+        "axle_config": "6x4",
+        "drive": "6x4",
+        "gvw_kg": 27000,
+        "battery_gross_kwh": 422.8,
+        "power_kw": 350,
+        "torque_nm": 3500,
+        "length_mm": 8200,
+        "width_mm": 2500,
+        "height_mm": 3750,
+        "body_type": "Tractor head"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://www.idxchannel.com/economics/gm-tractors-kenalkan-lini-alat-berat-dan-truk-listrik-tambang-terbaru-di-mining-indonesia-2026",
+            "title": "GM Tractors Kenalkan Lini Alat Berat dan Truk Listrik Tambang Terbaru di Mining Indonesia 2026 (IDX Channel)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "axle_config": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://dealerfawindonesia.com/xcmg-xt490th-ev-electric-tractor-head-6x4-pt-gmm/",
+            "title": "XCMG XT490TH EV - Electric Tractor Head 6x4 (XCMG EV Center, PT Gaya Makmur Mobil dealer page)",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "XCMG electric tractor head sold through PT Gaya Makmur Mobil (GM Mobil), which calls itself sole distributor of XCMG and FAW. It was shown in GM Mobil's EV truck line at Mining Indonesia 2026 (Sep 2026). Specs come only from the GMM-branded dealer page (XCMG EV Center, sales contact; Jan 2026): battery 422.8 kWh (the headline says 422 kWh), 350 kW, 3,500 Nm, GVW 27,000 kg, 8,200 x 2,500 x 3,750 mm. The page gives no GCW, range, charging power or price ('request a quote'). Sale is not confirmed by delivery: the BIB event (Feb 2026) displayed 2 XCMG tractor heads, but none were reported handed over. Status 'on sale' means offered by the official distributor. Body type: the dealer page describes it for green industrial estates, modern ports and urban logistics (not mining), so it is filed as an on-road Tractor head.",
+      "notes_id": "Tractor head listrik XCMG yang dijual melalui PT Gaya Makmur Mobil (GM Mobil), yang menyebut dirinya distributor tunggal XCMG dan FAW. Truk ini dipamerkan di lini truk listrik GM Mobil pada Mining Indonesia 2026 (September 2026). Spesifikasi hanya dari halaman diler bermerek GMM (XCMG EV Center, kontak sales; Januari 2026): baterai 422,8 kWh (judul halaman menyebut 422 kWh), 350 kW, 3.500 Nm, GVW 27.000 kg, 8.200 x 2.500 x 3.750 mm. Halaman itu tidak mencantumkan GCW, jarak tempuh, daya pengisian, maupun harga ('minta penawaran'). Penjualan belum terbukti lewat pengiriman: acara BIB (Februari 2026) memajang 2 tractor head XCMG, tetapi tidak ada yang dilaporkan diserahterimakan. Status 'on sale' berarti ditawarkan oleh distributor resmi. Jenis bodi: halaman diler menyebut penggunaannya untuk kawasan industri hijau, pelabuhan modern, dan logistik perkotaan (bukan tambang), jadi dimasukkan sebagai Tractor head jalan raya."
+    }
+  ]
+}

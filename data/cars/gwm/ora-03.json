@@ -1,0 +1,327 @@
+{
+  "make": "GWM",
+  "model": "Ora 03",
+  "trims": [
+    {
+      "id": "gwm-ora-03-2026-400",
+      "model_year": 2026,
+      "variant": "BEV 400",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 379000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 47.8,
+        "range_km": 400,
+        "range_standard": "NEDC",
+        "torque_nm": 210,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "accel_0_100_s": 8.3,
+        "battery_warranty": "8 yrs / 200,000 km",
+        "free_service": "Free periodic service for 7 years",
+        "power_kw": 105,
+        "dc_max_kw": 69,
+        "length_mm": 4235,
+        "width_mm": 1825,
+        "height_mm": 1596,
+        "wheelbase_mm": 2650,
+        "drive": "FWD",
+        "motor_count": 1,
+        "ac_max_kw": 6.6,
+        "kerb_weight_kg": 1510,
+        "boot_l": 250,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "AEB, FCW, LKA, ACC",
+        "top_speed_kmh": 152,
+        "tyre_size": "215/50 R18"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/read/224266178/segini-tenaga-dan-baterai-gwm-ora-03-yang-baru-launching-di-indonesia",
+            "title": "Segini Tenaga dan Baterai GWM Ora 03 yang Baru Launching di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://auto.katadata.co.id/car/just-launched-gwm-ora-03-set-for-delivery-to-consumers-in-august-2025-19407",
+            "title": "Just Launched, GWM Ora 03 Set for Delivery to Consumers in August 2025",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.gridoto.com/read/224266178/segini-tenaga-dan-baterai-gwm-ora-03-yang-baru-launching-di-indonesia",
+            "title": "Segini Tenaga dan Baterai GWM Ora 03 yang Baru Launching di Indonesia",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://listrikindonesia.com/detail/17168/sekali-charge-bisa-tempuh-410-km-ini-spesifikasi-gwm-ora-03",
+            "title": "Sekali Charge Bisa Tempuh 410 KM, Ini Spesifikasi GWM Ora 03",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/great-wall/ora-good-cat/gen-1/400-pro-2024/",
+            "title": "GWM Ora Good Cat 400 Pro — specifications Malaysia — paultan.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched 26 June 2025 at Rp379 jt OTR Jakarta (Rp369 jt launch/GIIAS promo; Zigwheels still lists Rp369 jt). Same specs and price 2025-2026. Initially CBU from China; CKD at GWM's Wanaherang (Bogor) plant was planned from end-2025 — assembly field left out because the switch date is not confirmed by sources read. Range 400 km NEDC (katadata, gridoto) vs 410 km (listrikindonesia). DC peak 69 kW per listrikindonesia (katadata wrote '69 kWh'); 30-80% in under 30 min. Single variant ('400'). Drive, AC charging power, kerb weight, boot capacity, seats, airbags, ADAS, top speed and tyre size from the Malaysian spec of the same 47.8 kWh/105 kW Good Cat 400 Pro (paultan.org); Malaysia lists 60 kW DC vs 69 kW in Indonesia.",
+      "notes_id": "Diluncurkan 26 Juni 2025 seharga Rp379 jt OTR Jakarta (promo peluncuran/GIIAS Rp369 jt; Zigwheels masih mencantumkan Rp369 jt). Spesifikasi dan harga sama untuk 2025-2026. Awalnya CBU dari China; CKD di pabrik GWM Wanaherang (Bogor) direncanakan mulai akhir 2025 — kolom perakitan dikosongkan karena tanggal peralihannya belum dikonfirmasi sumber yang dibaca. Jarak tempuh 400 km NEDC (katadata, gridoto) vs 410 km (listrikindonesia). Puncak DC 69 kW menurut listrikindonesia (katadata menulis '69 kWh'); 30-80% kurang dari 30 menit. Varian tunggal ('400'). Penggerak, daya pengisian AC, berat kosong, kapasitas bagasi, jumlah kursi, airbag, ADAS, kecepatan maksimum, dan ukuran ban dari spesifikasi Malaysia untuk Good Cat 400 Pro yang sama (47,8 kWh/105 kW) (paultan.org); Malaysia mencantumkan DC 60 kW, sedangkan Indonesia 69 kW."
+    }
+  ]
+}

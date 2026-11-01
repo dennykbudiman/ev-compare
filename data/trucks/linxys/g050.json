@@ -1,0 +1,235 @@
+{
+  "make": "LINXYS",
+  "model": "G050",
+  "trims": [
+    {
+      "id": "linxys-g050-2026-29-67kwh",
+      "model_year": 2026,
+      "variant": "29.67 kWh",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "body_type": "Van",
+        "assembly": "CBU import",
+        "price_quote_idr": 275000000,
+        "price_quote_basis": "basis not stated",
+        "battery_gross_kwh": 29.67,
+        "battery_chemistry": "LFP",
+        "range_km": 230,
+        "power_kw": 30,
+        "torque_nm": 120,
+        "top_speed_kmh": 90,
+        "payload_kg": 350,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 3395,
+        "width_mm": 1475,
+        "height_mm": 1950,
+        "wheelbase_mm": 2430
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.otodream.com/ev/20929-linxys-g050-mobil-listrik-china-pendatang-baru-bentuknya-kecil-tapi-buat-angkut-barang",
+            "title": "Linxys G050 Mobil Listrik China Pendatang Baru, Bentuknya Kecil Tapi Buat Angkut Barang (OtoDream)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Micro electric cargo van from LINXYS, the new-energy commercial brand of Wuling New Energy (Guangxi), new to Indonesia at GIICOMVEC 2026 (April 2026). Sale evidence: offered at the show for Rp 275 million with a one-month wait for orders, imported fully built (CBU) (Liputan6, quoting booth sales staff); Carmudi reported both G050 and G100-R as 'sudah bisa dipesan' at GIICOMVEC 2026. The price basis (OTR or off the road) is not stated, so price_otr_idr is left out; OtoDream quotes Rp 274 million for the show unit including its coffee-shop equipment. No Indonesian distributor company was named in the sources found, and no later (post-April 2026) price list was found, so 'on sale' rests on the GIICOMVEC offer. GVW is not published; the van is classed Small cargo by body type and size (payload 350 kg). Battery 29.67 kWh LFP, range 'up to 230 km' (no test cycle stated). Fast charging 30–80% in about 30 min (charger power not stated). 30 kW (40.2 hp), 120 Nm, 90 km/h. Liputan6 also lists AEB and hill start assist. Kerb weight, cargo volume, charging power and warranty not published in Indonesia. Not used: the Singapore version ('G50 Piccolo', CarTimes, Nov 2025) quotes a 30 kWh CATL pack and 2.5 m³ cargo volume, but it cannot be confirmed as the same version, so those figures are left out.",
+      "notes_id": "Van kargo listrik mikro dari LINXYS, merek kendaraan niaga energi baru milik Wuling New Energy (Guangxi), yang baru hadir di Indonesia di GIICOMVEC 2026 (April 2026). Bukti penjualan: ditawarkan di pameran seharga Rp275 juta dengan waktu inden sebulan, diimpor utuh (CBU) (Liputan6, mengutip tenaga penjual di booth); Carmudi menulis G050 dan G100-R 'sudah bisa dipesan' di GIICOMVEC 2026. Dasar harga (OTR atau off the road) tidak disebut, sehingga price_otr_idr tidak diisi; OtoDream menyebut Rp274 juta untuk unit pameran termasuk perlengkapan kedai kopinya. Nama perusahaan distributor di Indonesia tidak disebut dalam sumber yang ditemukan, dan tidak ada daftar harga setelah April 2026, sehingga status 'on sale' bertumpu pada penawaran di GIICOMVEC. JBB tidak dipublikasikan; van ini dimasukkan ke kelas Small cargo berdasarkan jenis bodi dan ukurannya (daya angkut 350 kg). Baterai LFP 29,67 kWh, jarak tempuh 'hingga 230 km' (tanpa siklus uji). Pengisian cepat 30–80% sekitar 30 menit (daya charger tidak disebut). 30 kW (40,2 hp), 120 Nm, 90 km/jam. Liputan6 juga menyebut AEB dan hill start assist. Berat kosong, volume kargo, daya pengisian, dan garansi belum dipublikasikan di Indonesia. Tidak dipakai: versi Singapura ('G50 Piccolo', CarTimes, November 2025) menyebut baterai CATL 30 kWh dan volume kargo 2,5 m³, tetapi belum bisa dipastikan versinya sama, jadi angka tersebut tidak diisi."
+    }
+  ]
+}

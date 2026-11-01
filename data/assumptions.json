@@ -1,0 +1,31 @@
+{
+  "as_of": "2026-10",
+  "note": "Assumptions used by the app's calculated rows. Change here, not in the app code.",
+  "electricity_tariff_idr_per_kwh": {
+    "home_pln_3500va_and_above": 1699.53,
+    "public_charger_spklu_approx": 2466,
+    "business_b2_6600va_to_200kva": 1444.7,
+    "business_b3_above_200kva": 1114.74
+  },
+  "charging_loss_factor": {
+    "home_ac": 1.1,
+    "public_dc": 1.05
+  },
+  "real_world_range_factor_by_test_method": {
+    "WLTP": 0.85,
+    "WLTC": 0.8,
+    "EPA": 0.95,
+    "NEDC": 0.72,
+    "CLTC": 0.7,
+    "C-WTVC": 0.8,
+    "JE05": 0.85,
+    "none": 0.75
+  },
+  "default_km_per_day_for_monthly_cost": {
+    "car": 40,
+    "truck": 100
+  },
+  "truck_default_tariff": "business_b2_6600va_to_200kva",
+  "truck_cost_basis": "Range at full payload when published; otherwise claimed range x real_world_range_factor_by_test_method (estimate, shown in italics, never ranked). Not estimated for body_type \"Mining truck\".",
+  "tariff_source": "PLN tariff list 26–31 Oct 2026 (Metro TV News): https://www.metrotvnews.com/read/KYVC0xdL-rincian-lengkap-tarif-listrik-periode-26-31-oktober-2026"
+}

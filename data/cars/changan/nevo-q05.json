@@ -1,0 +1,592 @@
+{
+  "make": "Changan",
+  "model": "Nevo Q05",
+  "trims": [
+    {
+      "id": "changan-nevo-q05-2026-pro",
+      "model_year": 2026,
+      "variant": "Pro",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 309000000,
+        "airbag_positions": "front, front side",
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 51.9,
+        "range_km": 462,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "FWD",
+        "power_kw": 120,
+        "torque_nm": 190,
+        "ac_max_kw": 6.6,
+        "dc_10_80_min": 15,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "8 yrs / 240,000 km",
+        "length_mm": 4435,
+        "width_mm": 1855,
+        "height_mm": 1600,
+        "wheelbase_mm": 2735,
+        "seats": 5,
+        "tyre_size": "225/60 R17",
+        "range_standard": "NEDC",
+        "v2l": true,
+        "boot_l": 540,
+        "dc_max_kw": 162,
+        "top_speed_kmh": 160,
+        "ground_clearance_mm": 170,
+        "turning_radius_m": 5.3
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.zigwheels.co.th/en/new-cars/changan/nevo-q05/specifications",
+            "title": "Changan Nevo Q05 specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.th/en/new-cars/changan/nevo-q05/specifications",
+            "title": "Changan Nevo Q05 specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.zigwheels.co.th/en/new-cars/changan/nevo-q05/specifications",
+            "title": "Changan Nevo Q05 specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.zigwheels.co.th/en/new-cars/changan/nevo-q05/specifications",
+            "title": "Changan Nevo Q05 specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Pro has driver, passenger and front side airbags (oto.com). Launched GIIAS July 2026. Prices Rp309 / Rp359 jt are launch prices for the first 1,000 buyers (detik); oto.com lists the same as OTR in Oct 2026. Power converted from 161 hp. Specs on oto.com are listed under Pro; not explicitly confirmed for Max. 25 active safety functions claimed. Assembly not stated. DC peak power, top speed, ground clearance and turning radius from the Thai spec of the same 51.9 kWh LFP, 161 hp FWD Nevo Q05 (zigwheels.co.th).",
+      "notes_id": "Pro dilengkapi airbag pengemudi, penumpang, dan samping depan (oto.com). Diluncurkan di GIIAS Juli 2026. Harga Rp309 / Rp359 jt adalah harga peluncuran untuk 1.000 pembeli pertama (detik); oto.com mencantumkan angka yang sama sebagai OTR pada Oktober 2026. Tenaga dikonversi dari 161 hp. Spesifikasi di oto.com tercantum untuk Pro; belum dikonfirmasi secara eksplisit untuk Max. Diklaim memiliki 25 fitur keselamatan aktif. Status perakitan tidak disebutkan. Daya puncak DC, kecepatan maksimum, ground clearance, dan radius putar dari spesifikasi Thailand untuk Nevo Q05 51,9 kWh LFP, 161 hp FWD yang sama (zigwheels.co.th)."
+    },
+    {
+      "id": "changan-nevo-q05-2026-max",
+      "model_year": 2026,
+      "variant": "Max",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 359000000,
+        "airbag_positions": "front, front side, curtain",
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 51.9,
+        "range_km": 462,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "FWD",
+        "power_kw": 120,
+        "torque_nm": 190,
+        "ac_max_kw": 6.6,
+        "dc_10_80_min": 15,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "8 yrs / 240,000 km",
+        "length_mm": 4435,
+        "width_mm": 1855,
+        "height_mm": 1600,
+        "wheelbase_mm": 2735,
+        "seats": 5,
+        "tyre_size": "225/60 R17",
+        "range_standard": "NEDC",
+        "v2l": true,
+        "boot_l": 540,
+        "dc_max_kw": 162,
+        "top_speed_kmh": 160,
+        "ground_clearance_mm": 170,
+        "turning_radius_m": 5.3
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/changan/nevo-q05/spesifikasi",
+            "title": "Spesifikasi Changan NEVO Q05 (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595888/changan-nevo-q05-rilis-di-indonesia-suv-listrik-rp-300-jutaan",
+            "title": "Changan Nevo Q05 Rilis di Indonesia, SUV Listrik Rp 300 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.zigwheels.co.th/en/new-cars/changan/nevo-q05/specifications",
+            "title": "Changan Nevo Q05 specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.th/en/new-cars/changan/nevo-q05/specifications",
+            "title": "Changan Nevo Q05 specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.zigwheels.co.th/en/new-cars/changan/nevo-q05/specifications",
+            "title": "Changan Nevo Q05 specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.zigwheels.co.th/en/new-cars/changan/nevo-q05/specifications",
+            "title": "Changan Nevo Q05 specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Max adds curtain airbags, sunroof, power tailgate, ventilated front seats. Launched GIIAS July 2026. Prices Rp309 / Rp359 jt are launch prices for the first 1,000 buyers (detik); oto.com lists the same as OTR in Oct 2026. Power converted from 161 hp. Specs on oto.com are listed under Pro; not explicitly confirmed for Max. 25 active safety functions claimed. Assembly not stated. DC peak power, top speed, ground clearance and turning radius from the Thai spec of the same 51.9 kWh LFP, 161 hp FWD Nevo Q05 (zigwheels.co.th).",
+      "notes_id": "Max menambahkan curtain airbag, sunroof, pintu bagasi elektrik, dan jok depan berventilasi. Diluncurkan di GIIAS Juli 2026. Harga Rp309 / Rp359 jt adalah harga peluncuran untuk 1.000 pembeli pertama (detik); oto.com mencantumkan angka yang sama sebagai OTR pada Oktober 2026. Tenaga dikonversi dari 161 hp. Spesifikasi di oto.com tercantum untuk Pro; belum dikonfirmasi secara eksplisit untuk Max. Diklaim memiliki 25 fitur keselamatan aktif. Status perakitan tidak disebutkan. Daya puncak DC, kecepatan maksimum, ground clearance, dan radius putar dari spesifikasi Thailand untuk Nevo Q05 51,9 kWh LFP, 161 hp FWD yang sama (zigwheels.co.th)."
+    }
+  ]
+}

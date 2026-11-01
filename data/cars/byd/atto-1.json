@@ -1,0 +1,1708 @@
+{
+  "make": "BYD",
+  "model": "Atto 1",
+  "trims": [
+    {
+      "id": "byd-atto-1-2025-dynamic",
+      "model_year": 2025,
+      "variant": "Dynamic (Standard Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "City car",
+        "battery_chemistry": "LFP",
+        "power_kw": 55,
+        "torque_nm": 135,
+        "ac_max_kw": 6.6,
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "length_mm": 3925,
+        "width_mm": 1720,
+        "height_mm": 1590,
+        "wheelbase_mm": 2500,
+        "ground_clearance_mm": 155,
+        "top_speed_kmh": 130,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "assembly": "CBU import",
+        "price_otr_idr": 195000000,
+        "battery_gross_kwh": 30.08,
+        "range_km": 300,
+        "range_standard": "NEDC",
+        "dc_max_kw": 30,
+        "airbags": 4,
+        "airbag_positions": "front, curtain",
+        "tyre_size": "185/55 R16"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8485807/harga-byd-atto-1-naik-rp-10-juta",
+            "title": "Harga BYD Atto 1 Naik Rp 10 Juta?",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Launch version (GIIAS, July 2025), imported from China. Replaced by the updated, locally assembled 2026 version in May 2026 (Dynamic now Rp210 jt). CNN Indonesia quotes 30–80% DC in about 30 min but no 10–80% figure. Paultan lists 4 airbags (no side airbags) for Dynamic while CNN lists 6 airbags for the model generally; Paultan's per-variant figure is used.",
+      "notes_id": "Versi peluncuran (GIIAS, Juli 2025), diimpor dari China. Digantikan versi 2026 hasil pembaruan yang dirakit lokal pada Mei 2026 (Dynamic kini Rp210 jt). CNN Indonesia menyebut DC 30–80% sekitar 30 menit, tanpa angka 10–80%. Paultan mencantumkan 4 airbag (tanpa airbag samping) untuk Dynamic, sementara CNN menyebut 6 airbag untuk model ini secara umum; dipakai angka per varian dari Paultan."
+    },
+    {
+      "id": "byd-atto-1-2025-premium",
+      "model_year": 2025,
+      "variant": "Premium (Long Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "City car",
+        "battery_chemistry": "LFP",
+        "power_kw": 55,
+        "torque_nm": 135,
+        "ac_max_kw": 6.6,
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "length_mm": 3925,
+        "width_mm": 1720,
+        "height_mm": 1590,
+        "wheelbase_mm": 2500,
+        "ground_clearance_mm": 155,
+        "top_speed_kmh": 130,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "assembly": "CBU import",
+        "price_otr_idr": 235000000,
+        "battery_gross_kwh": 38.88,
+        "range_km": 380,
+        "range_standard": "NEDC",
+        "dc_max_kw": 40,
+        "airbags": 6,
+        "airbag_positions": "front, side, curtain",
+        "tyre_size": "185/55 R16",
+        "adas": "ACC, AEB, FCW, LDW, LDP, TSR, AHB"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8485807/harga-byd-atto-1-naik-rp-10-juta",
+            "title": "Harga BYD Atto 1 Naik Rp 10 Juta?",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2026/03/25/byd-atto-1-launched-in-thailand/",
+            "title": "BYD Atto 1 launched in Thailand (paultan.org)",
+            "date": "2026-03",
+            "type": "press",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Launch version (GIIAS, July 2025), imported from China. Replaced by the 2026 version (Premium Rp245 jt). 0–50 km/h 4.9 s quoted; no official 0–100 figure. ADAS list from the Thai spec of the 38.88 kWh Premium (paultan.org).",
+      "notes_id": "Versi peluncuran (GIIAS, Juli 2025), diimpor dari China. Digantikan versi 2026 (Premium Rp245 jt). Disebutkan 0–50 km/jam 4,9 detik; tidak ada angka resmi 0–100. Daftar ADAS dari spesifikasi Thailand untuk Premium 38,88 kWh (paultan.org)."
+    },
+    {
+      "id": "byd-atto-1-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "City car",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 55,
+        "torque_nm": 135,
+        "ac_max_kw": 6.6,
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "length_mm": 3925,
+        "width_mm": 1720,
+        "height_mm": 1590,
+        "wheelbase_mm": 2500,
+        "ground_clearance_mm": 155,
+        "seats": 5,
+        "top_speed_kmh": 130,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 199000000,
+        "battery_gross_kwh": 30.08,
+        "range_km": 300,
+        "range_standard": "NEDC",
+        "dc_max_kw": 30,
+        "v2l_kw": 2.2,
+        "boot_l": 230
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8490745/spesifikasi-byd-atto-1-termurah-di-ri-harga-di-bawah-rp-200-juta",
+            "title": "Spesifikasi BYD Atto 1 Termurah di RI, Harga di Bawah Rp 200 Juta",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "New entry variant added May 2026 with the locally assembled (Subang) update: 15-inch steel wheels with covers, halogen headlamps, column shifter. Airbag count not confirmed (Moladin lists 4, other sources silent). Paultan quotes ~250 km WLTP alongside 300 km NEDC; Moladin mislabels ranges as WLTP. Dimensions per Moladin/Paultan apply to all variants.",
+      "notes_id": "Varian entry baru ditambahkan Mei 2026 bersamaan dengan pembaruan rakitan lokal (Subang): pelek baja 15 inci dengan dop, lampu depan halogen, tuas transmisi di kolom setir. Jumlah airbag belum terkonfirmasi (Moladin menyebut 4, sumber lain tidak menyebutkan). Paultan menyebut ~250 km WLTP di samping 300 km NEDC; Moladin keliru melabeli jarak tempuh sebagai WLTP. Dimensi menurut Moladin/Paultan berlaku untuk semua varian."
+    },
+    {
+      "id": "byd-atto-1-2026-dynamic",
+      "model_year": 2026,
+      "variant": "Dynamic (Standard Range)",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "City car",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 55,
+        "torque_nm": 135,
+        "ac_max_kw": 6.6,
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "length_mm": 3925,
+        "width_mm": 1720,
+        "height_mm": 1590,
+        "wheelbase_mm": 2500,
+        "ground_clearance_mm": 155,
+        "seats": 5,
+        "top_speed_kmh": 130,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 210000000,
+        "battery_gross_kwh": 30.08,
+        "range_km": 300,
+        "range_standard": "NEDC",
+        "dc_max_kw": 30,
+        "v2l_kw": 2.2,
+        "boot_l": 230,
+        "tyre_size": "185/55 R16"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "2026 update, assembled in Subang. Price rose from Rp195 jt (2025) to Rp210 jt; KabarBursa reported Rp205 jt in May 2026, the October 2026 price list shows Rp210 jt. Airbags conflict: detik (May 2026) says the update brings 6 airbags to Dynamic, Paultan (Aug 2026) says front only, Moladin says 4, so the field is left out.",
+      "notes_id": "Pembaruan 2026, dirakit di Subang. Harga naik dari Rp195 jt (2025) menjadi Rp210 jt; KabarBursa melaporkan Rp205 jt pada Mei 2026, daftar harga Oktober 2026 menunjukkan Rp210 jt. Jumlah airbag berbeda: detik (Mei 2026) menyebut pembaruan ini membawa 6 airbag untuk Dynamic, Paultan (Agustus 2026) menyebut hanya depan, Moladin menyebut 4, sehingga kolom ini dikosongkan."
+    },
+    {
+      "id": "byd-atto-1-2026-premium",
+      "model_year": 2026,
+      "variant": "Premium (Long Range)",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "City car",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 55,
+        "torque_nm": 135,
+        "ac_max_kw": 6.6,
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "length_mm": 3925,
+        "width_mm": 1720,
+        "height_mm": 1590,
+        "wheelbase_mm": 2500,
+        "ground_clearance_mm": 155,
+        "seats": 5,
+        "top_speed_kmh": 130,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 245000000,
+        "battery_gross_kwh": 38.88,
+        "range_km": 380,
+        "range_standard": "NEDC",
+        "dc_max_kw": 40,
+        "v2l_kw": 2.2,
+        "boot_l": 230,
+        "airbags": 6,
+        "tyre_size": "185/55 R16",
+        "adas": "ACC, AEB, FCW, LDW, LDP, TSR, AHB"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2025/07/24/byd-atto-1-launched-in-indonesia/",
+            "title": "BYD Atto 1 launched in Indonesia",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20250722214302-603-1253743/spesifikasi-lengkap-byd-atto-1",
+            "title": "Spesifikasi Lengkap BYD Atto 1",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/2026/08/10/byd-atto-1-giias-2026/",
+            "title": "BYD Atto 1 at GIIAS 2026",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-atto-1/spesifikasi",
+            "title": "Spesifikasi BYD Atto 1 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2026/03/25/byd-atto-1-launched-in-thailand/",
+            "title": "BYD Atto 1 launched in Thailand (paultan.org)",
+            "date": "2026-03",
+            "type": "press",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "2026 update, assembled in Subang; price up from Rp235 jt to Rp245 jt. Paultan quotes ~320 km WLTP alongside 380 km NEDC. ADAS list from the Thai spec of the 38.88 kWh Premium (paultan.org).",
+      "notes_id": "Pembaruan 2026, dirakit di Subang; harga naik dari Rp235 jt menjadi Rp245 jt. Paultan menyebut ~320 km WLTP di samping 380 km NEDC. Daftar ADAS dari spesifikasi Thailand untuk Premium 38,88 kWh (paultan.org)."
+    }
+  ]
+}

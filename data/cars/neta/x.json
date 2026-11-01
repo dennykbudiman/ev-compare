@@ -1,0 +1,428 @@
+{
+  "make": "Neta",
+  "model": "X",
+  "trims": [
+    {
+      "id": "neta-x-2024-500-elite",
+      "model_year": 2024,
+      "variant": "500 Elite",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 428000000,
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 63.56,
+        "range_km": 480,
+        "range_standard": "NEDC",
+        "power_kw": 118,
+        "torque_nm": 201,
+        "top_speed_kmh": 150,
+        "dc_connector": "CCS2",
+        "ac_connector": "Type 2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "v2l": true,
+        "length_mm": 4619,
+        "width_mm": 1860,
+        "height_mm": 1628,
+        "wheelbase_mm": 2770,
+        "airbags": 6,
+        "airbag_positions": "front, side",
+        "adas": "FCW, AEB, ACC, TJA, ICA, HBA, TSR, AVM, LKA, BSD, LDW, DMS, RCTA, ELK"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Launched Sept 2024, CKD at PT Handal Indonesia Motor with local Gotion battery. Power converted from 160 PS. Prices are list prices (OTR not stated). Neta exited the Indonesian market around mid-2025; marked discontinued. No 2025 price change found.",
+      "notes_id": "Diluncurkan September 2024, CKD di PT Handal Indonesia Motor dengan baterai Gotion lokal. Tenaga dikonversi dari 160 PS. Harga adalah harga daftar (tidak disebutkan apakah OTR). Neta hengkang dari pasar Indonesia sekitar pertengahan 2025; ditandai sudah tidak dijual. Tidak ditemukan perubahan harga pada 2025."
+    },
+    {
+      "id": "neta-x-2024-500-supreme",
+      "model_year": 2024,
+      "variant": "500 Supreme",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 448000000,
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 63.56,
+        "range_km": 480,
+        "range_standard": "NEDC",
+        "power_kw": 118,
+        "torque_nm": 201,
+        "top_speed_kmh": 150,
+        "dc_connector": "CCS2",
+        "ac_connector": "Type 2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "v2l": true,
+        "length_mm": 4619,
+        "width_mm": 1860,
+        "height_mm": 1628,
+        "wheelbase_mm": 2770,
+        "airbags": 6,
+        "airbag_positions": "front, side",
+        "adas": "FCW, AEB, ACC, TJA, ICA, HBA, TSR, AVM, LKA, BSD, LDW, DMS, RCTA, ELK"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7561489/harga-neta-x-diumumkan-mulai-rp-428-juta",
+            "title": "Harga Neta X Diumumkan, Mulai Rp 428 Juta",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Launched Sept 2024, CKD at PT Handal Indonesia Motor with local Gotion battery. Power converted from 160 PS. Prices are list prices (OTR not stated). Neta exited the Indonesian market around mid-2025; marked discontinued. No 2025 price change found.",
+      "notes_id": "Diluncurkan September 2024, CKD di PT Handal Indonesia Motor dengan baterai Gotion lokal. Tenaga dikonversi dari 160 PS. Harga adalah harga daftar (tidak disebutkan apakah OTR). Neta hengkang dari pasar Indonesia sekitar pertengahan 2025; ditandai sudah tidak dijual. Tidak ditemukan perubahan harga pada 2025."
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "make": "Mercedes-Benz",
+  "model": "EQA",
+  "trims": [
+    {
+      "id": "mercedes-benz-eqa-2024-250",
+      "model_year": 2024,
+      "variant": "EQA 250 Electric Art Line",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 1570000000,
+        "range_km": 476,
+        "power_kw": 140,
+        "torque_nm": 385,
+        "accel_0_100_s": 8.6,
+        "top_speed_kmh": 160,
+        "ac_full_hours": 6.5,
+        "length_mm": 4463,
+        "height_mm": 1624,
+        "kerb_weight_kg": 2040,
+        "seats": 5,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "battery_usable_kwh": 66.5,
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 367,
+        "drive": "FWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "v2l": false,
+        "frunk_l": 0,
+        "battery_gross_kwh": 69.7
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7414905/sabar-mercedes-benz-baru-rakit-mobil-listrik-di-wanaherang-2027",
+            "title": "Sabar! Mercedes-Benz Baru Rakit Mobil Listrik di Wanaherang 2027 - detikOto",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7543690/daftar-harga-mobil-listrik-mercedes-benz-ada-yang-tembus-rp-4-miliar",
+            "title": "Daftar Harga Mobil Listrik Mercedes-Benz, Ada yang Tembus Rp 4 Miliar - detikOto",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqa/250-electric-line",
+            "title": "Mercedes Benz EQA 250 Electric Line Price, Review and Specs - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Variant called 'EQA 250+ Electric Art Line' in the September 2024 dealer price list (Rp1,570,000,000, basis not stated) and '250 Electric Line' on oto.com (Rp1.57 bn OTR). Not on the current Mercedes-Benz Indonesia price list, so marked discontinued. Power 188 hp x0.7457 = 140 kW. Width 2,020 mm on oto.com looks like width incl. mirrors, so left out. Range standard not stated. Battery 66.5 kWh not labelled gross/net. Usable battery 66.5 kWh (the Indonesian 66.5 kWh figure is the net capacity; ev-database gives 69.7 kWh nominal), voltage, drive, AC power, connectors, charge port, V2L and frunk from the European spec of the EQA 250 (ev-database.org, Jun 2022 - Oct 2023). Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 66.5 kWh figure is stored as usable capacity; gross 69.7 kWh is from the European spec (ev-database.org).",
+      "notes_id": "Varian ini disebut 'EQA 250+ Electric Art Line' di daftar harga diler September 2024 (Rp1.570.000.000, dasar harga tidak disebutkan) dan '250 Electric Line' di oto.com (Rp1,57 miliar OTR). Tidak ada di daftar harga Mercedes-Benz Indonesia saat ini, sehingga ditandai sudah tidak dijual. Tenaga 188 hp x0,7457 = 140 kW. Lebar 2.020 mm di oto.com tampaknya termasuk spion, sehingga dikosongkan. Standar pengujian jarak tempuh tidak disebutkan. Baterai 66,5 kWh tidak diberi label gross/net. Baterai usable 66,5 kWh (angka 66,5 kWh di Indonesia adalah kapasitas net; ev-database menyebut 69,7 kWh nominal), tegangan, penggerak, daya AC, konektor, posisi port, V2L, dan frunk dari spesifikasi Eropa untuk EQA 250 (ev-database.org, Jun 2022 - Okt 2023). Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 66,5 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 69,7 kWh dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "mercedes-benz-eqa-2023-250-electric-art-line",
+      "model_year": 2023,
+      "variant": "250 Electric Art Line",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "range_standard": "WLTP",
+        "dc_max_kw": 100,
+        "dc_10_80_min": 32,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "vehicle_warranty": "3 yrs / unlimited km",
+        "free_service": "Free periodic service for 5 years (StarService)",
+        "segment": "SUV",
+        "price_otr_idr": 1540000000,
+        "range_km": 486,
+        "battery_usable_kwh": 66.5,
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 367,
+        "drive": "FWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "v2l": false,
+        "frunk_l": 0,
+        "power_kw": 140,
+        "torque_nm": 385,
+        "battery_gross_kwh": 69.7
+      },
+      "sources": {
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/rilis-dua-model-baru-mercedes-benz-yakin-bisnis-mobil-listrik-mewah-tumbuh-positif",
+            "title": "Rilis Dua Model Baru, Mercedes-Benz Yakin Bisnis Mobil Listrik Mewah Tumbuh Positif",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/rilis-dua-model-baru-mercedes-benz-yakin-bisnis-mobil-listrik-mewah-tumbuh-positif",
+            "title": "Rilis Dua Model Baru, Mercedes-Benz Yakin Bisnis Mobil Listrik Mewah Tumbuh Positif",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 (Jun 2022 - Oct 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1697/Mercedes-Benz-EQA-250",
+            "title": "Mercedes-Benz EQA 250 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched at Senayan City, Jakarta on 15 June 2023. Launch price Rp1,540,000,000 (moladin, kontan); neither source states OTR or off-the-road, so treat the price basis as unconfirmed. Battery 66.5 kWh not labelled gross/net. DC 100 kW, 10-80% in 32 min. Power, torque and dimensions not in the launch sources. Range 486 km WLTP. Listed at Rp1,570,000,000 by 2024 (see 2024 record). Usable battery 66.5 kWh, power (140 kW), torque (385 Nm), voltage, drive, AC power, connectors, charge port, V2L and frunk from the European spec of the EQA 250 (ev-database.org, Jun 2022 - Oct 2023); matched on variant name and battery. Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 66.5 kWh figure is stored as usable capacity; gross 69.7 kWh is from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan di Senayan City, Jakarta pada 15 Juni 2023. Harga peluncuran Rp1.540.000.000 (moladin, kontan); kedua sumber tidak menyebut OTR atau off the road, sehingga dasar harga belum terkonfirmasi. Baterai 66,5 kWh tidak disebut gross/net. DC 100 kW, 10-80% dalam 32 menit. Tenaga, torsi dan dimensi tidak ada di sumber peluncuran. Jarak tempuh 486 km WLTP. Tercantum Rp1.570.000.000 pada 2024 (lihat catatan 2024). Baterai usable 66,5 kWh, daya (140 kW), torsi (385 Nm), tegangan, penggerak, daya AC, konektor, posisi port, V2L, dan frunk dari spesifikasi Eropa untuk EQA 250 (ev-database.org, Jun 2022 - Okt 2023); dicocokkan dari nama varian dan baterai. Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 66,5 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 69,7 kWh dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

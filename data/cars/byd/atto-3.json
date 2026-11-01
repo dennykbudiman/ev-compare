@@ -1,0 +1,2002 @@
+{
+  "make": "BYD",
+  "model": "Atto 3",
+  "trims": [
+    {
+      "id": "byd-atto-3-2024-advanced",
+      "model_year": 2024,
+      "variant": "Advanced (Standard Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "voltage_architecture": "~400 V",
+        "length_mm": 4455,
+        "width_mm": 1875,
+        "height_mm": 1615,
+        "wheelbase_mm": 2720,
+        "ground_clearance_mm": 175,
+        "boot_l": 440,
+        "seats": 5,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "battery_gross_kwh": 49.92,
+        "range_km": 410,
+        "range_standard": "NEDC",
+        "ac_max_kw": 7,
+        "tyre_size": "215/60 R17",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "price_otr_idr": 465000000,
+        "assembly": "CBU import",
+        "dc_max_kw": 70,
+        "kerb_weight_kg": 1680,
+        "airbags": 7,
+        "adas": "ACC (stop & go), AEB, FCW, RCW, BSD, RCTA, DOW"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/standard-range-2023/",
+            "title": "BYD Atto 3 Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/standard-range-2023/",
+            "title": "BYD Atto 3 Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/standard-range-2023/",
+            "title": "BYD Atto 3 Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/standard-range-2023/",
+            "title": "BYD Atto 3 Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Added at GIIAS July 2024 at Rp465 jt (source does not say OTR). Power quoted as 204 PS/hp, converted to 150 kW. DC charging power for this battery not reliably sourced in Indonesia (Moladin gives '70–80 kW'). Imported from China. DC peak power, kerb weight, airbag count and ADAS list from the Malaysian spec (paultan.org, Standard Range 49.92 kWh).",
+      "notes_id": "Ditambahkan di GIIAS Juli 2024 seharga Rp465 jt (sumber tidak menyebut OTR). Tenaga disebut 204 PS/hp, dikonversi menjadi 150 kW. Daya pengisian DC untuk baterai ini belum bersumber andal di Indonesia (Moladin menyebut '70–80 kW'). Diimpor dari China. Daya puncak DC, berat kosong, jumlah airbag, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Standard Range 49,92 kWh)."
+    },
+    {
+      "id": "byd-atto-3-2024-superior",
+      "model_year": 2024,
+      "variant": "Superior (Extended Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "voltage_architecture": "~400 V",
+        "length_mm": 4455,
+        "width_mm": 1875,
+        "height_mm": 1615,
+        "wheelbase_mm": 2720,
+        "ground_clearance_mm": 175,
+        "boot_l": 440,
+        "seats": 5,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "battery_gross_kwh": 60.48,
+        "range_km": 480,
+        "range_standard": "NEDC",
+        "dc_10_80_min": 35,
+        "accel_0_100_s": 7.3,
+        "top_speed_kmh": 160,
+        "kerb_weight_kg": 1750,
+        "tyre_size": "235/50 R18",
+        "price_otr_idr": 515000000,
+        "assembly": "CBU import",
+        "ac_max_kw": 7,
+        "dc_max_kw": 80,
+        "airbags": 7,
+        "adas": "ACC (stop & go), AEB, FCW, RCW, BSD, RCTA, DOW"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.goodnewsfromindonesia.id/2024/02/16/byd-umumkan-harga-mobil-listriknya-di-indonesia-termurah-rp425-juta",
+            "title": "BYD Umumkan Harga Mobil Listriknya di Indonesia, Termurah Rp425 Juta",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/extended-range-2023/",
+            "title": "BYD Atto 3 Extended Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/extended-range-2023/",
+            "title": "BYD Atto 3 Extended Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/extended-range-2023/",
+            "title": "BYD Atto 3 Extended Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/extended-range-2023/",
+            "title": "BYD Atto 3 Extended Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched January 2024, price announced at IIMS February 2024 at Rp515 jt. Power quoted as 204 PS/hp, converted to 150 kW. Kerb weight, charge time and tyre size come from a Zigwheels spec listing of a 2024 Superior. Imported from China. AC and DC peak power, airbag count and ADAS list from the Malaysian spec (paultan.org, Extended Range 60.48 kWh); its 1,750 kg weight matches the Indonesian figure.",
+      "notes_id": "Diluncurkan Januari 2024, harga diumumkan di IIMS Februari 2024 sebesar Rp515 jt. Tenaga disebut 204 PS/hp, dikonversi menjadi 150 kW. Bobot kosong, waktu pengisian, dan ukuran ban berasal dari daftar spesifikasi Zigwheels untuk Superior 2024. Diimpor dari China. Daya puncak AC dan DC, jumlah airbag, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Extended Range 60,48 kWh); berat 1.750 kg di sana sama dengan angka Indonesia."
+    },
+    {
+      "id": "byd-atto-3-2025-advanced",
+      "model_year": 2025,
+      "variant": "Advanced (Standard Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "voltage_architecture": "~400 V",
+        "length_mm": 4455,
+        "width_mm": 1875,
+        "height_mm": 1615,
+        "wheelbase_mm": 2720,
+        "ground_clearance_mm": 175,
+        "boot_l": 440,
+        "seats": 5,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "battery_gross_kwh": 49.92,
+        "range_km": 410,
+        "range_standard": "NEDC",
+        "ac_max_kw": 7,
+        "tyre_size": "215/60 R17",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "price_otr_idr": 470000000,
+        "assembly": "CBU import",
+        "dc_max_kw": 70,
+        "kerb_weight_kg": 1680,
+        "airbags": 7,
+        "adas": "ACC (stop & go), AEB, FCW, RCW, BSD, RCTA, DOW"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/standard-range-2023/",
+            "title": "BYD Atto 3 Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/standard-range-2023/",
+            "title": "BYD Atto 3 Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/standard-range-2023/",
+            "title": "BYD Atto 3 Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/standard-range-2023/",
+            "title": "BYD Atto 3 Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Rp470 jt through 2025 (detik Feb and Nov 2025); was Rp465 jt in 2024. Detik (Feb 2026) and Zigwheels also mention a 'Standard Range'/Advanced at Rp390 jt in 2025–2026; that price is not on the October 2026 price list. Replaced in practice by Advanced Plus (Feb 2026). DC peak power, kerb weight, airbag count and ADAS list from the Malaysian spec (paultan.org, Standard Range 49.92 kWh).",
+      "notes_id": "Rp470 jt sepanjang 2025 (detik Februari dan November 2025); sebelumnya Rp465 jt pada 2024. Detik (Februari 2026) dan Zigwheels juga menyebut 'Standard Range'/Advanced seharga Rp390 jt pada 2025–2026; harga itu tidak ada di daftar harga Oktober 2026. Praktis digantikan oleh Advanced Plus (Februari 2026). Daya puncak DC, berat kosong, jumlah airbag, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Standard Range 49,92 kWh)."
+    },
+    {
+      "id": "byd-atto-3-2025-superior",
+      "model_year": 2025,
+      "variant": "Superior (Extended Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "voltage_architecture": "~400 V",
+        "length_mm": 4455,
+        "width_mm": 1875,
+        "height_mm": 1615,
+        "wheelbase_mm": 2720,
+        "ground_clearance_mm": 175,
+        "boot_l": 440,
+        "seats": 5,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "battery_gross_kwh": 60.48,
+        "range_km": 480,
+        "range_standard": "NEDC",
+        "dc_10_80_min": 35,
+        "accel_0_100_s": 7.3,
+        "top_speed_kmh": 160,
+        "kerb_weight_kg": 1750,
+        "tyre_size": "235/50 R18",
+        "price_otr_idr": 520000000,
+        "assembly": "CBU import",
+        "ac_max_kw": 7,
+        "dc_max_kw": 80,
+        "airbags": 7,
+        "adas": "ACC (stop & go), AEB, FCW, RCW, BSD, RCTA, DOW"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-bekas/byd/atto-3/superior-668118/",
+            "title": "2024 BYD Atto 3 Superior (Zigwheels spec listing)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/extended-range-2023/",
+            "title": "BYD Atto 3 Extended Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/extended-range-2023/",
+            "title": "BYD Atto 3 Extended Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/extended-range-2023/",
+            "title": "BYD Atto 3 Extended Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/byd/atto-3/mk1/extended-range-2023/",
+            "title": "BYD Atto 3 Extended Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2022/12/08/byd-atto-3-ev-kini-di-malaysia-49-93-kwh-atau-60-48-kwh/",
+            "title": "BYD Atto 3 EV kini di Malaysia – 49.92 kWh atau 60.48 kWh, capai jarak hingga 480 km",
+            "date": "2022-12",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Rp520 jt through 2025 (detik Feb and Nov 2025); was Rp515 jt in 2024. Not on the October 2026 price list. AC and DC peak power, airbag count and ADAS list from the Malaysian spec (paultan.org, Extended Range 60.48 kWh); its 1,750 kg weight matches the Indonesian figure.",
+      "notes_id": "Rp520 jt sepanjang 2025 (detik Februari dan November 2025); sebelumnya Rp515 jt pada 2024. Tidak ada di daftar harga Oktober 2026. Daya puncak AC dan DC, jumlah airbag, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Extended Range 60,48 kWh); berat 1.750 kg di sana sama dengan angka Indonesia."
+    },
+    {
+      "id": "byd-atto-3-2026-advanced-plus",
+      "model_year": 2026,
+      "variant": "Advanced Plus",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "voltage_architecture": "~400 V",
+        "length_mm": 4455,
+        "width_mm": 1875,
+        "height_mm": 1615,
+        "wheelbase_mm": 2720,
+        "ground_clearance_mm": 175,
+        "boot_l": 440,
+        "seats": 5,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "price_otr_idr": 415000000,
+        "battery_gross_kwh": 49.92,
+        "range_km": 410,
+        "range_standard": "NEDC",
+        "ac_max_kw": 7,
+        "dc_10_80_min": 45,
+        "accel_0_100_s": 7.9,
+        "tyre_size": "235/50 R18",
+        "adas": "ACC (stop & go), AEB, LDW, LKA, BSM, RCTA, RCTB, FCW, DOW",
+        "v2l": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://ekonomi.republika.co.id/berita/ta0gbt348/byd-hadirkan-atto-3-advanced-plus-di-iims-2026-harga-rp415-juta",
+            "title": "BYD Hadirkan Atto 3 Advanced Plus di IIMS 2026, Harga Rp415 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/ta0gbt348/byd-hadirkan-atto-3-advanced-plus-di-iims-2026-harga-rp415-juta",
+            "title": "BYD Hadirkan Atto 3 Advanced Plus di IIMS 2026, Harga Rp415 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/ta0gbt348/byd-hadirkan-atto-3-advanced-plus-di-iims-2026-harga-rp415-juta",
+            "title": "BYD Hadirkan Atto 3 Advanced Plus di IIMS 2026, Harga Rp415 Juta",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8346603/byd-atto-3-punya-varian-baru-seharga-rp-415-juta-apa-yang-spesial",
+            "title": "BYD Atto 3 Punya Varian Baru Seharga Rp 415 Juta, Apa yang Spesial?",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/byd-atto-3-advanced-dan-byd-atto-3-advanced-plus",
+            "title": "Perbandingan BYD Atto 3 Advanced dan Advanced Plus (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8346603/byd-atto-3-punya-varian-baru-seharga-rp-415-juta-apa-yang-spesial",
+            "title": "BYD Atto 3 Punya Varian Baru Seharga Rp 415 Juta, Apa yang Spesial?",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/atto-3",
+            "title": "BYD Atto 3 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched at IIMS 5 Feb 2026 at Rp415 jt OTR; standard-range battery with Superior-style equipment (18-inch wheels, panoramic roof, 15.6-inch screen). DC peak power conflicts: OTO says 88 kW, Moladin says 70 kW, so it is left out. Airbags conflict (OTO 7, Moladin 6), left out. Moladin quotes 0–80% in 40 min; OTO's 10–80% 45 min is used. Assembly (CKD/CBU) not stated.",
+      "notes_id": "Diluncurkan di IIMS 5 Februari 2026 seharga Rp415 jt OTR; baterai standard range dengan perlengkapan ala Superior (pelek 18 inci, atap panoramik, layar 15,6 inci). Daya puncak DC berbeda: OTO menyebut 88 kW, Moladin 70 kW, sehingga dikosongkan. Jumlah airbag berbeda (OTO 7, Moladin 6), dikosongkan. Moladin menyebut 0–80% dalam 40 menit; dipakai angka OTO 10–80% 45 menit. Status perakitan (CKD/CBU) tidak disebutkan."
+    }
+  ]
+}

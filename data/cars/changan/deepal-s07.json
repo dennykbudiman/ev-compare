@@ -1,0 +1,430 @@
+{
+  "make": "Changan",
+  "model": "Deepal S07",
+  "trims": [
+    {
+      "id": "changan-deepal-s07-2026-ev",
+      "model_year": 2026,
+      "variant": "EV",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 619000000,
+        "battery_gross_kwh": 79.97,
+        "range_km": 560,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 160,
+        "torque_nm": 320,
+        "dc_10_80_min": 35,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 8,
+        "length_mm": 4750,
+        "width_mm": 1930,
+        "height_mm": 1625,
+        "wheelbase_mm": 2900,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain, knee",
+        "adas": "FCW, AEB, ELK, LKA, LDW, BSM, RCTA, ACC",
+        "tyre_size": "245/55 R20",
+        "battery_warranty": "8 yrs / 240,000 km",
+        "accel_0_100_s": 7.9,
+        "assembly": "CKD Indonesia",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 352,
+        "battery_preheat": true,
+        "ac_max_kw": 11,
+        "dc_max_kw": 92,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "airbags": 7,
+        "seat_layout": "2+3",
+        "ground_clearance_mm": 145,
+        "kerb_weight_kg": 2073,
+        "boot_l": 445,
+        "frunk_l": 125,
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8219743/mengenal-2-mobil-pertama-changan-yang-meluncur-di-gjaw-2025",
+            "title": "Mengenal 2 Mobil Pertama Changan yang Meluncur di GJAW 2025",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8219743/mengenal-2-mobil-pertama-changan-yang-meluncur-di-gjaw-2025",
+            "title": "Mengenal 2 Mobil Pertama Changan yang Meluncur di GJAW 2025",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8219743/mengenal-2-mobil-pertama-changan-yang-meluncur-di-gjaw-2025",
+            "title": "Mengenal 2 Mobil Pertama Changan yang Meluncur di GJAW 2025",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/deepal-s07/ev",
+            "title": "Changan Deepal S07 EV (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8219743/mengenal-2-mobil-pertama-changan-yang-meluncur-di-gjaw-2025",
+            "title": "Mengenal 2 Mobil Pertama Changan yang Meluncur di GJAW 2025",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8341809/segini-harga-resmi-changan-lumin-dan-deepal-s07",
+            "title": "Segini Harga Resmi Changan Lumin dan Deepal S07",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/24/deepal-s07-previewed-in-malaysia-tesla-model-y-rival-with-up-to-258-hp-475-km-wltp-range/",
+            "title": "Deepal S07 previewed in Malaysia - Tesla Model Y rival with up to 258 hp, 475 km WLTP range (Thai S07 L spec)",
+            "date": "2025-01",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "battery_preheat": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carexpert.com.au/deepal/s07/2024-base-suv-rwd-electric-jsgks5mg20241108",
+            "title": "2024 Deepal S07 Base Price and Specifications (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Launched GJAW Nov 2025; official OTR Jakarta Rp599 jt in Feb 2026 (detik), Rp619 jt in Oct 2026 (oto.com) — latest used. Assembled by Indomobil, Purwakarta (detik, Nov 2025). Range 560 km, test standard not stated. Power 160 kW (oto.com: 215 hp). Battery 79.97 kWh (oto.com) vs 79.9 kWh (detik). Euro NCAP rating is for the European-market car (Deepal S07 2024). detik calls it a sedan; it is an SUV body. Chemistry, pack voltage, charging, connectors, V2L, airbags, seat layout, ground clearance, kerb weight, boot, frunk and top speed from the Australian spec of the same 79.97 kWh, 160 kW RWD S07 (CarExpert); NMC chemistry also given for the Thai S07 L (autobuzz.my).",
+      "notes_id": "Diluncurkan di GJAW November 2025; OTR Jakarta resmi Rp599 jt pada Februari 2026 (detik), Rp619 jt pada Oktober 2026 (oto.com) — dipakai yang terbaru. Dirakit oleh Indomobil, Purwakarta (detik, November 2025). Jarak tempuh 560 km, metode uji tidak disebutkan. Tenaga 160 kW (oto.com: 215 hp). Baterai 79,97 kWh (oto.com) vs 79,9 kWh (detik). Peringkat Euro NCAP berlaku untuk mobil pasar Eropa (Deepal S07 2024). detik menyebutnya sedan, padahal bodinya SUV. Kimia baterai, tegangan paket, pengisian daya, konektor, V2L, airbag, tata letak kursi, ground clearance, berat kosong, bagasi, frunk, dan kecepatan maksimum dari spesifikasi Australia untuk S07 79,97 kWh, 160 kW RWD yang sama (CarExpert); kimia NMC juga disebut untuk S07 L Thailand (autobuzz.my)."
+    }
+  ]
+}

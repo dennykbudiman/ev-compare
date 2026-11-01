@@ -1,0 +1,2487 @@
+{
+  "make": "Chery",
+  "model": "E5",
+  "trims": [
+    {
+      "id": "chery-e5-2024-omoda-e5",
+      "model_year": 2024,
+      "variant": "Omoda E5",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 498800000,
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "range_km": 430,
+        "range_standard": "WLTP",
+        "power_kw": 150,
+        "torque_nm": 340,
+        "accel_0_100_s": 7.2,
+        "top_speed_kmh": 172,
+        "battery_ip": "IP68",
+        "battery_chemistry": "LFP",
+        "dc_max_kw": 150,
+        "length_mm": 4424,
+        "width_mm": 1830,
+        "height_mm": 1588,
+        "wheelbase_mm": 2630,
+        "wading_mm": 450,
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "battery_gross_kwh": 61.06,
+        "motor_type": "PMSM",
+        "airbags": 6,
+        "ac_max_kw": 7,
+        "v2l": true,
+        "drive": "FWD",
+        "motor_count": 1,
+        "seats": 5,
+        "tyre_size": "215/55 R18",
+        "voltage_architecture": "~400 V",
+        "v2l_kw": 3.3,
+        "adas": "FCW, AEB, ACC, LDW, LDP, LCA, BSD, RCTA, RCTB, RCW, DOW, TJA, ICA, ELK, DMS"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2024/",
+            "title": "Chery Omoda E5 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2024/",
+            "title": "Chery Omoda E5 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2024/",
+            "title": "Chery Omoda E5 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2024/",
+            "title": "Chery Omoda E5 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2026/",
+            "title": "Chery Omoda E5 2WD (2026) – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2024/",
+            "title": "Chery Omoda E5 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2024/03/06/chery-omoda-e5-dilancar-di-msia-204-ps-340-nm-bateri-61-kwj-jarak-gerak-430-km-harga-dari-rm147k/",
+            "title": "Chery Omoda E5 dilancar di M'sia – 204 PS/340 Nm, bateri 61 kWj, jarak gerak 430 km",
+            "date": "2024-03",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2024/03/06/chery-omoda-e5-dilancar-di-msia-204-ps-340-nm-bateri-61-kwj-jarak-gerak-430-km-harga-dari-rm147k/",
+            "title": "Chery Omoda E5 dilancar di M'sia – 204 PS/340 Nm, bateri 61 kWj, jarak gerak 430 km",
+            "date": "2024-03",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Sold as Omoda E5 from Feb 2024 (CKD, PT Handal Indonesia Motor, Bekasi). Launch price Rp498.8 jt OTR Jakarta (Rp488.8 jt for the first 1,000 buyers); detik lists Rp505.5 jt in March 2025. Power 150 kW/340 Nm per official release; detik quotes 204 hp. DC: Indonesian media say 150 kW peak, 30-80% in about 28 min per detik (CNN says about 30 min). CNN also quotes 505 km NEDC and a lifetime battery/motor warranty for the first 1,000 buyers only. 7 kW AC wall charger and V2L adapter included in price. Drive layout, motor count, seats, tyre size, voltage, V2L output and ADAS list from the Malaysian spec (paultan.org, Omoda E5 61 kWh / 150 kW / 340 Nm).",
+      "notes_id": "Dijual sebagai Omoda E5 sejak Februari 2024 (CKD, PT Handal Indonesia Motor, Bekasi). Harga peluncuran Rp498,8 jt OTR Jakarta (Rp488,8 jt untuk 1.000 pembeli pertama); detik mencantumkan Rp505,5 jt pada Maret 2025. Tenaga 150 kW/340 Nm menurut rilis resmi; detik menyebut 204 hp. DC: media Indonesia menyebut puncak 150 kW, 30-80% sekitar 28 menit menurut detik (CNN menyebut sekitar 30 menit). CNN juga menyebut 505 km NEDC serta garansi baterai/motor seumur hidup khusus untuk 1.000 pembeli pertama. Wall charger AC 7 kW dan adaptor V2L sudah termasuk dalam harga. Tata letak penggerak, jumlah motor, jumlah kursi, ukuran ban, tegangan, daya V2L, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Omoda E5 61 kWh / 150 kW / 340 Nm)."
+    },
+    {
+      "id": "chery-e5-2024-omoda-e5-pure",
+      "model_year": 2024,
+      "variant": "Omoda E5 Pure",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 425500000,
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "range_km": 430,
+        "range_standard": "WLTP",
+        "power_kw": 150,
+        "torque_nm": 340,
+        "accel_0_100_s": 7.2,
+        "top_speed_kmh": 172,
+        "battery_ip": "IP68",
+        "battery_chemistry": "LFP",
+        "dc_max_kw": 150,
+        "length_mm": 4424,
+        "width_mm": 1830,
+        "height_mm": 1588,
+        "wheelbase_mm": 2630,
+        "wading_mm": 450,
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "battery_gross_kwh": 61.06,
+        "motor_type": "PMSM",
+        "airbags": 6,
+        "drive": "FWD",
+        "motor_count": 1,
+        "seats": 5,
+        "voltage_architecture": "~400 V"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          },
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/chery-unveiled-the-omoda-e5",
+            "title": "Chery Unveiled The Omoda E5",
+            "date": "2024-02",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20240205213036-603-1059049/omoda-e5-meluncur-di-indonesia-harga-tak-sampai-rp500-juta",
+            "title": "Omoda E5 Meluncur di Indonesia, Harga Tak Sampai Rp500 Juta",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7801568/harga-chery-omoda-e5-maret-2025-mulai-dari-rp-425-jutaan",
+            "title": "Harga Chery Omoda E5 Maret 2025: Mulai dari Rp 425 Jutaan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2024/",
+            "title": "Chery Omoda E5 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2024/",
+            "title": "Chery Omoda E5 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2024/",
+            "title": "Chery Omoda E5 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/chery/omoda-e5/mk1/2wd-2026/",
+            "title": "Chery Omoda E5 2WD (2026) – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Lower-spec Omoda E5 Pure added at GIIAS 2024; price is the March 2025 detik figure. Lacks sunroof, roof rails, privacy glass, power tailgate and 540-degree camera. Mechanical specs as Omoda E5 (DC 150 kW per detik; 30-80% about 28 min). Drive layout, motor count, seats and voltage from the Malaysian spec (paultan.org, Omoda E5 61 kWh / 150 kW / 340 Nm).",
+      "notes_id": "Omoda E5 Pure berspesifikasi lebih rendah ditambahkan di GIIAS 2024; harga mengacu angka detik Maret 2025. Tanpa sunroof, roof rail, kaca privasi, pintu bagasi elektrik, dan kamera 540 derajat. Spesifikasi mekanis sama dengan Omoda E5 (DC 150 kW menurut detik; 30-80% sekitar 28 menit). Tata letak penggerak, jumlah motor, jumlah kursi, dan tegangan dari spesifikasi Malaysia (paultan.org, Omoda E5 61 kWh / 150 kW / 340 Nm)."
+    },
+    {
+      "id": "chery-e5-2025-pure",
+      "model_year": 2025,
+      "variant": "Pure",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 369000000,
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 61.06,
+        "pack_nominal_voltage_v": 347,
+        "range_km": 430,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 153,
+        "torque_nm": 288,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "length_mm": 4424,
+        "width_mm": 1830,
+        "height_mm": 1588,
+        "wheelbase_mm": 2630,
+        "ground_clearance_mm": 190,
+        "kerb_weight_kg": 1785,
+        "boot_l": 300,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "BSM, RCTA, TPMS, ESC",
+        "tyre_size": "215/55 R18",
+        "accel_0_100_s": 7.2,
+        "top_speed_kmh": 172,
+        "motor_type": "PMSM",
+        "battery_warranty": "8 yrs / 180,000 km",
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 8,
+        "v2l": true
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "2025 price at the June 2025 relaunch ('mulai Rp369 jutaan' OTR Jakarta; Moladin Feb 2026 lists Rp369.9 jt). Renamed Chery E5 in June 2025 with an updated 7-in-1 drive unit: more power, less torque (288 Nm vs 340 Nm). Power 208 PS per Moladin (converted 153 kW); detik says '155 hp, up 5 from before' which matches 155 kW, Zigwheels lists 201/208 hp. Moladin says DC 100 kW (30-80% ~28-30 min) whereas 2024 Omoda E5 media quoted 150 kW. Zigwheels lists torque 340 Nm and ADAS incl. AEB/ACC/LKA, conflicting with Moladin (288 Nm, no AEB listed); Moladin/detik used. Battery warranty from Zigwheels only (unit assumed km). Moladin also lists a 'TT' variant (Rp520.5 jt; Rp404.9 jt in Feb 2026) — prices inconsistent, not recorded.",
+      "notes_id": "Harga 2025 saat peluncuran ulang Juni 2025 ('mulai Rp369 jutaan' OTR Jakarta; Moladin Februari 2026 mencantumkan Rp369,9 jt). Berganti nama menjadi Chery E5 pada Juni 2025 dengan unit penggerak 7-in-1 baru: tenaga lebih besar, torsi lebih kecil (288 Nm vs 340 Nm). Tenaga 208 PS menurut Moladin (dikonversi 153 kW); detik menyebut '155 hp, naik 5 dari sebelumnya' yang cocok dengan 155 kW, Zigwheels mencantumkan 201/208 hp. Moladin menyebut DC 100 kW (30-80% ~28-30 menit), sedangkan media pada 2024 menyebut 150 kW untuk Omoda E5. Zigwheels mencantumkan torsi 340 Nm dan ADAS termasuk AEB/ACC/LKA, berbeda dengan Moladin (288 Nm, AEB tidak tercantum); dipakai data Moladin/detik. Garansi baterai hanya dari Zigwheels (satuan diasumsikan km). Moladin juga mencantumkan varian 'TT' (Rp520,5 jt; Rp404,9 jt pada Februari 2026) — harganya tidak konsisten, tidak dicatat."
+    },
+    {
+      "id": "chery-e5-2025-e5",
+      "model_year": 2025,
+      "variant": "E5",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 399000000,
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 61.06,
+        "pack_nominal_voltage_v": 347,
+        "range_km": 430,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 153,
+        "torque_nm": 288,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "length_mm": 4424,
+        "width_mm": 1830,
+        "height_mm": 1588,
+        "wheelbase_mm": 2630,
+        "ground_clearance_mm": 190,
+        "kerb_weight_kg": 1785,
+        "boot_l": 300,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "BSM, RCTA, TPMS, ESC",
+        "tyre_size": "215/55 R18",
+        "accel_0_100_s": 7.2,
+        "top_speed_kmh": 172,
+        "motor_type": "PMSM",
+        "battery_warranty": "8 yrs / 180,000 km",
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 8,
+        "v2l": true
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "2025 price at the June 2025 relaunch (about Rp399 jt; detik does not say OTR). Later called Luxury. Renamed Chery E5 in June 2025 with an updated 7-in-1 drive unit: more power, less torque (288 Nm vs 340 Nm). Power 208 PS per Moladin (converted 153 kW); detik says '155 hp, up 5 from before' which matches 155 kW, Zigwheels lists 201/208 hp. Moladin says DC 100 kW (30-80% ~28-30 min) whereas 2024 Omoda E5 media quoted 150 kW. Zigwheels lists torque 340 Nm and ADAS incl. AEB/ACC/LKA, conflicting with Moladin (288 Nm, no AEB listed); Moladin/detik used. Battery warranty from Zigwheels only (unit assumed km). Moladin also lists a 'TT' variant (Rp520.5 jt; Rp404.9 jt in Feb 2026) — prices inconsistent, not recorded.",
+      "notes_id": "Harga 2025 saat peluncuran ulang Juni 2025 (sekitar Rp399 jt; detik tidak menyebut OTR). Belakangan disebut Luxury. Berganti nama menjadi Chery E5 pada Juni 2025 dengan unit penggerak 7-in-1 baru: tenaga lebih besar, torsi lebih kecil (288 Nm vs 340 Nm). Tenaga 208 PS menurut Moladin (dikonversi 153 kW); detik menyebut '155 hp, naik 5 dari sebelumnya' yang cocok dengan 155 kW, Zigwheels mencantumkan 201/208 hp. Moladin menyebut DC 100 kW (30-80% ~28-30 menit), sedangkan media pada 2024 menyebut 150 kW untuk Omoda E5. Zigwheels mencantumkan torsi 340 Nm dan ADAS termasuk AEB/ACC/LKA, berbeda dengan Moladin (288 Nm, AEB tidak tercantum); dipakai data Moladin/detik. Garansi baterai hanya dari Zigwheels (satuan diasumsikan km). Moladin juga mencantumkan varian 'TT' (Rp520,5 jt; Rp404,9 jt pada Februari 2026) — harganya tidak konsisten, tidak dicatat."
+    },
+    {
+      "id": "chery-e5-2026-pure",
+      "model_year": 2026,
+      "variant": "Pure",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 379900000,
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 61.06,
+        "pack_nominal_voltage_v": 347,
+        "range_km": 430,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 153,
+        "torque_nm": 288,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "length_mm": 4424,
+        "width_mm": 1830,
+        "height_mm": 1588,
+        "wheelbase_mm": 2630,
+        "ground_clearance_mm": 190,
+        "kerb_weight_kg": 1785,
+        "boot_l": 300,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "BSM, RCTA, TPMS, ESC",
+        "tyre_size": "215/55 R18",
+        "accel_0_100_s": 7.2,
+        "top_speed_kmh": 172,
+        "motor_type": "PMSM",
+        "battery_warranty": "8 yrs / 180,000 km",
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 8,
+        "v2l": true
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Price raised from Rp369.9 jt (Feb 2026) to Rp379.9 jt (Apr 2026). Fabric seats, 6 speakers. Renamed Chery E5 in June 2025 with an updated 7-in-1 drive unit: more power, less torque (288 Nm vs 340 Nm). Power 208 PS per Moladin (converted 153 kW); detik says '155 hp, up 5 from before' which matches 155 kW, Zigwheels lists 201/208 hp. Moladin says DC 100 kW (30-80% ~28-30 min) whereas 2024 Omoda E5 media quoted 150 kW. Zigwheels lists torque 340 Nm and ADAS incl. AEB/ACC/LKA, conflicting with Moladin (288 Nm, no AEB listed); Moladin/detik used. Battery warranty from Zigwheels only (unit assumed km). Moladin also lists a 'TT' variant (Rp520.5 jt; Rp404.9 jt in Feb 2026) — prices inconsistent, not recorded.",
+      "notes_id": "Harga naik dari Rp369,9 jt (Februari 2026) menjadi Rp379,9 jt (April 2026). Jok kain, 6 speaker. Berganti nama menjadi Chery E5 pada Juni 2025 dengan unit penggerak 7-in-1 baru: tenaga lebih besar, torsi lebih kecil (288 Nm vs 340 Nm). Tenaga 208 PS menurut Moladin (dikonversi 153 kW); detik menyebut '155 hp, naik 5 dari sebelumnya' yang cocok dengan 155 kW, Zigwheels mencantumkan 201/208 hp. Moladin menyebut DC 100 kW (30-80% ~28-30 menit), sedangkan media pada 2024 menyebut 150 kW untuk Omoda E5. Zigwheels mencantumkan torsi 340 Nm dan ADAS termasuk AEB/ACC/LKA, berbeda dengan Moladin (288 Nm, AEB tidak tercantum); dipakai data Moladin/detik. Garansi baterai hanya dari Zigwheels (satuan diasumsikan km). Moladin juga mencantumkan varian 'TT' (Rp520,5 jt; Rp404,9 jt pada Februari 2026) — harganya tidak konsisten, tidak dicatat."
+    },
+    {
+      "id": "chery-e5-2026-luxury",
+      "model_year": 2026,
+      "variant": "Luxury",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 419900000,
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 61.06,
+        "pack_nominal_voltage_v": 347,
+        "range_km": 430,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 153,
+        "torque_nm": 288,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "length_mm": 4424,
+        "width_mm": 1830,
+        "height_mm": 1588,
+        "wheelbase_mm": 2630,
+        "ground_clearance_mm": 190,
+        "kerb_weight_kg": 1785,
+        "boot_l": 300,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "BSM, RCTA, TPMS, ESC",
+        "tyre_size": "215/55 R18",
+        "accel_0_100_s": 7.2,
+        "top_speed_kmh": 172,
+        "motor_type": "PMSM",
+        "battery_warranty": "8 yrs / 180,000 km",
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 8,
+        "v2l": true
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-e5/spesifikasi",
+            "title": "Spesifikasi Chery E5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7982931/lepas-nama-omoda-harga-mobil-listrik-chery-e5-turun-rp-100-juta",
+            "title": "Lepas Nama Omoda, Harga Mobil Listrik Chery E5 Turun Rp 100 Juta",
+            "date": "2025-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/chery/e5/spesifikasi/",
+            "title": "Spesifikasi CHERY E5 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/harga-chery-e5-2026-semua-tipe/",
+            "title": "Harga Chery E5 2026 Semua Tipe",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Price raised from Rp399.9 jt (Feb 2026) to Rp419.9 jt (Apr 2026). Leather power seats, power tailgate. Renamed Chery E5 in June 2025 with an updated 7-in-1 drive unit: more power, less torque (288 Nm vs 340 Nm). Power 208 PS per Moladin (converted 153 kW); detik says '155 hp, up 5 from before' which matches 155 kW, Zigwheels lists 201/208 hp. Moladin says DC 100 kW (30-80% ~28-30 min) whereas 2024 Omoda E5 media quoted 150 kW. Zigwheels lists torque 340 Nm and ADAS incl. AEB/ACC/LKA, conflicting with Moladin (288 Nm, no AEB listed); Moladin/detik used. Battery warranty from Zigwheels only (unit assumed km). Moladin also lists a 'TT' variant (Rp520.5 jt; Rp404.9 jt in Feb 2026) — prices inconsistent, not recorded.",
+      "notes_id": "Harga naik dari Rp399,9 jt (Februari 2026) menjadi Rp419,9 jt (April 2026). Jok kulit elektrik, pintu bagasi elektrik. Berganti nama menjadi Chery E5 pada Juni 2025 dengan unit penggerak 7-in-1 baru: tenaga lebih besar, torsi lebih kecil (288 Nm vs 340 Nm). Tenaga 208 PS menurut Moladin (dikonversi 153 kW); detik menyebut '155 hp, naik 5 dari sebelumnya' yang cocok dengan 155 kW, Zigwheels mencantumkan 201/208 hp. Moladin menyebut DC 100 kW (30-80% ~28-30 menit), sedangkan media pada 2024 menyebut 150 kW untuk Omoda E5. Zigwheels mencantumkan torsi 340 Nm dan ADAS termasuk AEB/ACC/LKA, berbeda dengan Moladin (288 Nm, AEB tidak tercantum); dipakai data Moladin/detik. Garansi baterai hanya dari Zigwheels (satuan diasumsikan km). Moladin juga mencantumkan varian 'TT' (Rp520,5 jt; Rp404,9 jt pada Februari 2026) — harganya tidak konsisten, tidak dicatat."
+    }
+  ]
+}

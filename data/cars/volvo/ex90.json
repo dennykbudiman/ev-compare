@@ -1,0 +1,345 @@
+{
+  "make": "Volvo",
+  "model": "EX90",
+  "trims": [
+    {
+      "id": "volvo-ex90-2026-twin-motor-performance",
+      "model_year": 2026,
+      "variant": "Twin Motor Performance",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 2550000000,
+        "battery_gross_kwh": 111,
+        "voltage_architecture": "~400 V",
+        "range_km": 600,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 375,
+        "accel_0_100_s": 4.9,
+        "dc_max_kw": 250,
+        "dc_10_80_min": 30,
+        "length_mm": 5037,
+        "width_mm": 1964,
+        "height_mm": 1744,
+        "wheelbase_mm": 2985,
+        "ground_clearance_mm": 216,
+        "seats": 7,
+        "seat_layout": "2+3+2",
+        "airbags": 9,
+        "battery_usable_kwh": 107,
+        "battery_chemistry": "NMC",
+        "torque_nm": 910,
+        "top_speed_kmh": 180,
+        "ac_max_kw": 11,
+        "boot_l": 310,
+        "adas": "ACC (Pilot Assist), AEB, LKA, BSM, door opening alert, driver monitoring, 360 camera, park assist"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://ekonomi.republika.co.id/berita/tfa8qm348/volvo-luncurkan-ex90-sasar-pasar-mobil-listrik-mewah-dihargai-rp255-miliar",
+            "title": "Volvo Luncurkan EX90, Sasar Pasar Mobil Listrik Mewah, Dihargai Rp2,55 Miliar - Republika",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/tfa8qm348/volvo-luncurkan-ex90-sasar-pasar-mobil-listrik-mewah-dihargai-rp255-miliar",
+            "title": "Volvo Luncurkan EX90, Sasar Pasar Mobil Listrik Mewah, Dihargai Rp2,55 Miliar - Republika",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/tfa8qm348/volvo-luncurkan-ex90-sasar-pasar-mobil-listrik-mewah-dihargai-rp255-miliar",
+            "title": "Volvo Luncurkan EX90, Sasar Pasar Mobil Listrik Mewah, Dihargai Rp2,55 Miliar - Republika",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/tfa8qm348/volvo-luncurkan-ex90-sasar-pasar-mobil-listrik-mewah-dihargai-rp255-miliar",
+            "title": "Volvo Luncurkan EX90, Sasar Pasar Mobil Listrik Mewah, Dihargai Rp2,55 Miliar - Republika",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/2026/09/08/2026-volvo-ex90-launched-in-malaysia/",
+            "title": "2026 Volvo EX90 launched in Malaysia (paultan.org)",
+            "date": "2026-09",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/tfa8qm348/volvo-luncurkan-ex90-sasar-pasar-mobil-listrik-mewah-dihargai-rp255-miliar",
+            "title": "Volvo Luncurkan EX90, Sasar Pasar Mobil Listrik Mewah, Dihargai Rp2,55 Miliar - Republika",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/tfa8qm348/volvo-luncurkan-ex90-sasar-pasar-mobil-listrik-mewah-dihargai-rp255-miliar",
+            "title": "Volvo Luncurkan EX90, Sasar Pasar Mobil Listrik Mewah, Dihargai Rp2,55 Miliar - Republika",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/tfa8qm348/volvo-luncurkan-ex90-sasar-pasar-mobil-listrik-mewah-dihargai-rp255-miliar",
+            "title": "Volvo Luncurkan EX90, Sasar Pasar Mobil Listrik Mewah, Dihargai Rp2,55 Miliar - Republika",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/tfa8qm348/volvo-luncurkan-ex90-sasar-pasar-mobil-listrik-mewah-dihargai-rp255-miliar",
+            "title": "Volvo Luncurkan EX90, Sasar Pasar Mobil Listrik Mewah, Dihargai Rp2,55 Miliar - Republika",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8495316/volvo-ex90-meluncur-di-ri-suv-listrik-premium-seharga-rp-2-5-m",
+            "title": "Volvo EX90 Meluncur di RI, SUV Listrik Premium Seharga Rp 2,5 M - detikOto",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/volvo/volvo-ex90-recharge/spesifikasi",
+            "title": "Spesifikasi Volvo EX90 - Moladin",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://autobuzz.my/2025/04/10/volvo-ex90-launched-in-malaysia-seven-seater-ev-flagship-rm442888/",
+            "title": "Volvo EX90 launched in Malaysia - Seven-seater EV flagship, RM442,888 (AutoBuzz)",
+            "date": "2025-04",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/2025/04/10/volvo-ex90-launched-in-malaysia-seven-seater-ev-flagship-rm442888/",
+            "title": "Volvo EX90 launched in Malaysia - Seven-seater EV flagship, RM442,888 (AutoBuzz)",
+            "date": "2025-04",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2025/04/10/volvo-ex90-launched-in-malaysia-seven-seater-ev-flagship-rm442888/",
+            "title": "Volvo EX90 launched in Malaysia - Seven-seater EV flagship, RM442,888 (AutoBuzz)",
+            "date": "2025-04",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/volvo/ex90/",
+            "title": "Volvo EX90 - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2025/04/10/volvo-ex90-launched-in-malaysia-seven-seater-ev-flagship-rm442888/",
+            "title": "Volvo EX90 launched in Malaysia - Seven-seater EV flagship, RM442,888 (AutoBuzz)",
+            "date": "2025-04",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/volvo/ex90/",
+            "title": "Volvo EX90 - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2025/04/10/volvo-ex90-launched-in-malaysia-seven-seater-ev-flagship-rm442888/",
+            "title": "Volvo EX90 launched in Malaysia - Seven-seater EV flagship, RM442,888 (AutoBuzz)",
+            "date": "2025-04",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autobuzz.my/2025/04/10/volvo-ex90-launched-in-malaysia-seven-seater-ev-flagship-rm442888/",
+            "title": "Volvo EX90 launched in Malaysia - Seven-seater EV flagship, RM442,888 (AutoBuzz)",
+            "date": "2025-04",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/volvo/ex90/",
+            "title": "Volvo EX90 - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2025/04/10/volvo-ex90-launched-in-malaysia-seven-seater-ev-flagship-rm442888/",
+            "title": "Volvo EX90 launched in Malaysia - Seven-seater EV flagship, RM442,888 (AutoBuzz)",
+            "date": "2025-04",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched 19 May 2026; OTR Jakarta Rp2,550,000,000 (Republika); CBU from Malaysia. Power 510 hp (treated as PS, x0.7355 = 375 kW). detikOto also mentions a Twin Motor (402 hp, 5.9 s) version, but only one price was announced and the October 2026 list has one EX90. Range 'about 600 km', standard not stated. Moladin's spec page conflicts heavily (106 kWh, 680 hp, 870 Nm, 720 km NEDC, 350 kW DC, price ~Rp2.6 bn) and looks like non-Indonesian data, so only its dimensions, seats and airbags are used. Seat layout 2+3+2 inferred from Moladin's 7 seats in three rows. Usable battery, chemistry, torque, top speed, AC power, boot capacity and ADAS from the Malaysian spec of the CKD Ultra Twin Motor Performance (autobuzz.my, paultan.org); matched on 111 kWh and 510 hp / 517 PS. Voltage check (Nov 2026): the Indonesian launch figures (111 kWh, 510 hp, 250 kW DC) are the 400 V EX90; the 800 V update (106 kWh, 680 PS, 350 kW) reached Malaysia only in September 2026 and is what Moladin lists. Voltage ~400 V from the Malaysian report on that update (paultan.org).",
+      "notes_id": "Diluncurkan 19 Mei 2026; OTR Jakarta Rp2.550.000.000 (Republika); CBU dari Malaysia. Tenaga 510 hp (diperlakukan sebagai PS, x0,7355 = 375 kW). detikOto juga menyebut versi Twin Motor (402 hp, 5,9 detik), tetapi hanya satu harga yang diumumkan dan daftar Oktober 2026 hanya memuat satu EX90. Jarak tempuh 'sekitar 600 km', standar tidak disebutkan. Halaman spesifikasi Moladin sangat berbeda (106 kWh, 680 hp, 870 Nm, 720 km NEDC, DC 350 kW, harga ~Rp2,6 miliar) dan tampaknya bukan data Indonesia, sehingga hanya dimensi, jumlah kursi, dan airbag-nya yang dipakai. Konfigurasi kursi 2+3+2 disimpulkan dari 7 kursi dalam tiga baris versi Moladin. Kapasitas baterai bersih, kimia baterai, torsi, kecepatan maksimum, daya AC, kapasitas bagasi, dan ADAS dari spesifikasi Malaysia untuk Ultra Twin Motor Performance rakitan CKD (autobuzz.my, paultan.org); dicocokkan pada 111 kWh dan 510 hp / 517 PS. Mobil Malaysia MY25 berarsitektur 400 V, sedangkan data Indonesia mencantumkan 800 V; perlu dicek model year yang masuk Indonesia. Pemeriksaan tegangan (Nov 2026): angka peluncuran Indonesia (111 kWh, 510 hp, DC 250 kW) adalah EX90 400 V; versi 800 V (106 kWh, 680 PS, 350 kW) baru masuk Malaysia pada September 2026 dan itulah yang tercantum di Moladin. Tegangan ~400 V dari laporan Malaysia tentang pembaruan tersebut (paultan.org)."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "make": "Changan",
+  "model": "Lumin",
+  "trims": [
+    {
+      "id": "changan-lumin-2026-ev",
+      "model_year": 2026,
+      "variant": "EV",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "City car",
+        "price_otr_idr": 222000000,
+        "seats": 4,
+        "battery_gross_kwh": 28,
+        "torque_nm": 83,
+        "ground_clearance_mm": 150,
+        "battery_chemistry": "LFP",
+        "range_km": 301,
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "power_kw": 35,
+        "dc_10_80_min": 35,
+        "dc_time_window": "30–80%",
+        "length_mm": 3270,
+        "width_mm": 1700,
+        "height_mm": 1590,
+        "airbags": 2,
+        "airbag_positions": "front",
+        "assembly": "CKD Indonesia"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/lumin/harga",
+            "title": "Changan Lumin EV price (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/lumin/harga",
+            "title": "Changan Lumin EV price (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/lumin/harga",
+            "title": "Changan Lumin EV price (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/lumin/harga",
+            "title": "Changan Lumin EV price (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8219743/mengenal-2-mobil-pertama-changan-yang-meluncur-di-gjaw-2025",
+            "title": "Mengenal 2 Mobil Pertama Changan yang Meluncur di GJAW 2025",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/lumin/harga",
+            "title": "Changan Lumin EV price (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/changan/lumin/harga",
+            "title": "Changan Lumin EV price (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8219743/mengenal-2-mobil-pertama-changan-yang-meluncur-di-gjaw-2025",
+            "title": "Mengenal 2 Mobil Pertama Changan yang Meluncur di GJAW 2025",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8341809/segini-harga-resmi-changan-lumin-dan-deepal-s07",
+            "title": "Segini Harga Resmi Changan Lumin dan Deepal S07",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8219743/mengenal-2-mobil-pertama-changan-yang-meluncur-di-gjaw-2025",
+            "title": "Mengenal 2 Mobil Pertama Changan yang Meluncur di GJAW 2025",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8341809/segini-harga-resmi-changan-lumin-dan-deepal-s07",
+            "title": "Segini Harga Resmi Changan Lumin dan Deepal S07",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8341809/segini-harga-resmi-changan-lumin-dan-deepal-s07",
+            "title": "Segini Harga Resmi Changan Lumin dan Deepal S07",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/news/update-harga-changan-lumin-ev-2026/",
+            "title": "Update Harga Changan Lumin EV 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8219743/mengenal-2-mobil-pertama-changan-yang-meluncur-di-gjaw-2025",
+            "title": "Mengenal 2 Mobil Pertama Changan yang Meluncur di GJAW 2025",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Launched GJAW Nov 2025 with a special price to end-Jan 2026; official OTR Jakarta Rp183 jt (detik, Feb 2026), Rp205 jt (Moladin, June 2026), Rp222 jt (oto.com, Oct 2026) — latest used. Locally assembled at Indomobil's Purwakarta plant (detik). Torque 83 Nm (Moladin, oto.com) vs 101 Nm (detik); 83 used. Battery 28 kWh (oto/detik) vs 28.08 kWh (Moladin). 580 L is with rear seats folded (boot not recorded). Power 35 kW (oto.com lists 47 hp).",
+      "notes_id": "Diluncurkan di GJAW November 2025 dengan harga spesial hingga akhir Januari 2026; OTR Jakarta resmi Rp183 jt (detik, Februari 2026), Rp205 jt (Moladin, Juni 2026), Rp222 jt (oto.com, Oktober 2026) — dipakai yang terbaru. Dirakit lokal di pabrik Indomobil Purwakarta (detik). Torsi 83 Nm (Moladin, oto.com) vs 101 Nm (detik); dipakai 83. Baterai 28 kWh (oto/detik) vs 28,08 kWh (Moladin). 580 L adalah dengan jok belakang dilipat (bagasi tidak dicatat). Tenaga 35 kW (oto.com mencantumkan 47 hp)."
+    }
+  ]
+}

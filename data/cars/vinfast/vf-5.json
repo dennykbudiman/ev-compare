@@ -1,0 +1,265 @@
+{
+  "make": "VinFast",
+  "model": "VF 5",
+  "trims": [
+    {
+      "id": "vinfast-vf-5-2026-eco",
+      "model_year": 2026,
+      "variant": "Eco",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 272349000,
+        "battery_gross_kwh": 29.6,
+        "voltage_architecture": "~400 V",
+        "range_km": 260,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "torque_nm": 135,
+        "dc_10_80_min": 34,
+        "dc_time_window": "10–70%",
+        "ac_full_hours": 6,
+        "seats": 5,
+        "length_mm": 3967,
+        "width_mm": 1723,
+        "height_mm": 1578,
+        "wheelbase_mm": 2514,
+        "ground_clearance_mm": 161.5,
+        "boot_l": 260,
+        "tyre_size": "195/50 R16",
+        "airbags": 4,
+        "airbag_positions": "driver, front passenger, front side"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf5-electric",
+            "title": "VinFast VF5 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "On sale since GIIAS July 2024 (then Rp310 jt with battery, Rp286.45 jt GIIAS promo). 2026 price Rp272.349 jt incl. battery per oto.com (Jan 2026). Same specs 2024–2026. Power is published only as \"94\" with no unit (oto.com, Moladin), so it is left out. DC: oto.com says 10–70% in 30–45 min, Moladin 34 min (10–70%). Battery chemistry not published for Indonesia. CBU import from Vietnam at launch; Subang local assembly planned, assembly left out. Price is the battery-included (battery ownership) OTR Jakarta price; VinFast also sells with a battery subscription at a lower upfront price.",
+      "notes_id": "Dijual sejak GIIAS Juli 2024 (saat itu Rp310 jt termasuk baterai, promo GIIAS Rp286,45 jt). Harga 2026 Rp272,349 jt termasuk baterai menurut oto.com (Januari 2026). Spesifikasi sama 2024–2026. Tenaga hanya dipublikasikan sebagai \"94\" tanpa satuan (oto.com, Moladin), jadi tidak dicantumkan. DC: oto.com menyebut 10–70% dalam 30–45 menit, Moladin 34 menit (10–70%). Kimia baterai tidak dipublikasikan untuk Indonesia. CBU impor dari Vietnam saat peluncuran; perakitan lokal di Subang direncanakan, status perakitan dikosongkan. Harga adalah OTR Jakarta termasuk baterai (baterai milik sendiri); VinFast juga menjual dengan skema sewa baterai dengan harga awal lebih rendah."
+    }
+  ]
+}

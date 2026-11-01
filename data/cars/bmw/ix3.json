@@ -1,0 +1,379 @@
+{
+  "make": "BMW",
+  "model": "iX3",
+  "trims": [
+    {
+      "id": "bmw-ix3-2026-50-xdrive-m-sport",
+      "model_year": 2026,
+      "variant": "50 xDrive M Sport",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_usable_kwh": 108.7,
+        "range_km": 805,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "drive": "AWD",
+        "motor_type": "Induction (front) + EESM (rear)",
+        "power_kw": 345,
+        "torque_nm": 645,
+        "accel_0_100_s": 4.9,
+        "top_speed_kmh": 210,
+        "ac_max_kw": 22,
+        "dc_max_kw": 400,
+        "dc_10_80_min": 21,
+        "length_mm": 4782,
+        "width_mm": 1895,
+        "height_mm": 1635,
+        "wheelbase_mm": 2897,
+        "kerb_weight_kg": 2360,
+        "boot_l": 520,
+        "frunk_l": 58,
+        "platform": "Neue Klasse",
+        "adas": "Driving Assistant Plus, Parking Assistant Plus, High-beam assistant",
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_gross_kwh": 113.4,
+        "battery_chemistry": "NMC",
+        "cell_format": "Cylindrical",
+        "voltage_architecture": "800 V"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3.html",
+            "title": "BMW iX3 (NA5): Overview, Configurator & Prices",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/BMW_iX3_50_xDrive_MSport_NA5_Speccard.pdf.asset.1785227733343.pdf",
+            "title": "BMW iX3 50 xDrive M Sport spec card",
+            "date": "2026-07",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/cuma-rp-2-2-m-inilah-suv-listrik-bmw-ix3-27tio0JlFnw",
+            "title": "Cuma Rp 2,2 M, Inilah SUV Listrik BMW iX3 - kumparan",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/cuma-rp-2-2-m-inilah-suv-listrik-bmw-ix3-27tio0JlFnw",
+            "title": "Cuma Rp 2,2 M, Inilah SUV Listrik BMW iX3 - kumparan",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://kumparan.com/kumparanoto/cuma-rp-2-2-m-inilah-suv-listrik-bmw-ix3-27tio0JlFnw",
+            "title": "Cuma Rp 2,2 M, Inilah SUV Listrik BMW iX3 - kumparan",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://kumparan.com/kumparanoto/cuma-rp-2-2-m-inilah-suv-listrik-bmw-ix3-27tio0JlFnw",
+            "title": "Cuma Rp 2,2 M, Inilah SUV Listrik BMW iX3 - kumparan",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/cuma-rp-2-2-m-inilah-suv-listrik-bmw-ix3-27tio0JlFnw",
+            "title": "Cuma Rp 2,2 M, Inilah SUV Listrik BMW iX3 - kumparan",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/BMW_iX3_50_xDrive_MSport_NA5_Speccard.pdf.asset.1785227733343.pdf",
+            "title": "BMW iX3 50 xDrive M Sport spec card",
+            "date": "2026-07",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8596921/new-bmw-ix3-jadi-era-baru-neue-klasse-di-indonesia-ini-spesifikasinya",
+            "title": "New BMW iX3 Jadi Era Baru Neue Klasse di Indonesia, Ini Spesifikasinya - detikOto",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3-technical-data.html",
+            "title": "BMW iX3 (NA5): technical data",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/x-series/ix3/bmw-ix3.html",
+            "title": "BMW iX3 (NA5): Overview, Configurator & Prices",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/cuma-rp-2-2-m-inilah-suv-listrik-bmw-ix3-27tio0JlFnw",
+            "title": "Cuma Rp 2,2 M, Inilah SUV Listrik BMW iX3 - kumparan",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/BMW_iX3_50_xDrive_MSport_NA5_Speccard.pdf.asset.1785227733343.pdf",
+            "title": "BMW iX3 50 xDrive M Sport spec card",
+            "date": "2026-07",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.carexpert.com.au/car-news/2026-bmw-ix3-price-and-specs-1",
+            "title": "2026 BMW iX3 price and specs (CarExpert)",
+            "date": "2026-08",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.carexpert.com.au/car-news/2026-bmw-ix3-price-and-specs-1",
+            "title": "2026 BMW iX3 price and specs (CarExpert)",
+            "date": "2026-08",
+            "type": "media",
+            "market": "Australia"
+          },
+          {
+            "url": "https://www.electrive.com/2025/09/05/ix3-reaches-805-kilometres-bmw-sets-benchmarks-with-first-neue-klasse-model",
+            "title": "iX3 reaches 805 kilometres: BMW sets benchmarks with first Neue Klasse model (electrive)",
+            "date": "2025-09",
+            "type": "press",
+            "market": "Europe"
+          }
+        ],
+        "cell_format": [
+          {
+            "url": "https://www.carexpert.com.au/car-news/2026-bmw-ix3-price-and-specs-1",
+            "title": "2026 BMW iX3 price and specs (CarExpert)",
+            "date": "2026-08",
+            "type": "media",
+            "market": "Australia"
+          },
+          {
+            "url": "https://www.electrive.com/2025/09/05/ix3-reaches-805-kilometres-bmw-sets-benchmarks-with-first-neue-klasse-model",
+            "title": "iX3 reaches 805 kilometres: BMW sets benchmarks with first Neue Klasse model (electrive)",
+            "date": "2025-09",
+            "type": "press",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.electrive.com/2025/09/05/ix3-reaches-805-kilometres-bmw-sets-benchmarks-with-first-neue-klasse-model",
+            "title": "iX3 reaches 805 kilometres: BMW sets benchmarks with first Neue Klasse model (electrive)",
+            "date": "2025-09",
+            "type": "press",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched GIIAS July 2026, first Neue Klasse model in Indonesia; not in the BMW price PDFs yet. Price reported as Rp2.2-2.269 billion OFF the road (kumparan, detik); no OTR figure published, so price left out. AC: spec card says up to 22 kW; technical page says 11 kW with 11 h 0-100%. Range 678-805 km WLTP. Boot 520-1,750 l. Motors per kumparan: ASM (induction) front, EESM rear. Battery 108.7 kWh labelled net on the spec card. Gross battery (113.4 kWh), NMC chemistry and cylindrical cells from the Australian spec (CarExpert); 800 V architecture from the European launch report (electrive).",
+      "notes_id": "Diluncurkan di GIIAS Juli 2026, model Neue Klasse pertama di Indonesia; belum masuk PDF daftar harga BMW. Harga dilaporkan Rp2,2-2,269 miliar off the road (kumparan, detik); tidak ada angka OTR, sehingga harga dikosongkan. AC: kartu spesifikasi menyebut hingga 22 kW; halaman teknis menyebut 11 kW dengan 11 jam 0-100%. Jarak tempuh 678-805 km WLTP. Bagasi 520-1.750 l. Motor menurut kumparan: ASM (induksi) di depan, EESM di belakang. Baterai 108,7 kWh berlabel net di kartu spesifikasi. Baterai gross (113,4 kWh), kimia NMC, dan sel silinder dari spesifikasi Australia (CarExpert); arsitektur 800 V dari laporan peluncuran Eropa (electrive)."
+    }
+  ]
+}

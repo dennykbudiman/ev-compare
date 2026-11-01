@@ -1,0 +1,1704 @@
+{
+  "make": "BYD",
+  "model": "Dolphin",
+  "trims": [
+    {
+      "id": "byd-dolphin-2024-dynamic",
+      "model_year": 2024,
+      "variant": "Dynamic (Standard Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "length_mm": 4290,
+        "width_mm": 1770,
+        "height_mm": 1570,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 130,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "ACC, AEB, FCW, LDW, LKA, ELKA, BSD, RCTA, RCTB, RCW",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "battery_gross_kwh": 44.9,
+        "range_km": 410,
+        "range_standard": "NEDC",
+        "power_kw": 70,
+        "torque_nm": 180,
+        "ac_max_kw": 7,
+        "dc_max_kw": 60,
+        "price_otr_idr": 365000000,
+        "assembly": "CBU import",
+        "ac_connector": "Type 2",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "boot_l": 345,
+        "accel_0_100_s": 12.3,
+        "tyre_size": "195/60 R16"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Added at GIIAS July 2024 at Rp365 jt (liputan6 does not say whether OTR). Power given as 95 PS, converted to 70 kW. Range 340 km WLTP also quoted. Imported from China (detik Nov 2025: local BYD production only from 2026). Battery quoted as 44.9 / 44.92 kWh. AC connector, V2L (3.3 kW; the paultan launch article says 3.2 kW), boot capacity, 0–100 km/h time and tyre size from the Malaysian spec (paultan.org, Dynamic 44.9 kWh).",
+      "notes_id": "Ditambahkan di GIIAS Juli 2024 seharga Rp365 jt (liputan6 tidak menyebut apakah OTR). Tenaga disebut 95 PS, dikonversi menjadi 70 kW. Angka jarak tempuh 340 km WLTP juga disebutkan. Diimpor dari China (detik November 2025: produksi lokal BYD baru mulai 2026). Baterai disebut 44,9 / 44,92 kWh. Konektor AC, V2L (3,3 kW; artikel peluncuran paultan menyebut 3,2 kW), kapasitas bagasi, waktu 0–100 km/jam, dan ukuran ban dari spesifikasi Malaysia (paultan.org, Dynamic 44,9 kWh)."
+    },
+    {
+      "id": "byd-dolphin-2024-premium",
+      "model_year": 2024,
+      "variant": "Premium (Extended Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "length_mm": 4290,
+        "width_mm": 1770,
+        "height_mm": 1570,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 130,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "ACC, AEB, FCW, LDW, LKA, ELKA, BSD, RCTA, RCTB, RCW",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "battery_gross_kwh": 60.48,
+        "range_km": 490,
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "dc_max_kw": 80,
+        "accel_0_100_s": 7,
+        "price_otr_idr": 425000000,
+        "assembly": "CBU import",
+        "ac_max_kw": 7,
+        "ac_connector": "Type 2",
+        "v2l": true,
+        "boot_l": 345,
+        "tyre_size": "205/50 R17",
+        "v2l_kw": 3.3,
+        "kerb_weight_kg": 1658,
+        "top_speed_kmh": 160,
+        "heat_pump": true,
+        "dc_10_80_min": 29,
+        "dc_time_window": "30–80%",
+        "pack_nominal_voltage_v": 390.4,
+        "voltage_architecture": "~400 V"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.goodnewsfromindonesia.id/2024/02/16/byd-umumkan-harga-mobil-listriknya-di-indonesia-termurah-rp425-juta",
+            "title": "BYD Umumkan Harga Mobil Listriknya di Indonesia, Termurah Rp425 Juta",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Launched January 2024, price announced at IIMS February 2024 at Rp425 jt (source does not say OTR). Range 427 km WLTP also quoted. Imported from China. 0–100 km/h 7 s is from OTO's review text. AC power and connector, V2L, boot capacity and tyre size from the Malaysian spec (paultan.org); V2L output, kerb weight, top speed, heat pump, DC 30–80% time (about 29 min), and pack voltage from the Australian spec (CarExpert), both Premium 60.48 kWh / 150 kW.",
+      "notes_id": "Diluncurkan Januari 2024, harga diumumkan di IIMS Februari 2024 sebesar Rp425 jt (sumber tidak menyebut OTR). Angka jarak tempuh 427 km WLTP juga disebutkan. Diimpor dari China. 0–100 km/jam 7 detik berasal dari teks ulasan OTO. Daya dan konektor AC, V2L, kapasitas bagasi, dan ukuran ban dari spesifikasi Malaysia (paultan.org); daya V2L, berat kosong, kecepatan maksimum, heat pump, waktu DC 30–80% (sekitar 29 menit), dan tegangan baterai dari spesifikasi Australia (CarExpert), keduanya Premium 60,48 kWh / 150 kW."
+    },
+    {
+      "id": "byd-dolphin-2026-dynamic",
+      "model_year": 2026,
+      "variant": "Dynamic (Standard Range)",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "length_mm": 4290,
+        "width_mm": 1770,
+        "height_mm": 1570,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 130,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "ACC, AEB, FCW, LDW, LKA, ELKA, BSD, RCTA, RCTB, RCW",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "battery_gross_kwh": 44.9,
+        "range_km": 410,
+        "range_standard": "NEDC",
+        "power_kw": 70,
+        "torque_nm": 180,
+        "ac_max_kw": 7,
+        "dc_max_kw": 60,
+        "price_otr_idr": 369000000,
+        "ac_connector": "Type 2",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "boot_l": 345,
+        "accel_0_100_s": 12.3,
+        "tyre_size": "195/60 R16"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/byd/dolphin/mk1/dynamic-standard-range-2023/",
+            "title": "BYD Dolphin Dynamic Standard Range – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Same specs 2024–2026; same price Rp369 jt 2025–2026 (was Rp365 jt in 2024). Power given as 95 PS, converted to 70 kW. Range 340 km WLTP also quoted. Assembly for 2026 units not confirmed. AC connector, V2L (3.3 kW; the paultan launch article says 3.2 kW), boot capacity, 0–100 km/h time and tyre size from the Malaysian spec (paultan.org, Dynamic 44.9 kWh).",
+      "notes_id": "Spesifikasi sama 2024–2026; harga sama Rp369 jt 2025–2026 (sebelumnya Rp365 jt pada 2024). Tenaga disebut 95 PS, dikonversi menjadi 70 kW. Angka jarak tempuh 340 km WLTP juga disebutkan. Status perakitan unit 2026 belum terkonfirmasi. Konektor AC, V2L (3,3 kW; artikel peluncuran paultan menyebut 3,2 kW), kapasitas bagasi, waktu 0–100 km/jam, dan ukuran ban dari spesifikasi Malaysia (paultan.org, Dynamic 44,9 kWh)."
+    },
+    {
+      "id": "byd-dolphin-2026-premium",
+      "model_year": 2026,
+      "variant": "Premium (Extended Range)",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "dc_connector": "CCS2",
+        "length_mm": 4290,
+        "width_mm": 1770,
+        "height_mm": 1570,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 130,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "ACC, AEB, FCW, LDW, LKA, ELKA, BSD, RCTA, RCTB, RCW",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "e-Platform 3.0",
+        "battery_gross_kwh": 60.48,
+        "range_km": 490,
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "dc_max_kw": 80,
+        "accel_0_100_s": 7,
+        "price_otr_idr": 429000000,
+        "ac_max_kw": 7,
+        "ac_connector": "Type 2",
+        "v2l": true,
+        "boot_l": 345,
+        "tyre_size": "205/50 R17",
+        "v2l_kw": 3.3,
+        "kerb_weight_kg": 1658,
+        "top_speed_kmh": 160,
+        "heat_pump": true,
+        "dc_10_80_min": 29,
+        "dc_time_window": "30–80%",
+        "pack_nominal_voltage_v": 390.4,
+        "voltage_architecture": "~400 V"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/5647076/byd-rilis-dolphin-dan-atto-3-versi-murah-di-giias-2024",
+            "title": "BYD Rilis Dolphin dan Atto 3 Versi Murah di GIIAS 2024",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/byd/dolphin",
+            "title": "BYD Dolphin 2026 harga dan spesifikasi (OTO)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/2023/07/27/2023-byd-dolphin-launched-in-malaysia",
+            "title": "2023 BYD Dolphin launched in Malaysia (paultan.org)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.carexpert.com.au/byd/dolphin/2025-premium-hatchback-fwd-electric-jsfomkoa20250113",
+            "title": "BYD Dolphin Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Same specs 2024–2026; same price Rp429 jt 2025–2026 (was Rp425 jt in 2024). Range 427 km WLTP also quoted. AC charging power for Premium not stated in Indonesian sources. Assembly for 2026 units not confirmed. AC power and connector, V2L, boot capacity and tyre size from the Malaysian spec (paultan.org); V2L output, kerb weight, top speed, heat pump, DC 30–80% time (about 29 min), and pack voltage from the Australian spec (CarExpert), both Premium 60.48 kWh / 150 kW.",
+      "notes_id": "Spesifikasi sama 2024–2026; harga sama Rp429 jt 2025–2026 (sebelumnya Rp425 jt pada 2024). Angka jarak tempuh 427 km WLTP juga disebutkan. Daya pengisian AC untuk Premium tidak disebutkan sumber Indonesia. Status perakitan unit 2026 belum terkonfirmasi. Daya dan konektor AC, V2L, kapasitas bagasi, dan ukuran ban dari spesifikasi Malaysia (paultan.org); daya V2L, berat kosong, kecepatan maksimum, heat pump, waktu DC 30–80% (sekitar 29 menit), dan tegangan baterai dari spesifikasi Australia (CarExpert), keduanya Premium 60,48 kWh / 150 kW."
+    }
+  ]
+}

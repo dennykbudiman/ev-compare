@@ -1,0 +1,548 @@
+{
+  "make": "Volvo",
+  "model": "EX40",
+  "trims": [
+    {
+      "id": "volvo-ex40-2025-ultra-twin-motor",
+      "model_year": 2025,
+      "variant": "Ultra Twin Motor",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1288000000,
+        "battery_gross_kwh": 82,
+        "range_km": 645,
+        "motor_count": 2,
+        "drive": "AWD",
+        "motor_type": "PMSM",
+        "power_kw": 300,
+        "torque_nm": 670,
+        "accel_0_100_s": 4.8,
+        "top_speed_kmh": 180,
+        "ac_full_hours": 8,
+        "dc_10_80_min": 28,
+        "length_mm": 4440,
+        "width_mm": 1873,
+        "height_mm": 1647,
+        "wheelbase_mm": 2702,
+        "kerb_weight_kg": 2170,
+        "boot_l": 410,
+        "seats": 5,
+        "tyre_size": "245/45 R19",
+        "adas": "ACC, BSM, LDW, RCTA, 360 camera, park assist",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "frunk_l": 31,
+        "airbag_positions": "front, curtain, driver knee"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224277027/hadir-di-giias-2025-intip-harga-volvo-xc60-ex40-hingga-xc90-hybrid",
+            "title": "Hadir di GIIAS 2025, Intip Harga Volvo XC60, EX40 Hingga XC90 Hybrid - GridOto",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ex40/spesifikasi",
+            "title": "Volvo EX40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.volvocars.com/au/cars/ex40-electric/specifications/",
+            "title": "Explore EX40 specifications (Volvo Cars Australia)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.volvocars.com/au/cars/ex40-electric/specifications/",
+            "title": "Explore EX40 specifications (Volvo Cars Australia)",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Formerly sold as the XC40 Recharge Pure Electric (renamed EX40 in 2024). Sources list 408 hp; Volvo's rating is metric (PS), converted x0.7355 = 300 kW. Price Rp1,288,000,000 since GIIAS July 2025 (gridoto, Investortrust; OTR basis not stated there) and listed as OTR on oto.com in October 2026. Range standard not stated. Oto lists the 0-100 figure only as 'acceleration'. Same specs 2024-2026. Frunk and airbag positions from the Australian spec of the 300 kW Twin Motor (volvocars.com/au).",
+      "notes_id": "Sebelumnya dijual sebagai XC40 Recharge Pure Electric (berganti nama menjadi EX40 pada 2024). Sumber mencantumkan 408 hp; angka Volvo memakai satuan metrik (PS), dikonversi x0,7355 = 300 kW. Harga Rp1.288.000.000 sejak GIIAS Juli 2025 (gridoto, Investortrust; dasar OTR tidak disebutkan di sana) dan tercantum sebagai OTR di oto.com pada Oktober 2026. Standar pengujian jarak tempuh tidak disebutkan. Oto hanya mencantumkan angka 0-100 sebagai 'akselerasi'. Spesifikasi sama 2024-2026. Frunk dan posisi airbag dari spesifikasi Australia untuk Twin Motor 300 kW (volvocars.com/au)."
+    },
+    {
+      "id": "volvo-ex40-2023-xc40-recharge-twin-motor",
+      "model_year": 2023,
+      "variant": "XC40 Recharge Pure Electric Twin Motor",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1220000000,
+        "range_km": 438,
+        "power_kw": 300,
+        "torque_nm": 660,
+        "accel_0_100_s": 4.9,
+        "top_speed_kmh": 180,
+        "battery_gross_kwh": 78,
+        "battery_usable_kwh": 75,
+        "cell_supplier": "LG Energy Solution",
+        "cell_format": "Pouch",
+        "cell_count": 324,
+        "drive": "AWD",
+        "motor_type": "PMSM",
+        "ac_max_kw": 11,
+        "dc_max_kw": 150,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "length_mm": 4425,
+        "width_mm": 1873,
+        "height_mm": 1651,
+        "wheelbase_mm": 2702,
+        "ground_clearance_mm": 176,
+        "kerb_weight_kg": 2158,
+        "frunk_l": 31,
+        "seats": 5,
+        "airbags": 7,
+        "airbag_positions": "front, driver knee, front side, curtain",
+        "adas": "ACC, LKA, LDW, BSM, RCTA"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/?p=86159",
+            "title": "5 Mobil Volvo Resmi Masuk Indonesia, Recharge dan Harga Mahal!",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/?p=86159",
+            "title": "5 Mobil Volvo Resmi Masuk Indonesia, Recharge dan Harga Mahal!",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/?p=86159",
+            "title": "5 Mobil Volvo Resmi Masuk Indonesia, Recharge dan Harga Mahal!",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/?p=86159",
+            "title": "5 Mobil Volvo Resmi Masuk Indonesia, Recharge dan Harga Mahal!",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/?p=86159",
+            "title": "5 Mobil Volvo Resmi Masuk Indonesia, Recharge dan Harga Mahal!",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/?p=86159",
+            "title": "5 Mobil Volvo Resmi Masuk Indonesia, Recharge dan Harga Mahal!",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/?p=86159",
+            "title": "5 Mobil Volvo Resmi Masuk Indonesia, Recharge dan Harga Mahal!",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_format": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carexpert.com.au/volvo/xc40/2022-recharge-pure-electric-suv-4x4-electric-jgamsmkg20211230",
+            "title": "Volvo XC40 Recharge Pure Electric (2022) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Sold by the new importer PT Leading Vision Otomotif after Volvo's return (showroom opened 22 November 2022; cars imported from Malaysia). OTR Jakarta Rp1.22 billion (moladin, December 2022, rounded); deliveries expected around March 2023. Variant name not given; 408 hp (Volvo rates it in PS) x0.7355 = 300 kW, i.e. the twin-motor version. Range 438 km, standard not stated. Renamed EX40 in 2024. Battery (78 kWh gross / 75 kWh usable, 324 LG Energy Solution pouch cells), drive, motor type, AC/DC power, connectors, dimensions (width excl. mirrors), ground clearance, kerb (tare) weight, frunk, seats, airbags and ADAS from the Australian spec of the 300 kW / 660 Nm XC40 Recharge Pure Electric (CarExpert).",
+      "notes_id": "Dijual importir baru PT Leading Vision Otomotif setelah Volvo kembali (diler dibuka 22 November 2022; mobil diimpor dari Malaysia). OTR Jakarta Rp1,22 miliar (moladin, Desember 2022, dibulatkan); pengiriman diperkirakan sekitar Maret 2023. Nama varian tidak disebutkan; 408 hp (Volvo memakai satuan PS) x0,7355 = 300 kW, yaitu versi twin motor. Jarak tempuh 438 km, standar tidak disebutkan. Berganti nama menjadi EX40 pada 2024. Baterai (78 kWh gross / 75 kWh usable, 324 sel pouch LG Energy Solution), penggerak, jenis motor, daya AC/DC, konektor, dimensi (lebar tanpa spion), ground clearance, berat kosong (tare), frunk, jumlah kursi, airbag, dan ADAS dari spesifikasi Australia untuk XC40 Recharge Pure Electric 300 kW / 660 Nm (CarExpert)."
+    }
+  ]
+}

@@ -1,0 +1,3403 @@
+{
+  "make": "Wuling",
+  "model": "Air ev",
+  "trims": [
+    {
+      "id": "wuling-air-ev-2024-lite",
+      "model_year": 2024,
+      "variant": "Lite",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 179100000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 17.3,
+        "battery_ip": "IP67",
+        "range_km": 200,
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 1,
+        "ac_full_hours": 8.5,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "seat_layout": "2+2",
+        "seats": 4,
+        "drive": "RWD",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7550856/harga-wuling-air-ev-lite-200-km-turun-kini-cuma-rp-170-jutaan",
+            "title": "Harga Wuling Air ev Lite 200 Km Turun, Kini Cuma Rp 170 Jutaan",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7550856/harga-wuling-air-ev-lite-200-km-turun-kini-cuma-rp-170-jutaan",
+            "title": "Harga Wuling Air ev Lite 200 Km Turun, Kini Cuma Rp 170 Jutaan",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7550856/harga-wuling-air-ev-lite-200-km-turun-kini-cuma-rp-170-jutaan",
+            "title": "Harga Wuling Air ev Lite 200 Km Turun, Kini Cuma Rp 170 Jutaan",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Price is the Sept 2024 Jakarta price including the 10% VAT incentive (previously about Rp190 jt). Lite has a single driver airbag and no 10-inch screen. Range test standard not stated by Wuling. Wuling's 2023 battery page quoted a core-component warranty of 8 yrs/120,000 km; later 2024 releases describe a lifetime core-EV-component warranty, so battery_warranty is left out. AC full-charge time from Wuling's battery page: Standard Range/Lite about 8.5 h (2,200 VA or 6,600 VA supply); Long Range about 4.5 h on 6,600 VA (about 11 h on 2,200 VA). Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Harga adalah harga Jakarta September 2024 termasuk insentif PPN 10% (sebelumnya sekitar Rp190 jt). Lite hanya memiliki satu airbag pengemudi dan tanpa layar 10 inci. Standar pengujian jarak tempuh tidak disebutkan Wuling. Halaman baterai Wuling 2023 menyebut garansi komponen inti 8 tahun/120.000 km; rilis 2024 berikutnya menyebut garansi seumur hidup untuk komponen inti EV, sehingga battery_warranty dikosongkan. Waktu pengisian penuh AC dari halaman baterai Wuling: Standard Range/Lite sekitar 8,5 jam (daya listrik 2.200 VA atau 6.600 VA); Long Range sekitar 4,5 jam pada 6.600 VA (sekitar 11 jam pada 2.200 VA). Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2024-lite-long-range",
+      "model_year": 2024,
+      "variant": "Lite Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 190000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 26.7,
+        "battery_ip": "IP67",
+        "range_km": 300,
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 1,
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seat_layout": "2+2",
+        "seats": 4,
+        "drive": "RWD",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-adds-a-new-variant-of-air-ev-lite-capable-of-reaching-up-to-300-kilometers",
+            "title": "Wuling Adds a New Variant of Air ev Lite Capable of Reaching Up to 300 Kilometers",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7550856/harga-wuling-air-ev-lite-200-km-turun-kini-cuma-rp-170-jutaan",
+            "title": "Harga Wuling Air ev Lite 200 Km Turun, Kini Cuma Rp 170 Jutaan",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7550856/harga-wuling-air-ev-lite-200-km-turun-kini-cuma-rp-170-jutaan",
+            "title": "Harga Wuling Air ev Lite 200 Km Turun, Kini Cuma Rp 170 Jutaan",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Launched Sept 2024 at a special Jakarta price of Rp190 jt including VAT incentive. Driver airbag only. Range test standard not stated by Wuling. Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Diluncurkan September 2024 dengan harga spesial Jakarta Rp190 jt termasuk insentif PPN. Hanya airbag pengemudi. Standar pengujian jarak tempuh tidak disebutkan Wuling. Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2024-standard-range",
+      "model_year": 2024,
+      "variant": "Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 243000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 17.3,
+        "battery_ip": "IP67",
+        "range_km": 200,
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 2,
+        "ac_full_hours": 8.5,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "drive": "RWD",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7139060/daftar-harga-mobil-wuling-2024-ada-2-jenis-mobil-listrik",
+            "title": "Daftar Harga Mobil Wuling 2024, Ada 2 Jenis Mobil Listrik",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Price from detik's January 2024 Wuling list (likely before the PPN DTP VAT incentive; Wuling's 2023 page showed Rp222 jt with the incentive). Replaced by the New Air ev (Lite/Pro) in Feb 2025. Range test standard not stated by Wuling. Wuling's 2023 battery page quoted a core-component warranty of 8 yrs/120,000 km; later 2024 releases describe a lifetime core-EV-component warranty, so battery_warranty is left out. AC full-charge time from Wuling's battery page: Standard Range/Lite about 8.5 h (2,200 VA or 6,600 VA supply); Long Range about 4.5 h on 6,600 VA (about 11 h on 2,200 VA). Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Harga dari daftar Wuling detik Januari 2024 (kemungkinan sebelum insentif PPN DTP; halaman Wuling 2023 menampilkan Rp222 jt dengan insentif). Digantikan New Air ev (Lite/Pro) pada Februari 2025. Standar pengujian jarak tempuh tidak disebutkan Wuling. Halaman baterai Wuling 2023 menyebut garansi komponen inti 8 tahun/120.000 km; rilis 2024 berikutnya menyebut garansi seumur hidup untuk komponen inti EV, sehingga battery_warranty dikosongkan. Waktu pengisian penuh AC dari halaman baterai Wuling: Standard Range/Lite sekitar 8,5 jam (daya listrik 2.200 VA atau 6.600 VA); Long Range sekitar 4,5 jam pada 6.600 VA (sekitar 11 jam pada 2.200 VA). Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2024-long-range",
+      "model_year": 2024,
+      "variant": "Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 299500000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 26.7,
+        "battery_ip": "IP67",
+        "range_km": 300,
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 2,
+        "ac_full_hours": 4.5,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "drive": "RWD",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7139060/daftar-harga-mobil-wuling-2024-ada-2-jenis-mobil-listrik",
+            "title": "Daftar Harga Mobil Wuling 2024, Ada 2 Jenis Mobil Listrik",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Price from detik's January 2024 Wuling list (likely before the PPN DTP VAT incentive; Wuling's 2023 page showed Rp270 jt with the incentive). Replaced by the New Air ev (Lite/Pro) in Feb 2025. Range test standard not stated by Wuling. Wuling's 2023 battery page quoted a core-component warranty of 8 yrs/120,000 km; later 2024 releases describe a lifetime core-EV-component warranty, so battery_warranty is left out. AC full-charge time from Wuling's battery page: Standard Range/Lite about 8.5 h (2,200 VA or 6,600 VA supply); Long Range about 4.5 h on 6,600 VA (about 11 h on 2,200 VA). Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Harga dari daftar Wuling detik Januari 2024 (kemungkinan sebelum insentif PPN DTP; halaman Wuling 2023 menampilkan Rp270 jt dengan insentif). Digantikan New Air ev (Lite/Pro) pada Februari 2025. Standar pengujian jarak tempuh tidak disebutkan Wuling. Halaman baterai Wuling 2023 menyebut garansi komponen inti 8 tahun/120.000 km; rilis 2024 berikutnya menyebut garansi seumur hidup untuk komponen inti EV, sehingga battery_warranty dikosongkan. Waktu pengisian penuh AC dari halaman baterai Wuling: Standard Range/Lite sekitar 8,5 jam (daya listrik 2.200 VA atau 6.600 VA); Long Range sekitar 4,5 jam pada 6.600 VA (sekitar 11 jam pada 2.200 VA). Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2025-lite-standard-range",
+      "model_year": 2025,
+      "variant": "Lite Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 184000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 17.3,
+        "battery_ip": "IP67",
+        "pack_nominal_voltage_v": 115,
+        "range_km": 200,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 110,
+        "dc_connector": "n/a",
+        "dc_max_kw": "n/a",
+        "dc_10_80_min": "n/a",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 4,
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "ground_clearance_mm": 125,
+        "kerb_weight_kg": 785,
+        "tyre_size": "145/70 R12",
+        "airbags": 1,
+        "airbag_positions": "driver",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26687",
+            "title": "Wuling Launches New Air ev and New Cloud EV at Indonesia International Motor Show 2025 | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "New Air ev (facelift launched at IIMS Feb 2025). Range test standard not stated; Moladin's table shows '110 km CLTC' for every variant, which is clearly an error, so the 200/300 km figures come from detik. Moladin lists power as 40 hp (= 29.8 kW), consistent with the 30 kW quoted by Wuling and detik. No DC fast charging. Moladin lists AC 0–100% as about 8.5 h (SR) and about 4 h (LR), which conflicts with Wuling's older figures, so ac_full_hours is left out. Boot listed as 741 L by Moladin (likely seats folded), left out. 2025 price is the November 2025 Jakarta list (detik), which still included the PPN DTP VAT incentive. Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "New Air ev (facelift diluncurkan di IIMS Februari 2025). Standar pengujian jarak tempuh tidak disebutkan; tabel Moladin menampilkan '110 km CLTC' untuk semua varian, yang jelas keliru, sehingga angka 200/300 km diambil dari detik. Moladin mencantumkan tenaga 40 hp (= 29,8 kW), konsisten dengan 30 kW yang disebut Wuling dan detik. Tanpa pengisian cepat DC. Moladin mencantumkan AC 0–100% sekitar 8,5 jam (SR) dan sekitar 4 jam (LR), berbeda dengan angka lama Wuling, sehingga ac_full_hours dikosongkan. Bagasi tercantum 741 L di Moladin (kemungkinan dengan jok dilipat), dikosongkan. Harga 2025 adalah daftar Jakarta November 2025 (detik), yang masih termasuk insentif PPN DTP. Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2026-lite-standard-range",
+      "model_year": 2026,
+      "variant": "Lite Standard Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 214000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 17.3,
+        "battery_ip": "IP67",
+        "pack_nominal_voltage_v": 115,
+        "range_km": 200,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 110,
+        "dc_connector": "n/a",
+        "dc_max_kw": "n/a",
+        "dc_10_80_min": "n/a",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 4,
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "ground_clearance_mm": 125,
+        "kerb_weight_kg": 785,
+        "tyre_size": "145/70 R12",
+        "airbags": 1,
+        "airbag_positions": "driver",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26687",
+            "title": "Wuling Launches New Air ev and New Cloud EV at Indonesia International Motor Show 2025 | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "New Air ev (facelift launched at IIMS Feb 2025). Range test standard not stated; Moladin's table shows '110 km CLTC' for every variant, which is clearly an error, so the 200/300 km figures come from detik. Moladin lists power as 40 hp (= 29.8 kW), consistent with the 30 kW quoted by Wuling and detik. No DC fast charging. Moladin lists AC 0–100% as about 8.5 h (SR) and about 4 h (LR), which conflicts with Wuling's older figures, so ac_full_hours is left out. Boot listed as 741 L by Moladin (likely seats folded), left out. 2026 price per Moladin (price update Feb 2026; Pro listed at Rp307.5 jt, the Oct 2026 starting list said Rp307 jt). Higher than 2025 prices, consistent with the end of the VAT incentive. Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "New Air ev (facelift diluncurkan di IIMS Februari 2025). Standar pengujian jarak tempuh tidak disebutkan; tabel Moladin menampilkan '110 km CLTC' untuk semua varian, yang jelas keliru, sehingga angka 200/300 km diambil dari detik. Moladin mencantumkan tenaga 40 hp (= 29,8 kW), konsisten dengan 30 kW yang disebut Wuling dan detik. Tanpa pengisian cepat DC. Moladin mencantumkan AC 0–100% sekitar 8,5 jam (SR) dan sekitar 4 jam (LR), berbeda dengan angka lama Wuling, sehingga ac_full_hours dikosongkan. Bagasi tercantum 741 L di Moladin (kemungkinan dengan jok dilipat), dikosongkan. Harga 2026 menurut Moladin (pembaruan harga Februari 2026; Pro tercantum Rp307,5 jt, daftar awal Oktober 2026 menyebut Rp307 jt). Lebih tinggi dari harga 2025, sejalan dengan berakhirnya insentif PPN. Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2025-lite-long-range",
+      "model_year": 2025,
+      "variant": "Lite Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 195000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 26.7,
+        "battery_ip": "IP67",
+        "pack_nominal_voltage_v": 115,
+        "range_km": 300,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 110,
+        "dc_connector": "n/a",
+        "dc_max_kw": "n/a",
+        "dc_10_80_min": "n/a",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 4,
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "ground_clearance_mm": 125,
+        "kerb_weight_kg": 850,
+        "tyre_size": "145/70 R12",
+        "airbags": 1,
+        "airbag_positions": "driver",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26687",
+            "title": "Wuling Launches New Air ev and New Cloud EV at Indonesia International Motor Show 2025 | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "New Air ev (facelift launched at IIMS Feb 2025). Range test standard not stated; Moladin's table shows '110 km CLTC' for every variant, which is clearly an error, so the 200/300 km figures come from detik. Moladin lists power as 40 hp (= 29.8 kW), consistent with the 30 kW quoted by Wuling and detik. No DC fast charging. Moladin lists AC 0–100% as about 8.5 h (SR) and about 4 h (LR), which conflicts with Wuling's older figures, so ac_full_hours is left out. Boot listed as 741 L by Moladin (likely seats folded), left out. 2025 price is the November 2025 Jakarta list (detik), which still included the PPN DTP VAT incentive. Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "New Air ev (facelift diluncurkan di IIMS Februari 2025). Standar pengujian jarak tempuh tidak disebutkan; tabel Moladin menampilkan '110 km CLTC' untuk semua varian, yang jelas keliru, sehingga angka 200/300 km diambil dari detik. Moladin mencantumkan tenaga 40 hp (= 29,8 kW), konsisten dengan 30 kW yang disebut Wuling dan detik. Tanpa pengisian cepat DC. Moladin mencantumkan AC 0–100% sekitar 8,5 jam (SR) dan sekitar 4 jam (LR), berbeda dengan angka lama Wuling, sehingga ac_full_hours dikosongkan. Bagasi tercantum 741 L di Moladin (kemungkinan dengan jok dilipat), dikosongkan. Harga 2025 adalah daftar Jakarta November 2025 (detik), yang masih termasuk insentif PPN DTP. Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2026-lite-long-range",
+      "model_year": 2026,
+      "variant": "Lite Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 251000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 26.7,
+        "battery_ip": "IP67",
+        "pack_nominal_voltage_v": 115,
+        "range_km": 300,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 110,
+        "dc_connector": "n/a",
+        "dc_max_kw": "n/a",
+        "dc_10_80_min": "n/a",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 4,
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "ground_clearance_mm": 125,
+        "kerb_weight_kg": 850,
+        "tyre_size": "145/70 R12",
+        "airbags": 1,
+        "airbag_positions": "driver",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26687",
+            "title": "Wuling Launches New Air ev and New Cloud EV at Indonesia International Motor Show 2025 | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "New Air ev (facelift launched at IIMS Feb 2025). Range test standard not stated; Moladin's table shows '110 km CLTC' for every variant, which is clearly an error, so the 200/300 km figures come from detik. Moladin lists power as 40 hp (= 29.8 kW), consistent with the 30 kW quoted by Wuling and detik. No DC fast charging. Moladin lists AC 0–100% as about 8.5 h (SR) and about 4 h (LR), which conflicts with Wuling's older figures, so ac_full_hours is left out. Boot listed as 741 L by Moladin (likely seats folded), left out. 2026 price per Moladin (price update Feb 2026; Pro listed at Rp307.5 jt, the Oct 2026 starting list said Rp307 jt). Higher than 2025 prices, consistent with the end of the VAT incentive. Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "New Air ev (facelift diluncurkan di IIMS Februari 2025). Standar pengujian jarak tempuh tidak disebutkan; tabel Moladin menampilkan '110 km CLTC' untuk semua varian, yang jelas keliru, sehingga angka 200/300 km diambil dari detik. Moladin mencantumkan tenaga 40 hp (= 29,8 kW), konsisten dengan 30 kW yang disebut Wuling dan detik. Tanpa pengisian cepat DC. Moladin mencantumkan AC 0–100% sekitar 8,5 jam (SR) dan sekitar 4 jam (LR), berbeda dengan angka lama Wuling, sehingga ac_full_hours dikosongkan. Bagasi tercantum 741 L di Moladin (kemungkinan dengan jok dilipat), dikosongkan. Harga 2026 menurut Moladin (pembaruan harga Februari 2026; Pro tercantum Rp307,5 jt, daftar awal Oktober 2026 menyebut Rp307 jt). Lebih tinggi dari harga 2025, sejalan dengan berakhirnya insentif PPN. Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2025-pro-long-range",
+      "model_year": 2025,
+      "variant": "Pro Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 252000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 26.7,
+        "battery_ip": "IP67",
+        "pack_nominal_voltage_v": 115,
+        "range_km": 300,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 110,
+        "dc_connector": "n/a",
+        "dc_max_kw": "n/a",
+        "dc_10_80_min": "n/a",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 4,
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "ground_clearance_mm": 125,
+        "kerb_weight_kg": 860,
+        "tyre_size": "145/70 R12",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26687",
+            "title": "Wuling Launches New Air ev and New Cloud EV at Indonesia International Motor Show 2025 | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "New Air ev (facelift launched at IIMS Feb 2025). Range test standard not stated; Moladin's table shows '110 km CLTC' for every variant, which is clearly an error, so the 200/300 km figures come from detik. Moladin lists power as 40 hp (= 29.8 kW), consistent with the 30 kW quoted by Wuling and detik. No DC fast charging. Moladin lists AC 0–100% as about 8.5 h (SR) and about 4 h (LR), which conflicts with Wuling's older figures, so ac_full_hours is left out. Boot listed as 741 L by Moladin (likely seats folded), left out. Pro adds ESC, hill start assist, electric parking brake, rear parking sensor and rear disc brakes. 2025 price is the November 2025 Jakarta list (detik), which still included the PPN DTP VAT incentive. Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "New Air ev (facelift diluncurkan di IIMS Februari 2025). Standar pengujian jarak tempuh tidak disebutkan; tabel Moladin menampilkan '110 km CLTC' untuk semua varian, yang jelas keliru, sehingga angka 200/300 km diambil dari detik. Moladin mencantumkan tenaga 40 hp (= 29,8 kW), konsisten dengan 30 kW yang disebut Wuling dan detik. Tanpa pengisian cepat DC. Moladin mencantumkan AC 0–100% sekitar 8,5 jam (SR) dan sekitar 4 jam (LR), berbeda dengan angka lama Wuling, sehingga ac_full_hours dikosongkan. Bagasi tercantum 741 L di Moladin (kemungkinan dengan jok dilipat), dikosongkan. Pro menambahkan ESC, hill start assist, rem parkir elektrik, sensor parkir belakang, dan rem cakram belakang. Harga 2025 adalah daftar Jakarta November 2025 (detik), yang masih termasuk insentif PPN DTP. Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2026-pro-long-range",
+      "model_year": 2026,
+      "variant": "Pro Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 307500000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 26.7,
+        "battery_ip": "IP67",
+        "pack_nominal_voltage_v": 115,
+        "range_km": 300,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 110,
+        "dc_connector": "n/a",
+        "dc_max_kw": "n/a",
+        "dc_10_80_min": "n/a",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 4,
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "ground_clearance_mm": 125,
+        "kerb_weight_kg": 860,
+        "tyre_size": "145/70 R12",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/wuling-new-air-ev-pro-long-range-300-dan-wuling-new-air-ev-lite-long-range-300",
+            "title": "Wuling New Air EV Pro Long Range 300 vs Lite Long Range 300 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8212140/harga-wuling-air-ev-terbaru-paling-murahnya-segini",
+            "title": "Harga Wuling Air ev Terbaru, Paling Murahnya Segini",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26687",
+            "title": "Wuling Launches New Air ev and New Cloud EV at Indonesia International Motor Show 2025 | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-air-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Air EV (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "New Air ev (facelift launched at IIMS Feb 2025). Range test standard not stated; Moladin's table shows '110 km CLTC' for every variant, which is clearly an error, so the 200/300 km figures come from detik. Moladin lists power as 40 hp (= 29.8 kW), consistent with the 30 kW quoted by Wuling and detik. No DC fast charging. Moladin lists AC 0–100% as about 8.5 h (SR) and about 4 h (LR), which conflicts with Wuling's older figures, so ac_full_hours is left out. Boot listed as 741 L by Moladin (likely seats folded), left out. Pro adds ESC, hill start assist, electric parking brake, rear parking sensor and rear disc brakes. 2026 price per Moladin (price update Feb 2026; Pro listed at Rp307.5 jt, the Oct 2026 starting list said Rp307 jt). Higher than 2025 prices, consistent with the end of the VAT incentive. Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "New Air ev (facelift diluncurkan di IIMS Februari 2025). Standar pengujian jarak tempuh tidak disebutkan; tabel Moladin menampilkan '110 km CLTC' untuk semua varian, yang jelas keliru, sehingga angka 200/300 km diambil dari detik. Moladin mencantumkan tenaga 40 hp (= 29,8 kW), konsisten dengan 30 kW yang disebut Wuling dan detik. Tanpa pengisian cepat DC. Moladin mencantumkan AC 0–100% sekitar 8,5 jam (SR) dan sekitar 4 jam (LR), berbeda dengan angka lama Wuling, sehingga ac_full_hours dikosongkan. Bagasi tercantum 741 L di Moladin (kemungkinan dengan jok dilipat), dikosongkan. Pro menambahkan ESC, hill start assist, rem parkir elektrik, sensor parkir belakang, dan rem cakram belakang. Harga 2026 menurut Moladin (pembaruan harga Februari 2026; Pro tercantum Rp307,5 jt, daftar awal Oktober 2026 menyebut Rp307 jt). Lebih tinggi dari harga 2025, sejalan dengan berakhirnya insentif PPN. Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2022-standard-range",
+      "model_year": 2022,
+      "variant": "Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 238000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 17.3,
+        "battery_ip": "IP67",
+        "range_km": 200,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 2,
+        "ac_full_hours": 8.5,
+        "seats": 4,
+        "seat_layout": "2+2",
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6229519/harga-resmi-wuling-air-ev-lebih-murah-dijual-mulai-rp-238-juta",
+            "title": "Harga Resmi Wuling Air ev Lebih Murah, Dijual Mulai Rp 238 Juta",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.idxchannel.com/ecotainment/mulai-dari-rp238-juta-wuling-air-ev-siap-mengaspal-di-indonesia/all",
+            "title": "Mulai dari Rp238 Juta, Wuling Air ev Siap Mengaspal di Indonesia",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6229519/harga-resmi-wuling-air-ev-lebih-murah-dijual-mulai-rp-238-juta",
+            "title": "Harga Resmi Wuling Air ev Lebih Murah, Dijual Mulai Rp 238 Juta",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.idxchannel.com/ecotainment/mulai-dari-rp238-juta-wuling-air-ev-siap-mengaspal-di-indonesia/all",
+            "title": "Mulai dari Rp238 Juta, Wuling Air ev Siap Mengaspal di Indonesia",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6229519/harga-resmi-wuling-air-ev-lebih-murah-dijual-mulai-rp-238-juta",
+            "title": "Harga Resmi Wuling Air ev Lebih Murah, Dijual Mulai Rp 238 Juta",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Launch price at GIIAS, August 2022 (OTR Jakarta), before any VAT incentive. Built at Wuling's Cikarang plant from launch. Same hardware in 2023; the 2023 records carry the VAT-incentive prices. Torque, battery chemistry/IP rating, AC times, warranty and dimensions come from Wuling's 2023 pages and a Nov 2023 article describing the same car. Range test standard not stated by Wuling. Front disc/rear drum brakes, 7-inch colour cluster, no ESC. AC full-charge time from Wuling's 2023 battery page: Standard Range/Lite about 8.5 h (2,200 VA or 6,600 VA supply); Long Range about 4.5 h on 6,600 VA (about 11 h on 2,200 VA). Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Harga peluncuran di GIIAS Agustus 2022 (OTR Jakarta), sebelum insentif PPN. Dirakit di pabrik Wuling Cikarang sejak peluncuran. Perangkat sama pada 2023; catatan 2023 memuat harga dengan insentif PPN. Torsi, kimia/rating IP baterai, waktu pengisian AC, garansi dan dimensi diambil dari halaman Wuling 2023 dan artikel November 2023 tentang mobil yang sama. Standar pengujian jarak tempuh tidak disebutkan Wuling. Rem cakram depan/tromol belakang, panel instrumen berwarna 7 inci, tanpa ESC. Waktu pengisian penuh AC dari halaman baterai Wuling 2023: Standard Range/Lite sekitar 8,5 jam (daya listrik 2.200 VA atau 6.600 VA); Long Range sekitar 4,5 jam pada 6.600 VA (sekitar 11 jam pada 2.200 VA). Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2022-long-range",
+      "model_year": 2022,
+      "variant": "Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 295000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 26.7,
+        "battery_ip": "IP67",
+        "range_km": 300,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 2,
+        "ac_full_hours": 4.5,
+        "seats": 4,
+        "seat_layout": "2+2",
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6229519/harga-resmi-wuling-air-ev-lebih-murah-dijual-mulai-rp-238-juta",
+            "title": "Harga Resmi Wuling Air ev Lebih Murah, Dijual Mulai Rp 238 Juta",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.idxchannel.com/ecotainment/mulai-dari-rp238-juta-wuling-air-ev-siap-mengaspal-di-indonesia/all",
+            "title": "Mulai dari Rp238 Juta, Wuling Air ev Siap Mengaspal di Indonesia",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6235710/wuling-air-ev-versi-standard-dan-long-range-apa-bedanya",
+            "title": "Wuling Air ev Versi Standard dan Long Range, Apa Bedanya?",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6229519/harga-resmi-wuling-air-ev-lebih-murah-dijual-mulai-rp-238-juta",
+            "title": "Harga Resmi Wuling Air ev Lebih Murah, Dijual Mulai Rp 238 Juta",
+            "date": "2022-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.idxchannel.com/ecotainment/mulai-dari-rp238-juta-wuling-air-ev-siap-mengaspal-di-indonesia/all",
+            "title": "Mulai dari Rp238 Juta, Wuling Air ev Siap Mengaspal di Indonesia",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6229519/harga-resmi-wuling-air-ev-lebih-murah-dijual-mulai-rp-238-juta",
+            "title": "Harga Resmi Wuling Air ev Lebih Murah, Dijual Mulai Rp 238 Juta",
+            "date": "2022-08",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Launch price at GIIAS, August 2022 (OTR Jakarta), before any VAT incentive. Built at Wuling's Cikarang plant from launch. Same hardware in 2023; the 2023 records carry the VAT-incentive prices. Torque, battery chemistry/IP rating, AC times, warranty and dimensions come from Wuling's 2023 pages and a Nov 2023 article describing the same car. Range test standard not stated by Wuling. Adds four-wheel disc brakes, ESC, 10.25-inch cluster and 10.25-inch touchscreen, LED lamps and synthetic-leather seats. AC full-charge time from Wuling's 2023 battery page: Standard Range/Lite about 8.5 h (2,200 VA or 6,600 VA supply); Long Range about 4.5 h on 6,600 VA (about 11 h on 2,200 VA). Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Harga peluncuran di GIIAS Agustus 2022 (OTR Jakarta), sebelum insentif PPN. Dirakit di pabrik Wuling Cikarang sejak peluncuran. Perangkat sama pada 2023; catatan 2023 memuat harga dengan insentif PPN. Torsi, kimia/rating IP baterai, waktu pengisian AC, garansi dan dimensi diambil dari halaman Wuling 2023 dan artikel November 2023 tentang mobil yang sama. Standar pengujian jarak tempuh tidak disebutkan Wuling. Tambahan rem cakram di keempat roda, ESC, panel instrumen 10,25 inci dan layar sentuh 10,25 inci, lampu LED serta jok kulit sintetis. Waktu pengisian penuh AC dari halaman baterai Wuling 2023: Standard Range/Lite sekitar 8,5 jam (daya listrik 2.200 VA atau 6.600 VA); Long Range sekitar 4,5 jam pada 6.600 VA (sekitar 11 jam pada 2.200 VA). Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2023-lite",
+      "model_year": 2023,
+      "variant": "Lite",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 188900000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 17.3,
+        "battery_ip": "IP67",
+        "range_km": 200,
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 1,
+        "ac_full_hours": 8.5,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 120,000 km (battery, drive motor, motor controller)",
+        "free_service": "Free periodic service for 2 years or 50,000 km",
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "seats": 4,
+        "drive": "RWD",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/the-new-variant-of-wuling-electric-car-air-ev-lite-is-officially-launched-at-giias-2023",
+            "title": "The New Variant of Wuling Electric Car, Air ev Lite is Officially Launched at GIIAS 2023",
+            "date": "2023-08",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6875795/wuling-air-ev-versi-murah-meluncur-di-giias-2023-harga-rp-180-jutaan",
+            "title": "Wuling Air ev Versi Murah Meluncur di GIIAS 2023, Harga Rp 180 Jutaan",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/the-new-variant-of-wuling-electric-car-air-ev-lite-is-officially-launched-at-giias-2023",
+            "title": "The New Variant of Wuling Electric Car, Air ev Lite is Officially Launched at GIIAS 2023",
+            "date": "2023-08",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/the-new-variant-of-wuling-electric-car-air-ev-lite-is-officially-launched-at-giias-2023",
+            "title": "The New Variant of Wuling Electric Car, Air ev Lite is Officially Launched at GIIAS 2023",
+            "date": "2023-08",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/the-new-variant-of-wuling-electric-car-air-ev-lite-is-officially-launched-at-giias-2023",
+            "title": "The New Variant of Wuling Electric Car, Air ev Lite is Officially Launched at GIIAS 2023",
+            "date": "2023-08",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "2023 price: OTR Jakarta including the PPN DTP VAT incentive (buyer pays 1% VAT) that ran April to December 2023. Launched at GIIAS, August 2023; list price Rp206 jt OTR Jakarta before the incentive. Single driver airbag; drops dual-tone paint, voice command and parking camera. Range test standard not stated by Wuling. AC full-charge time from Wuling's 2023 battery page: Standard Range/Lite about 8.5 h (2,200 VA or 6,600 VA supply); Long Range about 4.5 h on 6,600 VA (about 11 h on 2,200 VA). Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Harga 2023: OTR Jakarta termasuk insentif PPN DTP (pembeli membayar PPN 1%) yang berlaku April hingga Desember 2023. Diluncurkan di GIIAS Agustus 2023; harga resmi Rp206 jt OTR Jakarta sebelum insentif. Hanya satu airbag pengemudi; tanpa cat dua warna, perintah suara dan kamera parkir. Standar pengujian jarak tempuh tidak disebutkan Wuling. Waktu pengisian penuh AC dari halaman baterai Wuling 2023: Standard Range/Lite sekitar 8,5 jam (daya listrik 2.200 VA atau 6.600 VA); Long Range sekitar 4,5 jam pada 6.600 VA (sekitar 11 jam pada 2.200 VA). Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2023-standard-range",
+      "model_year": 2023,
+      "variant": "Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 222000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 17.3,
+        "battery_ip": "IP67",
+        "range_km": 200,
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 2,
+        "ac_full_hours": 8.5,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 120,000 km (battery, drive motor, motor controller)",
+        "free_service": "Free periodic service for 2 years or 50,000 km",
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "drive": "RWD",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rsvqes457/wuling-air-semakin-terjangkau-setelah-dapat-insentif",
+            "title": "Wuling Air ev Semakin Terjangkau Setelah Dapat Insentif",
+            "date": "2023-04",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6875795/wuling-air-ev-versi-murah-meluncur-di-giias-2023-harga-rp-180-jutaan",
+            "title": "Wuling Air ev Versi Murah Meluncur di GIIAS 2023, Harga Rp 180 Jutaan",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/the-new-variant-of-wuling-electric-car-air-ev-lite-is-officially-launched-at-giias-2023",
+            "title": "The New Variant of Wuling Electric Car, Air ev Lite is Officially Launched at GIIAS 2023",
+            "date": "2023-08",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/the-new-variant-of-wuling-electric-car-air-ev-lite-is-officially-launched-at-giias-2023",
+            "title": "The New Variant of Wuling Electric Car, Air ev Lite is Officially Launched at GIIAS 2023",
+            "date": "2023-08",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "2023 price: OTR Jakarta including the PPN DTP VAT incentive (buyer pays 1% VAT) that ran April to December 2023. Wuling's Sept 2023 page gives Rp222 jt; media in April 2023 said Rp221–222 jutaan. List price before the incentive was Rp243 jt OTR Jakarta (raised from Rp238 jt at launch), which continued into January 2024 (see 2024 record). Range test standard not stated by Wuling. AC full-charge time from Wuling's 2023 battery page: Standard Range/Lite about 8.5 h (2,200 VA or 6,600 VA supply); Long Range about 4.5 h on 6,600 VA (about 11 h on 2,200 VA). Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Harga 2023: OTR Jakarta termasuk insentif PPN DTP (pembeli membayar PPN 1%) yang berlaku April hingga Desember 2023. Halaman Wuling September 2023 menyebut Rp222 jt; media April 2023 menyebut Rp221–222 jutaan. Harga resmi sebelum insentif Rp243 jt OTR Jakarta (naik dari Rp238 jt saat peluncuran) dan berlanjut hingga Januari 2024 (lihat catatan 2024). Standar pengujian jarak tempuh tidak disebutkan Wuling. Waktu pengisian penuh AC dari halaman baterai Wuling 2023: Standard Range/Lite sekitar 8,5 jam (daya listrik 2.200 VA atau 6.600 VA); Long Range sekitar 4,5 jam pada 6.600 VA (sekitar 11 jam pada 2.200 VA). Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    },
+    {
+      "id": "wuling-air-ev-2023-long-range",
+      "model_year": 2023,
+      "variant": "Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 270000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 26.7,
+        "battery_ip": "IP67",
+        "range_km": 300,
+        "power_kw": 30,
+        "torque_nm": 110,
+        "airbags": 2,
+        "ac_full_hours": 4.5,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 120,000 km (battery, drive motor, motor controller)",
+        "free_service": "Free periodic service for 2 years or 50,000 km",
+        "length_mm": 2974,
+        "width_mm": 1505,
+        "height_mm": 1631,
+        "wheelbase_mm": 2010,
+        "drive": "RWD",
+        "top_speed_kmh": 106
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=22158",
+            "title": "Differences Between Air ev Lite & Regular Variants (Long and Standard Range) | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6875795/wuling-air-ev-versi-murah-meluncur-di-giias-2023-harga-rp-180-jutaan",
+            "title": "Wuling Air ev Versi Murah Meluncur di GIIAS 2023, Harga Rp 180 Jutaan",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=22462",
+            "title": "Wuling Air ev Battery: Specs, Types, and Warranty | Wuling",
+            "date": "2023-09",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/the-new-variant-of-wuling-electric-car-air-ev-lite-is-officially-launched-at-giias-2023",
+            "title": "The New Variant of Wuling Electric Car, Air ev Lite is Officially Launched at GIIAS 2023",
+            "date": "2023-08",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://kumparan.com/kumparanoto/harga-wuling-air-ev-kini-lebih-terjangkau-baterai-digaransi-8-tahun-20DalTjrgcn",
+            "title": "Harga Wuling Air ev Kini Lebih Terjangkau, Baterai Digaransi 8 Tahun",
+            "date": "2023-04",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/the-new-variant-of-wuling-electric-car-air-ev-lite-is-officially-launched-at-giias-2023",
+            "title": "The New Variant of Wuling Electric Car, Air ev Lite is Officially Launched at GIIAS 2023",
+            "date": "2023-08",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.idxchannel.com/technology/wuling-binguoev-resmi-masuk-ri-apa-bedanya-dengan-air-ev/all",
+            "title": "Wuling BinguoEV Resmi Masuk RI, Apa Bedanya dengan Air ev?",
+            "date": "2023-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carlist.my/news/wuling-air-ev-enters-thai-market-for-just-395-000-baht-rm53k-malaysia-next-131238/131238/amp/",
+            "title": "Wuling Air EV enters Thai market for just 395,000 baht (RM53k), Malaysia next? (carlist.my)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "2023 price: OTR Jakarta including the PPN DTP VAT incentive (buyer pays 1% VAT) that ran April to December 2023. Wuling's Sept 2023 page gives Rp270 jt; April 2023 media said Rp272–273 jutaan (detik, Republika, kumparan). List price before the incentive was Rp299.5 jt OTR Jakarta (raised from Rp295 jt at launch), which continued into January 2024 (see 2024 record). ESC and four-wheel discs as at launch. Range test standard not stated by Wuling. AC full-charge time from Wuling's 2023 battery page: Standard Range/Lite about 8.5 h (2,200 VA or 6,600 VA supply); Long Range about 4.5 h on 6,600 VA (about 11 h on 2,200 VA). Drive layout and top speed from the Thai spec of the Indonesian-built Air ev (carlist.my).",
+      "notes_id": "Harga 2023: OTR Jakarta termasuk insentif PPN DTP (pembeli membayar PPN 1%) yang berlaku April hingga Desember 2023. Halaman Wuling September 2023 menyebut Rp270 jt; media April 2023 menyebut Rp272–273 jutaan (detik, Republika, kumparan). Harga resmi sebelum insentif Rp299,5 jt OTR Jakarta (naik dari Rp295 jt saat peluncuran) dan berlanjut hingga Januari 2024 (lihat catatan 2024). ESC dan rem cakram empat roda seperti saat peluncuran. Standar pengujian jarak tempuh tidak disebutkan Wuling. Waktu pengisian penuh AC dari halaman baterai Wuling 2023: Standard Range/Lite sekitar 8,5 jam (daya listrik 2.200 VA atau 6.600 VA); Long Range sekitar 4,5 jam pada 6.600 VA (sekitar 11 jam pada 2.200 VA). Tata letak penggerak dan kecepatan maksimum dari spesifikasi Thailand untuk Air ev buatan Indonesia (carlist.my)."
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "make": "Zeekr",
+  "model": "7X",
+  "trims": [
+    {
+      "id": "zeekr-7x-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1100000000,
+        "battery_gross_kwh": 75,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "800 V",
+        "range_km": 480,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 310,
+        "torque_nm": 440,
+        "ac_max_kw": 22,
+        "ac_full_hours": 5,
+        "length_mm": 4787,
+        "width_mm": 2100,
+        "height_mm": 1650,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": 173,
+        "boot_l": 616,
+        "seats": 5,
+        "airbags": 7,
+        "tyre_size": "245/45 R19",
+        "adas": "BSM, FCTA, RCTA, 360 camera",
+        "dc_max_kw": 450,
+        "dc_10_80_min": 10.5,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "accel_0_100_s": 6.0,
+        "airbag_positions": "front, front side, curtain, knee"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/zeekr/7x/",
+            "title": "Spesifikasi Utama ZEEKR 7X (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/zeekr/7x/",
+            "title": "Spesifikasi Utama ZEEKR 7X (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/foto-oto/d-8351032/zeekr-7x-unjuk-gigi-bakal-dijual-rp-1-1-miliaran",
+            "title": "Zeekr 7X Unjuk Gigi, Bakal Dijual Rp 1,1 Miliaran",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/foto-oto/d-8351032/zeekr-7x-unjuk-gigi-bakal-dijual-rp-1-1-miliaran",
+            "title": "Zeekr 7X Unjuk Gigi, Bakal Dijual Rp 1,1 Miliaran",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/foto-oto/d-8351032/zeekr-7x-unjuk-gigi-bakal-dijual-rp-1-1-miliaran",
+            "title": "Zeekr 7X Unjuk Gigi, Bakal Dijual Rp 1,1 Miliaran",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/foto-oto/d-8351032/zeekr-7x-unjuk-gigi-bakal-dijual-rp-1-1-miliaran",
+            "title": "Zeekr 7X Unjuk Gigi, Bakal Dijual Rp 1,1 Miliaran",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/foto-oto/d-8351032/zeekr-7x-unjuk-gigi-bakal-dijual-rp-1-1-miliaran",
+            "title": "Zeekr 7X Unjuk Gigi, Bakal Dijual Rp 1,1 Miliaran",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/zeekr/zeekr-7x/spesifikasi",
+            "title": "Spesifikasi Zeekr 7X (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/zeekr/7x/cx1e/rwd-standard-range-2026/",
+            "title": "Zeekr 7X RWD Standard Range - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2025/08/15/2025-zeekr-7x-full-specifications-revealed-for-malaysia-up-to-610-km-range-450-kw-dc-fast-charging/",
+            "title": "2025 Zeekr 7X full specifications revealed for Malaysia: Up to 610 km range, 450 kW DC fast charging",
+            "date": "2025-08",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2025/08/15/2025-zeekr-7x-full-specifications-revealed-for-malaysia-up-to-610-km-range-450-kw-dc-fast-charging/",
+            "title": "2025 Zeekr 7X full specifications revealed for Malaysia: Up to 610 km range, 450 kW DC fast charging",
+            "date": "2025-08",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/research/zeekr/7x/cx1e/rwd-standard-range-2026/",
+            "title": "Zeekr 7X RWD Standard Range - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2025/08/15/2025-zeekr-7x-full-specifications-revealed-for-malaysia-up-to-610-km-range-450-kw-dc-fast-charging/",
+            "title": "2025 Zeekr 7X full specifications revealed for Malaysia: Up to 610 km range, 450 kW DC fast charging",
+            "date": "2025-08",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/zeekr/7x/cx1e/rwd-standard-range-2026/",
+            "title": "Zeekr 7X RWD Standard Range - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2025/08/15/2025-zeekr-7x-full-specifications-revealed-for-malaysia-up-to-610-km-range-450-kw-dc-fast-charging/",
+            "title": "2025 Zeekr 7X full specifications revealed for Malaysia: Up to 610 km range, 450 kW DC fast charging",
+            "date": "2025-08",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/zeekr/7x/cx1e/rwd-standard-range-2026/",
+            "title": "Zeekr 7X RWD Standard Range - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2025/08/15/2025-zeekr-7x-full-specifications-revealed-for-malaysia-up-to-610-km-range-450-kw-dc-fast-charging/",
+            "title": "2025 Zeekr 7X full specifications revealed for Malaysia: Up to 610 km range, 450 kW DC fast charging",
+            "date": "2025-08",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/zeekr/7x/cx1e/rwd-standard-range-2026/",
+            "title": "Zeekr 7X RWD Standard Range - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Shown at IIMS Feb 2026, pre-booking at 'under Rp1.1 M' (electrive), Zigwheels lists Rp1.1 M OTR; Moladin says price on request. Deliveries expected Q3/Q4 2026 with planned CKD at Handal Purwakarta (not confirmed for delivered cars). Power: Moladin lists '421 hp', which matches the 310 kW / 421 PS rating of this motor; 310 kW recorded. DC: Moladin says >300 kW, 10-80% in 10-15 min — no single figure, left out. Width 2,100 mm (Moladin, detik) is probably including mirrors. detik mentions 75-103 kWh batteries across variants; only the 75 kWh RWD Standard is specified. DC peak power, 10–80% time, V2L, 0–100 km/h and airbag positions from the Malaysian spec of the same 75 kWh RWD Standard Range (paultan.org, autobuzz.my); Malaysian width 1,930 mm and boot 539 L differ from the Indonesian figures, which were kept.",
+      "notes_id": "Dipamerkan di IIMS Februari 2026, pemesanan awal dengan harga 'di bawah Rp1,1 M' (electrive), Zigwheels mencantumkan Rp1,1 M OTR; Moladin menyebut harga berdasarkan permintaan. Pengiriman diperkirakan kuartal III/IV 2026 dengan rencana CKD di Handal Purwakarta (belum terkonfirmasi untuk mobil yang sudah dikirim). Tenaga: Moladin mencantumkan '421 hp', yang cocok dengan rating 310 kW / 421 PS motor ini; dicatat 310 kW. DC: Moladin menyebut >300 kW, 10-80% dalam 10-15 menit — tidak ada angka tunggal, dikosongkan. Lebar 2.100 mm (Moladin, detik) kemungkinan sudah termasuk spion. detik menyebut baterai 75-103 kWh untuk berbagai varian; hanya RWD Standard 75 kWh yang dirinci. Daya puncak DC, waktu 10–80%, V2L, 0–100 km/jam, dan posisi airbag dari spesifikasi Malaysia untuk versi 75 kWh RWD Standard Range yang sama (paultan.org, autobuzz.my); lebar 1.930 mm dan bagasi 539 L versi Malaysia berbeda dari angka Indonesia, yang tetap dipakai."
+    }
+  ]
+}

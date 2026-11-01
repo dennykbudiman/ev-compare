@@ -1,0 +1,254 @@
+{
+  "make": "Lexus",
+  "model": "ES",
+  "trims": [
+    {
+      "id": "lexus-es-2026-350e-luxury",
+      "model_year": 2026,
+      "variant": "350e Luxury",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 1480000000,
+        "battery_gross_kwh": 74.67,
+        "range_km": 494,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 167,
+        "torque_nm": 268.6,
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 7,
+        "ac_full_hours": 7,
+        "dc_max_kw": 150,
+        "dc_10_80_min": 30,
+        "length_mm": 5140,
+        "width_mm": 1920,
+        "height_mm": 1560,
+        "wheelbase_mm": 2950,
+        "seats": 5,
+        "airbags": 10,
+        "tyre_size": "235/45 R21",
+        "accel_0_100_s": 8,
+        "top_speed_kmh": 160,
+        "battery_chemistry": "NMC"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595034/lexus-es-hybrid-dan-listrik-meluncur-di-giias-2026-harga-mulai-rp-1-2-miliaran",
+            "title": "Lexus ES Hybrid dan Listrik Meluncur di GIIAS 2026, Harga Mulai Rp 1,2 Miliaran",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595034/lexus-es-hybrid-dan-listrik-meluncur-di-giias-2026-harga-mulai-rp-1-2-miliaran",
+            "title": "Lexus ES Hybrid dan Listrik Meluncur di GIIAS 2026, Harga Mulai Rp 1,2 Miliaran",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595034/lexus-es-hybrid-dan-listrik-meluncur-di-giias-2026-harga-mulai-rp-1-2-miliaran",
+            "title": "Lexus ES Hybrid dan Listrik Meluncur di GIIAS 2026, Harga Mulai Rp 1,2 Miliaran",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595034/lexus-es-hybrid-dan-listrik-meluncur-di-giias-2026-harga-mulai-rp-1-2-miliaran",
+            "title": "Lexus ES Hybrid dan Listrik Meluncur di GIIAS 2026, Harga Mulai Rp 1,2 Miliaran",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595034/lexus-es-hybrid-dan-listrik-meluncur-di-giias-2026-harga-mulai-rp-1-2-miliaran",
+            "title": "Lexus ES Hybrid dan Listrik Meluncur di GIIAS 2026, Harga Mulai Rp 1,2 Miliaran",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/lexus-es-350e",
+            "title": "Lexus ES 350e - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595034/lexus-es-hybrid-dan-listrik-meluncur-di-giias-2026-harga-mulai-rp-1-2-miliaran",
+            "title": "Lexus ES Hybrid dan Listrik Meluncur di GIIAS 2026, Harga Mulai Rp 1,2 Miliaran",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8595034/lexus-es-hybrid-dan-listrik-meluncur-di-giias-2026-harga-mulai-rp-1-2-miliaran",
+            "title": "Lexus ES Hybrid dan Listrik Meluncur di GIIAS 2026, Harga Mulai Rp 1,2 Miliaran",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://evkx.net/models/lexus/es/es_350e/specifications",
+            "title": "Lexus ES 350e specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "United States"
+          }
+        ]
+      },
+      "notes": "Battery-electric ES (the hybrid is the ES 350h, Rp1.299 billion), launched GIIAS 29 Jul 2026 at Rp1.48 billion OTR Jakarta. Battery: Moladin 74.67 kWh vs Detik 77 kWh (global spec 74.7 kWh). Power: Detik 167 kW, Moladin 221 hp (= 165 kW). DC 10-80% given as 28-30 min at 150 kW (30 used). Range 494 km CLTC per Moladin only. Moladin's 42 mm ground clearance is clearly wrong and not used. CBU/CKD not stated. Battery chemistry from the US ES 350e spec (EVKX.net).",
+      "notes_id": "ES bertenaga baterai penuh (versi hybrid adalah ES 350h, Rp1,299 miliar), diluncurkan di GIIAS 29 Juli 2026 seharga Rp1,48 miliar OTR Jakarta. Baterai: Moladin 74,67 kWh vs Detik 77 kWh (spesifikasi global 74,7 kWh). Tenaga: Detik 167 kW, Moladin 221 hp (= 165 kW). DC 10-80% disebut 28-30 menit pada 150 kW (dipakai 30). Jarak tempuh 494 km CLTC hanya menurut Moladin. Ground clearance 42 mm versi Moladin jelas keliru dan tidak dipakai. Status CBU/CKD tidak disebutkan. Kimia baterai dari spesifikasi Amerika Serikat ES 350e (EVKX.net)."
+    }
+  ]
+}

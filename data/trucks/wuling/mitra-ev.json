@@ -1,0 +1,3344 @@
+{
+  "make": "Wuling",
+  "model": "Mitra EV",
+  "trims": [
+    {
+      "id": "wuling-mitra-ev-2025-blind-van-long-range",
+      "model_year": 2025,
+      "variant": "Blind Van Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 41.9,
+        "battery_chemistry": "LFP",
+        "range_km": 300,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 75,
+        "torque_nm": 180,
+        "top_speed_kmh": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 5010,
+        "width_mm": 1800,
+        "height_mm": 1975,
+        "wheelbase_mm": 3050,
+        "gvw_kg": 2730,
+        "seats": 2,
+        "tyre_size": "195/70 R15C",
+        "airbags": 1,
+        "body_type": "Van",
+        "cargo_volume_m3": 6.5,
+        "transmission": "Single-speed reduction gear",
+        "price_quote_idr": 299000000,
+        "price_quote_basis": "basis not stated"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-will-only-be-produced-at-the-end-of-q3-2025-19588",
+            "title": "Wuling Mitra EV Will Only Be Produced at the End of Q3 2025 (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "Launch record (July 2025). Launch price Rp 299 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants.",
+      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 299 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik."
+    },
+    {
+      "id": "wuling-mitra-ev-2025-blind-van-premium-range",
+      "model_year": 2025,
+      "variant": "Blind Van Premium Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 56.2,
+        "battery_chemistry": "LFP",
+        "range_km": 400,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 75,
+        "torque_nm": 180,
+        "top_speed_kmh": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 5010,
+        "width_mm": 1800,
+        "height_mm": 1975,
+        "wheelbase_mm": 3050,
+        "gvw_kg": 2770,
+        "seats": 2,
+        "tyre_size": "195/70 R15C",
+        "airbags": 1,
+        "body_type": "Van",
+        "cargo_volume_m3": 6.5,
+        "price_quote_idr": 326000000,
+        "price_quote_basis": "basis not stated"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-will-only-be-produced-at-the-end-of-q3-2025-19588",
+            "title": "Wuling Mitra EV Will Only Be Produced at the End of Q3 2025 (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "Launch record (July 2025). Launch price Rp 326 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants.",
+      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 326 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik."
+    },
+    {
+      "id": "wuling-mitra-ev-2025-minibus-long-range",
+      "model_year": 2025,
+      "variant": "Minibus Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 41.9,
+        "battery_chemistry": "LFP",
+        "range_km": 300,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 75,
+        "torque_nm": 180,
+        "top_speed_kmh": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 5010,
+        "width_mm": 1800,
+        "height_mm": 1975,
+        "wheelbase_mm": 3050,
+        "gvw_kg": 2500,
+        "seats": 8,
+        "tyre_size": "195/70 R15C",
+        "airbags": 2,
+        "body_type": "Minibus",
+        "price_quote_idr": 317000000,
+        "price_quote_basis": "basis not stated"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-will-only-be-produced-at-the-end-of-q3-2025-19588",
+            "title": "Wuling Mitra EV Will Only Be Produced at the End of Q3 2025 (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "Launch record (July 2025). Launch price Rp 317 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo.",
+      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 317 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo."
+    },
+    {
+      "id": "wuling-mitra-ev-2025-minibus-premium-range",
+      "model_year": 2025,
+      "variant": "Minibus Premium Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 56.2,
+        "battery_chemistry": "LFP",
+        "range_km": 400,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 75,
+        "torque_nm": 180,
+        "top_speed_kmh": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 5010,
+        "width_mm": 1800,
+        "height_mm": 1975,
+        "wheelbase_mm": 3050,
+        "gvw_kg": 2590,
+        "seats": 8,
+        "tyre_size": "195/70 R15C",
+        "airbags": 2,
+        "body_type": "Minibus",
+        "price_quote_idr": 344000000,
+        "price_quote_basis": "basis not stated"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-will-only-be-produced-at-the-end-of-q3-2025-19588",
+            "title": "Wuling Mitra EV Will Only Be Produced at the End of Q3 2025 (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "Launch record (July 2025). Launch price Rp 344 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo.",
+      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 344 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo."
+    },
+    {
+      "id": "wuling-mitra-ev-2026-blind-van-long-range",
+      "model_year": 2026,
+      "variant": "Blind Van Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 41.9,
+        "battery_chemistry": "LFP",
+        "range_km": 300,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 75,
+        "torque_nm": 180,
+        "top_speed_kmh": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 5010,
+        "width_mm": 1800,
+        "height_mm": 1975,
+        "wheelbase_mm": 3050,
+        "gvw_kg": 2730,
+        "seats": 2,
+        "tyre_size": "195/70 R15C",
+        "airbags": 1,
+        "price_otr_idr": 328000000,
+        "body_type": "Van",
+        "cargo_volume_m3": 6.5,
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-will-only-be-produced-at-the-end-of-q3-2025-19588",
+            "title": "Wuling Mitra EV Will Only Be Produced at the End of Q3 2025 (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "2026 price Rp 328 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants.",
+      "notes_id": "Harga 2026 Rp 328 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik."
+    },
+    {
+      "id": "wuling-mitra-ev-2026-blind-van-premium-range",
+      "model_year": 2026,
+      "variant": "Blind Van Premium Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 56.2,
+        "battery_chemistry": "LFP",
+        "range_km": 400,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 75,
+        "torque_nm": 180,
+        "top_speed_kmh": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 5010,
+        "width_mm": 1800,
+        "height_mm": 1975,
+        "wheelbase_mm": 3050,
+        "gvw_kg": 2770,
+        "seats": 2,
+        "tyre_size": "195/70 R15C",
+        "airbags": 1,
+        "price_otr_idr": 358000000,
+        "body_type": "Van",
+        "cargo_volume_m3": 6.5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-will-only-be-produced-at-the-end-of-q3-2025-19588",
+            "title": "Wuling Mitra EV Will Only Be Produced at the End of Q3 2025 (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "2026 price Rp 358 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants.",
+      "notes_id": "Harga 2026 Rp 358 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik."
+    },
+    {
+      "id": "wuling-mitra-ev-2026-minibus-long-range",
+      "model_year": 2026,
+      "variant": "Minibus Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 41.9,
+        "battery_chemistry": "LFP",
+        "range_km": 300,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 75,
+        "torque_nm": 180,
+        "top_speed_kmh": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 5010,
+        "width_mm": 1800,
+        "height_mm": 1975,
+        "wheelbase_mm": 3050,
+        "gvw_kg": 2500,
+        "seats": 8,
+        "tyre_size": "195/70 R15C",
+        "airbags": 2,
+        "price_otr_idr": 348000000,
+        "body_type": "Minibus"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-will-only-be-produced-at-the-end-of-q3-2025-19588",
+            "title": "Wuling Mitra EV Will Only Be Produced at the End of Q3 2025 (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "2026 price Rp 348 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo.",
+      "notes_id": "Harga 2026 Rp 348 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo."
+    },
+    {
+      "id": "wuling-mitra-ev-2026-minibus-premium-range",
+      "model_year": 2026,
+      "variant": "Minibus Premium Range",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 56.2,
+        "battery_chemistry": "LFP",
+        "range_km": 400,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 75,
+        "torque_nm": 180,
+        "top_speed_kmh": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 5010,
+        "width_mm": 1800,
+        "height_mm": 1975,
+        "wheelbase_mm": 3050,
+        "gvw_kg": 2590,
+        "seats": 8,
+        "tyre_size": "195/70 R15C",
+        "airbags": 2,
+        "price_otr_idr": 378000000,
+        "body_type": "Minibus"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-will-only-be-produced-at-the-end-of-q3-2025-19588",
+            "title": "Wuling Mitra EV Will Only Be Produced at the End of Q3 2025 (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8007283/wuling-mitra-ev-meluncur-di-indonesia-incar-pasar-komersial",
+            "title": "Wuling Mitra EV Meluncur di Indonesia, Incar Pasar Komersial (detikOto)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-mitra-ev-specifications-ready-to-be-a-business-mainstay-19560",
+            "title": "Wuling Mitra EV Specifications, Ready to Be a Business Mainstay (Katadata OTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/mitra-ev-one-partner-many-solutions-satu-rekan-banyak-solusi-becomes-wulings-first-commercial-electric-vehicle-in-indonesia",
+            "title": "Mitra EV becomes Wuling's first commercial electric vehicle in Indonesia (Wuling press release)",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/identitas-asli-wuling-ev-van-terkuak-pakai-nama-mitra-ev-harganya-rp-299-juta-25RFQEqKuLk",
+            "title": "Identitas Asli Wuling EV Van Terkuak, Pakai Nama Mitra EV Harganya Rp 299 Juta (kumparanOTO)",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/wuling/mitra-ev/spesifikasi?amp=1",
+            "title": "Wuling Mitra EV specifications and prices (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wuling.id/en/mitra-ev",
+            "title": "Mitra EV specifications (Wuling Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "2026 price Rp 378 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo.",
+      "notes_id": "Harga 2026 Rp 378 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo."
+    }
+  ]
+}

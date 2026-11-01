@@ -1,0 +1,1805 @@
+{
+  "make": "Aion",
+  "model": "UT",
+  "trims": [
+    {
+      "id": "aion-ut-2025-standard",
+      "model_year": 2025,
+      "variant": "Standard",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 325000000,
+        "battery_gross_kwh": 44.12,
+        "range_km": 400,
+        "power_kw": 100,
+        "torque_nm": 145,
+        "tyre_size": "215/60 R16",
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "range_standard": "NEDC",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 24,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime",
+        "vehicle_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3 years / 40,000 km",
+        "length_mm": 4270,
+        "width_mm": 1850,
+        "height_mm": 1575,
+        "wheelbase_mm": 2750,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "motor_count": 1,
+        "drive": "FWD",
+        "ac_max_kw": 6.6,
+        "ground_clearance_mm": 160,
+        "boot_l": 440,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "BSM, FCTA, RCTA, 360 camera"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Prices announced 10 Sept 2025 (Rp325 / Rp363 jt OTR Jakarta), CKD at GAC Indonesia Cikampek, deliveries from Oct 2025. Power converted from 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% in 24 min via CCS2 (detik); Moladin says 87 kW / 15-25 min in its table but 64 kW in its FAQ, so dc_max_kw left out. Lifetime warranty covers battery, motor and controller. Body: 5-door compact hatchback.",
+      "notes_id": "Harga diumumkan 10 September 2025 (Rp325 / Rp363 jt OTR Jakarta), dirakit CKD di GAC Indonesia Cikampek, pengiriman mulai Oktober 2025. Tenaga dikonversi dari 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% dalam 24 menit via CCS2 (detik); Moladin menulis 87 kW / 15-25 menit di tabelnya tetapi 64 kW di FAQ-nya, sehingga dc_max_kw dikosongkan. Garansi seumur hidup mencakup baterai, motor, dan controller. Bodi: hatchback kompak 5 pintu."
+    },
+    {
+      "id": "aion-ut-2025-premium",
+      "model_year": 2025,
+      "variant": "Premium",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 363000000,
+        "battery_gross_kwh": 60,
+        "range_km": 500,
+        "power_kw": 150,
+        "torque_nm": 210,
+        "tyre_size": "215/55 R17",
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "range_standard": "NEDC",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 24,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime",
+        "vehicle_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3 years / 40,000 km",
+        "length_mm": 4270,
+        "width_mm": 1850,
+        "height_mm": 1575,
+        "wheelbase_mm": 2750,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "motor_count": 1,
+        "drive": "FWD",
+        "ac_max_kw": 6.6,
+        "ground_clearance_mm": 160,
+        "boot_l": 440,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "BSM, FCTA, RCTA, 360 camera",
+        "motor_type": "PMSM",
+        "kerb_weight_kg": 1670,
+        "accel_0_100_s": 7.3
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/gac/aion-ut/2026-premium-hatchback-fwd-electric-jska5oas20260318",
+            "title": "GAC Aion UT Premium (2026) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/gac/aion-ut/2026-premium-hatchback-fwd-electric-jska5oas20260318",
+            "title": "GAC Aion UT Premium (2026) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.carexpert.com.au/gac/aion-ut/2026-premium-hatchback-fwd-electric-jska5oas20260318",
+            "title": "GAC Aion UT Premium (2026) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Prices announced 10 Sept 2025 (Rp325 / Rp363 jt OTR Jakarta), CKD at GAC Indonesia Cikampek, deliveries from Oct 2025. Power converted from 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% in 24 min via CCS2 (detik); Moladin says 87 kW / 15-25 min in its table but 64 kW in its FAQ, so dc_max_kw left out. Lifetime warranty covers battery, motor and controller. Body: 5-door compact hatchback. Motor type, kerb weight and 0–100 km/h time from the Australian spec (CarExpert, Premium 60 kWh / 150 kW / 210 Nm).",
+      "notes_id": "Harga diumumkan 10 September 2025 (Rp325 / Rp363 jt OTR Jakarta), dirakit CKD di GAC Indonesia Cikampek, pengiriman mulai Oktober 2025. Tenaga dikonversi dari 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% dalam 24 menit via CCS2 (detik); Moladin menulis 87 kW / 15-25 menit di tabelnya tetapi 64 kW di FAQ-nya, sehingga dc_max_kw dikosongkan. Garansi seumur hidup mencakup baterai, motor, dan controller. Bodi: hatchback kompak 5 pintu. Jenis motor, berat kosong, dan waktu 0–100 km/jam dari spesifikasi Australia (CarExpert, Premium 60 kWh / 150 kW / 210 Nm)."
+    },
+    {
+      "id": "aion-ut-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 345000000,
+        "battery_gross_kwh": 44.12,
+        "range_km": 400,
+        "power_kw": 100,
+        "torque_nm": 145,
+        "tyre_size": "215/60 R16",
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "range_standard": "NEDC",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 24,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime",
+        "vehicle_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3 years / 40,000 km",
+        "length_mm": 4270,
+        "width_mm": 1850,
+        "height_mm": 1575,
+        "wheelbase_mm": 2750,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "motor_count": 1,
+        "drive": "FWD",
+        "ac_max_kw": 6.6,
+        "ground_clearance_mm": 160,
+        "boot_l": 440,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "BSM, FCTA, RCTA, 360 camera"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Price raised from Rp325 jt to Rp345 jt (Moladin Oct 2026: Rp345-350 jt). Prices announced 10 Sept 2025 (Rp325 / Rp363 jt OTR Jakarta), CKD at GAC Indonesia Cikampek, deliveries from Oct 2025. Power converted from 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% in 24 min via CCS2 (detik); Moladin says 87 kW / 15-25 min in its table but 64 kW in its FAQ, so dc_max_kw left out. Lifetime warranty covers battery, motor and controller. Body: 5-door compact hatchback.",
+      "notes_id": "Harga naik dari Rp325 jt menjadi Rp345 jt (Moladin Oktober 2026: Rp345-350 jt). Harga diumumkan 10 September 2025 (Rp325 / Rp363 jt OTR Jakarta), dirakit CKD di GAC Indonesia Cikampek, pengiriman mulai Oktober 2025. Tenaga dikonversi dari 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% dalam 24 menit via CCS2 (detik); Moladin menulis 87 kW / 15-25 menit di tabelnya tetapi 64 kW di FAQ-nya, sehingga dc_max_kw dikosongkan. Garansi seumur hidup mencakup baterai, motor, dan controller. Bodi: hatchback kompak 5 pintu."
+    },
+    {
+      "id": "aion-ut-2026-urban",
+      "model_year": 2026,
+      "variant": "Urban",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 363000000,
+        "battery_gross_kwh": 44.12,
+        "power_kw": 100,
+        "torque_nm": 145,
+        "tyre_size": "215/60 R16",
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "range_standard": "NEDC",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 24,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime",
+        "vehicle_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3 years / 40,000 km",
+        "length_mm": 4270,
+        "width_mm": 1850,
+        "height_mm": 1575,
+        "wheelbase_mm": 2750,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "motor_count": 1,
+        "drive": "FWD",
+        "ac_max_kw": 6.6,
+        "ground_clearance_mm": 160,
+        "boot_l": 440,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "BSM, FCTA, RCTA, 360 camera"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "New 2026 variant seen only on Moladin (Oct 2026): Standard powertrain (44.12 kWh) with leather/power seats and power tailgate, Rp363 jt. Single source; range not stated for this variant. Prices announced 10 Sept 2025 (Rp325 / Rp363 jt OTR Jakarta), CKD at GAC Indonesia Cikampek, deliveries from Oct 2025. Power converted from 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% in 24 min via CCS2 (detik); Moladin says 87 kW / 15-25 min in its table but 64 kW in its FAQ, so dc_max_kw left out. Lifetime warranty covers battery, motor and controller. Body: 5-door compact hatchback.",
+      "notes_id": "Varian baru 2026 yang hanya muncul di Moladin (Oktober 2026): powertrain Standard (44,12 kWh) dengan jok kulit/elektrik dan pintu bagasi elektrik, Rp363 jt. Hanya satu sumber; jarak tempuh varian ini tidak disebutkan. Harga diumumkan 10 September 2025 (Rp325 / Rp363 jt OTR Jakarta), dirakit CKD di GAC Indonesia Cikampek, pengiriman mulai Oktober 2025. Tenaga dikonversi dari 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% dalam 24 menit via CCS2 (detik); Moladin menulis 87 kW / 15-25 menit di tabelnya tetapi 64 kW di FAQ-nya, sehingga dc_max_kw dikosongkan. Garansi seumur hidup mencakup baterai, motor, dan controller. Bodi: hatchback kompak 5 pintu."
+    },
+    {
+      "id": "aion-ut-2026-premium",
+      "model_year": 2026,
+      "variant": "Premium",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 395000000,
+        "battery_gross_kwh": 60,
+        "range_km": 500,
+        "power_kw": 150,
+        "torque_nm": 210,
+        "tyre_size": "215/55 R17",
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "range_standard": "NEDC",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 24,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime",
+        "vehicle_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 3 years / 40,000 km",
+        "length_mm": 4270,
+        "width_mm": 1850,
+        "height_mm": 1575,
+        "wheelbase_mm": 2750,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "motor_count": 1,
+        "drive": "FWD",
+        "ac_max_kw": 6.6,
+        "ground_clearance_mm": 160,
+        "boot_l": 440,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "BSM, FCTA, RCTA, 360 camera",
+        "motor_type": "PMSM",
+        "kerb_weight_kg": 1670,
+        "accel_0_100_s": 7.3
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://auto.katadata.co.id/car/aion-ut-now-available-for-order-comes-in-2-variants-19387",
+            "title": "Aion UT Now Available for Order, Comes in 2 Variants",
+            "date": "2025-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8106463/dijual-mulai-rp-325-juta-aion-ut-sudah-dirakit-di-cikampek",
+            "title": "Dijual Mulai Rp 325 Juta, AION UT Sudah Dirakit di Cikampek",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8109319/beda-aion-ut-varian-standard-dan-premium",
+            "title": "Beda AION UT Varian Standard dan Premium",
+            "date": "2025-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-ut/",
+            "title": "AION UT (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/gac/aion-ut/2026-premium-hatchback-fwd-electric-jska5oas20260318",
+            "title": "GAC Aion UT Premium (2026) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/gac/aion-ut/2026-premium-hatchback-fwd-electric-jska5oas20260318",
+            "title": "GAC Aion UT Premium (2026) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.carexpert.com.au/gac/aion-ut/2026-premium-hatchback-fwd-electric-jska5oas20260318",
+            "title": "GAC Aion UT Premium (2026) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Price raised from Rp363 jt to Rp395 jt (Moladin Oct 2026: Rp395-400 jt). Prices announced 10 Sept 2025 (Rp325 / Rp363 jt OTR Jakarta), CKD at GAC Indonesia Cikampek, deliveries from Oct 2025. Power converted from 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% in 24 min via CCS2 (detik); Moladin says 87 kW / 15-25 min in its table but 64 kW in its FAQ, so dc_max_kw left out. Lifetime warranty covers battery, motor and controller. Body: 5-door compact hatchback. Motor type, kerb weight and 0–100 km/h time from the Australian spec (CarExpert, Premium 60 kWh / 150 kW / 210 Nm).",
+      "notes_id": "Harga naik dari Rp363 jt menjadi Rp395 jt (Moladin Oktober 2026: Rp395-400 jt). Harga diumumkan 10 September 2025 (Rp325 / Rp363 jt OTR Jakarta), dirakit CKD di GAC Indonesia Cikampek, pengiriman mulai Oktober 2025. Tenaga dikonversi dari 134 hp (100 kW) / 201 hp (150 kW). DC 30-80% dalam 24 menit via CCS2 (detik); Moladin menulis 87 kW / 15-25 menit di tabelnya tetapi 64 kW di FAQ-nya, sehingga dc_max_kw dikosongkan. Garansi seumur hidup mencakup baterai, motor, dan controller. Bodi: hatchback kompak 5 pintu. Jenis motor, berat kosong, dan waktu 0–100 km/jam dari spesifikasi Australia (CarExpert, Premium 60 kWh / 150 kW / 210 Nm)."
+    }
+  ]
+}

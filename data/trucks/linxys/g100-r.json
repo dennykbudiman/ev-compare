@@ -1,0 +1,134 @@
+{
+  "make": "LINXYS",
+  "model": "G100-R",
+  "trims": [
+    {
+      "id": "linxys-g100-r-2026-41-86kwh",
+      "model_year": 2026,
+      "variant": "41.86 kWh",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "body_type": "Van",
+        "assembly": "CBU import",
+        "price_quote_idr": 275000000,
+        "price_quote_basis": "basis not stated",
+        "battery_gross_kwh": 41.86,
+        "battery_chemistry": "LFP",
+        "range_km": 252,
+        "range_standard": "WLTP",
+        "payload_kg": 970,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oneshift.com/articles/news/cartimes-launches-linxys-electric-vans/",
+            "title": "CarTimes Launches LINXYS Electric Vans (OneShift, Singapore)",
+            "date": "2025-11",
+            "type": "media",
+            "market": "Singapore"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.liputan6.com/otomotif/read/6314141/pilihan-kendaraan-niaga-listrik-murah-yang-mejeng-di-giicomvec-2026",
+            "title": "Pilihan Kendaraan Niaga Listrik Murah yang Mejeng di GIICOMVEC 2026 (Liputan6)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Electric cargo van from LINXYS (Wuling New Energy's new-energy commercial brand), new to Indonesia at GIICOMVEC 2026 (April 2026). Sale evidence: offered at the show for Rp 275 million with a one-month wait, imported fully built (CBU) (Liputan6, quoting booth sales staff); Carmudi reported it as 'sudah bisa dipesan' at GIICOMVEC 2026. Price basis not stated, so price_otr_idr is left out. No Indonesian distributor company was named and no later price list was found. Offered with 2-, 5- or 7-seat layouts; the sources give no separate specs or prices for them, so this is one record and seats are left out; the 970 kg cargo payload is not tied to a layout. GVW not published; classed Small cargo by body type. Battery 41.86 kWh LFP, range up to 252 km (WLTP). Fast charging 30–80% in about 30 min (charger power not stated). Power, torque, dimensions and kerb weight were not found in Indonesian sources. Not used: the Singapore version (CarTimes brochure and OneShift, Nov 2025) has the same 41.86 kWh / 252 km WLTP figures but a 1,120 kg payload, 5.2 m³ cargo volume, 26.7% gradeability, IP67 and CATL cells; because its payload differs from the Indonesian figure, it is not certain it is the same version, so its figures are left out.",
+      "notes_id": "Van kargo listrik dari LINXYS (merek kendaraan niaga energi baru Wuling New Energy), yang baru hadir di Indonesia di GIICOMVEC 2026 (April 2026). Bukti penjualan: ditawarkan di pameran seharga Rp275 juta dengan inden sebulan, diimpor utuh (CBU) (Liputan6, mengutip tenaga penjual di booth); Carmudi menulis model ini 'sudah bisa dipesan' di GIICOMVEC 2026. Dasar harga tidak disebut, sehingga price_otr_idr tidak diisi. Nama distributor di Indonesia tidak disebut dan tidak ditemukan daftar harga yang lebih baru. Tersedia konfigurasi 2, 5, atau 7 kursi; sumber tidak memberi spesifikasi atau harga terpisah, sehingga dicatat sebagai satu varian dan jumlah kursi tidak diisi; daya angkut kargo 970 kg tidak dikaitkan dengan konfigurasi tertentu. JBB tidak dipublikasikan; masuk kelas Small cargo berdasarkan jenis bodi. Baterai LFP 41,86 kWh, jarak tempuh hingga 252 km (WLTP). Pengisian cepat 30–80% sekitar 30 menit (daya charger tidak disebut). Tenaga, torsi, dimensi, dan berat kosong tidak ditemukan di sumber Indonesia. Tidak dipakai: versi Singapura (brosur CarTimes dan OneShift, November 2025) punya angka 41,86 kWh / 252 km WLTP yang sama, tetapi daya angkut 1.120 kg, volume kargo 5,2 m³, kemampuan tanjakan 26,7%, IP67, dan sel CATL; karena daya angkutnya berbeda dari angka Indonesia, belum pasti versinya sama, jadi angka tersebut tidak diisi."
+    }
+  ]
+}

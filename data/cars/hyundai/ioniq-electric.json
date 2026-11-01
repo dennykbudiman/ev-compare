@@ -1,0 +1,612 @@
+{
+  "make": "Hyundai",
+  "model": "Ioniq Electric",
+  "trims": [
+    {
+      "id": "hyundai-ioniq-electric-2020-prime",
+      "model_year": 2020,
+      "variant": "Prime",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "battery_gross_kwh": 38.3,
+        "range_km": 311,
+        "range_standard": "WLTP",
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "power_kw": 100,
+        "torque_nm": 295,
+        "dc_10_80_min": 54,
+        "dc_time_window": "0–80%",
+        "length_mm": 4470,
+        "width_mm": 1820,
+        "height_mm": 1475,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 150,
+        "airbags": 7,
+        "accel_0_100_s": 9.9,
+        "price_otr_idr": 624800000,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 44,
+        "kerb_weight_kg": 1535,
+        "boot_l": 357,
+        "seats": 5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched 6 Nov 2020 together with the first Kona Electric; price is OTR Jakarta. Range 311 km WLTP (373 km NEDC in the same source). Power 136 PS (= 100 kW). DC time is 0-80% in 54 min at a 100 kW charger; AC 0-100% about 6 h 5 min on a wall charger, 17.5 h on the standard cable. The otomotifnet launch report also lists blind-spot and rear cross-traffic collision warning, but not per variant, so ADAS is left out. Sold until Hyundai ended global production (dropped by Jan 2023 per otomotifnet); no later price change found, same specs 2020-2022. Battery chemistry, ~400 V, connectors, DC 44 kW, kerb weight, boot and seats from the European 38.3 kWh spec (EVKX.net).",
+      "notes_id": "Diluncurkan 6 November 2020 bersama Kona Electric generasi pertama; harga OTR Jakarta. Jarak tempuh 311 km WLTP (373 km NEDC di sumber yang sama). Tenaga 136 PS (= 100 kW). Waktu DC adalah 0-80% dalam 54 menit dengan charger 100 kW; AC 0-100% sekitar 6 jam 5 menit dengan wall charger, 17,5 jam dengan kabel standar. Laporan peluncuran otomotifnet juga menyebut blind-spot dan rear cross-traffic collision warning, tetapi tidak per varian, sehingga ADAS tidak diisi. Dijual hingga Hyundai menghentikan produksi global (sudah tidak dijual per Januari 2023 menurut otomotifnet); tidak ditemukan perubahan harga, spesifikasi sama 2020-2022. Kimia baterai, ~400 V, konektor, DC 44 kW, berat kosong, bagasi, dan jumlah kursi dari spesifikasi Eropa 38,3 kWh (EVKX.net)."
+    },
+    {
+      "id": "hyundai-ioniq-electric-2020-signature",
+      "model_year": 2020,
+      "variant": "Signature",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "battery_gross_kwh": 38.3,
+        "range_km": 311,
+        "range_standard": "WLTP",
+        "drive": "FWD",
+        "motor_type": "PMSM",
+        "power_kw": 100,
+        "torque_nm": 295,
+        "dc_10_80_min": 54,
+        "dc_time_window": "0–80%",
+        "length_mm": 4470,
+        "width_mm": 1820,
+        "height_mm": 1475,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 150,
+        "airbags": 7,
+        "accel_0_100_s": 9.9,
+        "price_otr_idr": 664800000,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 44,
+        "kerb_weight_kg": 1535,
+        "boot_l": 357,
+        "seats": 5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5244739/spesifikasi-dan-harga-hyundai-ioniq-mobil-listrik-termurah-di-indonesia",
+            "title": "Spesifikasi dan Harga Hyundai Ioniq, Mobil Listrik Termurah di Indonesia",
+            "date": "2020-11",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232416244/mengenal-lebih-dalam-mobil-listrik-hyundai-ioniq-electric-dan-kona-electric?page=all",
+            "title": "Mengenal Lebih Dalam Mobil Listrik Hyundai Ioniq Electric dan Kona Electric",
+            "date": "2020-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://evkx.net/models/hyundai/ioniq_electric/ioniq_electric_38_kwh/specifications/",
+            "title": "Hyundai IONIQ Electric 38 kWh specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched 6 Nov 2020 together with the first Kona Electric; price is OTR Jakarta. Range 311 km WLTP (373 km NEDC in the same source). Power 136 PS (= 100 kW). DC time is 0-80% in 54 min at a 100 kW charger; AC 0-100% about 6 h 5 min on a wall charger, 17.5 h on the standard cable. The otomotifnet launch report also lists blind-spot and rear cross-traffic collision warning, but not per variant, so ADAS is left out. Sold until Hyundai ended global production (dropped by Jan 2023 per otomotifnet); no later price change found, same specs 2020-2022. Battery chemistry, ~400 V, connectors, DC 44 kW, kerb weight, boot and seats from the European 38.3 kWh spec (EVKX.net).",
+      "notes_id": "Diluncurkan 6 November 2020 bersama Kona Electric generasi pertama; harga OTR Jakarta. Jarak tempuh 311 km WLTP (373 km NEDC di sumber yang sama). Tenaga 136 PS (= 100 kW). Waktu DC adalah 0-80% dalam 54 menit dengan charger 100 kW; AC 0-100% sekitar 6 jam 5 menit dengan wall charger, 17,5 jam dengan kabel standar. Laporan peluncuran otomotifnet juga menyebut blind-spot dan rear cross-traffic collision warning, tetapi tidak per varian, sehingga ADAS tidak diisi. Dijual hingga Hyundai menghentikan produksi global (sudah tidak dijual per Januari 2023 menurut otomotifnet); tidak ditemukan perubahan harga, spesifikasi sama 2020-2022. Kimia baterai, ~400 V, konektor, DC 44 kW, berat kosong, bagasi, dan jumlah kursi dari spesifikasi Eropa 38,3 kWh (EVKX.net)."
+    }
+  ]
+}

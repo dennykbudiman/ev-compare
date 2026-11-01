@@ -1,0 +1,1487 @@
+{
+  "make": "DFSK",
+  "model": "Gelora E",
+  "trims": [
+    {
+      "id": "dfsk-gelora-e-2021-blind-van-cbu",
+      "model_year": 2021,
+      "variant": "Blind Van (CBU)",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CBU import",
+        "battery_gross_kwh": 42,
+        "range_km": 300,
+        "range_standard": "NEDC",
+        "power_kw": 60,
+        "torque_nm": 200,
+        "dc_10_80_min": 80,
+        "dc_time_window": "20–80%",
+        "battery_ip": "IP67",
+        "length_mm": 4500,
+        "width_mm": 1680,
+        "height_mm": 2000,
+        "cargo_length_mm": 2630,
+        "body_type": "Van",
+        "cargo_volume_m3": 4.8,
+        "price_quote_idr": 480000000,
+        "price_quote_basis": "basis not stated"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "cargo_length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "First-generation Gelora E imported CBU from China; pre-orders opened at IIMS Hybrid (April 2021). Same specs 2021-2022 (CBU period, until local assembly at Cikande in early 2023). Power 60 kW is 80 hp as published (x0.7457). DC fast charge 20-80% in about 80 min (DC kW not published); 0-100% about 2.5 h. Price not stored: IIMS 2021 pre-order prices were a range (Blind Van Rp 480-490 million, Minibus Rp 510-520 million; Moladin calls them OTR Jakarta), and GridOto (May 2023) gives the later CBU prices as Rp 480 million (Blind Van) and Rp 580 million (Minibus) without stating the basis. GVW, kerb weight, payload, connectors and warranty for the CBU version not found. Blind Van cargo compartment length 2.63 m, about 4.8 m3. Quoted price stored: Rp 480 million, the previous CBU price given by GridOto (May 2023), basis not stated; the pre-order range is kept here only.",
+      "notes_id": "Gelora E generasi awal, impor CBU dari China; pemesanan dibuka di IIMS Hybrid (April 2021). Spesifikasi sama 2021-2022 (masa CBU, sampai dirakit lokal di Cikande awal 2023). Tenaga 60 kW berasal dari 80 hp yang dipublikasikan (x0,7457). Pengisian cepat DC 20-80% sekitar 80 menit (daya DC tidak dipublikasikan); 0-100% sekitar 2,5 jam. Harga tidak disimpan: harga pemesanan IIMS 2021 berupa rentang (Blind Van Rp 480-490 juta, Minibus Rp 510-520 juta; Moladin menyebutnya OTR Jakarta), dan GridOto (Mei 2023) menyebut harga CBU terakhir Rp 480 juta (Blind Van) dan Rp 580 juta (Minibus) tanpa menyebut dasar harga. JBB, berat kosong, daya angkut, konektor, dan garansi versi CBU tidak ditemukan. Panjang ruang kargo Blind Van 2,63 m, sekitar 4,8 m3. Harga kutipan yang disimpan: Rp 480 juta, harga CBU sebelumnya menurut GridOto (Mei 2023), dasar harga tidak disebut; rentang harga pemesanan hanya dicatat di sini."
+    },
+    {
+      "id": "dfsk-gelora-e-2021-minibus-cbu",
+      "model_year": 2021,
+      "variant": "Minibus (CBU)",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CBU import",
+        "battery_gross_kwh": 42,
+        "range_km": 300,
+        "range_standard": "NEDC",
+        "power_kw": 60,
+        "torque_nm": 200,
+        "dc_10_80_min": 80,
+        "dc_time_window": "20–80%",
+        "battery_ip": "IP67",
+        "length_mm": 4500,
+        "width_mm": 1680,
+        "height_mm": 2000,
+        "seats": 7,
+        "body_type": "Minibus",
+        "price_quote_idr": 580000000,
+        "price_quote_basis": "basis not stated"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/232664517/dfsk-gelora-e-butuh-waktu-25-jam-untuk-isi-baterai-100-persen-bisa-tempuh-jarak-segini",
+            "title": "DFSK Gelora E Butuh Waktu 2,5 Jam untuk Isi Baterai 100 Persen (Otomotifnet)",
+            "date": "2021-04",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-dfsk-gelora-e-pionir-mobil-niaga-listrik/",
+            "title": "Spesifikasi DFSK Gelora E, Pionir Mobil Niaga Listrik (Moladin News)",
+            "date": "2021-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-5533623/dfsk-resmi-pasarkan-mobil-listrik-gelora-e-harga-start-rp-400-an-juta",
+            "title": "DFSK Resmi Pasarkan Mobil Listrik Gelora E, Harga Start Rp 400-an Juta (detikOto)",
+            "date": "2021-04",
+            "type": "press"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "First-generation Gelora E imported CBU from China; pre-orders opened at IIMS Hybrid (April 2021). Same specs 2021-2022 (CBU period, until local assembly at Cikande in early 2023). Power 60 kW is 80 hp as published (x0.7457). DC fast charge 20-80% in about 80 min (DC kW not published); 0-100% about 2.5 h. Price not stored: IIMS 2021 pre-order prices were a range (Blind Van Rp 480-490 million, Minibus Rp 510-520 million; Moladin calls them OTR Jakarta), and GridOto (May 2023) gives the later CBU prices as Rp 480 million (Blind Van) and Rp 580 million (Minibus) without stating the basis. GVW, kerb weight, payload, connectors and warranty for the CBU version not found. Minibus seats 7 (Moladin mentions up to 11 in a configurable layout); passenger body counted as Small cargo. Quoted price stored: Rp 580 million, the previous CBU price given by GridOto (May 2023), basis not stated; it is higher than the 2021 pre-order range, which is kept here only.",
+      "notes_id": "Gelora E generasi awal, impor CBU dari China; pemesanan dibuka di IIMS Hybrid (April 2021). Spesifikasi sama 2021-2022 (masa CBU, sampai dirakit lokal di Cikande awal 2023). Tenaga 60 kW berasal dari 80 hp yang dipublikasikan (x0,7457). Pengisian cepat DC 20-80% sekitar 80 menit (daya DC tidak dipublikasikan); 0-100% sekitar 2,5 jam. Harga tidak disimpan: harga pemesanan IIMS 2021 berupa rentang (Blind Van Rp 480-490 juta, Minibus Rp 510-520 juta; Moladin menyebutnya OTR Jakarta), dan GridOto (Mei 2023) menyebut harga CBU terakhir Rp 480 juta (Blind Van) dan Rp 580 juta (Minibus) tanpa menyebut dasar harga. JBB, berat kosong, daya angkut, konektor, dan garansi versi CBU tidak ditemukan. Minibus 7 kursi (Moladin menyebut hingga 11 dengan tata letak yang bisa diatur); bodi penumpang dimasukkan kelas Small cargo. Harga kutipan yang disimpan: Rp 580 juta, harga CBU sebelumnya menurut GridOto (Mei 2023), dasar harga tidak disebut; angka ini lebih tinggi dari rentang harga pemesanan 2021, yang hanya dicatat di sini."
+    },
+    {
+      "id": "dfsk-gelora-e-2026-blind-van",
+      "model_year": 2026,
+      "variant": "Blind Van",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 42,
+        "battery_chemistry": "LFP",
+        "pack_nominal_voltage_v": 350,
+        "range_km": 300,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 60,
+        "torque_nm": 200,
+        "dc_10_80_min": 80,
+        "dc_time_window": "20–80%",
+        "length_mm": 4500,
+        "width_mm": 1680,
+        "height_mm": 2000,
+        "wheelbase_mm": 3050,
+        "tyre_size": "185/80 R14",
+        "vehicle_warranty": "3 yrs / 120,000 km",
+        "battery_warranty": "5 yrs / 200,000 km",
+        "ac_full_hours": 8,
+        "kerb_weight_kg": 1500,
+        "gvw_kg": 2600,
+        "turning_radius_m": 5.25,
+        "seats": 2,
+        "price_otr_idr": 350000000,
+        "body_type": "Van",
+        "cargo_volume_m3": 4.8,
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Locally assembled at DFSK's Cikande plant (Serang, Banten) since early 2023; prices fell from the CBU level at that point. Same specs 2023-2026. Range 300 km as claimed; the 2021 launch named NEDC for this 42 kWh pack, but current sources state no cycle, so range_standard is left out. DC 20-80% in about 80 min (DC kW not published). Connectors not stated for the 42 kWh version. Pack voltage 350 V from Moladin. Moladin's current page has inconsistent figures (range 200 km, list price Rp 360/409 million vs promo Rp 350/399 million); OTO, Listrik Indonesia (2026) and GridOto (2023) agree on Rp 350 million (Blind Van) and Rp 399 million (Minibus). Blind Van: kerb weight 1,500 kg and GVW 2,600 kg from OTO (Zigwheels shows conflicting 1,290/1,970 kg figures that appear to belong to the petrol Gelora); payload not published. AC 0-100% about 8 h (OTO). Cargo volume about 4.8 m3.",
+      "notes_id": "Dirakit lokal di pabrik DFSK Cikande (Serang, Banten) sejak awal 2023; harga turun dari level CBU sejak itu. Spesifikasi sama 2023-2026. Jarak tempuh 300 km sesuai klaim; peluncuran 2021 menyebut NEDC untuk baterai 42 kWh ini, tetapi sumber terkini tidak menyebut metode uji, jadi standar uji jarak tempuh dikosongkan. DC 20-80% sekitar 80 menit (daya DC tidak dipublikasikan). Konektor tidak disebutkan untuk versi 42 kWh. Tegangan baterai 350 V dari Moladin. Halaman Moladin saat ini punya angka yang tidak konsisten (jarak tempuh 200 km, harga Rp 360/409 juta vs promo Rp 350/399 juta); OTO, Listrik Indonesia (2026) dan GridOto (2023) sepakat Rp 350 juta (Blind Van) dan Rp 399 juta (Minibus). Blind Van: berat kosong 1.500 kg dan JBB 2.600 kg dari OTO (Zigwheels menampilkan angka 1.290/1.970 kg yang tampaknya milik Gelora bensin); daya angkut tidak dipublikasikan. AC 0-100% sekitar 8 jam (OTO). Volume kargo sekitar 4,8 m3."
+    },
+    {
+      "id": "dfsk-gelora-e-2026-minibus",
+      "model_year": 2026,
+      "variant": "Minibus",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 42,
+        "battery_chemistry": "LFP",
+        "pack_nominal_voltage_v": 350,
+        "range_km": 300,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "power_kw": 60,
+        "torque_nm": 200,
+        "dc_10_80_min": 80,
+        "dc_time_window": "20–80%",
+        "length_mm": 4500,
+        "width_mm": 1680,
+        "height_mm": 2000,
+        "wheelbase_mm": 3050,
+        "tyre_size": "185/80 R14",
+        "vehicle_warranty": "3 yrs / 120,000 km",
+        "battery_warranty": "5 yrs / 200,000 km",
+        "seats": 7,
+        "price_otr_idr": 399000000,
+        "body_type": "Minibus",
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://listrikindonesia.com/detail/19899/bisa-buat-mbg-ini-pilihan-mobil-listrik-blind-van-harga-rp300-jutaan",
+            "title": "Bisa Buat MBG, Ini Pilihan Mobil Listrik Blind Van Harga Rp300 Jutaan (Listrik Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.gridoto.com/amp/223790157/diproduksi-lokal-penjualan-mobil-listrik-dfsk-gelora-e-meningkat",
+            "title": "Diproduksi Lokal, Penjualan Mobil Listrik DFSK Gelora E Meningkat (GridOto)",
+            "date": "2023-05",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/dfsk/gelora-electric/e-bv?amp=1",
+            "title": "DFSK Gelora Electric E-BV spesifikasi dan harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Locally assembled at DFSK's Cikande plant (Serang, Banten) since early 2023; prices fell from the CBU level at that point. Same specs 2023-2026. Range 300 km as claimed; the 2021 launch named NEDC for this 42 kWh pack, but current sources state no cycle, so range_standard is left out. DC 20-80% in about 80 min (DC kW not published). Connectors not stated for the 42 kWh version. Pack voltage 350 V from Moladin. Moladin's current page has inconsistent figures (range 200 km, list price Rp 360/409 million vs promo Rp 350/399 million); OTO, Listrik Indonesia (2026) and GridOto (2023) agree on Rp 350 million (Blind Van) and Rp 399 million (Minibus). Minibus (7 seats, passenger body; counted as Small cargo): kerb weight and GVW not published.",
+      "notes_id": "Dirakit lokal di pabrik DFSK Cikande (Serang, Banten) sejak awal 2023; harga turun dari level CBU sejak itu. Spesifikasi sama 2023-2026. Jarak tempuh 300 km sesuai klaim; peluncuran 2021 menyebut NEDC untuk baterai 42 kWh ini, tetapi sumber terkini tidak menyebut metode uji, jadi standar uji jarak tempuh dikosongkan. DC 20-80% sekitar 80 menit (daya DC tidak dipublikasikan). Konektor tidak disebutkan untuk versi 42 kWh. Tegangan baterai 350 V dari Moladin. Halaman Moladin saat ini punya angka yang tidak konsisten (jarak tempuh 200 km, harga Rp 360/409 juta vs promo Rp 350/399 juta); OTO, Listrik Indonesia (2026) dan GridOto (2023) sepakat Rp 350 juta (Blind Van) dan Rp 399 juta (Minibus). Minibus (7 kursi, bodi penumpang; dimasukkan kelas Small cargo): berat kosong dan JBB tidak dipublikasikan."
+    },
+    {
+      "id": "dfsk-gelora-e-2026-blind-van-b-type",
+      "model_year": 2026,
+      "variant": "Blind Van B-Type (38 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "price_otr_idr": 248000000,
+        "battery_gross_kwh": 38,
+        "battery_chemistry": "LFP",
+        "range_km": 268,
+        "drive": "RWD",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 80,
+        "dc_time_window": "20–80%",
+        "length_mm": 4500,
+        "width_mm": 1680,
+        "height_mm": 2000,
+        "wheelbase_mm": 3050,
+        "cargo_length_mm": 2500,
+        "seats": 2,
+        "tyre_size": "185/80 R14",
+        "vehicle_warranty": "3 yrs / 120,000 km",
+        "battery_warranty": "5 yrs / 200,000 km",
+        "free_service": "Free part maintenance for 5 years / 200,000 km",
+        "body_type": "Van",
+        "cargo_volume_m3": 4.8,
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.jawapos.com/otomotif/2511210247/dfsk-luncurkan-gelora-e-varian-terjangkau-di-gjaw-2025-siap-dorong-efisiensi-bisnis",
+            "title": "DFSK Luncurkan Gelora E Varian Terjangkau di GJAW 2025 (Jawa Pos)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.jawapos.com/otomotif/2511210247/dfsk-luncurkan-gelora-e-varian-terjangkau-di-gjaw-2025-siap-dorong-efisiensi-bisnis",
+            "title": "DFSK Luncurkan Gelora E Varian Terjangkau di GJAW 2025 (Jawa Pos)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.jawapos.com/otomotif/2511210247/dfsk-luncurkan-gelora-e-varian-terjangkau-di-gjaw-2025-siap-dorong-efisiensi-bisnis",
+            "title": "DFSK Luncurkan Gelora E Varian Terjangkau di GJAW 2025 (Jawa Pos)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.jawapos.com/otomotif/2511210247/dfsk-luncurkan-gelora-e-varian-terjangkau-di-gjaw-2025-siap-dorong-efisiensi-bisnis",
+            "title": "DFSK Luncurkan Gelora E Varian Terjangkau di GJAW 2025 (Jawa Pos)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.jawapos.com/otomotif/2511210247/dfsk-luncurkan-gelora-e-varian-terjangkau-di-gjaw-2025-siap-dorong-efisiensi-bisnis",
+            "title": "DFSK Luncurkan Gelora E Varian Terjangkau di GJAW 2025 (Jawa Pos)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "cargo_length_mm": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.jawapos.com/otomotif/2511210247/dfsk-luncurkan-gelora-e-varian-terjangkau-di-gjaw-2025-siap-dorong-efisiensi-bisnis",
+            "title": "DFSK Luncurkan Gelora E Varian Terjangkau di GJAW 2025 (Jawa Pos)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/affordable-dfsk-gelora-e-variant-to-debut-at-gjaw-2025-21669",
+            "title": "Affordable DFSK Gelora E Variant to Debut at GJAW 2025 (Katadata OTO)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://industri.kontan.co.id/news/dfsk-hadirkan-gelora-e-terjangkau-di-gjaw-2025-solusi-bisnis",
+            "title": "DFSK Hadirkan Gelora E Terjangkau di GJAW 2025 (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/dfsk/dfsk-gelora-e/spesifikasi",
+            "title": "DFSK Gelora E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Lower-priced Blind Van with a smaller 38 kWh battery, launched at GJAW (November 2025); price Rp 248 million OTR Jakarta, still listed in 2026. Range 268 km claimed, no cycle stated in launch reports (Moladin labels it NEDC). DC (CCS2) 20-80% in about 80 min; AC (Type 2) 20-80% in about 3.5 h; charging kW not published. Cargo length 2.5 m, volume up to 4.8 m3. Motor power not published (Moladin shows '80' without unit). Assembly, kerb weight, GVW and payload not published. Dimensions from Moladin (Kontan gives 4.5 x 1.6 x 2 m rounded).",
+      "notes_id": "Blind Van harga lebih rendah dengan baterai lebih kecil 38 kWh, diluncurkan di GJAW (November 2025); harga Rp 248 juta OTR Jakarta, masih tercantum pada 2026. Jarak tempuh 268 km sesuai klaim, metode uji tidak disebut di berita peluncuran (Moladin menulis NEDC). DC (CCS2) 20-80% sekitar 80 menit; AC (Type 2) 20-80% sekitar 3,5 jam; daya pengisian tidak dipublikasikan. Panjang kargo 2,5 m, volume hingga 4,8 m3. Tenaga motor tidak dipublikasikan (Moladin menulis '80' tanpa satuan). Lokasi perakitan, berat kosong, JBB, dan daya angkut tidak dipublikasikan. Dimensi dari Moladin (Kontan menyebut 4,5 x 1,6 x 2 m dibulatkan)."
+    }
+  ]
+}

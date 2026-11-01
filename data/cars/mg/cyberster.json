@@ -1,0 +1,295 @@
+{
+  "make": "MG",
+  "model": "Cyberster",
+  "trims": [
+    {
+      "id": "mg-cyberster-2025-performance",
+      "model_year": 2025,
+      "variant": "Performance",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 1704880000,
+        "battery_gross_kwh": 77,
+        "range_km": 503,
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "power_kw": 400,
+        "torque_nm": 725,
+        "accel_0_100_s": 3.2,
+        "length_mm": 4535,
+        "width_mm": 1913,
+        "height_mm": 1329,
+        "wheelbase_mm": 2690,
+        "tyre_size": "245/40 R20 (front), 275/35 R20 (rear)",
+        "adas": "ACC, LKA, AEB, BSD, DMS, TJA, LDW",
+        "motor_count": 2,
+        "drive": "AWD",
+        "ac_max_kw": 7,
+        "dc_max_kw": 144,
+        "v2l": true,
+        "v2l_kw": 2.5,
+        "top_speed_kmh": 201,
+        "kerb_weight_kg": 1985,
+        "boot_l": 249,
+        "seats": 2,
+        "airbags": 4,
+        "airbag_positions": "front, front side"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mgcyberster",
+            "title": "MG Cyberster - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/mg/cyberster/",
+            "title": "MG Cyberster - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/mg/cyberster/",
+            "title": "MG Cyberster - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/",
+            "title": "MG Cyberster - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/mg/cyberster/mk1/awd-2025/",
+            "title": "MG Cyberster AWD - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/mg/cyberster/",
+            "title": "MG Cyberster - variants Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Two-seat electric roadster; the segment list has no sports-car class, so filed as Sedan. OTR Jakarta Rp1,704,880,000 (mgmotor.id). Power 544 PS = 400 kW (page headline says 536 hp). Sold since 2025 (Red Top colour shown at GIIAS 2025). Motors, drive, charging, V2L, top speed, kerb weight (listed as weight), boot, seats and airbags from the Malaysian spec of the same 77 kWh AWD Cyberster, 725 Nm, 3.2 s (paultan.org); paultan lists 496 hp where the Indonesian source gives 544 PS.",
+      "notes_id": "Roadster listrik dua kursi; daftar segmen tidak punya kelas mobil sport, jadi dimasukkan sebagai Sedan. OTR Jakarta Rp1.704.880.000 (mgmotor.id). Tenaga 544 PS = 400 kW (judul halaman menyebut 536 hp). Dijual sejak 2025 (warna Red Top dipamerkan di GIIAS 2025). Jumlah motor, penggerak, pengisian daya, V2L, kecepatan maksimum, berat kosong (tertulis sebagai berat), bagasi, kursi, dan airbag dari spesifikasi Malaysia untuk Cyberster AWD 77 kWh, 725 Nm, 3,2 detik yang sama (paultan.org); paultan menulis 496 hp sedangkan sumber Indonesia 544 PS."
+    }
+  ]
+}

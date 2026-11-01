@@ -1,0 +1,1404 @@
+{
+  "make": "Wuling",
+  "model": "Cloud EV",
+  "trims": [
+    {
+      "id": "wuling-cloud-ev-2024-460-km",
+      "model_year": 2024,
+      "variant": "460 km",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "battery_chemistry": "LFP",
+        "battery_ip": "IP67",
+        "battery_gross_kwh": 50.6,
+        "range_km": 460,
+        "motor_type": "PMSM",
+        "power_kw": 100,
+        "torque_nm": 200,
+        "seats": 5,
+        "airbags": 4,
+        "adas": "ACC, lane recognition, safe distance & braking assist, auto headlights",
+        "drive": "FWD",
+        "top_speed_kmh": 150,
+        "heat_pump": false,
+        "length_mm": 4295,
+        "width_mm": 1850,
+        "height_mm": 1652,
+        "wheelbase_mm": 2700
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          },
+          {
+            "url": "https://www.goodnewsfromindonesia.id/2024/05/17/bukan-rp410-juta-wuling-cloud-ev-resmi-meluncur-di-indonesia-dengan-harga-segini",
+            "title": "Bukan Rp410 Juta, Wuling Cloud EV Resmi Meluncur di Indonesia dengan Harga Segini",
+            "date": "2024-05",
+            "type": "media"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www.goodnewsfromindonesia.id/2024/05/17/bukan-rp410-juta-wuling-cloud-ev-resmi-meluncur-di-indonesia-dengan-harga-segini",
+            "title": "Bukan Rp410 Juta, Wuling Cloud EV Resmi Meluncur di Indonesia dengan Harga Segini",
+            "date": "2024-05",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          },
+          {
+            "url": "https://www.goodnewsfromindonesia.id/2024/05/17/bukan-rp410-juta-wuling-cloud-ev-resmi-meluncur-di-indonesia-dengan-harga-segini",
+            "title": "Bukan Rp410 Juta, Wuling Cloud EV Resmi Meluncur di Indonesia dengan Harga Segini",
+            "date": "2024-05",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Original Cloud EV launched May 2024 (single variant). Launch price reported only as 'Rp398 jutaan' (goodnewsfromindonesia), so price_otr_idr is left out. Replaced by the New Cloud EV Lite/Pro in Feb 2025. Range test standard not stated in 2024 sources. Trunk up to 1,707 L with rear seats folded. Drive layout, top speed, heat pump (none), dimensions and wheelbase from the Chinese spec of the Baojun Yunduo (Data.CarNewsChina.com); same 50.6 kWh/100 kW/460 km CLTC version.",
+      "notes_id": "Cloud EV generasi awal diluncurkan Mei 2024 (varian tunggal). Harga peluncuran hanya disebut 'Rp398 jutaan' (goodnewsfromindonesia), sehingga price_otr_idr dikosongkan. Digantikan New Cloud EV Lite/Pro pada Februari 2025. Standar pengujian jarak tempuh tidak disebutkan sumber 2024. Bagasi hingga 1.707 L dengan jok belakang dilipat. Tata letak penggerak, kecepatan maksimum, heat pump (tidak ada), dimensi dan jarak sumbu roda dari spesifikasi Tiongkok untuk Baojun Yunduo (Data.CarNewsChina.com); versi yang sama 50,6 kWh/100 kW/460 km CLTC."
+    },
+    {
+      "id": "wuling-cloud-ev-2026-lite",
+      "model_year": 2026,
+      "variant": "Lite",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 415000000,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "battery_gross_kwh": 50.6,
+        "range_km": 460,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 100,
+        "torque_nm": 200,
+        "ac_full_hours": 7,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 5,
+        "length_mm": 4295,
+        "width_mm": 1850,
+        "height_mm": 1652,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 145,
+        "kerb_weight_kg": 1495,
+        "tyre_size": "215/55 R18",
+        "airbags": 2,
+        "motor_type": "PMSM",
+        "top_speed_kmh": 150,
+        "heat_pump": false
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=26789",
+            "title": "Wuling New Cloud EV Driving The Future of Comfort with New Innovations and Lite Version | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=26789",
+            "title": "Wuling New Cloud EV Driving The Future of Comfort with New Innovations and Lite Version | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26789",
+            "title": "Wuling New Cloud EV Driving The Future of Comfort with New Innovations and Lite Version | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Moladin lists power as 134 hp (= 100 kW) and 'SUV' body; Wuling calls it a medium hatchback. DC charging 30–80% in about 30 min; DC/AC kW and connector not published. AC about 7 h (0–100%). Moladin shows the same dimensions, kerb weight and tyres for all four variants. Boot listed as 606 L by Moladin (definition unclear), left out. New Cloud EV launched Feb 2025 at a special Jakarta price of Rp365 jt (official release quoted 'Rp365 to Rp404 millions' without splitting variants); 2026 price per Moladin (updated Oct 2026). The Feb 2025 release lists ACC, lane recognition and braking assist for the New Cloud EV without splitting by variant. Motor type, top speed and heat pump (none) from the Chinese spec of the Baojun Yunduo (Data.CarNewsChina.com); same 50.6 kWh/100 kW/460 km CLTC version.",
+      "notes_id": "Moladin mencantumkan tenaga 134 hp (= 100 kW) dan bodi 'SUV'; Wuling menyebutnya hatchback menengah. Pengisian DC 30–80% sekitar 30 menit; DC/AC kW dan jenis konektor tidak dipublikasikan. AC sekitar 7 jam (0–100%). Moladin menampilkan dimensi, bobot kosong, dan ban yang sama untuk keempat varian. Bagasi tercantum 606 L di Moladin (definisinya tidak jelas), dikosongkan. New Cloud EV diluncurkan Februari 2025 dengan harga spesial Jakarta Rp365 jt (rilis resmi menyebut 'Rp365 hingga Rp404 jutaan' tanpa merinci varian); harga 2026 menurut Moladin (diperbarui Oktober 2026). Rilis Februari 2025 mencantumkan ACC, pengenalan lajur, dan bantuan pengereman untuk New Cloud EV tanpa merinci per varian. Jenis motor, kecepatan maksimum dan heat pump (tidak ada) dari spesifikasi Tiongkok untuk Baojun Yunduo (Data.CarNewsChina.com); versi yang sama 50,6 kWh/100 kW/460 km CLTC."
+    },
+    {
+      "id": "wuling-cloud-ev-2026-pro",
+      "model_year": 2026,
+      "variant": "Pro",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 443000000,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "battery_gross_kwh": 50.6,
+        "range_km": 460,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 100,
+        "torque_nm": 200,
+        "ac_full_hours": 7,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 5,
+        "length_mm": 4295,
+        "width_mm": 1850,
+        "height_mm": 1652,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 145,
+        "kerb_weight_kg": 1495,
+        "tyre_size": "215/55 R18",
+        "airbags": 4,
+        "adas": "BSM, RCTA, 360 camera, cruise control",
+        "motor_type": "PMSM",
+        "top_speed_kmh": 150,
+        "heat_pump": false
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www3.wuling.id/?p=26789",
+            "title": "Wuling New Cloud EV Driving The Future of Comfort with New Innovations and Lite Version | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=26789",
+            "title": "Wuling New Cloud EV Driving The Future of Comfort with New Innovations and Lite Version | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www3.wuling.id/?p=24079",
+            "title": "Wuling Introduces Cloud EV, Medium Hatchback EV with The Future of Comfort | Wuling",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26789",
+            "title": "Wuling New Cloud EV Driving The Future of Comfort with New Innovations and Lite Version | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Moladin lists power as 134 hp (= 100 kW) and 'SUV' body; Wuling calls it a medium hatchback. DC charging 30–80% in about 30 min; DC/AC kW and connector not published. AC about 7 h (0–100%). Moladin shows the same dimensions, kerb weight and tyres for all four variants. Boot listed as 606 L by Moladin (definition unclear), left out. New Cloud EV launched Feb 2025 at a special Jakarta price of Rp365 jt (official release quoted 'Rp365 to Rp404 millions' without splitting variants); 2026 price per Moladin (updated Oct 2026). The Feb 2025 release lists ACC, lane recognition and braking assist for the New Cloud EV without splitting by variant. Motor type, top speed and heat pump (none) from the Chinese spec of the Baojun Yunduo (Data.CarNewsChina.com); same 50.6 kWh/100 kW/460 km CLTC version.",
+      "notes_id": "Moladin mencantumkan tenaga 134 hp (= 100 kW) dan bodi 'SUV'; Wuling menyebutnya hatchback menengah. Pengisian DC 30–80% sekitar 30 menit; DC/AC kW dan jenis konektor tidak dipublikasikan. AC sekitar 7 jam (0–100%). Moladin menampilkan dimensi, bobot kosong, dan ban yang sama untuk keempat varian. Bagasi tercantum 606 L di Moladin (definisinya tidak jelas), dikosongkan. New Cloud EV diluncurkan Februari 2025 dengan harga spesial Jakarta Rp365 jt (rilis resmi menyebut 'Rp365 hingga Rp404 jutaan' tanpa merinci varian); harga 2026 menurut Moladin (diperbarui Oktober 2026). Rilis Februari 2025 mencantumkan ACC, pengenalan lajur, dan bantuan pengereman untuk New Cloud EV tanpa merinci per varian. Jenis motor, kecepatan maksimum dan heat pump (tidak ada) dari spesifikasi Tiongkok untuk Baojun Yunduo (Data.CarNewsChina.com); versi yang sama 50,6 kWh/100 kW/460 km CLTC."
+    },
+    {
+      "id": "wuling-cloud-ev-2026-se-lite",
+      "model_year": 2026,
+      "variant": "SE Lite",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 299000000,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "battery_gross_kwh": 38,
+        "range_km": 360,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 100,
+        "torque_nm": 200,
+        "ac_full_hours": 7,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 5,
+        "length_mm": 4295,
+        "width_mm": 1850,
+        "height_mm": 1652,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 145,
+        "kerb_weight_kg": 1495,
+        "tyre_size": "215/55 R18",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "motor_type": "PMSM",
+        "top_speed_kmh": 150,
+        "heat_pump": false
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26789",
+            "title": "Wuling New Cloud EV Driving The Future of Comfort with New Innovations and Lite Version | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Moladin lists power as 134 hp (= 100 kW) and 'SUV' body; Wuling calls it a medium hatchback. DC charging 30–80% in about 30 min; DC/AC kW and connector not published. AC about 7 h (0–100%). Moladin shows the same dimensions, kerb weight and tyres for all four variants. Boot listed as 606 L by Moladin (definition unclear), left out. Cloud EV SE launched 4 Aug 2026 with a smaller 38 kWh battery. Airbags per Wuling (SE Lite dual front, SE Pro adds side airbags for four); Moladin's SE columns appear swapped (it shows SE Lite with 4 airbags and the Pro feature set), so per-variant equipment from Moladin is not used for SE. Lifetime core-component warranty taken from the Feb 2025 New Cloud EV release (not restated in the SE release). Motor type, top speed and heat pump (none) from the Chinese spec of the Baojun Yunduo (Data.CarNewsChina.com); matched to the Chinese 37.9 kWh/360 km CLTC version (Indonesia quotes 38 kWh).",
+      "notes_id": "Moladin mencantumkan tenaga 134 hp (= 100 kW) dan bodi 'SUV'; Wuling menyebutnya hatchback menengah. Pengisian DC 30–80% sekitar 30 menit; DC/AC kW dan jenis konektor tidak dipublikasikan. AC sekitar 7 jam (0–100%). Moladin menampilkan dimensi, bobot kosong, dan ban yang sama untuk keempat varian. Bagasi tercantum 606 L di Moladin (definisinya tidak jelas), dikosongkan. Cloud EV SE diluncurkan 4 Agustus 2026 dengan baterai lebih kecil 38 kWh. Airbag menurut Wuling (SE Lite dua airbag depan, SE Pro menambah airbag samping sehingga total empat); kolom SE di Moladin tampaknya tertukar (SE Lite ditampilkan dengan 4 airbag dan fitur Pro), sehingga perlengkapan per varian dari Moladin tidak dipakai untuk SE. Garansi komponen inti seumur hidup diambil dari rilis New Cloud EV Februari 2025 (tidak disebut ulang dalam rilis SE). Jenis motor, kecepatan maksimum dan heat pump (tidak ada) dari spesifikasi Tiongkok untuk Baojun Yunduo (Data.CarNewsChina.com); dicocokkan dengan versi Tiongkok 37,9 kWh/360 km CLTC (Indonesia menyebut 38 kWh)."
+    },
+    {
+      "id": "wuling-cloud-ev-2026-se-pro",
+      "model_year": 2026,
+      "variant": "SE Pro",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 339000000,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "battery_gross_kwh": 38,
+        "range_km": 360,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 100,
+        "torque_nm": 200,
+        "ac_full_hours": 7,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "battery_warranty": "Lifetime (core EV components: battery, drive motor, motor controller; T&C apply)",
+        "seats": 5,
+        "length_mm": 4295,
+        "width_mm": 1850,
+        "height_mm": 1652,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 145,
+        "kerb_weight_kg": 1495,
+        "tyre_size": "215/55 R18",
+        "airbags": 4,
+        "airbag_positions": "driver, front passenger, front side",
+        "motor_type": "PMSM",
+        "top_speed_kmh": 150,
+        "heat_pump": false
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www3.wuling.id/?p=26789",
+            "title": "Wuling New Cloud EV Driving The Future of Comfort with New Innovations and Lite Version | Wuling",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-cloud-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Cloud EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wuling-introduces-the-new-cloud-ev-se-as-a-new-variant-of-its-medium-hatchback-ev",
+            "title": "Wuling Introduces the New Cloud EV SE as a New Variant of Its Medium Hatchback EV",
+            "date": "2026-08",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/baojun/baojun-yunduo/2023/params",
+            "title": "Baojun Yunduo 2023 parameters (Data.CarNewsChina.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Moladin lists power as 134 hp (= 100 kW) and 'SUV' body; Wuling calls it a medium hatchback. DC charging 30–80% in about 30 min; DC/AC kW and connector not published. AC about 7 h (0–100%). Moladin shows the same dimensions, kerb weight and tyres for all four variants. Boot listed as 606 L by Moladin (definition unclear), left out. Cloud EV SE launched 4 Aug 2026 with a smaller 38 kWh battery. Airbags per Wuling (SE Lite dual front, SE Pro adds side airbags for four); Moladin's SE columns appear swapped (it shows SE Lite with 4 airbags and the Pro feature set), so per-variant equipment from Moladin is not used for SE. Lifetime core-component warranty taken from the Feb 2025 New Cloud EV release (not restated in the SE release). Motor type, top speed and heat pump (none) from the Chinese spec of the Baojun Yunduo (Data.CarNewsChina.com); matched to the Chinese 37.9 kWh/360 km CLTC version (Indonesia quotes 38 kWh).",
+      "notes_id": "Moladin mencantumkan tenaga 134 hp (= 100 kW) dan bodi 'SUV'; Wuling menyebutnya hatchback menengah. Pengisian DC 30–80% sekitar 30 menit; DC/AC kW dan jenis konektor tidak dipublikasikan. AC sekitar 7 jam (0–100%). Moladin menampilkan dimensi, bobot kosong, dan ban yang sama untuk keempat varian. Bagasi tercantum 606 L di Moladin (definisinya tidak jelas), dikosongkan. Cloud EV SE diluncurkan 4 Agustus 2026 dengan baterai lebih kecil 38 kWh. Airbag menurut Wuling (SE Lite dua airbag depan, SE Pro menambah airbag samping sehingga total empat); kolom SE di Moladin tampaknya tertukar (SE Lite ditampilkan dengan 4 airbag dan fitur Pro), sehingga perlengkapan per varian dari Moladin tidak dipakai untuk SE. Garansi komponen inti seumur hidup diambil dari rilis New Cloud EV Februari 2025 (tidak disebut ulang dalam rilis SE). Jenis motor, kecepatan maksimum dan heat pump (tidak ada) dari spesifikasi Tiongkok untuk Baojun Yunduo (Data.CarNewsChina.com); dicocokkan dengan versi Tiongkok 37,9 kWh/360 km CLTC (Indonesia menyebut 38 kWh)."
+    }
+  ]
+}

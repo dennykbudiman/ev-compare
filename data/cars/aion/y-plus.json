@@ -1,0 +1,1090 @@
+{
+  "make": "Aion",
+  "model": "Y Plus",
+  "trims": [
+    {
+      "id": "aion-y-plus-2024-exclusive",
+      "model_year": 2024,
+      "variant": "Exclusive",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 415000000,
+        "battery_gross_kwh": 50.66,
+        "range_km": 410,
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "length_mm": 4535,
+        "width_mm": 1870,
+        "height_mm": 1650,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": 150,
+        "boot_l": 405,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "BSM, FCTA, RCTA, TPMS, 360 camera",
+        "tyre_size": "215/50 R18",
+        "range_standard": "NEDC",
+        "dc_10_80_min": 45,
+        "dc_time_window": "20–80%"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/sff44y349/aion-y-resmi-meluncur-di-ri-siap-jadi-pesaing-baru-wuling-cloud-dan-byd-dolphin",
+            "title": "Aion Y Resmi Meluncur di RI, Siap Jadi Pesaing Baru Wuling Cloud dan BYD Dolphin",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234106292/intip-spesifikasi-gac-aion-y-plus-byd-atto-3-dan-wuling-cloud-ev-kalah-bongsor",
+            "title": "Intip Spesifikasi GAC Aion Y Plus, BYD Atto 3 dan Wuling Cloud EV Kalah Bongsor",
+            "date": "2024-06",
+            "type": "media"
+          },
+          {
+            "url": "https://ekonomi.republika.co.id/berita/sff44y349/aion-y-resmi-meluncur-di-ri-siap-jadi-pesaing-baru-wuling-cloud-dan-byd-dolphin",
+            "title": "Aion Y Resmi Meluncur di RI, Siap Jadi Pesaing Baru Wuling Cloud dan BYD Dolphin",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched 19 June 2024 at Rp415 jt (Exclusive) / Rp475 jt (Premium) OTR Jakarta; Rp419/479 jt from early 2025 (kabarbursa Mar 2025) and still Rp419/479 jt in Aug 2026 (Moladin). Range standard NEDC from Moladin; ranges 410/490 km from launch reports. Power/torque left out: Moladin lists '150 hp / 250' (global spec is 150 kW / 225 Nm), no reliable Indonesian figure found. DC 20-80% in 45 min and AC 9-10 h per Moladin; no kW figures published. Battery 50.66 kWh (kabarbursa/Moladin) vs 50.6 kWh (otomotifnet).",
+      "notes_id": "Diluncurkan 19 Juni 2024 seharga Rp415 jt (Exclusive) / Rp475 jt (Premium) OTR Jakarta; Rp419/479 jt sejak awal 2025 (kabarbursa Maret 2025) dan masih Rp419/479 jt pada Agustus 2026 (Moladin). Jarak tempuh standar NEDC dari Moladin; angka 410/490 km dari laporan peluncuran. Tenaga/torsi dikosongkan: Moladin menulis '150 hp / 250' (spesifikasi global 150 kW / 225 Nm), dan tidak ditemukan angka Indonesia yang andal. DC 20-80% dalam 45 menit dan AC 9-10 jam menurut Moladin; angka kW tidak dipublikasikan. Baterai 50,66 kWh (kabarbursa/Moladin) vs 50,6 kWh (otomotifnet)."
+    },
+    {
+      "id": "aion-y-plus-2024-premium",
+      "model_year": 2024,
+      "variant": "Premium",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 475000000,
+        "battery_gross_kwh": 63.2,
+        "range_km": 490,
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "length_mm": 4535,
+        "width_mm": 1870,
+        "height_mm": 1650,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": 150,
+        "boot_l": 405,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "BSM, FCTA, RCTA, TPMS, 360 camera",
+        "tyre_size": "215/50 R18",
+        "range_standard": "NEDC",
+        "dc_10_80_min": 45,
+        "dc_time_window": "20–80%",
+        "power_kw": 150,
+        "torque_nm": 225,
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 80,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "accel_0_100_s": 8.5
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/sff44y349/aion-y-resmi-meluncur-di-ri-siap-jadi-pesaing-baru-wuling-cloud-dan-byd-dolphin",
+            "title": "Aion Y Resmi Meluncur di RI, Siap Jadi Pesaing Baru Wuling Cloud dan BYD Dolphin",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234106292/intip-spesifikasi-gac-aion-y-plus-byd-atto-3-dan-wuling-cloud-ev-kalah-bongsor",
+            "title": "Intip Spesifikasi GAC Aion Y Plus, BYD Atto 3 dan Wuling Cloud EV Kalah Bongsor",
+            "date": "2024-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234106292/intip-spesifikasi-gac-aion-y-plus-byd-atto-3-dan-wuling-cloud-ev-kalah-bongsor",
+            "title": "Intip Spesifikasi GAC Aion Y Plus, BYD Atto 3 dan Wuling Cloud EV Kalah Bongsor",
+            "date": "2024-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://ekonomi.republika.co.id/berita/sff44y349/aion-y-resmi-meluncur-di-ri-siap-jadi-pesaing-baru-wuling-cloud-dan-byd-dolphin",
+            "title": "Aion Y Resmi Meluncur di RI, Siap Jadi Pesaing Baru Wuling Cloud dan BYD Dolphin",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched 19 June 2024 at Rp415 jt (Exclusive) / Rp475 jt (Premium) OTR Jakarta; Rp419/479 jt from early 2025 (kabarbursa Mar 2025) and still Rp419/479 jt in Aug 2026 (Moladin). Range standard NEDC from Moladin; ranges 410/490 km from launch reports. Power/torque left out: Moladin lists '150 hp / 250' (global spec is 150 kW / 225 Nm), no reliable Indonesian figure found. DC 20-80% in 45 min and AC 9-10 h per Moladin; no kW figures published. Battery 50.66 kWh (kabarbursa/Moladin) vs 50.6 kWh (otomotifnet). Power (201 hp, converted to 150 kW), torque, AC/DC charging power and connectors, V2L and 0–100 km/h time from the Malaysian spec (carbase.my, Premium 63.2 kWh LFP FWD, 490 km NEDC).",
+      "notes_id": "Diluncurkan 19 Juni 2024 seharga Rp415 jt (Exclusive) / Rp475 jt (Premium) OTR Jakarta; Rp419/479 jt sejak awal 2025 (kabarbursa Maret 2025) dan masih Rp419/479 jt pada Agustus 2026 (Moladin). Jarak tempuh standar NEDC dari Moladin; angka 410/490 km dari laporan peluncuran. Tenaga/torsi dikosongkan: Moladin menulis '150 hp / 250' (spesifikasi global 150 kW / 225 Nm), dan tidak ditemukan angka Indonesia yang andal. DC 20-80% dalam 45 menit dan AC 9-10 jam menurut Moladin; angka kW tidak dipublikasikan. Baterai 50,66 kWh (kabarbursa/Moladin) vs 50,6 kWh (otomotifnet). Daya (201 hp, dikonversi menjadi 150 kW), torsi, daya dan konektor pengisian AC/DC, V2L, dan waktu 0–100 km/jam dari spesifikasi Malaysia (carbase.my, Premium 63,2 kWh LFP FWD, 490 km NEDC)."
+    },
+    {
+      "id": "aion-y-plus-2026-exclusive",
+      "model_year": 2026,
+      "variant": "Exclusive",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 419000000,
+        "battery_gross_kwh": 50.66,
+        "range_km": 410,
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "length_mm": 4535,
+        "width_mm": 1870,
+        "height_mm": 1650,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": 150,
+        "boot_l": 405,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "BSM, FCTA, RCTA, TPMS, 360 camera",
+        "tyre_size": "215/50 R18",
+        "range_standard": "NEDC",
+        "dc_10_80_min": 45,
+        "dc_time_window": "20–80%"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234106292/intip-spesifikasi-gac-aion-y-plus-byd-atto-3-dan-wuling-cloud-ev-kalah-bongsor",
+            "title": "Intip Spesifikasi GAC Aion Y Plus, BYD Atto 3 dan Wuling Cloud EV Kalah Bongsor",
+            "date": "2024-06",
+            "type": "media"
+          },
+          {
+            "url": "https://ekonomi.republika.co.id/berita/sff44y349/aion-y-resmi-meluncur-di-ri-siap-jadi-pesaing-baru-wuling-cloud-dan-byd-dolphin",
+            "title": "Aion Y Resmi Meluncur di RI, Siap Jadi Pesaing Baru Wuling Cloud dan BYD Dolphin",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Same specs and price 2025-2026. Launched 19 June 2024 at Rp415 jt (Exclusive) / Rp475 jt (Premium) OTR Jakarta; Rp419/479 jt from early 2025 (kabarbursa Mar 2025) and still Rp419/479 jt in Aug 2026 (Moladin). Range standard NEDC from Moladin; ranges 410/490 km from launch reports. Power/torque left out: Moladin lists '150 hp / 250' (global spec is 150 kW / 225 Nm), no reliable Indonesian figure found. DC 20-80% in 45 min and AC 9-10 h per Moladin; no kW figures published. Battery 50.66 kWh (kabarbursa/Moladin) vs 50.6 kWh (otomotifnet).",
+      "notes_id": "Spesifikasi dan harga sama untuk 2025-2026. Diluncurkan 19 Juni 2024 seharga Rp415 jt (Exclusive) / Rp475 jt (Premium) OTR Jakarta; Rp419/479 jt sejak awal 2025 (kabarbursa Maret 2025) dan masih Rp419/479 jt pada Agustus 2026 (Moladin). Jarak tempuh standar NEDC dari Moladin; angka 410/490 km dari laporan peluncuran. Tenaga/torsi dikosongkan: Moladin menulis '150 hp / 250' (spesifikasi global 150 kW / 225 Nm), dan tidak ditemukan angka Indonesia yang andal. DC 20-80% dalam 45 menit dan AC 9-10 jam menurut Moladin; angka kW tidak dipublikasikan. Baterai 50,66 kWh (kabarbursa/Moladin) vs 50,6 kWh (otomotifnet)."
+    },
+    {
+      "id": "aion-y-plus-2026-premium",
+      "model_year": 2026,
+      "variant": "Premium",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 479000000,
+        "battery_gross_kwh": 63.2,
+        "range_km": 490,
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "length_mm": 4535,
+        "width_mm": 1870,
+        "height_mm": 1650,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": 150,
+        "boot_l": 405,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "BSM, FCTA, RCTA, TPMS, 360 camera",
+        "tyre_size": "215/50 R18",
+        "range_standard": "NEDC",
+        "dc_10_80_min": 45,
+        "dc_time_window": "20–80%",
+        "power_kw": 150,
+        "torque_nm": 225,
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 80,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "accel_0_100_s": 8.5
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234106292/intip-spesifikasi-gac-aion-y-plus-byd-atto-3-dan-wuling-cloud-ev-kalah-bongsor",
+            "title": "Intip Spesifikasi GAC Aion Y Plus, BYD Atto 3 dan Wuling Cloud EV Kalah Bongsor",
+            "date": "2024-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234106292/intip-spesifikasi-gac-aion-y-plus-byd-atto-3-dan-wuling-cloud-ev-kalah-bongsor",
+            "title": "Intip Spesifikasi GAC Aion Y Plus, BYD Atto 3 dan Wuling Cloud EV Kalah Bongsor",
+            "date": "2024-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://ekonomi.republika.co.id/berita/sff44y349/aion-y-resmi-meluncur-di-ri-siap-jadi-pesaing-baru-wuling-cloud-dan-byd-dolphin",
+            "title": "Aion Y Resmi Meluncur di RI, Siap Jadi Pesaing Baru Wuling Cloud dan BYD Dolphin",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-y-plus/spesifikasi",
+            "title": "Spesifikasi AION Y Plus (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.carbase.my/aion/y-plus/mk1/premium-2024",
+            "title": "Aion Y Plus Premium 2024 – carbase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Same specs and price 2025-2026. Launched 19 June 2024 at Rp415 jt (Exclusive) / Rp475 jt (Premium) OTR Jakarta; Rp419/479 jt from early 2025 (kabarbursa Mar 2025) and still Rp419/479 jt in Aug 2026 (Moladin). Range standard NEDC from Moladin; ranges 410/490 km from launch reports. Power/torque left out: Moladin lists '150 hp / 250' (global spec is 150 kW / 225 Nm), no reliable Indonesian figure found. DC 20-80% in 45 min and AC 9-10 h per Moladin; no kW figures published. Battery 50.66 kWh (kabarbursa/Moladin) vs 50.6 kWh (otomotifnet). Power (201 hp, converted to 150 kW), torque, AC/DC charging power and connectors, V2L and 0–100 km/h time from the Malaysian spec (carbase.my, Premium 63.2 kWh LFP FWD, 490 km NEDC).",
+      "notes_id": "Spesifikasi dan harga sama untuk 2025-2026. Diluncurkan 19 Juni 2024 seharga Rp415 jt (Exclusive) / Rp475 jt (Premium) OTR Jakarta; Rp419/479 jt sejak awal 2025 (kabarbursa Maret 2025) dan masih Rp419/479 jt pada Agustus 2026 (Moladin). Jarak tempuh standar NEDC dari Moladin; angka 410/490 km dari laporan peluncuran. Tenaga/torsi dikosongkan: Moladin menulis '150 hp / 250' (spesifikasi global 150 kW / 225 Nm), dan tidak ditemukan angka Indonesia yang andal. DC 20-80% dalam 45 menit dan AC 9-10 jam menurut Moladin; angka kW tidak dipublikasikan. Baterai 50,66 kWh (kabarbursa/Moladin) vs 50,6 kWh (otomotifnet). Daya (201 hp, dikonversi menjadi 150 kW), torsi, daya dan konektor pengisian AC/DC, V2L, dan waktu 0–100 km/jam dari spesifikasi Malaysia (carbase.my, Premium 63,2 kWh LFP FWD, 490 km NEDC)."
+    }
+  ]
+}

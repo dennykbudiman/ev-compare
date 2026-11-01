@@ -1,0 +1,884 @@
+{
+  "make": "Geely",
+  "model": "EX2",
+  "trims": [
+    {
+      "id": "geely-ex2-2026-pro",
+      "model_year": 2026,
+      "variant": "Pro",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 239900000,
+        "segment": "Hatchback",
+        "battery_gross_kwh": 40.8,
+        "range_km": 395,
+        "power_kw": 85,
+        "torque_nm": 150,
+        "drive": "RWD",
+        "accel_0_100_s": 11.5,
+        "length_mm": 4135,
+        "width_mm": 1805,
+        "height_mm": 1580,
+        "wheelbase_mm": 2650,
+        "seats": 5,
+        "frunk_l": 70,
+        "battery_warranty": "8 yrs / 150,000 km",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "top_speed_kmh": 130,
+        "turning_radius_m": 4.95,
+        "dc_10_80_min": 25,
+        "dc_time_window": "30–80%",
+        "airbags": 6,
+        "adas": "AEB, BSM, RCTA, ACC, LDW",
+        "ac_full_hours": 6.5,
+        "ground_clearance_mm": 162,
+        "boot_l": 375,
+        "assembly": "CKD Indonesia",
+        "battery_cooling": "Liquid",
+        "motor_count": 1
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched 20 Jan 2026, CKD at PT Handal Indonesia Motor, Purwakarta (46.5% local content, Gotion cells). Prices: launch special Rp229.9/259.9 jt (first 2,000 / to 15 Feb 2026), then Rp255/285 jt, cut to Rp239.9/269.9 jt OTR Jakarta by June 2026 (Moladin). DC 30-80% in about 25 min; AC 10-100% about 6.5 h (recorded as ac_full_hours, window 10-100%). DC kW not published. Battery/motor warranty 8 yrs/150,000 km per detik. Body type: compact 5-door hatchback/crossover (Xingyuan in China). Pro and Max share mechanicals.",
+      "notes_id": "Diluncurkan 20 Januari 2026, CKD di PT Handal Indonesia Motor, Purwakarta (TKDN 46,5%, sel Gotion). Harga: spesial peluncuran Rp229,9/259,9 jt (2.000 pembeli pertama / hingga 15 Februari 2026), lalu Rp255/285 jt, turun menjadi Rp239,9/269,9 jt OTR Jakarta per Juni 2026 (Moladin). DC 30-80% sekitar 25 menit; AC 10-100% sekitar 6,5 jam (dicatat sebagai ac_full_hours, rentang 10-100%). DC kW tidak dipublikasikan. Garansi baterai/motor 8 tahun/150.000 km menurut detik. Tipe bodi: hatchback/crossover kompak 5 pintu (di China bernama Xingyuan). Pro dan Max berbagi komponen mekanis yang sama."
+    },
+    {
+      "id": "geely-ex2-2026-max",
+      "model_year": 2026,
+      "variant": "Max",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 269900000,
+        "segment": "Hatchback",
+        "battery_gross_kwh": 40.8,
+        "range_km": 395,
+        "power_kw": 85,
+        "torque_nm": 150,
+        "drive": "RWD",
+        "accel_0_100_s": 11.5,
+        "length_mm": 4135,
+        "width_mm": 1805,
+        "height_mm": 1580,
+        "wheelbase_mm": 2650,
+        "seats": 5,
+        "frunk_l": 70,
+        "battery_warranty": "8 yrs / 150,000 km",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "top_speed_kmh": 130,
+        "turning_radius_m": 4.95,
+        "dc_10_80_min": 25,
+        "dc_time_window": "30–80%",
+        "airbags": 6,
+        "adas": "AEB, BSM, RCTA, ACC, LDW",
+        "ac_full_hours": 6.5,
+        "ground_clearance_mm": 162,
+        "boot_l": 375,
+        "assembly": "CKD Indonesia",
+        "battery_cooling": "Liquid",
+        "motor_count": 1
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8317222/usai-terjual-2-ribu-unit-harga-geely-ex2-di-indonesia-naik-segini",
+            "title": "Usai Terjual 2 Ribu Unit, Harga Geely EX2 di Indonesia Naik Segini",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/news/harga-mobil-listrik-geely-ex2-juni-2026/",
+            "title": "Harga Mobil Listrik Geely EX2 Juni 2026",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224343900/spesifikasi-mobil-listrik-geely-ex2-ada-harga-spesialnya-nih?page=all",
+            "title": "Spesifikasi Mobil Listrik Geely EX2, Ada Harga Spesialnya Nih",
+            "date": "2026-01",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-geely-ex2/",
+            "title": "Spesifikasi Geely EX2",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2026/01/20/geely-ex2-begins-ckd-production-in-indonesia-ahead-of-proton-emas-5-in-malaysia/",
+            "title": "Geely EX2 begins CKD production in Indonesia, ahead of Proton eMAS 5 in Malaysia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched 20 Jan 2026, CKD at PT Handal Indonesia Motor, Purwakarta (46.5% local content, Gotion cells). Prices: launch special Rp229.9/259.9 jt (first 2,000 / to 15 Feb 2026), then Rp255/285 jt, cut to Rp239.9/269.9 jt OTR Jakarta by June 2026 (Moladin). DC 30-80% in about 25 min; AC 10-100% about 6.5 h (recorded as ac_full_hours, window 10-100%). DC kW not published. Battery/motor warranty 8 yrs/150,000 km per detik. Body type: compact 5-door hatchback/crossover (Xingyuan in China). Pro and Max share mechanicals.",
+      "notes_id": "Diluncurkan 20 Januari 2026, CKD di PT Handal Indonesia Motor, Purwakarta (TKDN 46,5%, sel Gotion). Harga: spesial peluncuran Rp229,9/259,9 jt (2.000 pembeli pertama / hingga 15 Februari 2026), lalu Rp255/285 jt, turun menjadi Rp239,9/269,9 jt OTR Jakarta per Juni 2026 (Moladin). DC 30-80% sekitar 25 menit; AC 10-100% sekitar 6,5 jam (dicatat sebagai ac_full_hours, rentang 10-100%). DC kW tidak dipublikasikan. Garansi baterai/motor 8 tahun/150.000 km menurut detik. Tipe bodi: hatchback/crossover kompak 5 pintu (di China bernama Xingyuan). Pro dan Max berbagi komponen mekanis yang sama."
+    }
+  ]
+}

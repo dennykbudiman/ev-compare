@@ -1,0 +1,1685 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>EV Compare</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&amp;family=Barlow+Semi+Condensed:wght@500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+html,body{overscroll-behavior:none}
+@supports (font: -apple-system-body) and (-webkit-touch-callout: none){html{font:-apple-system-body}}
+.evc-dark button:focus-visible{outline-color:var(--tip-ink)}
+.evc-ox{transform:translateX(var(--ox,0px))}
+.evc-oy{transform:translateY(calc(var(--oyt,0px) + var(--oyb,0px)))}
+.evc-oyt{transform:translateY(var(--oyt,0px))}
+.evc-spring .evc-ox,.evc-spring .evc-oy,.evc-spring .evc-oyt{transition:transform .5s cubic-bezier(.17,.89,.32,1)}
+.evc-kick .evc-ox,.evc-kick .evc-oy,.evc-kick .evc-oyt{transition:transform .12s ease-out}
+.evc{--ground:#F0F0F0;--surface:#FFFFFF;--surface2:#F5F5F5;--surface3:#F7F7F7;--fill:#E3E3E3;--fill2:#E8E8E8;--line:#D6D6D6;--line2:#E6E6E6;--ink:#141414;--muted:#575757;--muted2:#383838;--faint:#737373;--chev:#858585;--disabled:#8C8C8C;--accent:#1E4FC2;--accent-hover:#163C96;--accent-soft:#E6ECFA;--on-accent:#FFFFFF;--best:#17643F;--best-bg:#DFF1E7;--best-line:#9CCDB2;--hv:#C2410C;--hv-text:#9A3412;--warn:#7C4A03;--warn-bg:#FCF0D9;--unc:#A15C00;--danger:#B42318;--switch-off:#8A8A8A;--tip-bg:#141414;--tip-ink:#FFFFFF;--tip-sub:#CCCCCC;--scrim:rgba(20,20,20,0.45);--shadow:rgba(20,20,20,0.28);--shadow-sm:rgba(20,20,20,0.14);--cell-line:transparent;color-scheme:light}
+@media (prefers-color-scheme: dark){.evc[data-theme="auto"]{--ground:#111111;--surface:#1C1C1C;--surface2:#232323;--surface3:#202020;--fill:#2B2B2B;--fill2:#303030;--line:#3B3B3B;--line2:#2E2E2E;--ink:#EDEDED;--muted:#ADADAD;--muted2:#C7C7C7;--faint:#8F8F8F;--chev:#707070;--disabled:#7D7D7D;--accent:#7AA2FF;--accent-hover:#A3C0FF;--accent-soft:#1E2E52;--on-accent:#0B1424;--best:#8EE0B1;--best-bg:#133524;--best-line:#2F6E4B;--hv:#FF8B57;--hv-text:#FFB28C;--warn:#F2C77D;--warn-bg:#3A2B10;--unc:#E5A642;--danger:#FF7B70;--switch-off:#6B6B6B;--tip-bg:#EDEDED;--tip-ink:#111111;--tip-sub:#3B3B3B;--scrim:rgba(0,0,0,0.6);--shadow:rgba(0,0,0,0.5);--shadow-sm:rgba(0,0,0,0.4);--cell-line:transparent;color-scheme:dark}}
+@media (prefers-contrast: more){.evc[data-theme="auto"]{--ground:#FFFFFF;--surface:#FFFFFF;--surface2:#F0F0F0;--surface3:#F0F0F0;--fill:#E3E3E3;--fill2:#DDDDDD;--line:#1F1F1F;--line2:#4D4D4D;--ink:#000000;--muted:#1F1F1F;--muted2:#141414;--faint:#333333;--chev:#1F1F1F;--disabled:#4D4D4D;--accent:#0030A0;--accent-hover:#001D63;--accent-soft:#D6E2FF;--on-accent:#FFFFFF;--best:#003D1B;--best-bg:#BDEBCD;--best-line:#003D1B;--hv:#8A2400;--hv-text:#741E00;--warn:#3D2400;--warn-bg:#FFE3A6;--unc:#5E3300;--danger:#850E05;--switch-off:#4D4D4D;--tip-bg:#000000;--tip-ink:#FFFFFF;--tip-sub:#E0E0E0;--scrim:rgba(0,0,0,0.65);--shadow:rgba(0,0,0,0.5);--shadow-sm:rgba(0,0,0,0.35);--cell-line:#4D4D4D;color-scheme:light}}
+.evc[data-theme="dark"]{--ground:#111111;--surface:#1C1C1C;--surface2:#232323;--surface3:#202020;--fill:#2B2B2B;--fill2:#303030;--line:#3B3B3B;--line2:#2E2E2E;--ink:#EDEDED;--muted:#ADADAD;--muted2:#C7C7C7;--faint:#8F8F8F;--chev:#707070;--disabled:#7D7D7D;--accent:#7AA2FF;--accent-hover:#A3C0FF;--accent-soft:#1E2E52;--on-accent:#0B1424;--best:#8EE0B1;--best-bg:#133524;--best-line:#2F6E4B;--hv:#FF8B57;--hv-text:#FFB28C;--warn:#F2C77D;--warn-bg:#3A2B10;--unc:#E5A642;--danger:#FF7B70;--switch-off:#6B6B6B;--tip-bg:#EDEDED;--tip-ink:#111111;--tip-sub:#3B3B3B;--scrim:rgba(0,0,0,0.6);--shadow:rgba(0,0,0,0.5);--shadow-sm:rgba(0,0,0,0.4);--cell-line:transparent;color-scheme:dark}
+.evc[data-theme="hc"]{--ground:#FFFFFF;--surface:#FFFFFF;--surface2:#F0F0F0;--surface3:#F0F0F0;--fill:#E3E3E3;--fill2:#DDDDDD;--line:#1F1F1F;--line2:#4D4D4D;--ink:#000000;--muted:#1F1F1F;--muted2:#141414;--faint:#333333;--chev:#1F1F1F;--disabled:#4D4D4D;--accent:#0030A0;--accent-hover:#001D63;--accent-soft:#D6E2FF;--on-accent:#FFFFFF;--best:#003D1B;--best-bg:#BDEBCD;--best-line:#003D1B;--hv:#8A2400;--hv-text:#741E00;--warn:#3D2400;--warn-bg:#FFE3A6;--unc:#5E3300;--danger:#850E05;--switch-off:#4D4D4D;--tip-bg:#000000;--tip-ink:#FFFFFF;--tip-sub:#E0E0E0;--scrim:rgba(0,0,0,0.65);--shadow:rgba(0,0,0,0.5);--shadow-sm:rgba(0,0,0,0.35);--cell-line:#4D4D4D;color-scheme:light}
+
+a{color:var(--accent)}a:hover{color:var(--accent-hover)}
+button{font-family:inherit;cursor:pointer}
+button:focus-visible,a:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.rowsrc{position:relative}
+.rowsrc{text-decoration:underline;text-decoration-color:var(--chev);text-decoration-thickness:1px;text-underline-offset:3px}
+.rowsrc::after{content:'';position:absolute;top:-10px;bottom:-4px;left:-4px;right:-4px}
+.rowsrc:hover{text-decoration-color:currentColor}
+.rowsrc:active{opacity:.6}
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+input{font-family:inherit}
+.push{animation:push .22s ease-out}
+.rise{animation:rise .28s cubic-bezier(.2,.8,.2,1)}
+@keyframes push{from{opacity:0;transform:translateX(18px)}to{opacity:1;transform:none}}
+@keyframes rise{from{transform:translateY(40px);opacity:.4}to{transform:none;opacity:1}}
+@media (prefers-reduced-motion: reduce){.push,.rise{animation:none}.evc *{transition:none!important}}
+</style>
+</helmet>
+<div lang="{{L.code}}" class="evc" data-theme="{{themeAttr}}" data-evc-root="1" style="position: relative; width: 100%; height: 100vh; box-sizing: border-box; display: flex; flex-direction: column; background: var(--ground); color: var(--ink); font-family: Barlow, system-ui, sans-serif; overflow: hidden">
+  <div aria-live="polite" role="status" style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap">{{announce}}</div>
+
+  <div data-evc-scroll="1" style="flex: 1; min-height: 0; overflow: auto; overscroll-behavior: none; {{lay.scrollPad}}">
+  <div style="{{lay.wrap}}">
+
+  <sc-if value="{{lay.compact}}" hint-placeholder-val="{{ true }}">
+  <div class="evc-oy" style="{{lay.pin}}; padding-top: 14px; padding-bottom: 10px; display: flex; flex-direction: column; gap: 12px">
+    <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 12px">
+      <div style="display: flex; flex-direction: column; gap: 2px; min-width: 0">
+        <h1 style="margin: 0; font-size: 1.0625rem; line-height: 1.375rem; font-weight: 600">{{L.compare}}</h1>
+        <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px">
+          <span style="font-size: 0.8125rem; color: var(--muted)">{{marketLabel}}</span>
+          <sc-if value="{{isSample}}" hint-placeholder-val="{{ false }}">
+            <span style="font-size: 0.75rem; font-weight: 600; color: var(--warn); background: var(--warn-bg); padding: 1px 6px; border-radius: 4px">{{L.sample}}</span>
+          </sc-if>
+        </div>
+      </div>
+      <div style="flex: none; display: flex; align-items: center; gap: 0; margin: -10px -6px 0 0">
+        <button onClick="{{openTheme}}" aria-label="{{L.displayLabel}}" aria-haspopup="dialog" style="min-width: 44px; height: 44px; padding: 0 8px; border: 0; border-radius: 10px; background: transparent; color: var(--muted2); display: flex; align-items: center; justify-content: center; gap: 6px">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="8.5"></circle><path d="M12 3.5v17a8.5 8.5 0 0 0 0-17z" fill="currentColor"></path></svg><span style="font-size: 0.8125rem; font-weight: 500">{{L.displayShort}}</span>
+        </button>
+        <div role="group" aria-label="{{L.languageLabel}}" style="flex: none; display: flex; align-items: center">
+          <sc-for list="{{langs}}" as="lg" hint-placeholder-count="2">
+            <button aria-pressed="{{lg.pressed}}" aria-label="{{lg.aria}}" onClick="{{lg.pick}}" style="{{lg.style}}">{{lg.label}}</button>
+          </sc-for>
+        </div>
+      </div>
+    </div>
+    <div role="tablist" aria-label="{{L.typeLabel}}" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2px; background: var(--fill); padding: 0; border-radius: 10px">
+      <sc-for list="{{segs}}" as="seg" hint-placeholder-count="2">
+        <button role="tab" aria-selected="{{seg.selected}}" tabindex="{{seg.tab}}" onClick="{{seg.pick}}" onKeyDown="{{arrowKeys}}" style="{{seg.style}}">{{seg.label}}</button>
+      </sc-for>
+    </div>
+  </div>
+  </sc-if>
+
+  <sc-if value="{{lay.large}}" hint-placeholder-val="{{ false }}">
+  <div class="evc-oy" style="{{lay.pin}}; padding-top: 16px; padding-bottom: 14px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px 24px">
+    <div style="display: flex; flex-direction: column; gap: 2px; min-width: 0">
+      <h1 style="margin: 0; font-size: 1.0625rem; line-height: 1.375rem; font-weight: 600">{{L.compare}}</h1>
+      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px">
+        <span style="font-size: 0.8125rem; color: var(--muted)">{{marketLabel}}</span>
+        <sc-if value="{{isSample}}" hint-placeholder-val="{{ false }}">
+          <span style="font-size: 0.75rem; font-weight: 600; color: var(--warn); background: var(--warn-bg); padding: 1px 6px; border-radius: 4px">{{L.sample}}</span>
+        </sc-if>
+      </div>
+    </div>
+    <sc-if value="{{lay.rightFirst}}" hint-placeholder-val="{{ true }}">
+    <div style="margin-left: auto; flex: none; display: flex; align-items: center; margin-right: -6px">
+      <button onClick="{{openTheme}}" aria-label="{{L.displayLabel}}" aria-haspopup="dialog" style="min-width: 44px; height: 44px; padding: 0 8px; border: 0; border-radius: 10px; background: transparent; color: var(--muted2); display: flex; align-items: center; justify-content: center; gap: 6px">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="8.5"></circle><path d="M12 3.5v17a8.5 8.5 0 0 0 0-17z" fill="currentColor"></path></svg><span style="font-size: 0.8125rem; font-weight: 500">{{L.displayShort}}</span>
+      </button>
+      <div role="group" aria-label="{{L.languageLabel}}" style="flex: none; display: flex; align-items: center">
+        <sc-for list="{{langs}}" as="lg" hint-placeholder-count="2">
+          <button aria-pressed="{{lg.pressed}}" aria-label="{{lg.aria}}" onClick="{{lg.pick}}" style="{{lg.style}}">{{lg.label}}</button>
+        </sc-for>
+      </div>
+    </div>
+    </sc-if>
+    <div style="{{lay.controls}}">
+      <div role="tablist" aria-label="{{L.typeLabel}}" style="flex: 0 0 340px; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 2px; background: var(--fill); padding: 0; border-radius: 10px">
+        <sc-for list="{{segs}}" as="seg" hint-placeholder-count="2">
+          <button role="tab" aria-selected="{{seg.selected}}" tabindex="{{seg.tab}}" onClick="{{seg.pick}}" onKeyDown="{{arrowKeys}}" style="{{seg.style}}">{{seg.label}}</button>
+        </sc-for>
+      </div>
+      <div role="radiogroup" aria-label="{{L.viewLabel}}" style="flex: 1 1 0; max-width: 460px; min-width: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2px; background: var(--fill); padding: 0; border-radius: 10px">
+        <sc-for list="{{views}}" as="vw" hint-placeholder-count="3">
+          <button role="radio" aria-checked="{{vw.checked}}" tabindex="{{vw.tab}}" onClick="{{vw.pick}}" onKeyDown="{{arrowKeys}}" style="{{vw.style}}"><sc-if value="{{vw.isDiag}}" hint-placeholder-val="{{ false }}"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex: none"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.5 2.5-2.4-.6-.6-2.4z"></path></svg></sc-if><span>{{vw.label}}</span></button>
+        </sc-for>
+      </div>
+    </div>
+    <sc-if value="{{lay.rightLast}}" hint-placeholder-val="{{ false }}">
+    <div style="margin-left: auto; flex: none; display: flex; align-items: center; margin-right: -6px">
+      <button onClick="{{openTheme}}" aria-label="{{L.displayLabel}}" aria-haspopup="dialog" style="min-width: 44px; height: 44px; padding: 0 8px; border: 0; border-radius: 10px; background: transparent; color: var(--muted2); display: flex; align-items: center; justify-content: center; gap: 6px">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="8.5"></circle><path d="M12 3.5v17a8.5 8.5 0 0 0 0-17z" fill="currentColor"></path></svg><span style="font-size: 0.8125rem; font-weight: 500">{{L.displayShort}}</span>
+      </button>
+      <div role="group" aria-label="{{L.languageLabel}}" style="flex: none; display: flex; align-items: center">
+        <sc-for list="{{langs}}" as="lg" hint-placeholder-count="2">
+          <button aria-pressed="{{lg.pressed}}" aria-label="{{lg.aria}}" onClick="{{lg.pick}}" style="{{lg.style}}">{{lg.label}}</button>
+        </sc-for>
+      </div>
+    </div>
+    </sc-if>
+  </div>
+  </sc-if>
+
+  <div data-evc-headbox="1" class="evc-oyt" style="{{lay.head}}; padding: 8px 0 10px; background: var(--ground); border-bottom: 1px solid var(--line)">
+    <div style="{{lay.grid}}; gap: 6px">
+      <sc-if value="{{lay.corner}}" hint-placeholder-val="{{ false }}">
+        <div style="{{lay.cornerStyle}}; display: flex; flex-direction: column; justify-content: flex-end">
+          <button role="switch" aria-checked="{{diffChecked}}" aria-disabled="{{diffDisabled}}" onClick="{{toggleDiff}}" style="width: 100%; min-height: 44px; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 0 10px 0 0; border: 0; background: transparent; {{diffColor}}; font-size: 0.875rem; line-height: 1.125rem; font-weight: 500; text-align: left">
+            <span style="display: flex; flex-direction: column; gap: 1px"><span>{{L.diffOnly}}</span><sc-if value="{{hasDiffHint}}" hint-placeholder-val="{{ false }}"><span style="font-size: 0.75rem; line-height: 1rem">{{diffHint}}</span></sc-if></span>
+            <span style="{{diffSw}}" aria-hidden="true"><span style="{{diffKnob}}"></span></span>
+          </button>
+          <span style="font-size: 0.75rem; line-height: 1rem; color: var(--muted)">{{countLabel}}</span>
+        </div>
+      </sc-if>
+      <div class="evc-ox" style="{{lay.vWrap}}">
+      <sc-for list="{{slots}}" as="slot" hint-placeholder-count="3">
+        <div style="position: relative; min-width: 0; border-radius: 10px; background: var(--surface); box-shadow: inset 0 0 0 1px var(--line)">
+          <button data-evc-slot="1" onClick="{{slot.change}}" aria-label="{{slot.changeLabel}}" style="display: flex; flex-direction: column; align-items: flex-start; gap: 1px; width: 100%; min-height: 70px; padding: 9px 38px 9px 10px; border: 0; background: transparent; text-align: left; color: var(--ink)">
+            <span style="font-size: 0.75rem; color: var(--muted)">{{slot.make}}</span>
+            <span style="font-family: 'Barlow Semi Condensed', sans-serif; font-size: 1.0625rem; font-weight: 700; line-height: 1.15">{{slot.model}}</span>
+            <span style="font-size: 0.75rem; color: var(--muted); line-height: 1.25; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden">{{slot.trimLine}}</span>
+            <sc-if value="{{slot.hasClass}}" hint-placeholder-val="{{ false }}">
+              <span style="margin-top: 3px; font-size: 0.75rem; line-height: 1rem; font-weight: 600; color: var(--muted2)">{{slot.classLabel}}</span>
+            </sc-if>
+          </button>
+          <button onClick="{{slot.remove}}" aria-label="{{slot.removeLabel}}" style="position: absolute; top: 0; right: 0; width: 44px; height: 44px; margin: -4px -6px 0 0; border: 0; background: transparent; color: var(--muted); display: flex; align-items: center; justify-content: center">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"></path></svg>
+          </button>
+        </div>
+      </sc-for>
+      <sc-if value="{{canAdd}}" hint-placeholder-val="{{ true }}">
+        <button data-evc-add="1" onClick="{{openAdd}}" aria-label="{{addAria}}" style="{{addSlotStyle}}">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"></path></svg>
+          <span>{{addLabel}}</span>
+        </button>
+      </sc-if>
+      </div>
+    </div>
+    <p style="{{lay.pin}}; margin: 6px 0 0; font-size: 0.6875rem; line-height: 0.875rem; color: var(--muted)">{{ctxLine}}</p>
+  </div>
+
+  <div class="evc-oy" style="padding: 14px 0 32px">
+    <sc-if value="{{lay.compact}}" hint-placeholder-val="{{ true }}">
+    <div style="{{lay.pin}}">
+      <div role="radiogroup" aria-label="{{L.viewLabel}}" style="display: grid; grid-template-columns: {{lay.viewCols}}; gap: 2px; background: var(--fill); padding: 0; border-radius: 10px">
+        <sc-for list="{{views}}" as="vw" hint-placeholder-count="3">
+          <button role="radio" aria-checked="{{vw.checked}}" tabindex="{{vw.tab}}" onClick="{{vw.pick}}" onKeyDown="{{arrowKeys}}" style="{{vw.style}}"><sc-if value="{{vw.isDiag}}" hint-placeholder-val="{{ false }}"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="flex: none"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.5 2.5-2.4-.6-.6-2.4z"></path></svg></sc-if><span>{{vw.label}}</span></button>
+        </sc-for>
+      </div>
+      <button role="switch" aria-checked="{{diffChecked}}" aria-disabled="{{diffDisabled}}" onClick="{{toggleDiff}}" style="width: 100%; min-height: 48px; margin-top: 2px; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 0; border: 0; border-bottom: 1px solid var(--line); background: transparent; {{diffColor}}; font-size: 0.9375rem; font-weight: 500; text-align: left">
+        <span style="display: flex; flex-direction: column; gap: 1px"><span>{{L.diffOnly}}</span><sc-if value="{{hasDiffHint}}" hint-placeholder-val="{{ false }}"><span style="font-size: 0.8125rem; line-height: 1.125rem">{{diffHint}}</span></sc-if></span>
+        <span style="{{diffSw}}" aria-hidden="true"><span style="{{diffKnob}}"></span></span>
+      </button>
+    </div>
+    </sc-if>
+
+    <sc-if value="{{hasSummary}}" hint-placeholder-val="{{ true }}">
+      <section aria-labelledby="evc-sum-title" style="{{lay.pin}}; margin-top: 14px">
+        <div style="max-width: 880px; padding: 2px 14px; background: var(--surface); border: 1px solid var(--cell-line); border-radius: 10px; display: flex; flex-direction: column; gap: 8px">
+          <h2 id="evc-sum-title" style="margin: 0; font-size: 1.0625rem; line-height: 1.375rem; font-weight: 600">
+            <button onClick="{{toggleSum}}" aria-expanded="{{sumExpanded}}" style="width: 100%; min-height: 44px; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 0; border: 0; background: transparent; font: inherit; color: var(--ink); text-align: left">
+              <span>{{L.sumTitle}}</span>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="{{sumChevron}}"><path d="m6 9 6 6 6-6"></path></svg>
+            </button>
+          </h2>
+          <sc-if value="{{sumOpen}}" hint-placeholder-val="{{ true }}">
+          <dl style="margin: 0; display: grid; grid-template-columns: {{lay.sumCols}}; gap: 6px 12px; font-size: 0.9375rem; line-height: 1.3125rem">
+            <sc-for list="{{summary}}" as="sm" hint-placeholder-count="4">
+              <dt style="margin: 0; font-weight: 600; color: var(--ink)">{{sm.label}}</dt>
+              <dd style="margin: 0 0 4px; color: var(--muted2)"><sc-for list="{{sm.segs}}" as="sg" hint-placeholder-count="1"><sc-if value="{{sg.isAbbr}}" hint-placeholder-val="{{ false }}"><span style="white-space: nowrap">{{sg.head}}<button onClick="{{sg.open}}" aria-label="{{sg.aria}}" aria-haspopup="dialog" style="{{sg.style}}">{{sg.t}}</button>{{sg.tail}}</span></sc-if><sc-if value="{{sg.plain}}" hint-placeholder-val="{{ true }}"><span>{{sg.t}}</span></sc-if></sc-for></dd>
+            </sc-for>
+          </dl>
+          <p style="margin: 0 0 12px; font-size: 0.75rem; line-height: 1rem; color: var(--muted)">{{L.sumNote}}</p>
+          </sc-if>
+        </div>
+      </section>
+    </sc-if>
+    <sc-if value="{{classMix}}" hint-placeholder-val="{{ false }}">
+      <div style="{{lay.pin}}; margin-top: 12px"><div style="font-size: 0.8125rem; line-height: 1.125rem; color: var(--warn); background: var(--warn-bg); border-radius: 10px; padding: 8px 10px">{{rankMsg}}</div></div>
+    </sc-if>
+    <sc-if value="{{hvNotice}}" hint-placeholder-val="{{ false }}">
+      <div style="{{lay.pin}}; margin-top: 12px"><div style="font-size: 0.8125rem; line-height: 1.125rem; color: var(--hv-text); background: var(--surface); box-shadow: inset 3px 0 0 var(--hv); border-radius: 10px; padding: 8px 10px 8px 12px">{{L.hvTruck}}</div></div>
+    </sc-if>
+    <sc-if value="{{noVehicles}}" hint-placeholder-val="{{ false }}">
+      <p style="{{lay.pin}}; margin: 32px 0 0; font-size: 1rem; line-height: 1.375rem; color: var(--muted)">{{L.empty}}</p>
+    </sc-if>
+
+    <sc-for list="{{sections}}" as="section" hint-placeholder-count="4">
+      <div style="margin-top: 14px; display: flex; flex-direction: column; gap: 4px">
+        <h2 style="{{lay.pin}}; margin: 0; font-size: 1.0625rem; line-height: 1.375rem; font-weight: 600">
+          <button onClick="{{section.toggle}}" aria-expanded="{{section.expanded}}" style="width: 100%; min-height: 44px; display: flex; align-items: center; justify-content: space-between; gap: 8px; padding: 0; border: 0; border-bottom: 1px solid var(--line); background: transparent; font: inherit; color: {{section.color}}; text-align: left">
+            <span style="display: flex; align-items: center; gap: 6px">
+              <sc-if value="{{section.isDiag}}" hint-placeholder-val="{{ false }}">
+                <svg style="color: var(--hv)" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14.7 6.3a4 4 0 0 0-5.4 5.4L3 18l3 3 6.3-6.3a4 4 0 0 0 5.4-5.4l-2.5 2.5-2.4-.6-.6-2.4z"></path></svg>
+              </sc-if>
+              <span>{{section.title}}</span>
+            </span>
+            <span style="display: flex; align-items: center; gap: 6px; font-size: 0.8125rem; font-weight: 500; color: var(--muted)">
+              <sc-if value="{{section.collapsed}}" hint-placeholder-val="{{ false }}"><span>{{section.countLabel}}</span></sc-if>
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="color: var(--muted); {{section.chevronStyle}}"><path d="m6 9 6 6 6-6"></path></svg>
+            </span>
+          </button>
+        </h2>
+        <sc-if value="{{section.open}}" hint-placeholder-val="{{ true }}">
+        <sc-if value="{{section.hasWarn}}" hint-placeholder-val="{{ false }}">
+          <div style="{{lay.pin}}; margin-top: 6px"><div style="font-size: 0.8125rem; line-height: 1.125rem; color: var(--warn); background: var(--warn-bg); border-radius: 10px; padding: 8px 10px"><sc-for list="{{section.warnSegs}}" as="sg" hint-placeholder-count="1"><sc-if value="{{sg.isAbbr}}" hint-placeholder-val="{{ false }}"><span style="white-space: nowrap">{{sg.head}}<button onClick="{{sg.open}}" aria-label="{{sg.aria}}" aria-haspopup="dialog" style="{{sg.style}}">{{sg.t}}</button>{{sg.tail}}</span></sc-if><sc-if value="{{sg.plain}}" hint-placeholder-val="{{ true }}"><span>{{sg.t}}</span></sc-if></sc-for></div></div>
+        </sc-if>
+        <div role="table" aria-label="{{section.title}}" style="{{lay.table}}">
+        <div role="row" style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap"><span role="columnheader">{{L.spec}}</span><sc-for list="{{section.heads}}" as="hd" hint-placeholder-count="2"><span role="columnheader">{{hd.name}}</span></sc-for></div>
+        <sc-for list="{{section.rows}}" as="row" hint-placeholder-count="3">
+          <div role="row" style="{{lay.row}}">
+            <sc-if value="{{lay.lineInRow}}" hint-placeholder-val="{{ false }}"><sc-if value="{{row.isDiag}}" hint-placeholder-val="{{ false }}"><span aria-hidden="true" style="position: absolute; left: -10px; top: -4px; bottom: -4px; width: 3px; background: var(--hv)"></span></sc-if></sc-if>
+            <div role="rowheader" style="{{row.labelStyle}}"><sc-if value="{{lay.large}}" hint-placeholder-val="{{ false }}"><sc-if value="{{row.isDiag}}" hint-placeholder-val="{{ false }}"><span aria-hidden="true" style="{{lay.lineInLabel}}"></span></sc-if></sc-if><button class="rowsrc" onClick="{{row.openSrc}}" aria-haspopup="dialog" style="{{lay.labelBtn}}">{{row.label}}<span class="vh">{{row.srcHint}}</span></button><sc-if value="{{row.hasNote}}" hint-placeholder-val="{{ false }}"><span class="vh">{{row.noteText}}</span></sc-if></div>
+            <div class="evc-ox" style="{{lay.cellsWrap}}">
+              <sc-for list="{{row.cells}}" as="cell" hint-placeholder-count="3">
+                <div role="{{cell.role}}" aria-label="{{cell.aria}}" aria-hidden="{{cell.hidden}}" style="{{cell.style}}">
+                  <sc-if value="{{cell.showName}}" hint-placeholder-val="{{ false }}"><span style="display: block; font-family: Barlow, sans-serif; font-size: 0.75rem; line-height: 1rem; font-weight: 500; font-style: normal; color: var(--muted)">{{cell.vname}}</span></sc-if>
+                  <sc-if value="{{cell.isBest}}" hint-placeholder-val="{{ false }}"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="color: var(--best); display: inline-block; vertical-align: -1px; margin-right: 3px"><path d="m5 12 5 5 9-10"></path></svg></sc-if><span><sc-for list="{{cell.segs}}" as="sg" hint-placeholder-count="1"><sc-if value="{{sg.isAbbr}}" hint-placeholder-val="{{ false }}"><span style="white-space: nowrap">{{sg.head}}<button onClick="{{sg.open}}" aria-label="{{sg.aria}}" aria-haspopup="dialog" style="{{sg.style}}">{{sg.t}}</button>{{sg.tail}}</span></sc-if><sc-if value="{{sg.plain}}" hint-placeholder-val="{{ true }}"><span>{{sg.t}}</span></sc-if></sc-for></span><sc-if value="{{cell.isUnc}}" hint-placeholder-val="{{ false }}"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true" style="color: var(--unc); display: inline-block; vertical-align: -1px; margin-left: 4px"><circle cx="12" cy="12" r="9" stroke-dasharray="4 3"></circle><path d="M12 8v5M12 16v.5"></path></svg></sc-if>
+                  <sc-if value="{{cell.hasSub}}" hint-placeholder-val="{{ false }}">
+                    <span style="display: block; font-family: Barlow, sans-serif; font-size: 0.75rem; line-height: 1rem; font-weight: 500; color: var(--muted); margin-top: 1px"><sc-for list="{{cell.subSegs}}" as="sg" hint-placeholder-count="1"><sc-if value="{{sg.isAbbr}}" hint-placeholder-val="{{ false }}"><span style="white-space: nowrap">{{sg.head}}<button onClick="{{sg.open}}" aria-label="{{sg.aria}}" aria-haspopup="dialog" style="{{sg.style}}">{{sg.t}}</button>{{sg.tail}}</span></sc-if><sc-if value="{{sg.plain}}" hint-placeholder-val="{{ true }}"><span>{{sg.t}}</span></sc-if></sc-for></span>
+                  </sc-if>
+                </div>
+              </sc-for>
+            </div>
+            <sc-if value="{{row.hasNote}}" hint-placeholder-val="{{ false }}">
+              <div aria-hidden="true" style="{{lay.note}}; font-size: 0.75rem; line-height: 1rem; color: var(--muted)"><sc-for list="{{row.noteSegs}}" as="sg" hint-placeholder-count="1"><sc-if value="{{sg.isAbbr}}" hint-placeholder-val="{{ false }}"><span style="white-space: nowrap">{{sg.head}}<button onClick="{{sg.open}}" aria-label="{{sg.aria}}" aria-haspopup="dialog" style="{{sg.style}}">{{sg.t}}</button>{{sg.tail}}</span></sc-if><sc-if value="{{sg.plain}}" hint-placeholder-val="{{ true }}"><span>{{sg.t}}</span></sc-if></sc-for></div>
+            </sc-if>
+          </div>
+        </sc-for>
+        </div>
+        <sc-if value="{{section.hasDaily}}" hint-placeholder-val="{{ false }}">
+          <div style="{{lay.pin}}; margin-top: 10px">
+            <label style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 0.875rem; line-height: 1.25rem; color: var(--ink)">
+              <span>{{L.dailyLabel}}</span>
+              <input type="number" inputmode="numeric" min="1" max="1500" step="5" value="{{dailyKmVal}}" onChange="{{onDailyKm}}" onBlur="{{onDailyBlur}}" aria-label="{{L.dailyAria}}" style="width: 92px; min-height: 44px; box-sizing: border-box; padding: 0 10px; border: 1px solid var(--chev); border-radius: 10px; background: var(--surface); color: var(--ink); font-size: 1rem; font-variant-numeric: tabular-nums">
+              <span>{{L.dailyUnit}}</span>
+            </label>
+            <sc-if value="{{isTruckMode}}" hint-placeholder-val="{{ false }}">
+              <div role="group" aria-label="{{L.tariffAria}}" style="margin-top: 12px">
+                <div style="font-size: 0.875rem; line-height: 1.25rem; color: var(--ink); margin-bottom: 6px">{{L.tariffLabel}}</div>
+                <div style="display: flex; flex-wrap: wrap; gap: 8px">
+                  <sc-for list="{{tariffOpts}}" as="opt" hint-placeholder-count="3"><button onClick="{{opt.pick}}" aria-pressed="{{opt.pressed}}" style="{{opt.style}}">{{opt.label}}</button></sc-for>
+                </div>
+              </div>
+            </sc-if>
+          </div>
+        </sc-if>
+        </sc-if>
+      </div>
+    </sc-for>
+
+    <sc-if value="{{noRows}}" hint-placeholder-val="{{ false }}">
+      <p style="{{lay.pin}}; margin: 24px 0 0; font-size: 0.9375rem; color: var(--muted)">{{L.allSame}}</p>
+    </sc-if>
+
+    <sc-if value="{{hasSources}}" hint-placeholder-val="{{ true }}">
+      <div style="{{lay.pin}}; margin-top: 32px">
+      <div style="max-width: 880px; display: flex; flex-direction: column; gap: 10px">
+        <h2 style="margin: 0; font-size: 1.0625rem; line-height: 1.375rem; font-weight: 600; color: var(--ink)">{{L.sources}}</h2>
+        <div style="background: var(--surface); border: 1px solid var(--cell-line); border-radius: 10px; overflow: hidden">
+        <sc-for list="{{sources}}" as="src" hint-placeholder-count="2">
+          <div style="{{src.style}}">
+            <div style="font-size: 0.9375rem; font-weight: 600"><sc-for list="{{src.titleSegs}}" as="sg" hint-placeholder-count="1"><sc-if value="{{sg.isAbbr}}" hint-placeholder-val="{{ false }}"><span style="white-space: nowrap">{{sg.head}}<button onClick="{{sg.open}}" aria-label="{{sg.aria}}" aria-haspopup="dialog" style="{{sg.style}}">{{sg.t}}</button>{{sg.tail}}</span></sc-if><sc-if value="{{sg.plain}}" hint-placeholder-val="{{ true }}"><span>{{sg.t}}</span></sc-if></sc-for></div>
+            <sc-if value="{{src.hasAsOf}}" hint-placeholder-val="{{ false }}">
+              <div style="font-size: 0.75rem; line-height: 1rem; color: var(--muted)">{{src.asOfLabel}}</div>
+            </sc-if>
+            <sc-if value="{{src.hasNotes}}" hint-placeholder-val="{{ false }}">
+              <div style="font-size: 0.8125rem; line-height: 1.125rem; color: var(--muted)">{{src.notes}}</div>
+            </sc-if>
+            <sc-for list="{{src.links}}" as="link" hint-placeholder-count="1">
+              <a href="{{link.url}}" target="_blank" rel="noopener" style="font-size: 0.8125rem; line-height: 1.125rem; overflow-wrap: anywhere">{{link.title}}</a>
+            </sc-for>
+          </div>
+        </sc-for>
+        </div>
+      </div>
+      </div>
+    </sc-if>
+
+    <div style="{{lay.pin}}; margin-top: 28px">
+    <div style="padding-top: 14px; border-top: 1px solid var(--line); display: flex; flex-direction: column; gap: 10px">
+      <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 6px 16px; font-size: 0.8125rem; color: var(--muted)">
+        <span style="display: flex; align-items: center; gap: 6px"><span style="display: inline-flex; align-items: center; height: 18px; padding: 0 5px; border-radius: 4px; background: var(--best-bg); border: 1px solid var(--best-line)" aria-hidden="true"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="color: var(--best); display: inline-block; vertical-align: -1px; margin-right: 0"><path d="m5 12 5 5 9-10"></path></svg></span>{{L.legendBest}}</span>
+        <span style="display: flex; align-items: center; gap: 6px"><span style="display: inline-flex; align-items: center; height: 18px; padding: 0 4px; border-radius: 4px; background: var(--surface); outline: 1.5px dashed var(--unc); outline-offset: -1.5px" aria-hidden="true"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true" style="color: var(--unc); display: inline-block; vertical-align: -1px; margin-left: 0"><circle cx="12" cy="12" r="9" stroke-dasharray="4 3"></circle><path d="M12 8v5M12 16v.5"></path></svg></span>{{L.legendSingle}}</span>
+        <span style="display: flex; align-items: center; gap: 6px"><span style="font-weight: 700">—</span>{{L.legendNone}}</span>
+        <span style="display: flex; align-items: center; gap: 6px">{{L.legendNA}}</span>
+        <span style="display: flex; align-items: center; gap: 6px">{{L.legendMarket}}</span>
+        <span style="display: flex; align-items: center; gap: 6px"><span style="font-style: italic; font-weight: 600; color: var(--ink)">{{calcSample}}</span>{{L.legendCalc}}</span>
+        <sc-if value="{{showDiagLegend}}" hint-placeholder-val="{{ false }}"><span style="display: flex; align-items: center; gap: 6px"><span aria-hidden="true" style="width: 3px; height: 16px; background: var(--hv)"></span>{{L.technician}}</span></sc-if>
+      </div>
+      <p style="margin: 0; font-size: 0.8125rem; line-height: 1.125rem; color: var(--muted)">{{L.legendTap}}</p>
+      <sc-if value="{{lay.scrolls}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; font-size: 0.8125rem; line-height: 1.125rem; color: var(--muted)">{{L.scrollHint}}</p></sc-if>
+    </div>
+    </div>
+  </div>
+  </div>
+  </div>
+
+
+  <sc-if value="{{undo.open}}" hint-placeholder-val="{{ false }}">
+    <div style="position: absolute; left: 16px; right: 16px; bottom: 20px; z-index: 9; display: flex; justify-content: center; pointer-events: none">
+      <div class="evc-dark" onMouseEnter="{{undo.pause}}" onMouseLeave="{{undo.resume}}" style="pointer-events: auto; max-width: 100%; display: flex; align-items: center; gap: 8px; padding: 0 4px 0 16px; border-radius: 10px; background: var(--tip-bg); color: var(--tip-ink); box-shadow: 0 8px 24px var(--shadow); font-size: 0.9375rem; line-height: 1.25rem">
+        <span style="min-width: 0; padding: 12px 0">{{undo.msg}}</span>
+        <button data-evc-undo="1" onClick="{{undo.act}}" onFocus="{{undo.pause}}" onBlur="{{undo.resume}}" aria-label="{{undo.aria}}" style="flex: none; min-height: 44px; padding: 0 12px; border: 0; background: transparent; color: var(--tip-ink); font-size: 0.9375rem; font-weight: 700; text-decoration: underline; text-underline-offset: 3px">{{L.undo}}</button>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{themeSheet.open}}" hint-placeholder-val="{{ false }}">
+    <div style="position: absolute; inset: 0; z-index: 15; background: var(--scrim); display: flex; flex-direction: column; {{lay.sheetAlign}}">
+      <button onClick="{{themeSheet.close}}" aria-label="{{L.close}}" tabindex="-1" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: default"></button>
+      <div class="rise" role="dialog" aria-modal="true" aria-labelledby="evc-theme-title" onKeyDown="{{dialogKeys}}" style="position: relative; background: var(--surface); padding: 12px 16px 24px; display: flex; flex-direction: column; {{lay.sheet}}">
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px">
+          <h2 id="evc-theme-title" data-evc-dialog-title="1" tabindex="-1" style="margin: 0; font-size: 1.25rem; line-height: 1.5rem; font-weight: 700; color: var(--ink); outline: none">{{L.displayTitle}}</h2>
+          <button onClick="{{themeSheet.close}}" style="min-height: 44px; padding: 0 4px; border: 0; background: transparent; color: var(--accent); font-size: 1.0625rem; font-weight: 600">{{L.sheetDone}}</button>
+        </div>
+        <div role="radiogroup" aria-labelledby="evc-theme-title" style="display: flex; flex-direction: column">
+          <sc-for list="{{themeSheet.opts}}" as="o" hint-placeholder-count="4">
+            <button role="radio" aria-checked="{{o.checked}}" onClick="{{o.pick}}" style="width: 100%; min-height: 56px; display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 8px 0; border: 0; border-bottom: 1px solid var(--line2); background: transparent; text-align: left; color: var(--ink)">
+              <span style="display: flex; flex-direction: column; gap: 2px; min-width: 0">
+                <span style="font-size: 1rem; line-height: 1.3125rem; font-weight: 600">{{o.label}}</span>
+                <sc-if value="{{o.hasDesc}}" hint-placeholder-val="{{ false }}"><span style="font-size: 0.8125rem; line-height: 1.125rem; color: var(--muted)">{{o.desc}}</span></sc-if>
+              </span>
+              <sc-if value="{{o.on}}" hint-placeholder-val="{{ false }}">
+                <svg style="color: var(--accent)" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m5 12 5 5 9-10"></path></svg>
+              </sc-if>
+            </button>
+          </sc-for>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{src.open}}" hint-placeholder-val="{{ false }}">
+    <div style="position: absolute; inset: 0; z-index: 16; background: var(--scrim); display: flex; flex-direction: column; {{lay.sheetAlign}}">
+      <button onClick="{{src.close}}" aria-label="{{L.close}}" tabindex="-1" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: default"></button>
+      <div class="rise" role="dialog" aria-modal="true" aria-labelledby="evc-src-title" onKeyDown="{{dialogKeys}}" style="position: relative; max-height: 78%; background: var(--surface); display: flex; flex-direction: column; {{lay.sheet}}">
+        <div style="padding: 12px 16px 8px; display: flex; align-items: flex-start; justify-content: space-between; gap: 12px">
+          <div style="display: flex; flex-direction: column; gap: 2px; min-width: 0">
+            <span style="font-size: 0.8125rem; line-height: 1.125rem; color: var(--muted)">{{L.srcTitle}}</span>
+            <h2 id="evc-src-title" data-evc-dialog-title="1" tabindex="-1" style="margin: 0; font-size: 1.25rem; line-height: 1.5rem; font-weight: 700; outline: none">{{src.label}}</h2>
+          </div>
+          <button onClick="{{src.close}}" style="flex: none; min-height: 44px; padding: 0 4px; border: 0; background: transparent; color: var(--accent); font-size: 1.0625rem; font-weight: 600">{{L.sheetDone}}</button>
+        </div>
+        <div style="flex: 1; min-height: 0; overflow-y: auto; padding: 0 16px 24px">
+          <div style="background: var(--surface2); border: 1px solid var(--cell-line); border-radius: 10px; overflow: hidden">
+          <sc-for list="{{src.entries}}" as="en" hint-placeholder-count="2">
+            <div style="{{en.style}}">
+              <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 8px">
+                <span style="font-size: 0.875rem; line-height: 1.1875rem; font-weight: 600; color: var(--ink)">{{en.name}}</span>
+                <span style="flex: none; font-family: 'Barlow Semi Condensed', sans-serif; font-size: 1rem; line-height: 1.25rem; font-weight: 700; color: var(--ink)">{{en.value}}</span>
+              </div>
+              <span style="font-size: 0.8125rem; line-height: 1.125rem; color: var(--muted2)">{{en.kind}}</span>
+              <sc-for list="{{en.links}}" as="lk" hint-placeholder-count="1">
+                <a href="{{lk.url}}" target="_blank" rel="noopener" style="font-size: 0.8125rem; line-height: 1.125rem; overflow-wrap: anywhere">{{lk.title}}</a>
+              </sc-for>
+              <sc-if value="{{en.hasMeta}}" hint-placeholder-val="{{ false }}">
+                <span style="font-size: 0.75rem; line-height: 1rem; color: var(--muted)">{{en.meta}}</span>
+              </sc-if>
+            </div>
+          </sc-for>
+          </div>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{note.open}}" hint-placeholder-val="{{ false }}">
+    <button onClick="{{closeNote}}" aria-label="{{L.close}}" style="position: absolute; inset: 0; z-index: 20; border: 0; background: transparent; cursor: default"></button>
+    <div role="dialog" aria-label="{{note.abbr}}" data-evc-note="1" tabindex="-1" onKeyDown="{{dialogKeys}}" style="{{note.style}}">
+      <span style="{{note.arrowStyle}}" aria-hidden="true"></span>
+      <div style="position: relative; display: flex; flex-direction: column; gap: 2px">
+        <span style="font-family: 'Barlow Semi Condensed', sans-serif; font-size: 1.0625rem; font-weight: 700; line-height: 1.25rem">{{note.abbr}}</span>
+        <span style="font-size: 0.9375rem; line-height: 1.25rem">{{note.full}}</span>
+        <sc-if value="{{note.hasSub}}" hint-placeholder-val="{{ false }}">
+          <span style="font-size: 0.8125rem; line-height: 1.125rem; color: var(--tip-sub)">{{note.sub}}</span>
+        </sc-if>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{pk.open}}" hint-placeholder-val="{{ false }}">
+    <div style="{{lay.pickerOuter}}">
+    <div class="rise" role="dialog" aria-modal="true" aria-label="{{pk.dialogLabel}}" onKeyDown="{{dialogKeys}}" style="{{lay.pickerPanel}}">
+      <div style="padding: 8px 8px 0; display: flex; align-items: center; justify-content: space-between; min-height: 44px">
+        <sc-if value="{{pk.hasBack}}" hint-placeholder-val="{{ false }}">
+        <button onClick="{{pk.navAction}}" aria-label="{{pk.navAria}}" style="min-height: 44px; padding: 0 8px; border: 0; background: transparent; color: var(--accent); font-size: 1.0625rem; font-weight: 500; display: flex; align-items: center; gap: 2px">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 5-7 7 7 7"></path></svg>
+          <span>{{pk.navLabel}}</span>
+        </button>
+        </sc-if>
+        <sc-if value="{{pk.isBrand}}" hint-placeholder-val="{{ true }}"><span></span></sc-if>
+        <div style="display: flex; align-items: center">
+          <button onClick="{{pk.askUntick}}" disabled="{{pk.untickDisabled}}" style="{{pk.untickStyle}}">{{L.untickAll}}</button>
+          <button onClick="{{pk.cancel}}" style="min-height: 44px; padding: 0 8px; border: 0; background: transparent; color: var(--accent); font-size: 1.0625rem; font-weight: 500">{{L.cancel}}</button>
+        </div>
+      </div>
+
+      <div style="padding: 4px 16px 0; display: flex; flex-direction: column; gap: 10px">
+        <div role="progressbar" aria-label="{{pk.dialogLabel}}" aria-valuemin="1" aria-valuemax="4" aria-valuenow="{{pk.stepNo}}" style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; align-items: center; height: 4px">
+          <sc-for list="{{pk.bars}}" as="b" hint-placeholder-count="4">
+            <span style="{{b.style}}"></span>
+          </sc-for>
+        </div>
+        <div style="display: flex; flex-direction: column; gap: 2px">
+          <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 12px; font-size: 0.8125rem; color: var(--muted)">
+            <span style="flex: none">{{pk.stepLabel}}</span>
+            <sc-if value="{{pk.hasPath}}" hint-placeholder-val="{{ false }}">
+              <span style="min-width: 0; font-size: 0.875rem; font-weight: 600; color: var(--ink); text-align: right; overflow: hidden; text-overflow: ellipsis; white-space: nowrap">{{pk.path}}</span>
+            </sc-if>
+          </div>
+          <h2 data-evc-picker-title="1" tabindex="-1" style="margin: 0; font-family: 'Barlow Semi Condensed', sans-serif; font-size: 1.875rem; line-height: 2.125rem; font-weight: 700; outline: none">{{pk.title}}</h2>
+        </div>
+      </div>
+
+      <sc-if value="{{pk.isBrand}}" hint-placeholder-val="{{ true }}">
+        <div class="push" style="flex: 1; min-height: 0; display: flex; flex-direction: column">
+          <div style="padding: 12px 16px 8px; display: flex; flex-direction: column; gap: 10px">
+            <label style="display: flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 12px; border-radius: 10px; background: var(--fill)">
+              <svg style="color: var(--muted)" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+              <span style="position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0)">{{L.search}}</span>
+              <input type="search" value="{{pk.query}}" onChange="{{pk.onQuery}}" placeholder="{{L.search}}" style="flex: 1; min-width: 0; border: 0; background: transparent; font-size: 1.0625rem; color: var(--ink); outline: none">
+            </label>
+            <div style="display: flex; gap: 6px; overflow-x: auto; margin: 0 -16px; padding: 0 16px 2px">
+              <sc-for list="{{pk.filters}}" as="f" hint-placeholder-count="5">
+                <button aria-pressed="{{f.pressed}}" onClick="{{f.pick}}" style="{{f.style}}">{{f.label}}</button>
+              </sc-for>
+            </div>
+          </div>
+          <div style="flex: 1; overflow-y: auto; padding: 0 16px 32px">
+            <sc-if value="{{pk.searching}}" hint-placeholder-val="{{ false }}">
+              <div style="display: flex; flex-direction: column; gap: 6px; padding-top: 8px">
+                <span style="padding: 0 4px; font-size: 0.8125rem; color: var(--muted)">{{pk.searchLabel}}</span>
+                <div style="background: var(--surface); border: 1px solid var(--cell-line); border-radius: 10px; overflow: hidden">
+                  <sc-for list="{{pk.hits}}" as="r" hint-placeholder-count="4">
+                    <button onClick="{{r.choose}}" style="{{r.style}}">
+                      <span style="display: flex; flex-direction: column; gap: 2px; min-width: 0; text-align: left">
+                        <span style="font-size: 1.0625rem; font-weight: 500; color: var(--ink)">{{r.title}}</span>
+                        <span style="font-size: 0.8125rem; color: var(--muted)">{{r.sub}}</span>
+                      </span>
+                      <span style="display: flex; align-items: center; gap: 6px; flex: none; font-size: 0.9375rem; color: var(--muted)">{{r.meta}}<svg style="color: var(--chev)" width="9" height="15" viewBox="0 0 9 15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m1.5 1.5 6 6-6 6"></path></svg></span>
+                    </button>
+                  </sc-for>
+                </div>
+              </div>
+            </sc-if>
+            <sc-if value="{{pk.browsing}}" hint-placeholder-val="{{ true }}">
+              <sc-for list="{{pk.groups}}" as="g" hint-placeholder-count="3">
+                <div style="display: flex; flex-direction: column; gap: 6px; padding-top: 14px">
+                  <span style="padding: 0 4px; font-size: 0.8125rem; font-weight: 600; color: var(--muted)">{{g.letter}}</span>
+                  <div style="background: var(--surface); border: 1px solid var(--cell-line); border-radius: 10px; overflow: hidden">
+                    <sc-for list="{{g.rows}}" as="r" hint-placeholder-count="3">
+                      <button onClick="{{r.choose}}" style="{{r.style}}">
+                        <span style="font-size: 1.0625rem; font-weight: 500; color: var(--ink); text-align: left">{{r.title}}</span>
+                        <span style="display: flex; align-items: center; gap: 6px; flex: none; font-size: 0.9375rem; color: var(--muted)">{{r.meta}}<svg style="color: var(--chev)" width="9" height="15" viewBox="0 0 9 15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m1.5 1.5 6 6-6 6"></path></svg></span>
+                      </button>
+                    </sc-for>
+                  </div>
+                </div>
+              </sc-for>
+            </sc-if>
+            <sc-if value="{{pk.noHits}}" hint-placeholder-val="{{ false }}">
+              <p style="margin: 20px 4px; font-size: 0.9375rem; line-height: 1.3125rem; color: var(--muted)">{{L.noHits}}</p>
+            </sc-if>
+          </div>
+        </div>
+      </sc-if>
+
+      <sc-if value="{{pk.isList}}" hint-placeholder-val="{{ false }}">
+        <div class="push" style="flex: 1; min-height: 0; overflow-y: auto; padding: 16px 16px 32px">
+          <div style="background: var(--surface); border: 1px solid var(--cell-line); border-radius: 10px; overflow: hidden">
+            <sc-for list="{{pk.rows}}" as="r" hint-placeholder-count="4">
+              <button onClick="{{r.choose}}" style="{{r.style}}">
+                <span style="display: flex; flex-direction: column; gap: 2px; min-width: 0; text-align: left">
+                  <span style="font-size: 1.0625rem; font-weight: 500; color: var(--ink)">{{r.title}}</span>
+                  <sc-if value="{{r.hasSub}}" hint-placeholder-val="{{ true }}">
+                    <span style="font-size: 0.8125rem; color: var(--muted)">{{r.sub}}</span>
+                  </sc-if>
+                </span>
+                <span style="display: flex; align-items: center; gap: 6px; flex: none; font-size: 0.9375rem; color: var(--muted)">{{r.meta}}<svg style="color: var(--chev)" width="9" height="15" viewBox="0 0 9 15" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m1.5 1.5 6 6-6 6"></path></svg></span>
+              </button>
+            </sc-for>
+          </div>
+        </div>
+      </sc-if>
+
+      <sc-if value="{{pk.isTrim}}" hint-placeholder-val="{{ false }}">
+        <div class="push" style="flex: 1; min-height: 0; display: flex; flex-direction: column">
+          <div style="flex: 1; min-height: 0; overflow-y: auto; padding: 16px 16px 24px; display: flex; flex-direction: column; gap: 10px">
+            <sc-if value="{{pk.showRoom}}" hint-placeholder-val="{{ true }}">
+              <p style="margin: 0 4px; font-size: 0.9375rem; line-height: 1.25rem; color: var(--ink)">{{pk.roomNote}}</p>
+            </sc-if>
+            <sc-for list="{{pk.trims}}" as="t" hint-placeholder-count="3">
+              <button role="checkbox" aria-checked="{{t.checkedAttr}}" aria-disabled="{{t.disabledAttr}}" onClick="{{t.choose}}" style="{{t.style}}">
+                <span style="display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%">
+                  <span style="display: flex; flex-direction: column; align-items: flex-start; gap: 1px; text-align: left"><span style="font-family: 'Barlow Semi Condensed', sans-serif; font-size: 1.25rem; line-height: 1.5rem; font-weight: 700; color: var(--ink)">{{t.name}}</span><sc-if value="{{t.gone}}" hint-placeholder-val="{{ false }}"><span style="font-size: 0.8125rem; font-weight: 500; color: var(--muted)">{{L.discontinued}}</span></sc-if></span>
+                  <span style="{{t.boxStyle}}" aria-hidden="true">
+                    <sc-if value="{{t.checked}}" hint-placeholder-val="{{ false }}">
+                      <svg style="color: var(--on-accent)" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"><path d="m5 12 5 5 9-10"></path></svg>
+                    </sc-if>
+                  </span>
+                </span>
+                <span style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px 8px; width: 100%">
+                  <sc-for list="{{t.stats}}" as="st" hint-placeholder-count="5">
+                    <span style="display: flex; flex-direction: column; align-items: flex-start; gap: 1px; min-width: 0">
+                      <span style="font-family: 'Barlow Semi Condensed', sans-serif; font-size: 1.0625rem; font-weight: 600; color: var(--ink); font-variant-numeric: tabular-nums; overflow-wrap: anywhere; text-align: left">{{st.value}}</span>
+                      <span style="font-size: 0.75rem; color: var(--muted)">{{st.label}}</span>
+                    </span>
+                  </sc-for>
+                </span>
+              </button>
+            </sc-for>
+            <p style="margin: 4px 4px 0; font-size: 0.8125rem; line-height: 1.125rem; color: var(--muted)">{{L.trimHint}}</p>
+          </div>
+        </div>
+      </sc-if>
+      <div style="padding: 10px 16px 20px; background: var(--ground); border-top: 1px solid var(--line); display: flex; flex-direction: column; gap: 8px">
+        <div style="display: flex; align-items: baseline; justify-content: space-between; gap: 8px">
+          <span style="font-size: 0.8125rem; font-weight: 600; color: var(--ink)">{{pk.trayTitle}}</span>
+          <sc-if value="{{pk.limitHit}}" hint-placeholder-val="{{ false }}">
+            <span role="status" style="font-size: 0.8125rem; font-weight: 600; color: var(--warn)">{{L.limitMsg}}</span>
+          </sc-if>
+        </div>
+        <sc-if value="{{pk.hasTray}}" hint-placeholder-val="{{ true }}">
+          <div style="display: flex; gap: 6px; overflow-x: auto; margin: 0 -16px; padding: 0 16px 2px">
+            <sc-for list="{{pk.tray}}" as="ch" hint-placeholder-count="2">
+              <button onClick="{{ch.remove}}" aria-label="{{ch.aria}}" style="flex: none; min-height: 44px; display: flex; align-items: center; gap: 6px; padding: 0 8px 0 12px; border: 1px solid var(--accent); border-radius: 10px; background: var(--surface); color: var(--ink); font-size: 0.875rem; font-weight: 600; white-space: nowrap">
+                <span>{{ch.label}}</span>
+                <svg style="color: var(--muted)" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"></path></svg>
+              </button>
+            </sc-for>
+          </div>
+        </sc-if>
+        <sc-if value="{{pk.trayEmpty}}" hint-placeholder-val="{{ false }}">
+          <span style="font-size: 0.8125rem; color: var(--muted)">{{L.trayEmpty}}</span>
+        </sc-if>
+        <button onClick="{{pk.addBarConfirm}}" disabled="{{pk.addBarDisabled}}" style="{{pk.addBarStyle}}">{{pk.addBarLabel}}</button>
+      </div>
+      <sc-if value="{{pk.confirmOpen}}" hint-placeholder-val="{{ false }}">
+        <div style="position: absolute; inset: 0; z-index: 30; background: var(--scrim); display: flex; align-items: center; justify-content: center; padding: 24px">
+          <div role="alertdialog" aria-modal="true" aria-labelledby="evc-untick-title" onKeyDown="{{dialogKeys}}" style="width: 280px; background: var(--surface); border-radius: 20px; overflow: hidden; text-align: center">
+            <div style="padding: 20px 16px 16px; display: flex; flex-direction: column; gap: 4px">
+              <h3 id="evc-untick-title" style="margin: 0; font-size: 1.0625rem; line-height: 1.375rem; font-weight: 600; color: var(--ink)">{{L.confirmTitle}}</h3>
+              <p style="margin: 0; font-size: 0.875rem; line-height: 1.1875rem; color: var(--muted)">{{pk.confirmMsg}}</p>
+            </div>
+            <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); border-top: 1px solid var(--line)">
+              <button data-evc-confirm-cancel="1" onClick="{{pk.confirmNo}}" style="min-height: 48px; border: 0; border-right: 1px solid var(--line); background: transparent; color: var(--accent); font-size: 1.0625rem; font-weight: 600">{{L.cancel}}</button>
+              <button onClick="{{pk.confirmYes}}" style="min-height: 48px; border: 0; background: transparent; color: var(--danger); font-size: 1.0625rem; font-weight: 500">{{L.untickAll}}</button>
+            </div>
+          </div>
+        </div>
+      </sc-if>
+    </div>
+    </div>
+  </sc-if>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"language":{"editor":"enum","options":["en","id"],"default":"en"},"$preview":{"width":390,"height":844}}'>
+var DATA = /*DATA*/[]/*END*/;
+var DEFAULTS = /*DEF*/{"car":[],"truck":[]}/*END*/;
+var AS_OF = /*ASOF*/{"en":"Oct 2026","id":"Okt 2026"}/*END*/;
+var IS_SAMPLE = /*SAMPLE*/true/*END*/;   // true, false, or a list of vehicle types that are still sample data, e.g. ["truck"]
+
+var STR = {
+  en: {
+    code: 'en', compare: 'Compare', discontinued: 'No longer sold', sumTitle: 'Summary', sumRank: 'Ranking', sumNote: 'From published figures only, using the same rules as the best marks.', sumCost: 'Costs less', sumRange: 'Goes further', sumCarry: 'Carries more', sumSpace: 'Boot space', sumSafety: 'Safety', sumLowest: '{v} has the lowest price ({x}).', sumFurthest: '{v} has the longest claimed range ({x} km, {s}).', sumFurthestLoaded: '{v} goes furthest with a full load ({x} km).', sumPayload: '{v} carries the most ({x} kg).', sumBoot: '{v} has the most boot space ({x} L).', sumTie: 'About the same (less than 3% apart).', sumNoData: 'Not enough Indonesian figures in our data to compare.', sumClass: 'These trucks are in different classes, so they are not ranked. Compare them row by row.', sumMixed: 'Ranges come from different test methods, so they are not ranked.', sumNoRating: 'No crash test rating in our data.', sumOthersNoRating: 'The others are not tested or not in our data', displayShort: 'Display', ctx: 'EV Compare · Indonesia · data as of {d} · ✓ best · italic = estimate · dashed = single source', ctxSample: 'EV Compare · SAMPLE DATA · {d} · ✓ best · italic = estimate · dashed = single source', market: 'Indonesian market, updated ', sample: 'Sample data',
+    languageLabel: 'Language', close: 'Close', showFull: '{a}, show full form', typeLabel: 'Vehicle type', cars: 'Passenger cars', trucks: 'Trucks & vans',
+    addCar: 'Add a car', addTruck: 'Add a truck', addShort: 'Add', addMore: 'Add vehicle ({n} of 10)',
+    change: 'Edit selection, {v}', remove: 'Remove {v}',
+    technician: 'Technician details', diffOnly: 'Differences only', diffNeedTwo: 'Add a second vehicle to use this', scrollHint: 'Swipe or scroll sideways to see every vehicle.', countN: '{n} of 10 vehicles', viewLabel: 'Specs to show', allSpecs: 'All specs', techSeg: 'Technician', srcHint: ', show source', legendTap: 'Tap a row name to see where its figures come from.',
+    empty: 'Add up to 10 vehicles to compare their battery, motor and charging specs.',
+    allSame: 'These vehicles match on every listed spec.',
+    warn: 'Test methods differ ({s}), so no best range is marked. Estimates are adjusted for each method.', warnTruck: 'Test methods differ ({s}), so no best range is marked.',
+    sources: 'Sources and notes', legendBest: 'Best in row', legendSingle: 'Single source', legendNone: 'Not in our data', legendNA: 'Not available: the vehicle doesn\'t have it', atKw: 'at {k} kW', marketSpec: '{m} spec', marketMeta: 'Spec from {m}, no Indonesian figure published', legendMarket: '"Malaysia spec" etc.: figure from another market, not ranked', windowSub: 'measured {w}', perMonth: '≈ {x} a month', monthNote: 'Monthly figure assumes {k} km a day, 30 days a month. You can change the daily distance below.', dailyLabel: 'Monthly cost uses', dailyUnit: 'km a day', dailyAria: 'Kilometres driven per day, used for the monthly cost (1 to 1,500)', sumShow: 'Show summary', sumHide: 'Hide summary', waitNote: 'Then confirm zero volts with a rated meter before touching high-voltage parts.', cellNote: 's = cells in series, p = strings in parallel. 126s1p means 126 cells in one series string.', threePhase: 'AC charging at 11 kW or more needs a three-phase supply. On a single-phase home supply, charging is limited to about 7 kW.', notAvail: 'Not available', noDc: 'no DC fast charging',
+    yes: 'Yes', no: 'No', cycleNone: 'test method not stated',
+    cancel: 'Cancel', brands: 'Brands', step: 'Step {n} of 4', dialog: 'Choose a vehicle, step {n} of 4',
+    tBrand: 'Brand', tModel: 'Model', tYear: 'Year', tTrim: 'Trim',
+    search: 'Search brand or model', allCars: 'All cars', allTrucks: 'All trucks',
+    model1: '1 model', modelN: '{n} models', row1: '1 row', rowN: '{n} rows', trim1: '1 trim', trimN: '{n} trims', yearNA: 'Year not listed',
+    noHits: 'No brand or model matches. Check the spelling or clear the filter.',
+    add: 'Add', swap: 'Swap in', inCompare: 'In comparison', ariaAdd: 'Add {v}', ariaSwap: 'Swap in {v}', ariaIn: 'Already in comparison: {v}',
+    sBattery: 'Battery', sPrice: 'OTR price, Jakarta', sRange: 'Range', sPower: 'Power', sDrive: 'Drive', sDc: 'DC max', sPayload: 'Payload', sGvw: 'JBB', sBody: 'Body', standard: 'Standard',
+    pickNone: 'Tick the trims you want', addOne: 'Add 1 trim', addN: 'Add {n} trims', pickedNote: '{n} of 10 selected. Columns follow the order you tick them.', trayTitle: 'Selected ({n} of 10)', spec: 'Spec', best: 'best', srcFrom: 'Published source:', calcSingle: 'Built on a claimed range that has only one source, so this estimate is marked single source too.', srcTitle: 'Where these figures come from', srcAria: 'Sources for {r}', srcCalc: 'Calculated by EV Compare.', srcVehicle: 'No source recorded for this value yet. Sources for this vehicle:', srcNone: 'No source yet (sample value).', realExplain: 'Claimed range × a factor for its test method.', realCalc: 'Claimed {r} km ({s}) × {f}.', conf2: 'Confirmed by 2 or more sources', types: { press: 'Press report', brochure: 'Official brochure', official: 'Official website', approval: 'Type approval document' }, annRemoved: '{v} removed', undo: 'Undo', undoAria: 'Put back {v}', undoHint: 'Undo is available for a few seconds.', annRestored: '{v} added back', annCompare: 'Comparing {n} vehicles', aNote: 'Estimates. Adjust these to match how you drive.', aKm: 'Distance per day', aYears: 'Ownership period', yrsN: '{n} years', aHome: 'Share charged at home', aDepot: 'Share charged at your depot', classOf: '{c} class', backTo: 'Back to {x}', keySpecs: 'Key specs', view: 'View', viewN: 'View ({n})', viewTitle: 'View options', sheetDone: 'Done', on: 'on', off: 'off', displayLabel: 'Display: light, dark or high contrast', displayTitle: 'Display', themeAuto: 'Automatic', themeAutoDesc: 'Follows your phone’s light, dark and contrast settings.', themeLight: 'Light', themeDark: 'Dark', themeHc: 'High contrast', themeHcDesc: 'Black text with stronger lines and colours.', diffDesc: 'Hide rows where every vehicle has the same value.', hideCalc: 'Hide calculated values', hideCalcDesc: 'Show only figures published by manufacturers.', otherCycle: 'Different test method', legendCalc: 'Calculated by EV Compare', asOf: 'Data as of {d}', warnSame: 'Showing only values tested the same way as the {v}.', annDiagOn: 'Technician details shown', annDiagOff: 'Technician details hidden', annKeyOn: 'Showing key specs only', annKeyOff: 'Showing all specs', trayEmpty: 'Nothing selected yet.', limitMsg: 'Remove one below to add another', classMix: 'These trucks are from different classes, so no best values are marked.', bodyMix: 'These trucks have different body types (for example van and minibus), so no best values are marked.', sumBody: 'These trucks have different body types, so they are not ranked. Compare them row by row.', classNote: 'Classes by gross vehicle weight (JBB): small cargo up to 3.5 t, light 3.5–8.5 t, medium 8.5–16 t, heavy above 16 t. Pickups by body.', payloadOdd: 'more than JBB minus kerb weight; may include the body, not ranked', quoteBasis: { 'off the road': 'off the road', 'chassis only': 'chassis only, off the road', 'basis not stated': 'basis not stated' }, estClaimed: 'estimate from claimed range', sumTieN: '{a} and {b} are about the same (less than 3% apart).', sumNoMethod: 'Claimed ranges without a stated test method are not ranked.', noMethodTruck: 'Some ranges have no stated test method, so no best range is marked.', hvTruck: 'High-voltage service data has not been published for most trucks. Before any work, follow the maker\'s procedure, wear rated protective equipment and confirm zero volts with a meter rated above the pack\'s maximum voltage.', packVNote: 'Nominal voltage. A fully charged pack is higher (often 10–15% above nominal); rate meters and tools for the maximum.', tariffLabel: 'Electricity tariff', tariffAria: 'PLN tariff used for the energy cost', notMining: 'Not estimated for mining trucks.', warnMany: 'Test methods differ ({s}), so no best range is marked.', realSub: 'claimed × {f}', consSub: 'Usable battery capacity ÷ estimated real-world range.', consSubTruck: 'Usable battery capacity ÷ range at full payload when published; otherwise an estimate from the claimed range × a factor for its test method (0.75 when not stated). Not estimated for mining trucks.', homeSub: 'Based on IDR {t}/kWh (PLN home tariff, 3,500 VA and above, as of {d}) plus 10% charging loss.', homeSubTruck: 'Based on IDR {t}/kWh ({n}, as of {d}) plus 10% charging loss. Choose the tariff below. Estimates from claimed ranges are shown in italics.', pubSub: 'Based on about IDR {t}/kWh at public chargers (as of {d}) plus 5% charging loss, excluding the per-session fee.', done: 'Done ({n} of 10)', untickAll: 'Untick all', confirmTitle: 'Untick all trims?', confirm1: 'This clears the 1 ticked trim.', confirmN: 'This clears all {n} ticked trims.',
+    trimHint: 'Trims can differ in battery, wheels, charger and equipment, so pick the exact one.'
+  },
+  id: {
+    code: 'id', compare: 'Bandingkan', discontinued: 'Sudah tidak dijual', sumTitle: 'Ringkasan', sumRank: 'Peringkat', sumNote: 'Hanya dari angka yang dipublikasikan, dengan aturan yang sama seperti tanda terbaik.', sumCost: 'Lebih murah', sumRange: 'Lebih jauh', sumCarry: 'Angkut lebih banyak', sumSpace: 'Ruang bagasi', sumSafety: 'Keselamatan', sumLowest: '{v} paling murah ({x}).', sumFurthest: '{v} punya jarak klaim terjauh ({x} km, {s}).', sumFurthestLoaded: '{v} paling jauh saat muatan penuh ({x} km).', sumPayload: '{v} paling banyak mengangkut ({x} kg).', sumBoot: '{v} punya bagasi terbesar ({x} L).', sumTie: 'Kurang lebih sama (selisih di bawah 3%).', sumNoData: 'Angka resmi Indonesia di data kami belum cukup untuk membandingkan.', sumClass: 'Truk ini berbeda kelas, jadi tidak diperingkat. Bandingkan per baris.', sumMixed: 'Jarak tempuh berasal dari metode uji yang berbeda, jadi tidak diperingkat.', sumNoRating: 'Belum ada hasil uji tabrak di data kami.', sumOthersNoRating: 'Yang lain belum diuji atau belum ada di data kami', displayShort: 'Tampilan', ctx: 'EV Compare · Indonesia · data per {d} · ✓ terbaik · miring = perkiraan · putus-putus = satu sumber', ctxSample: 'EV Compare · DATA CONTOH · {d} · ✓ terbaik · miring = perkiraan · putus-putus = satu sumber', market: 'Pasar Indonesia, diperbarui ', sample: 'Data contoh',
+    languageLabel: 'Bahasa', close: 'Tutup', showFull: '{a}, tampilkan kepanjangan', typeLabel: 'Jenis kendaraan', cars: 'Mobil penumpang', trucks: 'Truk & van',
+    addCar: 'Tambah mobil', addTruck: 'Tambah truk', addShort: 'Tambah', addMore: 'Tambah kendaraan ({n} dari 10)',
+    change: 'Ubah pilihan, {v}', remove: 'Hapus {v}',
+    technician: 'Detail teknis', diffOnly: 'Hanya yang berbeda', diffNeedTwo: 'Tambah kendaraan kedua untuk memakai ini', scrollHint: 'Geser ke samping untuk melihat semua kendaraan.', countN: '{n} dari 10 kendaraan', viewLabel: 'Spesifikasi yang ditampilkan', allSpecs: 'Semua spesifikasi', techSeg: 'Detail teknis', srcHint: ', lihat sumber', legendTap: 'Ketuk nama baris untuk melihat asal angkanya.',
+    empty: 'Tambahkan hingga 10 kendaraan untuk membandingkan spesifikasi baterai, motor, dan pengisian dayanya.',
+    allSame: 'Kendaraan ini sama di semua spesifikasi yang tercantum.',
+    warn: 'Metode uji berbeda ({s}), jadi jarak terbaik tidak ditandai. Perkiraan sudah disesuaikan dengan metode ujinya.', warnTruck: 'Metode uji berbeda ({s}), jadi jarak terbaik tidak ditandai.',
+    sources: 'Sumber dan catatan', legendBest: 'Terbaik', legendSingle: 'Satu sumber', legendNone: 'Belum ada di data kami', legendNA: 'Tidak tersedia: kendaraan tidak memilikinya', atKw: 'pada {k} kW', marketSpec: 'spesifikasi {m}', marketMeta: 'Spesifikasi {m}, belum ada angka resmi Indonesia', legendMarket: '"spesifikasi Malaysia" dsb.: angka dari pasar lain, tidak diperingkat', windowSub: 'diukur {w}', perMonth: '≈ {x} per bulan', monthNote: 'Angka bulanan memakai asumsi {k} km per hari, 30 hari per bulan. Jarak harian bisa diubah di bawah.', dailyLabel: 'Biaya bulanan memakai', dailyUnit: 'km per hari', dailyAria: 'Jarak tempuh per hari, untuk biaya bulanan (1 sampai 1.500)', sumShow: 'Tampilkan ringkasan', sumHide: 'Sembunyikan ringkasan', waitNote: 'Lalu pastikan nol volt dengan alat ukur yang sesuai sebelum menyentuh komponen tegangan tinggi.', cellNote: 's = sel tersusun seri, p = jumlah rangkaian paralel. 126s1p berarti 126 sel dalam satu rangkaian seri.', threePhase: 'Pengisian AC 11 kW atau lebih memerlukan listrik tiga fase. Dengan listrik satu fase di rumah, pengisian terbatas sekitar 7 kW.', notAvail: 'Tidak tersedia', noDc: 'tanpa pengisian cepat DC',
+    yes: 'Ya', no: 'Tidak', cycleNone: 'metode uji tidak disebutkan',
+    cancel: 'Batal', brands: 'Merek', step: 'Langkah {n} dari 4', dialog: 'Pilih kendaraan, langkah {n} dari 4',
+    tBrand: 'Merek', tModel: 'Model', tYear: 'Tahun', tTrim: 'Tipe',
+    search: 'Cari merek atau model', allCars: 'Semua mobil', allTrucks: 'Semua truk',
+    model1: '1 model', modelN: '{n} model', row1: '1 baris', rowN: '{n} baris', trim1: '1 tipe', trimN: '{n} tipe', yearNA: 'Tahun tidak tercantum',
+    noHits: 'Tidak ada merek atau model yang cocok. Periksa ejaan atau hapus filternya.',
+    add: 'Tambah', swap: 'Tukar', inCompare: 'Sedang dibandingkan', ariaAdd: 'Tambah {v}', ariaSwap: 'Tukar dengan {v}', ariaIn: 'Sudah dibandingkan: {v}',
+    sBattery: 'Baterai', sPrice: 'Harga OTR Jakarta', sRange: 'Jarak', sPower: 'Tenaga', sDrive: 'Penggerak', sDc: 'DC maksimum', sPayload: 'Daya angkut', sGvw: 'JBB', sBody: 'Bodi', standard: 'Standar',
+    pickNone: 'Centang tipe yang diinginkan', addOne: 'Tambah 1 tipe', addN: 'Tambah {n} tipe', pickedNote: '{n} dari 10 dipilih. Urutan kolom mengikuti urutan centang.', trayTitle: 'Dipilih ({n} dari 10)', spec: 'Spesifikasi', best: 'terbaik', srcFrom: 'Sumber publikasi:', calcSingle: 'Dihitung dari klaim jarak tempuh yang hanya punya satu sumber, jadi perkiraan ini juga ditandai satu sumber.', srcTitle: 'Asal angka ini', srcAria: 'Sumber untuk {r}', srcCalc: 'Dihitung oleh EV Compare.', srcVehicle: 'Belum ada sumber untuk nilai ini. Sumber kendaraan ini:', srcNone: 'Belum ada sumber (nilai contoh).', realExplain: 'Jarak klaim × faktor sesuai metode ujinya.', realCalc: 'Klaim {r} km ({s}) × {f}.', conf2: 'Dikonfirmasi 2 sumber atau lebih', types: { press: 'Berita media', brochure: 'Brosur resmi', official: 'Situs resmi', approval: 'Dokumen uji tipe' }, annRemoved: '{v} dihapus', undo: 'Kembalikan', undoAria: 'Kembalikan {v}', undoHint: 'Bisa dikembalikan selama beberapa detik.', annRestored: '{v} ditambahkan kembali', annCompare: 'Membandingkan {n} kendaraan', aNote: 'Perkiraan. Sesuaikan dengan pemakaian Anda.', aKm: 'Jarak per hari', aYears: 'Lama kepemilikan', yrsN: '{n} tahun', aHome: 'Porsi pengisian di rumah', aDepot: 'Porsi pengisian di pool', classOf: 'Kelas {c}', backTo: 'Kembali ke {x}', keySpecs: 'Spesifikasi utama', view: 'Tampilan', viewN: 'Tampilan ({n})', viewTitle: 'Opsi tampilan', sheetDone: 'Selesai', on: 'aktif', off: 'nonaktif', displayLabel: 'Tampilan: terang, gelap, atau kontras tinggi', displayTitle: 'Tampilan', themeAuto: 'Otomatis', themeAutoDesc: 'Mengikuti pengaturan terang, gelap, dan kontras ponsel Anda.', themeLight: 'Terang', themeDark: 'Gelap', themeHc: 'Kontras tinggi', themeHcDesc: 'Teks hitam dengan garis dan warna lebih tegas.', diffDesc: 'Sembunyikan baris yang nilainya sama untuk semua kendaraan.', hideCalc: 'Sembunyikan nilai hitungan', hideCalcDesc: 'Tampilkan hanya angka yang dipublikasikan pabrikan.', otherCycle: 'Metode uji berbeda', legendCalc: 'Dihitung oleh EV Compare', asOf: 'Data per {d}', warnSame: 'Hanya menampilkan nilai yang diuji dengan cara yang sama seperti {v}.', annDiagOn: 'Detail teknis ditampilkan', annDiagOff: 'Detail teknis disembunyikan', annKeyOn: 'Hanya spesifikasi utama ditampilkan', annKeyOff: 'Semua spesifikasi ditampilkan', trayEmpty: 'Belum ada yang dipilih.', limitMsg: 'Hapus satu di bawah untuk menambah yang lain', classMix: 'Truk ini berbeda kelas, jadi nilai terbaik tidak ditandai.', bodyMix: 'Jenis bodi truk ini berbeda (misalnya van dan minibus), jadi nilai terbaik tidak ditandai.', sumBody: 'Jenis bodi truk ini berbeda, jadi tidak diperingkat. Bandingkan per baris.', classNote: 'Kelas menurut JBB: kargo kecil sampai 3,5 t, ringan 3,5–8,5 t, sedang 8,5–16 t, berat di atas 16 t. Pikap menurut bentuk bodinya.', payloadOdd: 'melebihi JBB dikurangi berat kosong; mungkin termasuk bodi, tidak diperingkat', quoteBasis: { 'off the road': 'off the road (belum termasuk pajak dan biaya surat)', 'chassis only': 'sasis saja, off the road', 'basis not stated': 'dasar harga tidak disebutkan' }, estClaimed: 'perkiraan dari jarak klaim', sumTieN: '{a} dan {b} kurang lebih sama (selisih di bawah 3%).', sumNoMethod: 'Jarak klaim tanpa metode uji yang jelas tidak diperingkat.', noMethodTruck: 'Sebagian jarak tempuh tidak menyebut metode ujinya, jadi jarak terbaik tidak ditandai.', hvTruck: 'Data servis tegangan tinggi belum dipublikasikan untuk sebagian besar truk. Sebelum bekerja, ikuti prosedur pabrikan, pakai alat pelindung yang sesuai, dan pastikan nol volt dengan alat ukur yang rating tegangannya di atas tegangan maksimum baterai.', packVNote: 'Tegangan nominal. Saat terisi penuh, tegangan baterai lebih tinggi (umumnya 10–15% di atas nominal); pilih alat ukur dan perkakas sesuai tegangan maksimumnya.', tariffLabel: 'Tarif listrik', tariffAria: 'Tarif PLN untuk biaya listrik', notMining: 'Tidak diperkirakan untuk truk tambang.', warnMany: 'Metode uji berbeda ({s}), jadi jarak terbaik tidak ditandai.', realSub: 'klaim × {f}', consSub: 'Kapasitas pakai baterai ÷ perkiraan jarak tempuh nyata.', consSubTruck: 'Kapasitas pakai baterai ÷ jarak tempuh saat muatan penuh bila dipublikasikan; bila tidak, perkiraan dari jarak klaim × faktor metode ujinya (0,75 bila tidak disebutkan). Tidak diperkirakan untuk truk tambang.', homeSub: 'Dihitung dengan Rp {t}/kWh (tarif PLN rumah tangga 3.500 VA ke atas, per {d}) ditambah 10% energi yang hilang saat pengisian.', homeSubTruck: 'Dihitung dengan Rp {t}/kWh ({n}, per {d}) ditambah 10% energi yang hilang saat pengisian. Pilih tarif di bawah. Perkiraan dari jarak klaim ditulis miring.', pubSub: 'Dihitung dengan sekitar Rp {t}/kWh di SPKLU (per {d}) ditambah 5% energi yang hilang saat pengisian, belum termasuk biaya per sesi.', done: 'Selesai ({n} dari 10)', untickAll: 'Hapus centang', confirmTitle: 'Hapus semua centang?', confirm1: 'Centang pada 1 tipe akan dihapus.', confirmN: 'Semua centang pada {n} tipe akan dihapus.',
+    trimHint: 'Baterai, velg, pengisi daya, dan perlengkapan bisa berbeda di tiap tipe, jadi pilih tipe yang tepat.'
+  }
+};
+function fill(s, map) { return s.replace(/\{(\w+)\}/g, function (_, k) { return map[k]; }); }
+
+var SEG_NAME = {
+  'City car': { en: 'City car', id: 'Mobil kota' }, 'Hatchback': { en: 'Hatchback', id: 'Hatchback' },
+  'Sedan': { en: 'Sedan', id: 'Sedan' }, 'Crossover': { en: 'Crossover', id: 'Crossover' },
+  'SUV': { en: 'SUV', id: 'SUV' }, 'MPV': { en: 'MPV', id: 'MPV' },
+  'Pickup': { en: 'Pickup', id: 'Pikap' }, 'Small cargo': { en: 'Small cargo', id: 'Kargo kecil' },
+  'Light': { en: 'Light', id: 'Ringan' }, 'Medium': { en: 'Medium', id: 'Sedang' }, 'Heavy': { en: 'Heavy', id: 'Berat' }
+};
+function segName(s, lang) { return SEG_NAME[s] ? SEG_NAME[s][lang] : s; }
+var STD_ID = { 'Manufacturer claim (cycle not stated)': 'Klaim pabrikan (siklus tidak disebutkan)' };
+function stdName(s, lang, L) { if (!s) return L.cycleNone; return lang === 'id' && STD_ID[s] ? STD_ID[s] : s; }
+
+
+var ABBR = {
+  'LFP': ['Lithium Iron Phosphate', 'litium besi fosfat'],
+  'NMC': ['Nickel Manganese Cobalt', 'nikel mangan kobalt'],
+  'NCA': ['Nickel Cobalt Aluminium', 'nikel kobalt aluminium'],
+  'LMFP': ['Lithium Manganese Iron Phosphate', 'litium mangan besi fosfat'],
+  'PMSM': ['Permanent Magnet Synchronous Motor', 'motor sinkron magnet permanen'],
+  'EESM': ['Electrically Excited Synchronous Motor', 'motor sinkron eksitasi listrik'],
+  'CCS2': ['Combined Charging System Type 2', 'sistem pengisian gabungan tipe 2 (colokan standar Eropa)'],
+  'CCS': ['Combined Charging System', 'sistem pengisian gabungan'],
+  'GB/T': ['Guobiao Tuijian (recommended Chinese national standard)', 'standar nasional Tiongkok (rekomendasi)'],
+  'CHAdeMO': ['CHArge de MOve (Japanese DC charging standard)', 'standar pengisian DC Jepang'],
+  'MCS': ['Megawatt Charging System', 'sistem pengisian megawatt untuk truk'],
+  'WLTP': ['Worldwide Harmonised Light vehicles Test Procedure', 'prosedur uji kendaraan ringan standar global'],
+  'NEDC': ['New European Driving Cycle (older test; results tend to be optimistic)', 'siklus uji Eropa versi lama, hasilnya cenderung optimistis'],
+  'CLTC': ['China Light-duty vehicle Test Cycle (results tend to be optimistic)', 'siklus uji kendaraan ringan Tiongkok, hasilnya cenderung optimistis'],
+  'EPA': ['Environmental Protection Agency (United States)', 'badan lingkungan hidup Amerika Serikat'],
+  'SiC': ['Silicon Carbide', 'silikon karbida'],
+  'IGBT': ['Insulated-Gate Bipolar Transistor', 'transistor daya pada inverter'],
+  'OBC': ['On-Board Charger', 'pengisi daya internal'],
+  'V2L': ['Vehicle-to-Load', 'kendaraan memasok listrik ke perangkat'],
+  'GVW': ['Gross Vehicle Weight', 'berat kotor kendaraan'],
+  'GCW': ['Gross Combination Weight', 'berat kombinasi maksimum truk dan gandengannya'],
+  'SWB': ['Short Wheelbase', 'sumbu roda pendek'],
+  'LWB': ['Long Wheelbase', 'sumbu roda panjang'],
+  'MWB': ['Medium Wheelbase', 'sumbu roda sedang'],
+  'OTR': ['On The Road (price including registration and taxes)', 'harga termasuk pajak dan biaya surat kendaraan'],
+  'CKD': ['Completely Knocked Down', 'dirakit lokal'],
+  'CBU': ['Completely Built Up', 'impor utuh'],
+  'DIN 70121': ['DIN SPEC 70121: early DC charging communication over CCS. No Plug & Charge', 'protokol komunikasi pengisian DC generasi awal untuk CCS, tanpa Plug & Charge'],
+  'ISO 15118': ['ISO 15118: DC and AC charging communication over CCS. Supports Plug & Charge (the car identifies itself, no card or app)', 'protokol komunikasi pengisian untuk CCS, mendukung Plug & Charge (mobil mengenali dirinya sendiri, tanpa kartu atau aplikasi)'],
+  'GB/T 27930': ['GB/T 27930: Chinese DC charging communication protocol, used with the GB/T connector', 'protokol komunikasi pengisian DC Tiongkok, dipakai dengan konektor GB/T'],
+  'DIN': ['Deutsches Institut für Normung (German standards body)', 'lembaga standar Jerman'],
+  'ISO': ['International Organization for Standardization', 'organisasi standar internasional'],
+  'OBD-II': ['On-Board Diagnostics, second generation', 'diagnostik on-board generasi kedua'],
+  'OBD': ['On-Board Diagnostics', 'diagnostik on-board'],
+  'CAN': ['Controller Area Network', 'jaringan kontrol antar-modul'],
+  'UDS': ['Unified Diagnostic Services (ISO 14229)', 'layanan diagnostik terpadu'],
+  'SAE': ['Society of Automotive Engineers', 'asosiasi insinyur otomotif'],
+  'HV': ['High Voltage', 'tegangan tinggi'],
+  'MSD': ['Manual Service Disconnect', 'pemutus servis manual'],
+  'PLN': ['Perusahaan Listrik Negara (state electricity company)', 'perusahaan listrik milik negara'],
+  'SPKLU': ['Stasiun Pengisian Kendaraan Listrik Umum (public EV charging station)', 'stasiun pengisian kendaraan listrik umum'],
+  'JBB': ['Jumlah Berat yang Diperbolehkan (Gross Vehicle Weight)', 'berat maksimum kendaraan beserta muatannya'],
+  'JBKB': ['Jumlah Berat Kombinasi yang Diperbolehkan (Gross Combination Weight)', 'berat maksimum truk penarik beserta gandengan atau tempelannya'],
+  'WLTC': ['Worldwide Harmonised Light vehicles Test Cycle: the drive cycle inside WLTP. Japan\'s version leaves out the extra-high-speed phase, so its figures tend to be higher than WLTP', 'siklus uji di dalam WLTP; versi Jepang tidak memakai fase kecepatan sangat tinggi, jadi hasilnya cenderung lebih tinggi daripada WLTP'],
+  'C-WTVC': ['China World Transient Vehicle Cycle (heavy-vehicle test)', 'siklus uji kendaraan berat Tiongkok'],
+  'IP67': ['Ingress Protection 67: dust-tight, survives immersion to 1 m for 30 minutes', 'kedap debu, tahan terendam hingga 1 m selama 30 menit'],
+  'IP68': ['Ingress Protection 68: dust-tight, protected against continuous immersion beyond 1 m under conditions set by the manufacturer', 'kedap debu, tahan terendam lebih dari 1 m dalam kondisi yang ditetapkan pabrikan'],
+  'AEB': ['Autonomous Emergency Braking', 'pengereman darurat otomatis'],
+  'ACC': ['Adaptive Cruise Control', 'kontrol jelajah adaptif'],
+  'LKA': ['Lane Keeping Assist', 'bantuan menjaga lajur'],
+  'LDW': ['Lane Departure Warning', 'peringatan keluar lajur'],
+  'BSM': ['Blind Spot Monitoring', 'pemantau titik buta'],
+  'RCTA': ['Rear Cross-Traffic Alert', 'peringatan lalu lintas silang di belakang'],
+  'NCAP': ['New Car Assessment Programme', 'program uji keselamatan mobil baru'],
+  'ASEAN': ['Association of Southeast Asian Nations', 'Perhimpunan Bangsa-Bangsa Asia Tenggara']
+};
+var UNITS = {};
+function esc(s) { return s.replace(/[.*+?^${}()|[\]\\\/]/g, '\\$&'); }
+var ABBR_RE = new RegExp('((?<![A-Za-z0-9/])(?:' + Object.keys(ABBR).sort(function (a, b) { return b.length - a.length; }).map(esc).join('|') + ')(?![A-Za-z0-9]))');
+var ABBR_BTN = 'display: inline; padding: 10px 1px; margin: -10px -1px; border: 0; background: transparent; font: inherit; color: inherit; letter-spacing: inherit; text-decoration: underline dotted; text-decoration-color: var(--faint); text-underline-offset: 3px; cursor: pointer';
+
+var CYCLE_FACTOR = { 'WLTP': 0.85, 'WLTC': 0.8, 'EPA': 0.95, 'NEDC': 0.72, 'CLTC': 0.7, 'C-WTVC': 0.8, 'JE05': 0.85, none: 0.75 };
+var TARIFF = { home: 1699.53, pub: 2466, loss: 1.1, dcLoss: 1.05 };
+// trucks: the reader picks the PLN tariff their depot is on (default business B-2)
+var TRUCK_TARIFFS = [
+  { k: 'home', v: 1699.53, en: 'PLN household tariff, 3,500 VA and above', id: 'tarif PLN rumah tangga 3.500 VA ke atas', short: { en: 'Household (3,500 VA+)', id: 'Rumah tangga (3.500 VA+)' } },
+  { k: 'b2', v: 1444.70, en: 'PLN business tariff B-2, 6,600 VA to 200 kVA', id: 'tarif PLN bisnis B-2, 6.600 VA sampai 200 kVA', short: { en: 'Business B-2 (6,600 VA–200 kVA)', id: 'Bisnis B-2 (6.600 VA–200 kVA)' } },
+  { k: 'b3', v: 1114.74, en: 'PLN business tariff B-3, above 200 kVA', id: 'tarif PLN bisnis B-3, di atas 200 kVA', short: { en: 'Business B-3 (above 200 kVA)', id: 'Bisnis B-3 (di atas 200 kVA)' } }
+];
+var CUR_TARIFF = TRUCK_TARIFFS[1];
+var CUR_LANG = 'en';
+var BODY_NAME = { 'Pickup': { en: 'Pickup', id: 'Pikap' }, 'Van': { en: 'Van', id: 'Van' }, 'Minibus': { en: 'Minibus', id: 'Minibus' }, 'Rigid truck': { en: 'Truck (cab-chassis)', id: 'Truk (sasis-kabin)' }, 'Tractor head': { en: 'Tractor head', id: 'Tractor head (kepala truk)' }, 'Mining truck': { en: 'Mining truck (off-road)', id: 'Truk tambang (off-road)' } };
+function bodyName(b, lang) { return BODY_NAME[b] ? BODY_NAME[b][lang] : b; }
+var BODY_SHORT = { 'Pickup': { en: 'Pickup', id: 'Pikap' }, 'Van': { en: 'Van', id: 'Van' }, 'Minibus': { en: 'Minibus', id: 'Minibus' }, 'Rigid truck': { en: 'Truck', id: 'Truk' }, 'Tractor head': { en: 'Tractor', id: 'Tractor head' }, 'Mining truck': { en: 'Mining', id: 'Tambang' } };
+function bodyShort(b, lang) { return BODY_SHORT[b] ? BODY_SHORT[b][lang] : b; }
+var DAILY_KM = { car: 40, truck: 100 };   // km a day for the monthly line; the reader can change it under the Range section
+var CAR_SEGS = ['City car', 'Hatchback', 'Sedan', 'Crossover', 'SUV', 'MPV'];
+var TRUCK_SEGS = ['Pickup', 'Small cargo', 'Light', 'Medium', 'Heavy'];
+
+var SECTIONS = [
+  { key: 'vehicle', en: 'Vehicle', id: 'Kendaraan' },
+  { key: 'price', en: 'Price, warranty and service package', id: 'Harga, garansi, dan paket servis' },
+  { key: 'battery', en: 'Battery', id: 'Baterai' },
+  { key: 'range', en: 'Range', id: 'Jarak tempuh' },
+  { key: 'motor', en: 'Motor', id: 'Motor' },
+  { key: 'charging', en: 'Charging', id: 'Pengisian daya' },
+  { key: 'safety', en: 'Safety', id: 'Keselamatan' },
+  { key: 'service', en: 'Service and diagnostics', id: 'Servis dan diagnostik', diag: true },
+  { key: 'basic', en: 'Basic information', id: 'Informasi umum' }
+];
+var ROWS = [
+  { sec: 'vehicle', en: 'Model year', id: 'Tahun model', field: 'model_year', raw: true },
+  { sec: 'vehicle', en: 'Segment', id: 'Segmen', truckLabel: { en: 'Class', id: 'Kelas' }, field: 'segment', seg: true, note: function (lang, L, mode) { return mode === 'truck' ? L.classNote : ''; } },
+  { sec: 'vehicle', key: true, trucksOnly: true, en: 'Body type', id: 'Jenis bodi', field: 'body_type', custom: function (v, lang) { return v.body_type ? bodyName(v.body_type, lang) : null; } },
+  { sec: 'vehicle', key: true, en: 'Gross Vehicle Weight', id: 'Jumlah Berat yang Diperbolehkan (JBB)', field: 'gvw_t', unit: 't', digits: 2, trucksOnly: true, unc: 'gvw_kg' },
+  { sec: 'vehicle', key: true, en: 'Payload', id: 'Daya angkut', field: 'payload_kg', unit: 'kg', best: 'max', trucksOnly: true, thousands: true, payloadChk: true },
+  { sec: 'vehicle', keyTruck: true, trucksOnly: true, en: 'Cargo volume', id: 'Volume ruang muat', field: 'cargo_volume_m3', unit: 'm³', best: 'max' },
+  { sec: 'vehicle', trucksOnly: true, en: 'Axle configuration', id: 'Konfigurasi gandar', field: 'axle_config' },
+  { sec: 'vehicle', trucksOnly: true, en: 'Rated axle load (front / rear)', id: 'Beban gandar (depan / belakang)', field: 'axle_front_kg', custom: function (v, lang) { if (!v.axle_front_kg && !v.axle_rear_kg) return null; return (v.axle_front_kg ? num(v.axle_front_kg, lang, true) : '—') + ' / ' + (v.axle_rear_kg ? num(v.axle_rear_kg, lang, true) : '—') + ' kg'; } },
+  { sec: 'vehicle', trucksOnly: true, en: 'Gross Combination Weight', id: 'Jumlah Berat Kombinasi yang Diperbolehkan (JBKB)', field: 'gcw_t', unit: 't', digits: 2, best: 'max', keyTruck: true, unc: 'gcw_kg' },
+  { sec: 'vehicle', trucksOnly: true, en: 'Towing capacity', id: 'Kapasitas tarik', field: 'towing_kg', unit: 'kg', best: 'max', thousands: true },
+  { sec: 'vehicle', en: 'Assembly', id: 'Perakitan', field: 'assembly' },
+  { sec: 'price', key: true, en: 'On-the-road price (Jakarta)', id: 'Harga OTR (on the road) Jakarta', field: 'price_otr_idr', custom: function (v, lang) { return rupiah(v.price_otr_idr, lang); } },
+  { sec: 'price', keyTruck: true, trucksOnly: true, en: 'Quoted price (not on the road)', id: 'Harga yang dikutip (bukan OTR)', field: 'price_quote_idr', custom: function (v, lang) { return rupiah(v.price_quote_idr, lang); }, sub: function (v, lang, L) { return v.price_quote_basis ? (L.quoteBasis[v.price_quote_basis] || v.price_quote_basis) : ''; } },
+  { sec: 'price', keyTruck: true, en: 'Vehicle warranty', id: 'Garansi kendaraan', field: 'vehicle_warranty' },
+  { sec: 'price', key: true, en: 'Battery warranty', id: 'Garansi baterai', field: 'battery_warranty' },
+  { sec: 'price', en: 'Service interval', id: 'Interval servis', field: 'service_interval' },
+  { sec: 'price', en: 'Free service package', id: 'Paket servis gratis', field: 'free_service' },
+  { sec: 'vehicle', diag: true, en: 'Platform', id: 'Platform', field: 'platform' },
+  { sec: 'battery', en: 'Chemistry', id: 'Jenis kimia sel', field: 'battery_chemistry' },
+  { sec: 'battery', en: 'Capacity (gross)', id: 'Kapasitas (kotor)', field: 'battery_gross_kwh', unit: 'kWh' },
+  { sec: 'battery', diag: true, en: 'Usable capacity', id: 'Kapasitas pakai', field: 'battery_usable_kwh', unit: 'kWh', best: 'max' },
+  { sec: 'battery', en: 'System voltage', id: 'Tegangan sistem', field: 'voltage_architecture' },
+  { sec: 'battery', diag: true, en: 'Pack nominal voltage', id: 'Tegangan nominal baterai', field: 'pack_nominal_voltage_v', unit: 'V', note: function (lang, L) { return L.packVNote; } },
+  { sec: 'battery', diag: true, en: 'Pack voltage range', id: 'Rentang tegangan baterai', field: 'pack_v_range', unc: 'pack_voltage_max_v' },
+  { sec: 'battery', diag: true, en: 'Cell supplier', id: 'Pemasok sel', field: 'cell_supplier' },
+  { sec: 'battery', diag: true, en: 'Cell format', id: 'Format sel', field: 'cell_format' },
+  { sec: 'battery', diag: true, en: 'Cell count and configuration', id: 'Jumlah dan konfigurasi sel', field: 'cells_t', unc: 'cell_config', note: function (lang, L) { return L.cellNote; } },
+  { sec: 'battery', diag: true, en: 'Pack weight', id: 'Berat baterai', field: 'pack_weight_kg', unit: 'kg', thousands: true },
+  { sec: 'battery', diag: true, en: 'Pack cooling', id: 'Pendinginan baterai', field: 'battery_cooling' },
+  { sec: 'range', key: true, en: 'Range (claimed)', id: 'Jarak tempuh (klaim)', field: 'range_km', unit: 'km', best: 'max', std: true },
+  { sec: 'range', key: true, trucksOnly: true, en: 'Range at full payload', id: 'Jarak tempuh saat muatan penuh', field: 'range_full_payload_km', unit: 'km', best: 'max' },
+  { sec: 'range', key: true, calc: true, carsOnly: true, cycleDep: true, en: 'Estimated real-world range', id: 'Perkiraan jarak tempuh nyata', field: 'real_range_km', unit: 'km', best: 'max', unc: 'range_km', sub: function (v, lang, L) { return v.range_km ? fill(L.realSub, { f: num(v.real_factor, lang, false, 2) }) : ''; } },
+  { sec: 'range', calc: true, cycleDep: true, en: 'Estimated consumption (from the battery)', id: 'Perkiraan konsumsi (dari baterai)', field: 'cons', unit: 'kWh/100 km', best: 'min', unc: 'range_km', uncTruck: 'range_full_payload_km', note: function (lang, L, mode) { return mode === 'truck' ? L.consSubTruck : L.consSub; } },
+  { sec: 'range', key: true, calc: true, cycleDep: true, en: 'Energy cost per 100 km at home', id: 'Biaya listrik per 100 km di rumah', truckLabel: { en: 'Energy cost per 100 km on a PLN tariff', id: 'Biaya listrik per 100 km dengan tarif PLN' }, field: 'cost_home', best: 'min', unc: 'range_km', uncTruck: 'range_full_payload_km', custom: function (v, lang) { return rupiahSmall(v.cost_home, lang); }, sub: function (v, lang, L) { return v.cost_home ? fill(L.perMonth, { x: rupiahSmall(v.cost_home * DAILY_KM[v.type] * 30 / 100, lang) }) : ''; }, note: function (lang, L, mode) { return (mode === 'truck' ? fill(L.homeSubTruck, { t: num2(CUR_TARIFF.v, lang), n: CUR_TARIFF[lang], d: AS_OF[lang] }) : fill(L.homeSub, { t: num(TARIFF.home, lang, false, 2), d: AS_OF[lang] })) + ' ' + fill(L.monthNote, { k: DAILY_KM[mode] }); } },
+  { sec: 'range', calc: true, cycleDep: true, en: 'Energy cost per 100 km at a public charger', id: 'Biaya listrik per 100 km di Stasiun Pengisian Kendaraan Listrik Umum (SPKLU)', field: 'cost_public', best: 'min', unc: 'range_km', uncTruck: 'range_full_payload_km', custom: function (v, lang) { return rupiahSmall(v.cost_public, lang); }, sub: function (v, lang, L) { return v.cost_public ? fill(L.perMonth, { x: rupiahSmall(v.cost_public * DAILY_KM[v.type] * 30 / 100, lang) }) : ''; }, note: function (lang, L, mode) { return fill(L.pubSub, { t: num(TARIFF.pub, lang, true, 0), d: AS_OF[lang] }) + ' ' + fill(L.monthNote, { k: DAILY_KM[mode] }); } },
+  { sec: 'motor', en: 'Number of motors', id: 'Jumlah motor', field: 'motor_count' },
+  { sec: 'motor', en: 'Drive layout', id: 'Penggerak', field: 'drive' },
+  { sec: 'motor', en: 'Motor type', id: 'Jenis motor', field: 'motor_type' },
+  { sec: 'motor', key: true, en: 'Power (peak)', id: 'Tenaga (puncak)', field: 'power_kw', unit: 'kW', best: 'max' },
+  { sec: 'motor', en: 'Torque', id: 'Torsi', field: 'torque_nm', unit: 'Nm', best: 'max', noBestTruck: true },
+  { sec: 'motor', trucksOnly: true, en: 'Transmission', id: 'Transmisi', field: 'transmission' },
+  { sec: 'motor', trucksOnly: true, en: 'Gradeability (maximum)', id: 'Daya tanjak maksimum', field: 'gradeability_pct', unit: '%', best: 'max' },
+  { sec: 'motor', trucksOnly: true, en: 'Electric power take-off', id: 'Power take-off listrik', field: 'epto_kw', unit: 'kW', best: 'max' },
+  { sec: 'motor', diag: true, en: 'Motor supplier', id: 'Pemasok motor', field: 'motor_supplier' },
+  { sec: 'motor', diag: true, en: 'Inverter semiconductor', id: 'Semikonduktor inverter', field: 'inverter_tech' },
+  { sec: 'motor', diag: true, en: 'Reduction gear ratio', id: 'Rasio gigi reduksi', field: 'gear_ratio', ratio: true },
+  { sec: 'motor', diag: true, en: 'Maximum regenerative braking', id: 'Pengereman regeneratif maksimum', field: 'regen_max_kw', unit: 'kW', best: 'max' },
+  { sec: 'charging', keyTruck: true, en: 'Connector', id: 'Konektor', field: 'conn', unc: 'dc_connector', custom: function (v, lang) { var p = []; if (v.ac_connector && v.ac_connector !== 'n/a') p.push('AC ' + v.ac_connector); if (v.dc_connector === 'n/a') p.push(STR[lang].noDc); else if (v.dc_connector) p.push('DC ' + v.dc_connector); return p.length ? p.join(', ') : null; } },
+  { sec: 'charging', en: 'DC protocol', id: 'Protokol DC', field: 'dc_protocol' },
+  { sec: 'charging', en: 'AC max', id: 'AC maksimum', field: 'ac_max_kw', unit: 'kW', best: 'max', note: function (lang, L, mode, vals) { return (vals || []).some(function (x) { return typeof x === 'number' && x > 7.4; }) ? L.threePhase : ''; } },
+  { sec: 'charging', en: 'DC max (peak)', id: 'DC maksimum (puncak)', field: 'dc_max_kw', unit: 'kW', best: 'max' },
+  { sec: 'charging', key: true, en: 'DC fast-charge time (10–80%)', id: 'Waktu pengisian cepat DC (10–80%)', field: 'dc_10_80_min', unit: 'min', idUnit: 'menit', best: 'min', windowDep: true, noBestTruck: true, sub: function (v, lang, L) { return v.dc_time_window ? fill(L.windowSub, { w: v.dc_time_window }) : ''; } },
+  { sec: 'charging', keyTruck: true, en: 'AC full-charge time (0–100%)', id: 'Waktu pengisian penuh AC (0–100%)', field: 'ac_full_hours', unit: 'h', idUnit: 'jam', best: 'min', sub: function (v, lang, L) { return typeof v.ac_max_kw === 'number' ? fill(L.atKw, { k: num(v.ac_max_kw, lang) }) : ''; } },
+  { sec: 'charging', en: 'Charge port location', id: 'Letak port pengisian', field: 'charge_port' },
+  { sec: 'charging', trucksOnly: true, en: 'Battery swap', id: 'Tukar baterai', field: 'battery_swap', bool: true },
+  { sec: 'charging', en: 'Battery preheating', id: 'Pemanasan awal baterai', field: 'battery_preheat', bool: true },
+  { sec: 'charging', en: 'Vehicle-to-Load', id: 'Vehicle-to-Load', field: 'v2l', bool: true, extraKw: 'v2l_kw' },
+  { sec: 'safety', en: 'Wading depth', id: 'Kedalaman air yang aman dilalui', field: 'wading_mm', unit: 'mm', best: 'max' },
+  { sec: 'safety', en: 'Battery Ingress Protection rating', id: 'Rating Ingress Protection baterai (tahan air dan debu)', field: 'battery_ip' },
+  { sec: 'safety', en: 'Airbags', id: 'Kantong udara (airbag)', field: 'airbags', best: 'max', custom: function (v, lang) { if (!v.airbags) return null; var pos = lang === 'id' && v.tr && v.tr.airbag_positions ? v.tr.airbag_positions : v.airbag_positions; return v.airbags + (pos ? ' (' + pos + ')' : ''); } },
+  { sec: 'safety', en: 'Advanced driver assistance features', id: 'Fitur bantuan pengemudi', field: 'adas' },
+  { sec: 'safety', key: true, en: 'Crash test rating', id: 'Hasil uji tabrak', field: 'crash_rating' },
+  { sec: 'charging', diag: true, en: 'On-board charger', id: 'Pengisi daya internal', field: 'onboard_charger_kw', unit: 'kW', best: 'max' },
+  { sec: 'service', diag: true, en: 'High-voltage service disconnect location', id: 'Letak pemutus servis tegangan tinggi', field: 'hv_disconnect_location' },
+  { sec: 'service', diag: true, en: 'Wait after high-voltage disconnect', id: 'Waktu tunggu setelah pemutusan tegangan tinggi', field: 'hv_wait_min', unit: 'min', idUnit: 'menit', note: function (lang, L) { return L.waitNote; } },
+  { sec: 'service', diag: true, en: 'Auxiliary battery', id: 'Aki', field: 'aux_battery' },
+  { sec: 'service', diag: true, en: 'Auxiliary battery location', id: 'Letak aki', field: 'aux_battery_location' },
+  { sec: 'service', diag: true, en: 'Coolant', id: 'Cairan pendingin', field: 'coolant_type' },
+  { sec: 'service', diag: true, en: 'Coolant specification and capacity', id: 'Spesifikasi dan volume cairan pendingin', field: 'coolant_spec' },
+  { sec: 'service', diag: true, en: 'Cooling loops', id: 'Sirkuit pendingin', field: 'coolant_loops' },
+  { sec: 'service', diag: true, en: 'Heat pump', id: 'Pompa panas (heat pump)', field: 'heat_pump', bool: true },
+  { sec: 'service', diag: true, en: 'Diagnostic port', id: 'Port diagnostik', field: 'obd_port' },
+  { sec: 'service', diag: true, en: 'Diagnostic protocol', id: 'Protokol diagnostik', field: 'diag_protocol' },
+  { sec: 'service', diag: true, en: 'Over-the-air updates', id: 'Pembaruan over-the-air', field: 'ota', bool: true },
+  { sec: 'basic', key: true, en: 'Seating', id: 'Konfigurasi tempat duduk', truckLabel: { en: 'Seats in cab', id: 'Kursi di kabin' }, field: 'seats', custom: function (v, lang) { if (!v.seats) return null; return v.seats + (lang === 'id' ? ' kursi' : (v.seats === 1 ? ' seat' : ' seats')) + (v.seat_layout ? ' (' + (lang === 'id' && v.tr && v.tr.seat_layout ? v.tr.seat_layout : v.seat_layout) + ')' : ''); } },
+  { sec: 'basic', trucksOnly: true, en: 'Cab type', id: 'Tipe kabin', field: 'cab_type' },
+  { sec: 'basic', trucksOnly: true, en: 'Cargo body size (length × width × height)', id: 'Ukuran bak muatan (panjang × lebar × tinggi)', field: 'cargo_length_mm', custom: function (v, lang) { if (!v.cargo_length_mm || !v.cargo_width_mm || !v.cargo_height_mm) return null; return [v.cargo_length_mm, v.cargo_width_mm, v.cargo_height_mm].map(function (x) { return num(x, lang, true); }).join(' × ') + ' mm'; } },
+  { sec: 'basic', en: 'Dimensions (length × width × height)', id: 'Dimensi (panjang × lebar × tinggi)', field: 'length_mm', custom: function (v, lang) { if (!v.length_mm || !v.width_mm || !v.height_mm) return null; return [v.length_mm, v.width_mm, v.height_mm].map(function (x) { return num(x, lang, true); }).join(' × ') + ' mm'; } },
+  { sec: 'basic', en: 'Wheelbase', id: 'Jarak sumbu roda', field: 'wheelbase_mm', unit: 'mm', thousands: true },
+  { sec: 'basic', en: 'Ground clearance', id: 'Jarak bebas ke tanah', field: 'ground_clearance_mm', unit: 'mm', best: 'max' },
+  { sec: 'basic', en: 'Kerb weight', id: 'Berat kosong', field: 'kerb_weight_kg', unit: 'kg', thousands: true },
+  { sec: 'basic', key: true, carsOnly: true, en: 'Boot capacity', id: 'Kapasitas bagasi', field: 'boot_l', unit: 'L', best: 'max', thousands: true },
+  { sec: 'basic', carsOnly: true, en: 'Front boot capacity', id: 'Kapasitas bagasi depan', field: 'frunk_l', unit: 'L', best: 'max' },
+  { sec: 'basic', carsOnly: true, en: 'Headroom (front / rear)', id: 'Ruang kepala (depan / belakang)', field: 'headroom_front_mm', custom: function (v, lang) { if (!v.headroom_front_mm && !v.headroom_rear_mm) return null; return num(v.headroom_front_mm || 0, lang, true).replace(/^0$/, '—') + ' / ' + (v.headroom_rear_mm ? num(v.headroom_rear_mm, lang, true) : '—') + ' mm'; } },
+  { sec: 'basic', carsOnly: true, en: 'Legroom (front / rear)', id: 'Ruang kaki (depan / belakang)', field: 'legroom_front_mm', custom: function (v, lang) { if (!v.legroom_front_mm && !v.legroom_rear_mm) return null; return num(v.legroom_front_mm || 0, lang, true).replace(/^0$/, '—') + ' / ' + (v.legroom_rear_mm ? num(v.legroom_rear_mm, lang, true) : '—') + ' mm'; } },
+  { sec: 'basic', en: 'Turning radius', id: 'Radius putar', field: 'turning_radius_m', unit: 'm', best: 'min' },
+  { sec: 'basic', en: 'Tyre size', id: 'Ukuran ban', field: 'tyre_size' },
+  { sec: 'basic', en: '0–100 km/h', id: 'Akselerasi 0–100 km/jam', field: 'accel_0_100_s', unit: 's', idUnit: 'detik', best: 'min' },
+  { sec: 'basic', en: 'Top speed', id: 'Kecepatan maksimum', field: 'top_speed_kmh', unit: 'km/h', idUnit: 'km/jam', best: 'max' }
+];
+
+var SEG_ON = 'min-height: 44px; border: 0; border-radius: 10px; background: var(--surface); color: var(--ink); font-size: 1rem; font-weight: 600; box-shadow: inset 0 0 0 2px var(--accent), 0 1px 2px var(--shadow-sm)';
+var SEG_OFF = 'min-height: 44px; border: 0; border-radius: 10px; background: transparent; color: var(--muted); font-size: 1rem; font-weight: 500';
+var LANG_ON = 'min-width: 44px; min-height: 44px; padding: 0 6px; border: 0; background: transparent; color: var(--ink); font-size: 0.9375rem; font-weight: 700; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 6px';
+var LANG_OFF = 'min-width: 44px; min-height: 44px; padding: 0 6px; border: 0; background: transparent; color: var(--muted); font-size: 0.9375rem; font-weight: 500';
+var VIEW_BASE = 'min-height: 44px; display: flex; align-items: center; justify-content: center; gap: 4px; padding: 4px 6px; border: 0; border-radius: 10px; font-size: 0.875rem; line-height: 1.0625rem; text-align: center; ';
+var VIEW_ON = VIEW_BASE + 'background: var(--surface); font-weight: 600; box-shadow: inset 0 0 0 2px var(--accent), 0 1px 2px var(--shadow-sm)';
+var VIEW_OFF = VIEW_BASE + 'background: transparent; font-weight: 500';
+var SW_ON = 'flex: none; width: 51px; height: 31px; border-radius: 999px; background: var(--accent); position: relative';
+var SW_OFF = 'flex: none; width: 51px; height: 31px; border-radius: 999px; background: var(--switch-off); position: relative';
+var KNOB_R = 'position: absolute; top: 2px; left: 22px; width: 27px; height: 27px; border-radius: 999px; background: var(--surface); box-shadow: 0 1px 3px var(--shadow-sm)';
+var KNOB_L = 'position: absolute; top: 2px; left: 2px; width: 27px; height: 27px; border-radius: 999px; background: var(--surface); box-shadow: 0 1px 3px var(--shadow-sm)';
+var PILL_ON = 'flex: none; min-height: 44px; padding: 0 14px; border-radius: 10px; border: 1px solid var(--accent); background: var(--accent); color: var(--on-accent); font-size: 0.875rem; font-weight: 600; white-space: nowrap';
+var PILL_OFF = 'flex: none; min-height: 44px; padding: 0 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font-size: 0.875rem; font-weight: 500; white-space: nowrap';
+var ROW_BASE = 'width: 100%; min-height: 52px; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 14px 10px 16px; border: 0; background: var(--surface); ';
+var ROW = ROW_BASE + 'box-shadow: inset 0 -1px 0 var(--line2)';
+var ROW_LAST = ROW_BASE;
+var TRIM_BASE = 'width: 100%; display: flex; flex-direction: column; gap: 10px; padding: 14px 16px; border-radius: 10px; background: var(--surface); text-align: left; ';
+var TRIM = TRIM_BASE + 'border: 1px solid var(--cell-line)';
+var TRIM_ON = TRIM_BASE + 'border: 1px solid var(--accent); box-shadow: inset 0 0 0 1px var(--accent)';
+var TRIM_IN = TRIM_BASE + 'border: 1px solid var(--line); background: var(--surface3)';
+var BOX_ON = 'flex: none; width: 26px; height: 26px; border-radius: 4px; background: var(--accent); border: 2px solid var(--accent); display: flex; align-items: center; justify-content: center; box-sizing: border-box';
+var BOX_OFF = 'flex: none; width: 26px; height: 26px; border-radius: 4px; background: var(--surface); border: 2px solid var(--chev); display: flex; align-items: center; justify-content: center; box-sizing: border-box';
+var ADD_BAR_BTN = 'width: 100%; min-height: 50px; border: 0; border-radius: 10px; font-size: 1.0625rem; font-weight: 600; ';
+var BAR_ON = 'height: 4px; background: var(--accent)';
+var BAR_OFF = 'height: 2px; background: var(--switch-off)';
+var CELL = 'min-width: 0; padding: 5px 8px; border-radius: 4px; hyphens: auto; -webkit-hyphens: auto; font-family: \'Barlow Semi Condensed\', sans-serif; font-variant-numeric: tabular-nums; font-size: 0.9375rem; line-height: 1.125rem; overflow-wrap: anywhere; ';
+var CELL_NORMAL = CELL + 'background: var(--surface); color: var(--ink); font-weight: 600; box-shadow: inset 0 0 0 1px var(--cell-line)';
+var CELL_BEST = CELL + 'background: var(--best-bg); color: var(--best); font-weight: 700; box-shadow: inset 0 0 0 1px var(--best-line)';
+var CELL_NONE = CELL + 'background: var(--surface); color: var(--muted); font-weight: 600; box-shadow: inset 0 0 0 1px var(--cell-line)';
+var LIST_ITEM = 'display: flex; flex-direction: column; gap: 4px; padding: 12px 14px';
+var UNC = '; outline: 1.5px dashed var(--unc); outline-offset: -1.5px';
+
+function num(v, lang, thousands, digits) {
+  if (typeof v !== 'number') return String(v);
+  var s = v.toLocaleString('en-US', { maximumFractionDigits: digits === undefined ? 1 : digits });
+  if (lang === 'id') s = s.replace(/[.,]/g, function (c) { return c === '.' ? ',' : '.'; });
+  return s;
+}
+var NB = '\u00a0';
+// no line break inside a unit such as kWh/100 km: no-break spaces, and a word joiner after each slash
+function glue(u) { return String(u).replace(/ /g, NB).replace(/\//g, '/\u2060'); }
+function num2(v, lang) { var s = v.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); return lang === 'id' ? s.replace(/[.,]/g, function (c) { return c === '.' ? ',' : '.'; }) : s; }
+function rupiah(x, lang) {
+  if (!x) return null;
+  if (x >= 1e9) { var b = num(x / 1e9, lang, false, 2); return lang === 'id' ? 'Rp ' + b + NB + 'miliar' : 'IDR ' + b + NB + 'billion'; }
+  var m = num(x / 1e6, lang, false, 1); return lang === 'id' ? 'Rp ' + m + NB + 'juta' : 'IDR ' + m + NB + 'million';
+}
+function money(x, lang) { if (x === 0) return (lang === 'id' ? 'Rp ' : 'IDR ') + '0'; if (!x) return null; return x >= 1e6 ? rupiah(x, lang) : rupiahSmall(x, lang); }
+function rupiahSmall(x, lang) { if (!x) return null; return (lang === 'id' ? 'Rp ' : 'IDR ') + num(Math.round(x / 100) * 100, lang, true, 0); }
+var MONTHS = { en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'], id: ['Jan', 'Feb', 'Mar', 'Apr', 'Mei', 'Jun', 'Jul', 'Agu', 'Sep', 'Okt', 'Nov', 'Des'] };
+function monthYear(ym, lang) { var m = /^(\d{4})-(\d{2})/.exec(ym || ''); return m ? MONTHS[lang][Number(m[2]) - 1] + ' ' + m[1] : String(ym); }
+function variantOf(v) { var x = CUR_LANG === 'id' && v.tr && v.tr.variant ? v.tr.variant : v.variant; return x ? String(x).replace(/(\d) (t|m|kWh|kg)\b/g, '$1' + NB + '$2') : x; }
+function shortName(v) { return v.model + (v.variant ? ' ' + variantOf(v) : ''); }
+function yearKey(v) { return v.model_year ? String(v.model_year) : 'na'; }
+function uniq(a) { return a.filter(function (x, i) { return a.indexOf(x) === i; }); }
+
+DATA.forEach(function (v) {
+  v.gvw_t = v.gvw_kg ? v.gvw_kg / 1000 : null;
+  var parts = [];
+  if (v.ac_connector) parts.push('AC ' + v.ac_connector);
+  if (v.dc_connector) parts.push('DC ' + v.dc_connector);
+  v.conn = parts.length ? parts.join(', ') : null;
+  v.unc = v.uncertain_fields || [];
+  v.gcw_t = v.gcw_kg ? v.gcw_kg / 1000 : null;
+  var f = CYCLE_FACTOR[v.range_standard] || CYCLE_FACTOR.none;
+  // cars: claimed range x test-method factor (real-world range row).
+  // Trucks: range at full payload when published; otherwise an estimate from the claimed range x the same factor (shown in italics, never ranked).
+  // Mining trucks: no estimate (they are run by operating hours, not km a day).
+  v.real_range_km = v.type === 'truck' ? null : (typeof v.range_km === 'number' ? Math.round(v.range_km * f) : null);
+  v.real_factor = f;
+  var kwh = v.battery_usable_kwh || (v.battery_gross_kwh ? v.battery_gross_kwh * 0.93 : null);
+  var basis;
+  v.costEst = false;
+  if (v.type !== 'truck') basis = v.real_range_km;
+  else if (typeof v.range_full_payload_km === 'number') basis = v.range_full_payload_km;
+  else if (typeof v.range_km === 'number' && v.body_type !== 'Mining truck') { basis = v.range_km * f; v.costEst = true; }
+  else basis = null;
+  // payload that is larger than JBB minus kerb weight is probably a chassis rating that includes the body: shown, flagged, not ranked
+  v.payloadOdd = v.type === 'truck' && typeof v.payload_kg === 'number' && typeof v.gvw_kg === 'number' && typeof v.kerb_weight_kg === 'number' && v.payload_kg > v.gvw_kg - v.kerb_weight_kg + 50;
+  v.cons = (typeof kwh === 'number' && basis) ? (kwh / basis) * 100 : null;
+  v.cost_home = v.cons ? v.cons * TARIFF.home * TARIFF.loss : null;
+  v.cost_public = v.cons ? v.cons * TARIFF.pub * TARIFF.dcLoss : null;
+  v.cells_t = v.cell_count ? (v.cell_count + (v.cell_config ? ' (' + v.cell_config + ')' : '')) : (v.cell_config || null);
+  v.pack_v_range = (v.pack_voltage_min_v && v.pack_voltage_max_v) ? v.pack_voltage_min_v + '–' + v.pack_voltage_max_v + ' V' : null;
+});
+var BY_ID = {};
+DATA.forEach(function (v) { BY_ID[v.id] = v; });
+
+var MAX = 10;
+var MARKET_ID = { 'Malaysia': 'Malaysia', 'Thailand': 'Thailand', 'Philippines': 'Filipina', 'Singapore': 'Singapura', 'Vietnam': 'Vietnam', 'Australia': 'Australia', 'Japan': 'Jepang', 'Korea': 'Korea', 'China': 'Tiongkok', 'India': 'India', 'Europe': 'Eropa', 'UK': 'Inggris', 'United States': 'Amerika Serikat', 'Global': 'global' };
+var CLOSED = { open: false, step: 'brand', make: null, model: null, year: null, slot: null, query: '', seg: 'All', picked: [], confirm: false, limitHit: false };
+
+class Component extends DCLogic {
+  constructor(props) {
+    super(props);
+    var pick = function (type) {
+      var d = (DEFAULTS[type] || []).filter(function (id) { return BY_ID[id]; });
+      if (!d.length) d = DATA.filter(function (v) { return v.type === type; }).slice(0, 2).map(function (v) { return v.id; });
+      return d;
+    };
+    this.state = { lang: null, mode: 'car', sel: { car: pick('car'), truck: pick('truck') }, diffOnly: false, diag: false, keyOnly: true, sumOpen: true, dailyKm: { car: 40, truck: 100 }, themeOpen: false, theme: 'auto', announce: '', pk: CLOSED, note: null, collapsed: {}, vw: (typeof window !== 'undefined' && window.innerWidth) || 390 };
+  }
+  componentDidMount() {
+    // layout follows the width the app actually gets, not the device model; text size and the pinned header height are re-read on every resize
+    var self = this;
+    var measure = function () {
+      var sc = document.querySelector('[data-evc-scroll]');
+      var w = sc ? sc.clientWidth : window.innerWidth;
+      var patch = {};
+      if (w && Math.abs(w - (self.state.vw || 0)) >= 1) patch.vw = w;
+      try {
+        var fs = parseFloat(window.getComputedStyle(document.documentElement).fontSize) || 16;
+        if ((fs >= 20) !== !!self.state.bigText) patch.bigText = fs >= 20;
+      } catch (e) {}
+      var hb = document.querySelector('[data-evc-headbox]');
+      var hh = hb ? Math.round(hb.getBoundingClientRect().height) : 0;
+      if (hh && Math.abs(hh - (self.state.headH || 0)) >= 4) patch.headH = hh;
+      if (Object.keys(patch).length) self.setState(patch);
+    };
+    this.measure = measure;
+    measure();
+    this.setupBounce();
+    try {
+      this.ro = new ResizeObserver(measure);
+      var root = document.querySelector('[data-evc-root]'), sc = document.querySelector('[data-evc-scroll]');
+      if (root) this.ro.observe(root);
+      if (sc) this.ro.observe(sc);
+      var hb = document.querySelector('[data-evc-headbox]');
+      if (hb) this.ro.observe(hb);
+    } catch (e) { window.addEventListener('resize', measure); }
+  }
+  // Edge bounce drawn by the app: the browser's own bounce is off because it drags pinned parts.
+  // Only moving content springs; pinned spec names, section titles and the vehicle row stay put.
+  armUndo(token, ms) {
+    var self = this;
+    clearTimeout(this.undoTimer);
+    this.undoTimer = setTimeout(function () { if (self.state.undo && self.state.undo.token === token) self.setState({ undo: null }); }, ms);
+  }
+  setupBounce() {
+    var sc = document.querySelector('[data-evc-scroll]');
+    if (!sc || sc.getAttribute('data-evc-bounce')) return;
+    sc.setAttribute('data-evc-bounce', '1');
+    var ox = 0, oyt = 0, oyb = 0, timer = null, kickTimer = null, touch = null, lastWheel = 0;
+    var last = { t: 0, l: sc.scrollLeft, tp: sc.scrollTop };
+    var calm = false;
+    try { calm = window.matchMedia('(prefers-reduced-motion: reduce)').matches; } catch (e) {}
+    var rub = function (x, d) { var a = Math.abs(x); return (1 - 1 / (a * 0.55 / d + 1)) * d * (x < 0 ? -1 : 1); };
+    var maxX = function () { return Math.max(0, sc.scrollWidth - sc.clientWidth); };
+    var maxY = function () { return Math.max(0, sc.scrollHeight - sc.clientHeight); };
+    var mode = function (m) { sc.classList.remove('evc-spring'); sc.classList.remove('evc-kick'); if (m) sc.classList.add(m); };
+    var apply = function (m) {
+      mode(m);
+      sc.style.setProperty('--ox', ox.toFixed(1) + 'px');
+      sc.style.setProperty('--oyt', oyt.toFixed(1) + 'px');
+      sc.style.setProperty('--oyb', oyb.toFixed(1) + 'px');
+    };
+    var release = function () { if (ox || oyt || oyb) { ox = 0; oyt = 0; oyb = 0; apply('evc-spring'); } };
+    var setFrom = function (exX, exY) {
+      var w = Math.min(sc.clientWidth, 520), h = Math.min(sc.clientHeight, 720);
+      ox = maxX() > 0 ? -rub(exX, w) : 0;
+      oyt = exY < 0 ? -rub(exY, h) : 0;
+      oyb = exY > 0 ? -rub(exY, h) : 0;
+      apply(null);
+    };
+    // finger drags (iPhone, iPad, Android)
+    sc.addEventListener('touchstart', function (e) {
+      if (e.touches.length !== 1) { touch = null; return; }
+      var q = e.touches[0];
+      touch = { x: q.clientX, y: q.clientY, sl: sc.scrollLeft, st: sc.scrollTop };
+    }, { passive: true });
+    sc.addEventListener('touchmove', function (e) {
+      if (!touch || e.touches.length !== 1) return;
+      var q = e.touches[0];
+      var wantX = touch.sl + (touch.x - q.clientX), wantY = touch.st + (touch.y - q.clientY);
+      var mx = maxX(), my = maxY();
+      setFrom(wantX < 0 ? wantX : wantX > mx ? wantX - mx : 0, wantY < 0 ? wantY : wantY > my ? wantY - my : 0);
+    }, { passive: true });
+    var end = function () { touch = null; release(); };
+    sc.addEventListener('touchend', end, { passive: true });
+    sc.addEventListener('touchcancel', end, { passive: true });
+    // trackpad and mouse wheel
+    var wx = 0, wy = 0;
+    var step = function (w, d, atStart, atEnd) {
+      if (w > 0) return Math.max(0, w + d);
+      if (w < 0) return Math.min(0, w + d);
+      if (atEnd && d > 0) return d;
+      if (atStart && d < 0) return d;
+      return 0;
+    };
+    sc.addEventListener('wheel', function (e) {
+      if (e.ctrlKey) return;
+      lastWheel = Date.now();
+      var dx = e.deltaX, dy = e.deltaY;
+      if (e.deltaMode === 1) { dx *= 16; dy *= 16; }
+      var mx = maxX(), my = maxY();
+      wx = mx > 0 ? step(wx, dx, sc.scrollLeft <= 0, sc.scrollLeft >= mx - 1) : 0;
+      wy = step(wy, dy, sc.scrollTop <= 0, sc.scrollTop >= my - 1);
+      if (!wx && !wy && !ox && !oyt && !oyb) return;
+      setFrom(wx * 0.5, wy * 0.5);
+      clearTimeout(timer);
+      timer = setTimeout(function () { wx = 0; wy = 0; release(); }, 120);
+    }, { passive: true });
+    // a fling that hits the edge after the finger lifts
+    sc.addEventListener('scroll', function () {
+      var now = Date.now(), dt = Math.max(1, now - last.t);
+      var vx = (sc.scrollLeft - last.l) / dt, vy = (sc.scrollTop - last.tp) / dt;
+      last = { t: now, l: sc.scrollLeft, tp: sc.scrollTop };
+      if (touch || calm || now - lastWheel < 250 || dt > 100) return;
+      var mx = maxX(), my = maxY(), kx = 0, ky = 0;
+      if (mx > 0 && Math.abs(vx) > 0.6 && (sc.scrollLeft <= 0 || sc.scrollLeft >= mx - 1)) kx = -Math.sign(vx) * Math.min(48, Math.abs(vx) * 16);
+      if (Math.abs(vy) > 0.6 && (sc.scrollTop <= 0 || sc.scrollTop >= my - 1)) ky = -Math.sign(vy) * Math.min(48, Math.abs(vy) * 16);
+      if (!kx && !ky) return;
+      ox = kx; oyt = ky > 0 ? ky : 0; oyb = ky < 0 ? ky : 0;
+      apply('evc-kick');
+      clearTimeout(kickTimer);
+      kickTimer = setTimeout(release, 120);
+    }, { passive: true });
+  }
+  componentWillUnmount() {
+    try { if (this.ro) this.ro.disconnect(); else window.removeEventListener('resize', this.measure); } catch (e) {}
+  }
+  componentDidUpdate(pp, ps) {
+    var s = this.state, self = this;
+    this.setupBounce();
+    var focusSel = function (sel) { setTimeout(function () { var el = document.querySelector(sel); if (el && el.focus) el.focus(); }, 30); };
+    var back = function (el) { setTimeout(function () { if (el && el.focus && document.contains(el)) el.focus(); }, 30); };
+    if (s.pk.open && (!ps.pk.open || ps.pk.step !== s.pk.step)) focusSel('[data-evc-picker-title]');
+    if (!s.pk.open && ps.pk.open) back(self.opener);
+    if (s.pk.confirm && !ps.pk.confirm) focusSel('[data-evc-confirm-cancel]');
+    if ((s.themeOpen && !ps.themeOpen) || (s.src && !ps.src)) focusSel('[data-evc-dialog-title]');
+    if ((!s.themeOpen && ps.themeOpen) || (!s.src && ps.src)) back(self.opener);
+    if (s.note && !ps.note) focusSel('[data-evc-note]');
+    if (s.undo && (!ps.undo || ps.undo.token !== s.undo.token)) focusSel('[data-evc-undo]');
+    if (!s.undo && ps.undo) setTimeout(function () { var a = document.activeElement; if (!a || a === document.body || !document.contains(a)) { var el = document.querySelector('[data-evc-slot]') || document.querySelector('[data-evc-add]'); if (el) el.focus(); } }, 30);
+    if (!s.note && ps.note) back(self.noteOpener);
+  }
+  closeTop() {
+    var s = this.state;
+    if (s.pk.confirm) return this.pk({ confirm: false });
+    if (s.note) return this.setState({ note: null });
+    if (s.src) return this.setState({ src: null });
+    if (s.themeOpen) return this.setState({ themeOpen: false });
+    if (s.pk.open) return this.setState({ pk: CLOSED });
+  }
+  pk(patch) { this.setState({ pk: Object.assign({}, this.state.pk, patch) }); }
+  setSel(list) {
+    var sel = Object.assign({}, this.state.sel);
+    sel[this.state.mode] = list;
+    this.setState({ sel: sel });
+  }
+  renderVals() {
+    var self = this;
+    var s = this.state;
+    var lang = s.lang || (this.props.language === 'id' ? 'id' : 'en');
+    if (s.dailyKm) { DAILY_KM.car = s.dailyKm.car; DAILY_KM.truck = s.dailyKm.truck; }
+    var L = STR[lang];
+    CUR_LANG = lang;
+    CUR_TARIFF = TRUCK_TARIFFS.filter(function (t) { return t.k === (s.tariff || 'b2'); })[0] || TRUCK_TARIFFS[1];
+    DATA.forEach(function (v) { if (v.type === 'truck') v.cost_home = v.cons ? v.cons * CUR_TARIFF.v * TARIFF.loss : null; });
+    var mode = s.mode;
+    var all = DATA.filter(function (v) { return v.type === mode; });
+    var selIds = s.sel[mode];
+    var chosen = selIds.map(function (id) { return BY_ID[id]; }).filter(Boolean);
+    var openNote = function (key) {
+      return function (e) {
+        var btn = e.currentTarget;
+        self.noteOpener = btn;
+        var root = btn.closest ? btn.closest('[data-evc-root]') : null;
+        var x = 195, top = 300, above = false, rootW = 390, rootH = 844;
+        if (root) {
+          var rr = root.getBoundingClientRect(), br = btn.getBoundingClientRect();
+          var sc = rr.width / (root.offsetWidth || rr.width) || 1;
+          rootW = root.offsetWidth || rootW; rootH = root.offsetHeight || rootH;
+          x = (br.left - rr.left + br.width / 2) / sc;
+          var yBot = (br.bottom - rr.top) / sc, yTop = (br.top - rr.top) / sc;
+          above = yBot + 220 > rootH;
+          top = above ? yTop - 10 : yBot + 10;
+        }
+        var left = Math.max(12, Math.min(x - 130, rootW - 12 - 260));
+        self.setState({ note: { key: key, left: left, top: top, above: above, rootH: rootH, arrow: Math.max(14, Math.min(x - left, 246)) } });
+      };
+    };
+    var abbrSegs = function (text) {
+      if (text === null || text === undefined) return [];
+      var segs = String(text).split(ABBR_RE).map(function (part, i) {
+        if (i % 2 === 1) return { t: part, isAbbr: true, plain: false, style: ABBR_BTN, aria: fill(L.showFull, { a: part }), open: openNote(part) };
+        return { t: part, isAbbr: false, plain: true };
+      });
+      // keep brackets and trailing punctuation on the same line as the abbreviation
+      segs.forEach(function (g, i) {
+        if (!g.isAbbr) return;
+        g.head = ''; g.tail = '';
+        var prev = segs[i - 1], next = segs[i + 1];
+        if (prev && !prev.isAbbr && /[(\[]$/.test(prev.t)) { g.head = prev.t.slice(-1); prev.t = prev.t.slice(0, -1); }
+        var m = next && !next.isAbbr && /^[,.;:)\]%]+/.exec(next.t);
+        if (m) { g.tail = m[0]; next.t = next.t.slice(m[0].length); }
+      });
+      return segs.filter(function (x) { return x.t !== ''; });
+    };
+    var vname = function (v) { return v.make + ' ' + v.model + (v.variant ? ' ' + variantOf(v) : ''); };
+
+    var langs = [{ id: 'en', label: 'EN', aria: 'English' }, { id: 'id', label: 'ID', aria: 'Bahasa Indonesia' }].map(function (g) {
+      var on = lang === g.id;
+      return { label: g.label, aria: g.aria, pressed: on ? 'true' : 'false', style: on ? LANG_ON : LANG_OFF, pick: function () { self.setState({ lang: g.id }); } };
+    });
+
+    var segs = [{ label: L.cars, id: 'car' }, { label: L.trucks, id: 'truck' }].map(function (g) {
+      var on = mode === g.id;
+      return { label: g.label, selected: on ? 'true' : 'false', tab: on ? '0' : '-1', style: on ? SEG_ON : SEG_OFF, pick: function () { self.setState({ mode: g.id, pk: CLOSED, undo: null }); } };
+    });
+
+    // ---------- layout: compact (<600px), regular (600-1023px), wide (1024px+) ----------
+    var W = Math.max(200, Math.round(s.vw || 390));
+    var size = W < 600 ? 'compact' : W < 1024 ? 'regular' : 'wide';
+    var large = size !== 'compact';
+    var P = size === 'compact' ? 16 : size === 'regular' ? 24 : 32;
+    var nV = chosen.length, canAddV = nV < MAX;
+    var stack = !large && (!!s.bigText || W < 340);
+    var GAP = 6, ADDW = 52, LW = size === 'wide' ? 240 : W < 768 ? 160 : 200;
+    var MINC = size === 'compact' ? 128 : size === 'regular' ? 140 : 150;
+    var cols, colsV = 'minmax(0, 1fr)', tableW = W, scrolls = false;
+    if (stack || nV === 0) { cols = 'minmax(0, 1fr)'; }
+    else {
+      var fixedW = (large ? LW + GAP : 0) + (canAddV ? ADDW + GAP : 0);
+      var avail = W - 2 * P - fixedW;
+      var fits = large ? (nV * MINC + (nV - 1) * GAP <= avail) : nV <= 3;
+      colsV = (fits ? 'repeat(' + nV + ', minmax(0, 1fr))' : 'repeat(' + nV + ', ' + MINC + 'px)') + (canAddV ? ' ' + ADDW + 'px' : '');
+      cols = (large ? LW + 'px ' : '') + colsV;
+      if (!fits) { scrolls = true; tableW = 2 * P + fixedW + nV * MINC + (nV - 1) * GAP; }
+    }
+    var wrapW = Math.max(W, tableW);
+    var corner = large && nV > 0;
+    var pin = 'position: sticky; left: 0; width: ' + W + 'px; box-sizing: border-box; padding-left: ' + P + 'px; padding-right: ' + P + 'px';
+    var pinIn = 'position: sticky; left: ' + P + 'px; width: ' + (W - 2 * P) + 'px; box-sizing: border-box';
+    var lay = {
+      compact: !large, large: large, scrolls: scrolls, corner: corner,
+      wrap: 'width: ' + wrapW + 'px; min-height: 100%',
+      pin: pin, pinIn: pinIn,
+      // with very large system text the cards stack full width, so they scroll away instead of pinning
+      head: stack ? 'position: relative; z-index: 3' : 'position: sticky; top: 0; z-index: 3',
+      grid: 'display: grid; grid-template-columns: ' + cols + '; padding: 0 ' + P + 'px',
+      cornerStyle: 'position: sticky; left: 0; z-index: 2; margin-left: -' + P + 'px; padding-left: ' + P + 'px; background: var(--ground); min-width: 0',
+      controls: large ? (W >= 1280 ? 'flex: 1 1 0; min-width: 0; display: flex; gap: 12px' : 'flex: 1 1 100%; min-width: 0; display: flex; gap: 12px') : '',
+      rightFirst: large && W < 1280, rightLast: large && W >= 1280,
+      table: 'position: relative; display: flex; flex-direction: column; gap: ' + (large ? 6 : 8) + 'px; padding: 6px ' + P + 'px 0',
+      row: large ? 'position: relative; display: grid; grid-template-columns: ' + cols + '; gap: 6px' : 'position: relative; display: flex; flex-direction: column; gap: 3px',
+      cellsWrap: (large ? 'grid-column: 2 / -1; ' : '') + 'min-width: 0; display: grid; grid-template-columns: ' + colsV + '; gap: 6px',
+      vWrap: 'grid-column: ' + (corner ? 2 : 1) + ' / -1; min-width: 0; display: grid; grid-template-columns: ' + colsV + '; gap: 6px',
+      note: large ? 'grid-column: 1 / -1; ' + pinIn : pinIn,
+      lineInRow: !large,
+      sumCols: W < 480 ? 'minmax(0, 1fr)' : '9.5rem minmax(0, 1fr)',
+      viewCols: W < 340 ? 'minmax(0, 1fr)' : 'repeat(3, minmax(0, 1fr))',
+      scrollPad: 'scroll-padding-top: ' + (stack ? 16 : Math.max(140, (s.headH || 0) + 16)) + 'px; scroll-padding-left: ' + (large ? (LW + P + 6) : 0) + 'px',
+      labelBtn: 'display: block; max-width: 100%; border: 0; background: transparent; font: inherit; color: inherit; text-align: left; ' + (large ? 'width: 100%; min-height: 32px; padding: 0' : 'padding: 8px 0 2px'),
+      lineInLabel: 'position: absolute; left: ' + (P - 10) + 'px; top: -3px; bottom: -3px; width: 3px; background: var(--hv)',
+      sheetAlign: large ? 'justify-content: center; align-items: center; padding: 24px' : 'justify-content: flex-end',
+      sheet: large ? 'width: 480px; max-width: 100%; border-radius: 20px' : 'border-radius: 20px 20px 0 0',
+      pickerOuter: large ? 'position: absolute; inset: 0; z-index: 10; display: flex; align-items: center; justify-content: center; padding: 24px; background: var(--scrim)' : 'position: absolute; inset: 0; z-index: 10; display: flex',
+      pickerPanel: 'position: relative; background: var(--ground); display: flex; flex-direction: column; overflow: hidden; ' + (large ? 'width: 560px; max-width: 100%; height: 100%; max-height: 860px; border-radius: 20px; box-shadow: 0 16px 48px var(--shadow)' : 'flex: 1; min-width: 0')
+    };
+    var labelStyleFor = function (diag) {
+      var c = diag ? 'font-weight: 600; color: var(--hv-text)' : 'font-weight: 500; color: var(--muted)';
+      if (large) return 'position: sticky; left: 0; z-index: 1; margin-left: -' + P + 'px; padding: 4px 10px 4px ' + P + 'px; background: var(--ground); min-width: 0; font-size: 0.8125rem; line-height: 1.125rem; ' + c;
+      return 'position: sticky; left: ' + P + 'px; align-self: flex-start; max-width: ' + (W - 2 * P) + 'px; font-size: 0.75rem; line-height: 1rem; ' + c;
+    };
+
+    var slots = chosen.map(function (v) {
+      return {
+        make: v.make, model: v.model,
+        trimLine: [v.model_year, variantOf(v)].filter(Boolean).join(' ') + (v.status_id === 'discontinued' ? ' · ' + L.discontinued : ''),
+        hasClass: v.type === 'truck' && !!v.segment,
+        classLabel: v.type === 'truck' ? fill(L.classOf, { c: segName(v.segment, lang) }) + (v.body_type ? ' · ' + bodyShort(v.body_type, lang) : '') : '',
+        changeLabel: fill(L.change, { v: vname(v) + (v.model_year ? ' ' + v.model_year : '') + (v.type === 'truck' && v.segment ? ', ' + fill(L.classOf, { c: segName(v.segment, lang) }) + (v.body_type ? ', ' + bodyName(v.body_type, lang) : '') : '') + (v.status_id === 'discontinued' ? ', ' + L.discontinued : '') }),
+        removeLabel: fill(L.remove, { v: vname(v) + (v.model_year ? ' ' + v.model_year : '') }),
+        change: function (e) { self.opener = e && e.currentTarget; self.setState({ pk: Object.assign({}, CLOSED, { open: true, step: 'trim', make: v.make, model: v.model, year: yearKey(v), picked: selIds.slice() }) }); },
+        remove: function () {
+          var idx = selIds.indexOf(v.id), token = Date.now();
+          self.setSel(selIds.filter(function (x) { return x !== v.id; }));
+          self.setState({ announce: fill(L.annRemoved, { v: vname(v) }) + ' ' + L.undoHint, undo: { id: v.id, idx: idx, mode: mode, token: token } });
+          self.armUndo(token, 10000);
+        }
+      };
+    });
+
+    var dupName = {};
+    chosen.forEach(function (v) { var k = v.make + '|' + shortName(v); dupName[k] = (dupName[k] || 0) + 1; });
+    var cellName = function (v) { return shortName(v) + (dupName[v.make + '|' + shortName(v)] > 1 && v.model_year ? ' (' + v.model_year + ')' : ''); };
+    var rows = ROWS.filter(function (r) { return (!r.trucksOnly || mode === 'truck') && (!r.carsOnly || mode === 'car') && (!r.diag || s.diag) && (!s.keyOnly || r.key || (mode === 'truck' && r.keyTruck)) });
+    var stds = {};
+    chosen.forEach(function (v) { stds[stdName(v.range_standard, lang, L)] = true; });
+    var mixedStd = chosen.length > 1 && Object.keys(stds).length > 1;
+    var classMix = mode === 'truck' && chosen.length > 1 && chosen.some(function (v) { return v.segment !== chosen[0].segment; });
+    // best marks only between trucks of the same class AND the same body type (a van is not ranked against a minibus, a dump truck not against a tractor head)
+    var bodyMix = mode === 'truck' && chosen.length > 1 && !classMix && chosen.some(function (v) { return !v.body_type || v.body_type !== chosen[0].body_type; });
+    var noRank = classMix || bodyMix;
+    var noMethod = mode === 'truck' && chosen.some(function (v) { return typeof v.range_km === 'number' && !v.range_standard; });
+
+    // trucks: cost rows rest on the full-payload range when published, otherwise on the claimed range
+    var uncOf = function (r, v) { if (mode === 'truck' && r.uncTruck && !(v && v.costEst)) return r.uncTruck; return r.unc || r.field; };
+    var marketOf = function (r, v) { var fs = v.field_sources && v.field_sources[uncOf(r, v)]; return fs && fs.market ? fs.market : null; };
+    var marketName = function (m) { return lang === 'id' ? (MARKET_ID[m] || m) : m; };
+    var isSingle = function (r, v) { var k = uncOf(r, v), fs = v.field_sources && v.field_sources[k]; return v.unc.indexOf(k) >= 0 || !!(fs && fs.sources === 1); };
+    var display = function (r, v) {
+      if (r.custom) return r.custom(v, lang);
+      var x = v[r.field];
+      if (x === 'n/a') return L.notAvail;
+      if (x === undefined || x === '' || x === null) return null;
+      if (typeof x === 'string' && lang === 'id' && v.tr && v.tr[r.field]) return v.tr[r.field];
+      if (r.bool) {
+        if (x === true) return L.yes + (r.extraKw && v[r.extraKw] ? ', ' + num(v[r.extraKw], lang) + ' kW' : '');
+        return L.no;
+      }
+      if (r.seg) return segName(x, lang);
+      if (r.raw) return String(x);
+      if (r.ratio && typeof x === 'number') { var rs = String(Math.round(x * 1000) / 1000); return (lang === 'id' ? rs.replace('.', ',') : rs) + ':1'; }
+      if (typeof x === 'number') {
+        var unit = lang === 'id' && r.idUnit ? r.idUnit : r.unit;
+        return num(x, lang, r.thousands, r.digits) + (unit ? NB + glue(unit) : '');
+      }
+      return String(x);
+    };
+
+    var srcSheet = { open: false };
+    if (s.src && ROWS[s.src.ri]) {
+      var sr = ROWS[s.src.ri];
+      srcSheet = {
+        open: true, label: s.src.label, close: function () { self.setState({ src: null }); },
+        entries: chosen.map(function (v, vi) {
+          var fs = v.field_sources && v.field_sources[uncOf(sr, v)];
+          var val = display(sr, v);
+          var kind, links = [], meta = [];
+          if (sr.calc) { kind = L.srcCalc + ' ' + (sr.field === 'real_range_km' ? (typeof v.range_km === 'number' ? fill(L.realCalc, { r: num(v.range_km, lang, true), s: stdName(v.range_standard, lang, L), f: num(v.real_factor, lang, false, 2) }) : L.realExplain) : (sr.note ? sr.note(lang, L, mode) : '')); }
+          else if (fs) { kind = L.srcFrom; (fs.all && fs.all.length ? fs.all : [fs]).forEach(function (x) { links.push({ title: x.title || x.url, url: x.url }); }); }
+          else if ((v.sources || []).length) { kind = L.srcVehicle; links = v.sources.map(function (l) { return { title: l.title || l.url, url: l.url }; }); }
+          else { kind = L.srcNone; }
+          var d = (fs && fs.date) || v.data_as_of; if (d && !sr.calc && kind !== L.srcNone) meta.push(monthYear(d, lang));
+          if (fs && fs.type && L.types[fs.type]) meta.push(L.types[fs.type]);
+          if (fs && fs.market) meta.push(fill(L.marketMeta, { m: marketName(fs.market) }));
+          if (!sr.calc) { if (isSingle(sr, v)) meta.push(L.legendSingle); else if (fs && fs.sources >= 2) meta.push(L.conf2); }
+          else if (isSingle(sr, v)) meta.push(L.calcSingle);
+          return { style: LIST_ITEM + (vi ? '; border-top: 1px solid var(--line)' : ''), name: v.make + ' ' + shortName(v) + (v.model_year ? ' (' + v.model_year + ')' : ''), value: val === null ? '—' : val, kind: kind, links: links, hasMeta: meta.length > 0, meta: meta.join(', ') };
+        })
+      };
+    }
+    var totalRows = 0;
+    var secOrder = s.keyOnly ? SECTIONS.filter(function (x) { return x.key === 'price'; }).concat(SECTIONS.filter(function (x) { return x.key !== 'price'; })) : SECTIONS;
+    var sections = secOrder.map(function (sec) {
+      var secRows = rows.filter(function (r) { return r.sec === sec.key; }).map(function (r) {
+        var vals = chosen.map(function (v) { var x = v[r.field]; return (x === undefined || x === '') ? null : x; });
+        var localVals = chosen.map(function (v, i) { return marketOf(r, v) || (r.payloadChk && v.payloadOdd) ? null : vals[i]; });
+        var nums = localVals.filter(function (x) { return typeof x === 'number'; });
+        var bestVal = null;
+        // best only on published figures, and only when first place beats second place by at least 3%
+        var windows = uniq(chosen.map(function (v) { return v.dc_time_window || '10–80%'; }));
+        var bestAllowed = r.best && !r.diag && !r.calc && !noRank && !((r.std || r.cycleDep) && mixedStd) && !(r.windowDep && windows.length > 1) && !(mode === 'truck' && r.noBestTruck) && !(mode === 'truck' && r.std && noMethod);
+        if (bestAllowed && nums.length >= 2) {
+          var ranked = uniq(nums).sort(function (a, b) { return r.best === 'max' ? b - a : a - b; });
+          if (ranked.length >= 2 && Math.abs(ranked[0] - ranked[1]) / Math.abs(ranked[0]) >= 0.03) bestVal = ranked[0];
+        }
+        var cells = chosen.map(function (v, i) {
+          var text = display(r, v);
+          if (text === null) return { text: '—', segs: abbrSegs('—'), subSegs: [], style: CELL_NONE, hasSub: false, sub: '', key: '—', vname: cellName(v), showName: stack, aria: cellName(v) + ': ' + L.legendNone };
+          var uncertain = isSingle(r, v);
+          var st = text === L.notAvail ? CELL_NONE : (bestVal !== null && localVals[i] === bestVal) ? CELL_BEST : CELL_NORMAL;
+          var sub = r.std ? stdName(v.range_standard, lang, L) : (r.sub ? r.sub(v, lang, L) : '');
+          if (marketOf(r, v)) sub = (sub ? sub + ' · ' : '') + fill(L.marketSpec, { m: marketName(marketOf(r, v)) });
+          if (r.payloadChk && v.payloadOdd) sub = (sub ? sub + ' · ' : '') + L.payloadOdd;
+          if (mode === 'truck' && r.calc && v.costEst) sub = (sub ? sub + ' · ' : '') + L.estClaimed;
+          var mkt = marketOf(r, v);
+          var isBest = bestVal !== null && localVals[i] === bestVal;
+          return { text: text, segs: abbrSegs(text), subSegs: abbrSegs(sub), style: st + (uncertain ? UNC : '') + (r.calc ? '; font-style: italic' : ''), hasSub: !!sub, sub: sub, key: text + sub, isBest: isBest, isUnc: uncertain, vname: cellName(v), showName: stack, aria: cellName(v) + ': ' + text + (sub ? ', ' + sub : '') + (isBest ? ', ' + L.best : '') + (uncertain ? ', ' + L.legendSingle : '') + (r.calc ? ', ' + L.legendCalc : '') };
+        });
+        var allSame = cells.every(function (c) { return c.key === cells[0].key; });
+        // trucks: many rows are unpublished for every truck; hide a row when none of the chosen trucks has a value
+        var allEmpty = mode === 'truck' && cells.every(function (c) { return c.text === '—'; });
+        if (!stack && nV > 0 && canAddV) cells = cells.concat([{ blank: true, text: '', segs: [], subSegs: [], style: 'min-width: 0', hasSub: false, sub: '', key: '', vname: '', showName: false, aria: '' }]);
+        cells.forEach(function (c) { c.role = c.blank ? 'presentation' : 'cell'; c.hidden = c.blank ? 'true' : 'false'; });
+        var lbl = (mode === 'truck' && r.truckLabel) ? r.truckLabel[lang] : r[lang];
+        var rowNote = r.note && vals.some(function (x) { return x !== null; }) ? r.note(lang, L, mode, vals) : '';
+        var ri = ROWS.indexOf(r);
+        return { field: r.field, calc: !!r.calc, openSrc: function (e) { self.opener = e && e.currentTarget; self.setState({ src: { ri: ri, label: lbl } }); }, srcAria: fill(L.srcAria, { r: lbl }), srcHint: L.srcHint, label: lbl, labelSegs: abbrSegs(lbl), hasNote: !!rowNote, noteText: '. ' + rowNote, noteSegs: abbrSegs(rowNote), isDiag: !!r.diag, labelStyle: labelStyleFor(!!r.diag), cells: cells, hide: (s.diffOnly && chosen.length > 1 && allSame) || allEmpty };
+      }).filter(function (r) { return !r.hide; });
+      totalRows += secRows.length;
+      var byStd = {};
+      chosen.forEach(function (v) { var k = stdName(v.range_standard, lang, L); (byStd[k] = byStd[k] || []).push(v.model + (v.variant ? ' ' + v.variant : '')); });
+      var stdList = Object.keys(byStd).map(function (k) { return k + ': ' + byStd[k].join(', '); }).join('; ');
+      if (chosen.length > 4) stdList = Object.keys(byStd).map(function (k) { return k + ' (' + byStd[k].length + ')'; }).join(', ');
+      var warn = sec.key === 'range' && mixedStd ? fill(mode === 'truck' ? L.warnTruck : L.warn, { s: stdList }) : (sec.key === 'range' && noMethod && chosen.length > 1 ? L.noMethodTruck : '');
+      var folded = !!(s.collapsed && s.collapsed[sec.key]);
+      return { title: sec[lang], heads: chosen.map(function (v) { return { name: v.make + ' ' + cellName(v) }; }), open: !folded, collapsed: folded, expanded: folded ? 'false' : 'true', countLabel: secRows.length === 1 ? L.row1 : fill(L.rowN, { n: secRows.length }), chevronStyle: 'flex: none; transition: transform .2s; transform: rotate(' + (folded ? '-90deg' : '0deg') + ')', toggle: function () { var cz = Object.assign({}, s.collapsed); cz[sec.key] = !folded; self.setState({ collapsed: cz, note: null }); }, rows: secRows, hasDaily: sec.key === 'range' && secRows.some(function (r) { return r.field === 'cost_home' || r.field === 'cost_public'; }), hasWarn: !!warn, warn: warn, warnSegs: abbrSegs(warn), isDiag: !!sec.diag, color: sec.diag ? 'var(--hv-text)' : 'var(--ink)' };
+    }).filter(function (sec) { return chosen.length > 0 && sec.rows.length > 0; });
+
+    // ---------- plain summary: same rules as the best marks (published figures, same class, same test method, 3% lead) ----------
+    var summary = [];
+    if (chosen.length > 1) {
+      var nm = function (v) { return v.model + (v.variant ? ' ' + v.variant : ''); };
+      var leader = function (field, dir) {
+        var have = chosen.filter(function (v) { return typeof v[field] === 'number' && !(v.field_sources && v.field_sources[field] && v.field_sources[field].market) && !(field === 'payload_kg' && v.payloadOdd); });
+        if (have.length < 2) return null;
+        var sorted = have.slice().sort(function (a, b) { return dir === 'max' ? b[field] - a[field] : a[field] - b[field]; });
+        var a = sorted[0][field], b = sorted[1][field];
+        if (Math.abs(a - b) / Math.abs(a) < 0.03) return { tie: true, a: sorted[0], b: sorted[1] };
+        return { v: sorted[0], x: a, missing: chosen.length - have.length };
+      };
+      var line = function (label, text) { summary.push({ label: label, text: text, segs: abbrSegs(text) }); };
+      var tieText = function (ld) { return ld.a && ld.b ? fill(L.sumTieN, { a: nm(ld.a), b: nm(ld.b) }) : L.sumTie; };
+      if (classMix) line(L.sumRank, L.sumClass);
+      else if (bodyMix) line(L.sumRank, L.sumBody);
+      // costs less
+      if (noRank) {}
+      else {
+        var lp = leader('price_otr_idr', 'min');
+        line(L.sumCost, !lp ? L.sumNoData : lp.tie ? tieText(lp) : fill(L.sumLowest, { v: nm(lp.v), x: rupiah(lp.x, lang) }));
+      }
+      // goes further
+      if (noRank) {}
+      else if (mode === 'truck') {
+        // full-payload range first; most trucks don't publish it, so fall back to the claimed range (same rules as its best mark)
+        var lr = leader('range_full_payload_km', 'max');
+        if (lr) line(L.sumRange, lr.tie ? tieText(lr) : fill(L.sumFurthestLoaded, { v: nm(lr.v), x: num(lr.x, lang, true) }));
+        else if (mixedStd) line(L.sumRange, L.sumMixed);
+        else if (noMethod) line(L.sumRange, L.sumNoMethod);
+        else { var lt = leader('range_km', 'max'); line(L.sumRange, !lt ? L.sumNoData : lt.tie ? tieText(lt) : fill(L.sumFurthest, { v: nm(lt.v), x: num(lt.x, lang, true), s: stdName(lt.v.range_standard, lang, L) })); }
+      } else if (mixedStd) line(L.sumRange, L.sumMixed);
+      else {
+        var lc = leader('range_km', 'max');
+        line(L.sumRange, !lc ? L.sumNoData : lc.tie ? tieText(lc) : fill(L.sumFurthest, { v: nm(lc.v), x: num(lc.x, lang, true), s: stdName(lc.v.range_standard, lang, L) }));
+      }
+      // carries more / space
+      if (mode === 'truck') {
+        if (noRank) {}
+        else { var lw = leader('payload_kg', 'max'); line(L.sumCarry, !lw ? L.sumNoData : lw.tie ? tieText(lw) : fill(L.sumPayload, { v: nm(lw.v), x: num(lw.x, lang, true) })); }
+      } else {
+        var lb = leader('boot_l', 'max');
+        line(L.sumSpace, !lb ? L.sumNoData : lb.tie ? tieText(lb) : fill(L.sumBoot, { v: nm(lb.v), x: num(lb.x, lang, true) }));
+      }
+      // safety: facts only, no ranking
+      var rated = chosen.filter(function (v) { return v.crash_rating && !/not tested/i.test(v.crash_rating); });
+      var crash = function (v) { return lang === 'id' && v.tr && v.tr.crash_rating ? v.tr.crash_rating : v.crash_rating; };
+      if (!(mode === 'truck' && !rated.length)) line(L.sumSafety, rated.length ? rated.map(function (v) { return nm(v) + ': ' + crash(v); }).join('; ') + (rated.length < chosen.length ? '. ' + L.sumOthersNoRating : '') : L.sumNoRating);
+    }
+
+    var sources = chosen.map(function (v) {
+      var notes = (lang === 'id' && v.notes_id) ? v.notes_id : (v.notes || '');
+      return {
+        title: vname(v) + (v.model_year ? ' (' + v.model_year + ')' : ''),
+        notes: notes, hasNotes: !!notes,
+        hasAsOf: !!v.data_as_of, asOfLabel: v.data_as_of ? fill(L.asOf, { d: monthYear(v.data_as_of, lang) }) : '',
+        links: (v.sources || []).map(function (l) { return { title: l.title || l.url, url: l.url }; })
+      };
+    }).filter(function (x) { return x.hasNotes || x.links.length || x.hasAsOf; }).map(function (x, i) { x.titleSegs = abbrSegs(x.title); x.style = LIST_ITEM + (i ? '; border-top: 1px solid var(--line2)' : ''); return x; });
+
+    // ---------- picker ----------
+    var p = s.pk;
+    var pool = all.filter(function (v) { return p.seg === 'All' || v.segment === p.seg; });
+    var stepNo = { brand: 1, model: 2, year: 3, trim: 4 }[p.step];
+    var bars = [1, 2, 3, 4].map(function (i) { return { style: i <= stepNo ? BAR_ON : BAR_OFF }; });
+    var withRowStyles = function (list) { return list.map(function (r, i) { r.style = i === list.length - 1 ? ROW_LAST : ROW; return r; }); };
+    var yearLabel = function (k) { return k === 'na' ? L.yearNA : k; };
+    var count = function (n, one, many) { return n === 1 ? one : fill(many, { n: n }); };
+    var yearsOf = function (make, model) {
+      return uniq(all.filter(function (v) { return v.make === make && v.model === model; }).map(yearKey))
+        .sort(function (a, b) { return a === 'na' ? 1 : b === 'na' ? -1 : Number(b) - Number(a); });
+    };
+    var yearRange = function (make, model) {
+      var ys = yearsOf(make, model).filter(function (y) { return y !== 'na'; }).map(Number);
+      if (!ys.length) return '';
+      var lo = Math.min.apply(null, ys), hi = Math.max.apply(null, ys);
+      return lo === hi ? String(lo) : lo + '–' + hi;
+    };
+    var goModel = function (make) { return function () { self.pk({ step: 'model', make: make, query: '' }); }; };
+    var goYear = function (make, model) {
+      return function () {
+        self.pk({ step: 'year', make: make, model: model, query: '' });
+      };
+    };
+
+    var brands = uniq(pool.map(function (v) { return v.make; })).sort(function (a, b) { return a.localeCompare(b); });
+    var letters = uniq(brands.map(function (b) { return b.charAt(0).toUpperCase(); }));
+    var groups = letters.map(function (Lt) {
+      return {
+        letter: Lt,
+        rows: withRowStyles(brands.filter(function (b) { return b.charAt(0).toUpperCase() === Lt; }).map(function (b) {
+          var n = uniq(pool.filter(function (v) { return v.make === b; }).map(function (v) { return v.model; })).length;
+          return { title: b, meta: count(n, L.model1, L.modelN), choose: goModel(b) };
+        }))
+      };
+    });
+
+    var q = (p.query || '').trim().toLowerCase();
+    var hits = [];
+    if (q) {
+      var seenHit = {};
+      pool.forEach(function (v) {
+        var key = v.make + '|' + v.model;
+        if (seenHit[key]) return;
+        var hay = (v.make + ' ' + v.model).toLowerCase();
+        if (q.split(/\s+/).every(function (w) { return hay.indexOf(w) >= 0; })) {
+          seenHit[key] = true;
+          hits.push({ title: v.make + ' ' + v.model, sub: segName(v.segment, lang) || '', meta: yearRange(v.make, v.model), choose: goYear(v.make, v.model) });
+        }
+      });
+      hits.sort(function (a, b) { return a.title.localeCompare(b.title); });
+      hits = withRowStyles(hits);
+    }
+
+    var listRows = [];
+    if (p.step === 'model') {
+      var models = uniq(pool.filter(function (v) { return v.make === p.make; }).map(function (v) { return v.model; })).sort(function (a, b) { return a.localeCompare(b); });
+      listRows = models.map(function (m) {
+        var first = all.find(function (v) { return v.make === p.make && v.model === m; });
+        return { title: m, sub: segName(first.segment, lang) || '', hasSub: !!first.segment, meta: yearRange(p.make, m), choose: goYear(p.make, m) };
+      });
+    } else if (p.step === 'year') {
+      listRows = yearsOf(p.make, p.model).map(function (y) {
+        var n = all.filter(function (v) { return v.make === p.make && v.model === p.model && yearKey(v) === y; }).length;
+        return { title: yearLabel(y), sub: '', hasSub: false, meta: count(n, L.trim1, L.trimN), choose: function () { self.pk({ step: 'trim', year: y }); } };
+      });
+    }
+    listRows = withRowStyles(listRows);
+
+    var trims = [];
+    var picked = p.picked || [];
+    if (p.step === 'trim') {
+      trims = all.filter(function (v) { return v.make === p.make && v.model === p.model && yearKey(v) === p.year; })
+        .sort(function (a, b) { return (a.battery_gross_kwh || 0) - (b.battery_gross_kwh || 0) || (a.power_kw || 0) - (b.power_kw || 0); })
+        .map(function (v) {
+          var checked = picked.indexOf(v.id) >= 0;
+          var full = !checked && picked.length >= MAX;
+          var stat = function (val, unit, label) { return { value: val === null || val === undefined || val === '' ? '—' : val === 'n/a' ? L.notAvail : (typeof val === 'number' ? num(val, lang) + (unit ? NB + unit : '') : String(val)), label: label }; };
+          return {
+            name: v.variant || L.standard,
+            gone: v.status_id === 'discontinued',
+            checkedAttr: checked ? 'true' : 'false',
+            disabledAttr: full ? 'true' : 'false',
+            checked: checked,
+            boxStyle: checked ? BOX_ON : BOX_OFF,
+            style: (checked ? TRIM_ON : TRIM) + (full ? '; opacity: 0.5' : ''),
+            aria: vname(v),
+            stats: v.type === 'truck' ? [{ value: v.price_otr_idr ? rupiah(v.price_otr_idr, lang) : '—', label: L.sPrice }, { value: v.body_type ? bodyName(v.body_type, lang) : '—', label: L.sBody }, stat(v.payload_kg, 'kg', L.sPayload), stat(v.gvw_kg ? v.gvw_kg / 1000 : null, 't', L.sGvw), stat(v.battery_gross_kwh, 'kWh', L.sBattery), stat(v.range_km, 'km', L.sRange)] : [{ value: v.price_otr_idr ? rupiah(v.price_otr_idr, lang) : '—', label: L.sPrice }, stat(v.battery_gross_kwh, 'kWh', L.sBattery), stat(v.range_km, 'km', v.range_km ? L.sRange + ', ' + stdName(v.range_standard, lang, L) : L.sRange), stat(v.power_kw, 'kW', L.sPower), stat(v.drive, '', L.sDrive), stat(v.dc_max_kw, 'kW', L.sDc)],
+            choose: function () {
+              if (full) { self.pk({ limitHit: true }); return; }
+              self.pk({ limitHit: false, picked: checked ? picked.filter(function (x) { return x !== v.id; }) : picked.concat([v.id]) });
+            }
+          };
+        });
+    }
+
+    var segList = (mode === 'car' ? CAR_SEGS : TRUCK_SEGS).filter(function (g) { return all.some(function (v) { return v.segment === g; }); });
+    var filters = ['All'].concat(segList).map(function (g) {
+      var on = p.seg === g;
+      return { label: g === 'All' ? (mode === 'car' ? L.allCars : L.allTrucks) : segName(g, lang), pressed: on ? 'true' : 'false', style: on ? PILL_ON : PILL_OFF, pick: function () { self.pk({ seg: g }); } };
+    });
+
+    var back = {
+      brand: { label: L.cancel, act: function () { self.setState({ pk: CLOSED }); } },
+      model: { label: L.brands, act: function () { self.pk({ step: 'brand' }); } },
+      year: { label: p.make, act: function () { self.pk({ step: 'model' }); } },
+      trim: { label: p.model, act: function () { self.pk({ step: 'year' }); } }
+    }[p.step];
+    var titles = { brand: L.tBrand, model: L.tModel, year: L.tYear, trim: L.tTrim };
+    var paths = {
+      brand: '',
+      model: p.make || '',
+      year: (p.make || '') + ' ' + (p.model || ''),
+      trim: (p.make || '') + ' ' + (p.model || '') + ', ' + yearLabel(p.year || 'na')
+    };
+
+    return {
+      L: L,
+      src: srcSheet,
+      dialogKeys: function (e) {
+        if (e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); self.closeTop(); return; }
+        if (e.key !== 'Tab') return;
+        var box = e.currentTarget;
+        var f = Array.prototype.filter.call(box.querySelectorAll('button:not([disabled]):not([tabindex="-1"]), a[href], input, [tabindex="0"]'), function (el) { return el.offsetParent !== null; });
+        if (!f.length) { e.preventDefault(); return; }
+        var first = f[0], last = f[f.length - 1];
+        if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+        else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+      },
+      arrowKeys: function (e) {
+        var k = e.key;
+        if (['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown', 'Home', 'End'].indexOf(k) < 0) return;
+        e.preventDefault();
+        var group = e.currentTarget.parentNode;
+        var items = Array.prototype.slice.call(group.querySelectorAll('[role=tab],[role=radio]'));
+        var i = items.indexOf(e.currentTarget), n = items.length;
+        var j = k === 'Home' ? 0 : k === 'End' ? n - 1 : (k === 'ArrowLeft' || k === 'ArrowUp') ? (i - 1 + n) % n : (i + 1) % n;
+        var idx = j;
+        items[j].click();
+        setTimeout(function () { var fresh = group.querySelectorAll('[role=tab],[role=radio]'); if (fresh[idx]) fresh[idx].focus(); }, 30);
+      },
+      announce: s.announce || '',
+      note: (function () {
+        var n = s.note;
+        if (!n) return { open: false };
+        var d = ABBR[n.key] || UNITS[n.key];
+        var full = d[0], sub = lang === 'id' ? d[1] : null;
+        if (n.key === 'maks.') { full = 'maksimum'; sub = lang === 'en' ? 'maximum' : null; }
+        var pos = n.above ? 'bottom: ' + ((n.rootH || 844) - n.top) + 'px' : 'top: ' + n.top + 'px';
+        return {
+          open: true, abbr: n.key, full: full, sub: sub || '', hasSub: !!sub,
+          style: 'position: absolute; z-index: 21; left: ' + n.left + 'px; ' + pos + '; width: 260px; box-sizing: border-box; padding: 10px 12px; border-radius: 10px; background: var(--tip-bg); color: var(--tip-ink); box-shadow: 0 8px 24px var(--shadow)',
+          arrowStyle: 'position: absolute; left: ' + (n.arrow - 6) + 'px; ' + (n.above ? 'bottom: -5px' : 'top: -5px') + '; width: 12px; height: 12px; background: var(--tip-bg); transform: rotate(45deg)'
+        };
+      })(),
+      closeNote: function () { self.setState({ note: null }); },
+      langs: langs,
+      marketLabel: L.market + AS_OF[lang],
+      isSample: IS_SAMPLE === true || (Array.isArray(IS_SAMPLE) && IS_SAMPLE.indexOf(mode) >= 0),
+      segs: segs,
+      slots: slots,
+      lay: lay,
+      calcSample: num(12.3, lang),
+      summary: summary,
+      sumOpen: s.sumOpen !== false,
+      sumExpanded: s.sumOpen !== false ? 'true' : 'false',
+      sumChevron: 'flex: none; color: var(--muted); transition: transform .2s; transform: rotate(' + (s.sumOpen !== false ? '0deg' : '-90deg') + ')',
+      toggleSum: function () { self.setState({ sumOpen: s.sumOpen === false }); },
+      // the box shows what is typed (even empty) so it can be cleared and retyped; only a valid number changes the costs
+      dailyKmVal: s.dailyDraft && s.dailyDraft[mode] !== undefined ? s.dailyDraft[mode] : String((s.dailyKm || DAILY_KM)[mode]),
+      onDailyKm: function (e) {
+        var raw = String(e.target.value).replace(/[^0-9]/g, '').slice(0, 4);
+        var draft = Object.assign({}, s.dailyDraft); draft[mode] = raw;
+        var patch = { dailyDraft: draft };
+        var n = parseInt(raw, 10);
+        if (n >= 1 && n <= 1500) { var d = Object.assign({}, s.dailyKm || DAILY_KM); d[mode] = n; patch.dailyKm = d; }
+        self.setState(patch);
+      },
+      onDailyBlur: function () {
+        var draft = Object.assign({}, s.dailyDraft); delete draft[mode];
+        self.setState({ dailyDraft: draft });
+      },
+      isTruckMode: mode === 'truck',
+      tariffVal: CUR_TARIFF.k,
+      tariffOpts: TRUCK_TARIFFS.map(function (t) { var on = t.k === CUR_TARIFF.k; return { k: t.k, label: t.short[lang] + ' · ' + (lang === 'id' ? 'Rp' : 'IDR') + NB + num2(t.v, lang) + '/kWh', pressed: on ? 'true' : 'false', style: (on ? PILL_ON : PILL_OFF).replace('white-space: nowrap', 'white-space: normal; text-align: left; max-width: 100%'), pick: function () { self.setState({ tariff: t.k }); } }; }),
+      hasSummary: summary.length > 0,
+      ctxLine: fill((IS_SAMPLE === true || (Array.isArray(IS_SAMPLE) && IS_SAMPLE.indexOf(mode) >= 0)) ? L.ctxSample : L.ctx, { d: AS_OF[lang] }),
+      cols: cols,
+      countLabel: fill(L.countN, { n: nV }),
+      canAdd: canAddV,
+      addLabel: nV === 0 || stack ? (mode === 'car' ? L.addCar : L.addTruck) : L.addShort,
+      openAdd: function (e) { self.opener = e && e.currentTarget; self.setState({ undo: null, pk: Object.assign({}, CLOSED, { open: true, picked: selIds.slice() }) }); },
+      undo: (function () {
+        var u = s.undo;
+        if (!u || u.mode !== mode || !BY_ID[u.id]) return { open: false };
+        var uv = BY_ID[u.id];
+        return { open: true, msg: fill(L.annRemoved, { v: vname(uv) }), aria: fill(L.undoAria, { v: vname(uv) }),
+          pause: function () { clearTimeout(self.undoTimer); },
+          resume: function () { self.armUndo(u.token, 5000); },
+          act: function () {
+          var sel = Object.assign({}, s.sel), list = sel[u.mode].filter(function (x) { return x !== u.id; });
+          if (list.length < MAX) list.splice(Math.min(u.idx, list.length), 0, u.id);
+          sel[u.mode] = list;
+          clearTimeout(self.undoTimer);
+          self.setState({ sel: sel, undo: null, announce: fill(L.annRestored, { v: vname(uv) }) });
+        } };
+      })(),
+      views: [{ id: 'all', label: L.allSpecs }, { id: 'key', label: L.keySpecs }, { id: 'diag', label: L.techSeg }].map(function (g) {
+        var cur = s.diag ? 'diag' : s.keyOnly ? 'key' : 'all';
+        var on = cur === g.id;
+        var color = g.id === 'diag' ? 'var(--hv-text)' : on ? 'var(--ink)' : 'var(--muted)';
+        return { label: g.label, isDiag: g.id === 'diag', checked: on ? 'true' : 'false', tab: on ? '0' : '-1', style: (on ? VIEW_ON : VIEW_OFF) + '; color: ' + color,
+          pick: function () { if (on) return; self.setState({ diag: g.id === 'diag', keyOnly: g.id === 'key', note: null, announce: g.id === 'diag' ? L.annDiagOn : g.id === 'key' ? L.annKeyOn : (cur === 'diag' ? L.annDiagOff : L.annKeyOff) }); } };
+      }),
+      diffChecked: s.diffOnly && nV > 1 ? 'true' : 'false',
+      diffDisabled: nV < 2,
+      diffSw: (s.diffOnly && nV > 1 ? SW_ON : SW_OFF) + (nV < 2 ? '; opacity: 0.45' : ''),
+      diffKnob: s.diffOnly && nV > 1 ? KNOB_R : KNOB_L,
+      diffColor: nV < 2 ? 'color: var(--muted)' : 'color: var(--ink)',
+      diffHint: nV < 2 ? L.diffNeedTwo : '',
+      hasDiffHint: nV < 2,
+      showDiagLegend: !!s.diag,
+      addAria: chosen.length === 0 ? (mode === 'car' ? L.addCar : L.addTruck) : fill(L.addMore, { n: chosen.length }),
+      addSlotStyle: 'min-width: 0; min-height: ' + (nV === 0 ? '56px' : '70px') + '; display: flex; flex-direction: ' + (nV === 0 || stack ? 'row' : 'column') + '; align-items: center; justify-content: center; gap: 4px; padding: 8px 2px; border: 0; border-radius: 10px; background: var(--fill); color: var(--accent); font-size: ' + (nV === 0 || stack ? '0.9375rem' : '0.75rem') + '; line-height: 1.125rem; font-weight: 600; text-align: center',
+      toggleDiff: function () { if (nV < 2) return; self.setState({ diffOnly: !s.diffOnly, announce: L.diffOnly + ': ' + (s.diffOnly ? L.off : L.on) }); },
+      themeAttr: s.theme || 'auto',
+      openTheme: function (e) { self.opener = e && e.currentTarget; self.setState({ themeOpen: true }); },
+      themeSheet: {
+        open: !!s.themeOpen,
+        close: function () { self.setState({ themeOpen: false }); },
+        opts: [['auto', L.themeAuto, L.themeAutoDesc], ['light', L.themeLight, ''], ['dark', L.themeDark, ''], ['hc', L.themeHc, L.themeHcDesc]].map(function (o) {
+          var on = (s.theme || 'auto') === o[0];
+          return { label: o[1], desc: o[2], hasDesc: !!o[2], on: on, checked: on ? 'true' : 'false', pick: function () { self.setState({ theme: o[0], announce: L.displayTitle + ': ' + o[1] }); } };
+        })
+      },
+      noVehicles: chosen.length === 0,
+      classMix: noRank,
+      rankMsg: classMix ? L.classMix : L.bodyMix,
+      hvNotice: mode === 'truck' && !!s.diag && chosen.length > 0,
+      sections: sections,
+      noRows: chosen.length > 0 && totalRows === 0,
+      sources: sources,
+      hasSources: sources.length > 0,
+      pk: {
+        open: p.open,
+        dialogLabel: fill(L.dialog, { n: stepNo }),
+        stepNo: String(stepNo),
+        stepLabel: fill(L.step, { n: stepNo }),
+        bars: bars,
+        title: titles[p.step],
+        path: paths[p.step],
+        hasPath: p.step !== 'brand',
+        hasBack: p.step !== 'brand',
+        navLabel: back.label,
+        navAria: p.step === 'brand' ? L.cancel : fill(L.backTo, { x: back.label }),
+        navAction: back.act,
+        cancel: function () { self.setState({ pk: CLOSED }); },
+        isBrand: p.step === 'brand',
+        isList: p.step === 'model' || p.step === 'year',
+        isTrim: p.step === 'trim',
+        query: p.query,
+        onQuery: function (e) { self.pk({ query: e.target.value }); },
+        filters: filters,
+        searching: !!q,
+        browsing: !q && groups.length > 0,
+        searchLabel: count(hits.length, L.model1, L.modelN),
+        hits: hits,
+        noHits: q ? hits.length === 0 : groups.length === 0,
+        groups: groups,
+        rows: listRows,
+        trims: trims,
+        showAddBar: true,
+        trayTitle: fill(L.trayTitle, { n: picked.length }),
+        hasTray: picked.length > 0,
+        trayEmpty: picked.length === 0,
+        limitHit: !!p.limitHit && picked.length >= MAX,
+        tray: picked.map(function (id) { var v = BY_ID[id]; if (!v) return null; var lbl = v.model + (v.variant ? ' ' + v.variant : '') + (v.model_year ? ' (' + v.model_year + ')' : ''); return { label: lbl, aria: fill(L.remove, { v: v.make + ' ' + lbl }), remove: function () { self.pk({ limitHit: false, picked: picked.filter(function (x) { return x !== id; }) }); } }; }).filter(Boolean),
+        showRoom: p.step === 'trim',
+        roomNote: fill(L.pickedNote, { n: picked.length }),
+        addBarLabel: fill(L.done, { n: picked.length }),
+        addBarDisabled: picked.length === 0,
+        untickDisabled: picked.length === 0,
+        untickStyle: 'min-height: 44px; padding: 0 8px; border: 0; background: transparent; font-size: 1.0625rem; font-weight: 500; ' + (picked.length === 0 ? 'color: var(--disabled); cursor: default' : 'color: var(--danger)'),
+        askUntick: function () { if (picked.length) self.pk({ confirm: true }); },
+        confirmOpen: !!p.confirm,
+        confirmMsg: picked.length === 1 ? L.confirm1 : fill(L.confirmN, { n: picked.length }),
+        confirmNo: function () { self.pk({ confirm: false }); },
+        confirmYes: function () { self.pk({ confirm: false, picked: [], step: 'brand', make: null, model: null, year: null, query: '', seg: 'All' }); },
+        addBarStyle: ADD_BAR_BTN + (picked.length === 0 ? 'background: var(--fill); color: var(--muted); box-shadow: inset 0 0 0 1px var(--line); cursor: default' : 'background: var(--accent); color: var(--on-accent)'),
+        addBarConfirm: function () {
+          if (!picked.length) return;
+          var sel = Object.assign({}, s.sel); sel[mode] = picked.slice(0, MAX);
+          self.setState({ sel: sel, pk: CLOSED, announce: fill(L.annCompare, { n: Math.min(picked.length, MAX) }) });
+        }
+      }
+    };
+  }
+}
+</script>
+</body>
+</html>

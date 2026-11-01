@@ -1,0 +1,1380 @@
+{
+  "make": "MINI",
+  "model": "Cooper (electric)",
+  "trims": [
+    {
+      "id": "mini-cooper-electric-2026-se",
+      "model_year": 2026,
+      "variant": "Cooper SE",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 1169000000,
+        "range_km": 405,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 160,
+        "torque_nm": 330,
+        "accel_0_100_s": 6.7,
+        "top_speed_kmh": 170,
+        "ac_max_kw": 11,
+        "ac_full_hours": 5.25,
+        "dc_max_kw": 95,
+        "dc_10_80_min": 30,
+        "height_mm": 1460,
+        "wheelbase_mm": 2526,
+        "ground_clearance_mm": 128,
+        "boot_l": 215,
+        "seats": 4,
+        "tyre_size": "225/40 R18",
+        "crash_rating": "5 stars (Euro NCAP 2024)",
+        "battery_usable_kwh": 49.2,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "motor_type": "PMSM",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "length_mm": 3858,
+        "width_mm": 1756,
+        "kerb_weight_kg": 1605,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true,
+        "battery_gross_kwh": 54.2
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-cooper-2025.html",
+            "title": "All-Electric MINI Cooper (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://secure.mini.co.id/pricelist.php",
+            "title": "MINI Indonesia - Get A Pricelist (all prices on-the-road)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-cooper-2025.html",
+            "title": "All-Electric MINI Cooper (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-cooper-2025.html",
+            "title": "All-Electric MINI Cooper (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-mini-cooper/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Mini Cooper 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1998/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (J01, since 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.carexpert.com.au/mini/cooper/2024-cooper-se-favoured-hatchback-fwd-electric-jsam8oam20240312",
+            "title": "Mini Cooper 3 Door Cooper SE Favoured (2024) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "J01-generation 3-door. OTR Jakarta Rp1,169,000,000 per MINI Indonesia price list (undated, read Oct 2026). Range: spec table 405 km WLTP, model page 'up to 402 km'. Battery 49.2 kWh not labelled gross/net. Moladin lists length 3,958 mm and width 1,967 mm, which do not match the global J01 (about 3,858 x 1,756 mm), so length/width left out. The older F56 MINI Electric may have been sold into 2024 but no 2024 Indonesian listing was found. Motor type, connectors, length, width (excl. mirrors; 1,967 mm incl. mirrors), kerb weight (tare) and airbags from the Australian spec (CarExpert, which lists 54.2 kWh gross); usable battery 49.2 kWh, chemistry, voltage, charge port, V2L, frunk and heat pump from the European spec (ev-database.org). The 49.2 kWh figure stored as the Indonesian battery capacity matches the global usable figure. Battery check (Nov 2026): MINI Indonesia's 49.2 kWh is the usable capacity and is stored as such; gross 54.2 kWh from the Australian spec (CarExpert).",
+      "notes_id": "3 pintu generasi J01. OTR Jakarta Rp1.169.000.000 menurut daftar harga MINI Indonesia (tanpa tanggal, dibaca Oktober 2026). Jarak tempuh: tabel spesifikasi 405 km WLTP, halaman model 'hingga 402 km'. Baterai 49,2 kWh tidak diberi label gross/net. Moladin mencantumkan panjang 3.958 mm dan lebar 1.967 mm, yang tidak cocok dengan J01 global (sekitar 3.858 x 1.756 mm), sehingga panjang/lebar dikosongkan. MINI Electric F56 lama mungkin masih dijual hingga 2024, tetapi tidak ditemukan daftar Indonesia untuk 2024. Jenis motor, konektor, panjang, lebar (tanpa spion; 1.967 mm dengan spion), berat kosong (tare), dan airbag dari spesifikasi Australia (CarExpert, yang menyebut 54,2 kWh gross); baterai usable 49,2 kWh, kimia baterai, tegangan, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org). Angka 49,2 kWh yang tercatat sebagai kapasitas baterai Indonesia sama dengan angka usable global. Pemeriksaan baterai (Nov 2026): angka MINI Indonesia 49,2 kWh adalah kapasitas pakai dan disimpan sebagai kapasitas pakai; kapasitas kotor 54,2 kWh dari spesifikasi Australia (CarExpert)."
+    },
+    {
+      "id": "mini-cooper-electric-2026-jcw-electric",
+      "model_year": 2026,
+      "variant": "John Cooper Works Electric",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 1284000000,
+        "range_km": 355,
+        "range_standard": "WLTP",
+        "power_kw": 190,
+        "torque_nm": 350,
+        "accel_0_100_s": 5.9,
+        "top_speed_kmh": 200,
+        "ac_max_kw": 11,
+        "ac_full_hours": 5.25,
+        "dc_max_kw": 95,
+        "dc_10_80_min": 30,
+        "crash_rating": "5 stars (Euro NCAP 2024)",
+        "battery_usable_kwh": 49.2,
+        "drive": "FWD",
+        "length_mm": 3858,
+        "width_mm": 1756,
+        "height_mm": 1460,
+        "wheelbase_mm": 2526,
+        "kerb_weight_kg": 1730,
+        "boot_l": 210,
+        "seats": 4,
+        "adas": "ACC, LKA, park assist (Driving Assistant Plus, Parking Assistant Plus)",
+        "battery_gross_kwh": 54.2
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-cooper-2025.html",
+            "title": "All-Electric MINI Cooper (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://secure.mini.co.id/pricelist.php",
+            "title": "MINI Indonesia - Get A Pricelist (all prices on-the-road)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-cooper-2025.html",
+            "title": "All-Electric MINI Cooper (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://carsofmalaysia.com/news/4-new-additions-for-mini-malaysia-petrol-power-open-air-thrills-amp-a-shock-of-electric-speed/",
+            "title": "4 new additions for MINI Malaysia: Petrol power, open-air thrills & a shock of electric speed (Cars of Malaysia)",
+            "date": "2025-04",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.ultimatespecs.com/car-specs/Mini/141347/Mini-J01-Hatch-Electric-John-Cooper-Works.html",
+            "title": "Mini J01 Hatch Electric John Cooper Works specs - Ultimate Specs",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Called 'JCW E' on the MINI electric family page and 'MINI John Cooper Works Electric' on the price list. OTR Jakarta Rp1,284,000,000. Usable battery, drive, dimensions, kerb weight, boot and seats from the European spec (ultimatespecs.com); ADAS from the Malaysian launch report (carsofmalaysia.com). Only one JCW Electric exists (190 kW, 54.2 kWh gross / 49.2 kWh net), so the Indonesian 49.2 kWh figure is the net capacity of that pack; matched on 190 kW, 5.9 s and 200 km/h. Battery check (Nov 2026): MINI Indonesia's 49.2 kWh is the usable capacity and is stored as such; gross 54.2 kWh from the European spec (ultimatespecs.com).",
+      "notes_id": "Disebut 'JCW E' di halaman keluarga mobil listrik MINI dan 'MINI John Cooper Works Electric' di daftar harga. OTR Jakarta Rp1.284.000.000. Kapasitas baterai bersih, penggerak, dimensi, berat kosong, bagasi, dan jumlah kursi dari spesifikasi Eropa (ultimatespecs.com); ADAS dari laporan peluncuran Malaysia (carsofmalaysia.com). Hanya ada satu JCW Electric (190 kW, 54,2 kWh kotor / 49,2 kWh bersih), jadi angka Indonesia 49,2 kWh adalah kapasitas bersih baterai itu; dicocokkan pada 190 kW, 5,9 detik, dan 200 km/jam. Pemeriksaan baterai (Nov 2026): angka MINI Indonesia 49,2 kWh adalah kapasitas pakai dan disimpan sebagai kapasitas pakai; kapasitas kotor 54,2 kWh dari spesifikasi Eropa (ultimatespecs.com)."
+    },
+    {
+      "id": "mini-cooper-electric-2022-mini-electric",
+      "model_year": 2022,
+      "variant": "MINI Electric",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "battery_gross_kwh": 32.6,
+        "range_km": 232,
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 135,
+        "torque_nm": 270,
+        "accel_0_100_s": 7.3,
+        "top_speed_kmh": 150,
+        "ac_max_kw": 11,
+        "ac_full_hours": 3.5,
+        "dc_max_kw": 50,
+        "length_mm": 3850,
+        "width_mm": 1727,
+        "height_mm": 1432,
+        "wheelbase_mm": 2495,
+        "ground_clearance_mm": 128,
+        "battery_warranty": "8 yrs / 100,000 km",
+        "vehicle_warranty": "3 yrs (km limit not stated)",
+        "battery_usable_kwh": 28.9,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 4,
+        "v2l": false,
+        "frunk_l": 0
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Previous-generation (F56) 3-door MINI Electric (Cooper SE), launched in Jakarta on 8 June 2022. Launch price Rp945,000,000 off the road Jakarta (detikOto, kumparan, moladin), so price left out. Price included the wallbox, battery warranty and a 6-year service package (kumparan). Power 184 PS x0.7355 = 135 kW (detik writes 184 HP). Battery: moladin 32.6 kWh; detik gives 93.2 Ah x 350.4 V (about 32.7 kWh); kumparan 28.9 kWh (MINI's net figure, not labelled). Range 232 km (detik 203-232 km), standard not stated. DC 50 kW: kumparan 36 min (window unclear), detik 1 h 24 min to full, so DC time left out. AC 0-100% 3.5 h (detik); kumparan 0-80% about 2.5 h. Sales in 2023 not confirmed. Usable battery (28.9 kWh), chemistry, voltage, connectors, charge port, seats, V2L and frunk from the European spec of the same F56 Cooper SE (ev-database.org).",
+      "notes_id": "MINI Electric (Cooper SE) 3 pintu generasi sebelumnya (F56), diluncurkan di Jakarta pada 8 Juni 2022. Harga peluncuran Rp945.000.000 off the road Jakarta (detikOto, kumparan, moladin), sehingga harga dikosongkan. Harga sudah termasuk wallbox, garansi baterai dan paket servis 6 tahun (kumparan). Tenaga 184 PS x0,7355 = 135 kW (detik menulis 184 HP). Baterai: moladin 32,6 kWh; detik menyebut 93,2 Ah x 350,4 V (sekitar 32,7 kWh); kumparan 28,9 kWh (angka net MINI, tidak diberi label). Jarak tempuh 232 km (detik 203-232 km), standar tidak disebutkan. DC 50 kW: kumparan 36 menit (rentang tidak jelas), detik 1 jam 24 menit hingga penuh, sehingga waktu DC dikosongkan. AC 0-100% 3,5 jam (detik); kumparan 0-80% sekitar 2,5 jam. Penjualan pada 2023 belum terkonfirmasi. Baterai usable (28,9 kWh), kimia baterai, tegangan, konektor, posisi port, jumlah kursi, V2L, dan frunk dari spesifikasi Eropa untuk F56 Cooper SE yang sama (ev-database.org)."
+    },
+    {
+      "id": "mini-cooper-electric-2022-mini-electric-collection",
+      "model_year": 2022,
+      "variant": "MINI Electric Collection",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "battery_gross_kwh": 32.6,
+        "range_km": 232,
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 135,
+        "torque_nm": 270,
+        "accel_0_100_s": 7.3,
+        "top_speed_kmh": 150,
+        "ac_max_kw": 11,
+        "ac_full_hours": 3.5,
+        "dc_max_kw": 50,
+        "length_mm": 3850,
+        "width_mm": 1727,
+        "height_mm": 1432,
+        "wheelbase_mm": 2495,
+        "ground_clearance_mm": 128,
+        "battery_warranty": "8 yrs / 100,000 km",
+        "vehicle_warranty": "3 yrs (km limit not stated)",
+        "battery_usable_kwh": 28.9,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 4,
+        "v2l": false,
+        "frunk_l": 0
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/?p=72052",
+            "title": "Harga Mini Cooper Juni 2022, Ini Model Termurahnya!",
+            "date": "2022-06",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6116495/mini-electric-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Electric Meluncur di Indonesia, Segini Harganya",
+            "date": "2022-06",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mini-electric-resmi-masuk-indonesia-harganya-nyaris-rp-1-miliar-1yESK03BDGl",
+            "title": "MINI Electric Resmi Masuk Indonesia, Harganya Nyaris Rp 1 Miliar",
+            "date": "2022-06",
+            "type": "press"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1163/Mini-Cooper-SE",
+            "title": "Mini Cooper SE (F56) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Limited-edition trim, same powertrain. Previous-generation (F56) 3-door MINI Electric (Cooper SE), launched in Jakarta on 8 June 2022. Launch price Rp955,000,000 off the road Jakarta (detikOto, kumparan, moladin), so price left out. Price included the wallbox, battery warranty and a 6-year service package (kumparan). Power 184 PS x0.7355 = 135 kW (detik writes 184 HP). Battery: moladin 32.6 kWh; detik gives 93.2 Ah x 350.4 V (about 32.7 kWh); kumparan 28.9 kWh (MINI's net figure, not labelled). Range 232 km (detik 203-232 km), standard not stated. DC 50 kW: kumparan 36 min (window unclear), detik 1 h 24 min to full, so DC time left out. AC 0-100% 3.5 h (detik); kumparan 0-80% about 2.5 h. Sales in 2023 not confirmed. Usable battery (28.9 kWh), chemistry, voltage, connectors, charge port, seats, V2L and frunk from the European spec of the same F56 Cooper SE (ev-database.org).",
+      "notes_id": "Edisi terbatas, penggerak sama. MINI Electric (Cooper SE) 3 pintu generasi sebelumnya (F56), diluncurkan di Jakarta pada 8 Juni 2022. Harga peluncuran Rp955.000.000 off the road Jakarta (detikOto, kumparan, moladin), sehingga harga dikosongkan. Harga sudah termasuk wallbox, garansi baterai dan paket servis 6 tahun (kumparan). Tenaga 184 PS x0,7355 = 135 kW (detik menulis 184 HP). Baterai: moladin 32,6 kWh; detik menyebut 93,2 Ah x 350,4 V (sekitar 32,7 kWh); kumparan 28,9 kWh (angka net MINI, tidak diberi label). Jarak tempuh 232 km (detik 203-232 km), standar tidak disebutkan. DC 50 kW: kumparan 36 menit (rentang tidak jelas), detik 1 jam 24 menit hingga penuh, sehingga waktu DC dikosongkan. AC 0-100% 3,5 jam (detik); kumparan 0-80% sekitar 2,5 jam. Penjualan pada 2023 belum terkonfirmasi. Baterai usable (28,9 kWh), kimia baterai, tegangan, konektor, posisi port, jumlah kursi, V2L, dan frunk dari spesifikasi Eropa untuk F56 Cooper SE yang sama (ev-database.org)."
+    }
+  ]
+}

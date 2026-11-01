@@ -1,0 +1,616 @@
+{
+  "make": "Seres",
+  "model": "E1",
+  "trims": [
+    {
+      "id": "seres-e1-2026-b-type",
+      "model_year": 2026,
+      "variant": "B-Type",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "price_otr_idr": 189000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 13.8,
+        "range_km": 180,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 25,
+        "torque_nm": 100,
+        "ac_connector": "Type 2",
+        "dc_connector": "n/a",
+        "dc_max_kw": "n/a",
+        "dc_10_80_min": "n/a",
+        "seats": 4,
+        "length_mm": 3030,
+        "width_mm": 1495,
+        "height_mm": 1640,
+        "wheelbase_mm": 1960,
+        "ground_clearance_mm": 135,
+        "tyre_size": "145/60 R13",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "ac_full_hours": 3.5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Same specs and price 2024–2026 (Rp189/219 jt OTR Jakarta in May 2024 and Feb 2026). Sold by PT Sokonindo Automobile (DFSK/Seres). AC only, no DC fast charging. Power: otomotifnet 25 kW (B) / 30 kW (L); Moladin's table says 33 hp / 40 (= 24.6 / 29.8 kW), its FAQ says 30 kW. AC full charge: otomotifnet about 3.5 h; Moladin 3.5–4 h (B) and 4–4.5 h (L). First sold in August 2023 at the same specs and price.",
+      "notes_id": "Spesifikasi dan harga sama 2024–2026 (Rp189/219 jt OTR Jakarta pada Mei 2024 dan Februari 2026). Dijual oleh PT Sokonindo Automobile (DFSK/Seres). Hanya AC, tanpa pengisian cepat DC. Tenaga: otomotifnet 25 kW (B) / 30 kW (L); tabel Moladin menyebut 33 hp / 40 (= 24,6 / 29,8 kW), FAQ-nya menyebut 30 kW. Pengisian penuh AC: otomotifnet sekitar 3,5 jam; Moladin 3,5–4 jam (B) dan 4–4,5 jam (L). Pertama dijual Agustus 2023 dengan spesifikasi dan harga yang sama."
+    },
+    {
+      "id": "seres-e1-2026-l-type",
+      "model_year": 2026,
+      "variant": "L-Type",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "price_otr_idr": 219000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 16.8,
+        "range_km": 200,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 100,
+        "ac_connector": "Type 2",
+        "dc_connector": "n/a",
+        "dc_max_kw": "n/a",
+        "dc_10_80_min": "n/a",
+        "seats": 4,
+        "length_mm": 3030,
+        "width_mm": 1495,
+        "height_mm": 1640,
+        "wheelbase_mm": 1960,
+        "ground_clearance_mm": 135,
+        "tyre_size": "145/60 R13",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "ac_full_hours": 4,
+        "ac_max_kw": 3.3,
+        "motor_type": "PMSM"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234077210/harga-seres-e1-jadi-mobil-listrik-paling-murah-ini-spesifikasinya",
+            "title": "Harga Seres E1 Jadi Mobil Listrik Paling Murah, Ini Spesifikasinya",
+            "date": "2024-05",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-e1/",
+            "title": "Seres E1 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.autoindustriya.com/auto-industry-news/dfsk-ph-enters-mini-ev-segment-with-2024-candy.html",
+            "title": "DFSK PH enters mini EV segment with 2024 Candy (AutoIndustriya)",
+            "date": "2024-09",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carmudi.com.ph/new-cars/dfsk/candy/",
+            "title": "DFSK Candy price and specs (Carmudi Philippines)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ]
+      },
+      "notes": "Same specs and price 2024–2026 (Rp189/219 jt OTR Jakarta in May 2024 and Feb 2026). Sold by PT Sokonindo Automobile (DFSK/Seres). AC only, no DC fast charging. Power: otomotifnet 25 kW (B) / 30 kW (L); Moladin's table says 33 hp / 40 (= 24.6 / 29.8 kW), its FAQ says 30 kW. AC full charge: otomotifnet about 3.5 h; Moladin 3.5–4 h (B) and 4–4.5 h (L). Range: Moladin 200 km (NEDC) vs otomotifnet and Moladin FAQ 220 km; the spec-table figure is used. L-Type adds ESC, rear disc brakes and an 8.8-inch touchscreen. First sold in August 2023 at the same specs and price. AC charging power and motor type from the Philippine spec of the DFSK Candy (16.8 kWh, 41 PS, 100 Nm, RWD; autoindustriya.com, carmudi.com.ph).",
+      "notes_id": "Spesifikasi dan harga sama 2024–2026 (Rp189/219 jt OTR Jakarta pada Mei 2024 dan Februari 2026). Dijual oleh PT Sokonindo Automobile (DFSK/Seres). Hanya AC, tanpa pengisian cepat DC. Tenaga: otomotifnet 25 kW (B) / 30 kW (L); tabel Moladin menyebut 33 hp / 40 (= 24,6 / 29,8 kW), FAQ-nya menyebut 30 kW. Pengisian penuh AC: otomotifnet sekitar 3,5 jam; Moladin 3,5–4 jam (B) dan 4–4,5 jam (L). Jarak tempuh: Moladin 200 km (NEDC) vs otomotifnet dan FAQ Moladin 220 km; dipakai angka tabel spesifikasi. Tipe L menambahkan ESC, rem cakram belakang, dan layar sentuh 8,8 inci. Pertama dijual Agustus 2023 dengan spesifikasi dan harga yang sama. Daya pengisian AC dan tipe motor dari spesifikasi Filipina DFSK Candy (16,8 kWh, 41 PS, 100 Nm, RWD; autoindustriya.com, carmudi.com.ph)."
+    }
+  ]
+}

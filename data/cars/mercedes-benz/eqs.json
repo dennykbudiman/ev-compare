@@ -1,0 +1,1211 @@
+{
+  "make": "Mercedes-Benz",
+  "model": "EQS",
+  "trims": [
+    {
+      "id": "mercedes-benz-eqs-2025-450-plus-electric-art-line",
+      "model_year": 2025,
+      "variant": "EQS 450+ Electric Art Line",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "assembly": "CBU import",
+        "price_otr_idr": 3135000000,
+        "range_km": 770,
+        "power_kw": 248,
+        "torque_nm": 565,
+        "accel_0_100_s": 6.2,
+        "top_speed_kmh": 210,
+        "ac_full_hours": 10,
+        "length_mm": 5216,
+        "height_mm": 1512,
+        "kerb_weight_kg": 2480,
+        "seats": 5,
+        "tyre_size": "245/55 R20",
+        "adas": "LKA, LDW, park assist, 360 camera",
+        "battery_warranty": "10 yrs / 250,000 km",
+        "battery_usable_kwh": 107.8,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 396,
+        "drive": "RWD",
+        "dc_max_kw": 200,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "width_mm": 1926,
+        "wheelbase_mm": 3210,
+        "boot_l": 610,
+        "airbags": 11,
+        "v2l": false,
+        "frunk_l": 0,
+        "ac_max_kw": 11,
+        "battery_gross_kwh": 120.0
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7414905/sabar-mercedes-benz-baru-rakit-mobil-listrik-di-wanaherang-2027",
+            "title": "Sabar! Mercedes-Benz Baru Rakit Mobil Listrik di Wanaherang 2027 - detikOto",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "OTR Rp3,135,000,000 (oto.com); September 2024 dealer list Rp3,100,000,000. Power 333 hp x0.7457 = 248 kW (Mercedes rates the 450+ at 245 kW / 333 PS). Range 770 km, standard not stated. Width 2,125 mm looks like incl. mirrors, left out. Was locally assembled before 2024 according to earlier reports, but detik (June 2024) says all Mercedes EVs on sale arrive fully built from Germany. Mercedes-Benz Indonesia price page lists 'EQS Saloon from Rp3,540,000,000' (basis not stated) without naming variants. Drive, DC/AC power, connectors, width (excl. mirrors), wheelbase, boot and airbags (11) from the Malaysian spec of the EQS 450+ (carbase.my, AMG Line); usable battery 107.8 kWh, chemistry (NMC811), voltage, charge port, V2L and frunk from the European spec (ev-database.org). Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 107.8 kWh figure is stored as usable capacity; gross 120.0 kWh is from the European spec (ev-database.org).",
+      "notes_id": "OTR Rp3.135.000.000 (oto.com); daftar diler September 2024 Rp3.100.000.000. Tenaga 333 hp x0,7457 = 248 kW (Mercedes menyebut 450+ bertenaga 245 kW / 333 PS). Jarak tempuh 770 km, standar tidak disebutkan. Lebar 2.125 mm tampaknya termasuk spion, dikosongkan. Menurut laporan terdahulu sempat dirakit lokal sebelum 2024, tetapi detik (Juni 2024) menyebut semua mobil listrik Mercedes yang dijual didatangkan utuh dari Jerman. Halaman harga Mercedes-Benz Indonesia mencantumkan 'EQS Saloon mulai Rp3.540.000.000' (dasar harga tidak disebutkan) tanpa menyebut variannya. Penggerak, daya DC/AC, konektor, lebar (tanpa spion), jarak sumbu roda, bagasi, dan airbag (11) dari spesifikasi Malaysia untuk EQS 450+ (carbase.my, AMG Line); baterai usable 107,8 kWh, kimia baterai (NMC811), tegangan, posisi port, V2L, dan frunk dari spesifikasi Eropa (ev-database.org). Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 107,8 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 120 kWh dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "mercedes-benz-eqs-2025-450-plus-amg-line",
+      "model_year": 2025,
+      "variant": "EQS 450+ AMG Line",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "assembly": "CBU import",
+        "price_otr_idr": 3655000000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7414905/sabar-mercedes-benz-baru-rakit-mobil-listrik-di-wanaherang-2027",
+            "title": "Sabar! Mercedes-Benz Baru Rakit Mobil Listrik di Wanaherang 2027 - detikOto",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "OTR Rp3,655,000,000 (oto.com); September 2024 dealer list Rp3,615,000,000. Oto.com gives no separate specs for this trim (adds heated/ventilated front seats); powertrain is the 450+ like the Electric Art Line, but specs are left out as no source lists them for this trim. Mercedes-Benz Indonesia price page lists 'EQS Saloon from Rp3,540,000,000' (basis not stated) without naming variants.",
+      "notes_id": "OTR Rp3.655.000.000 (oto.com); daftar diler September 2024 Rp3.615.000.000. Oto.com tidak mencantumkan spesifikasi terpisah untuk tipe ini (menambahkan jok depan berpemanas/berventilasi); powertrain-nya 450+ seperti Electric Art Line, tetapi spesifikasi dikosongkan karena tidak ada sumber yang mencantumkannya untuk tipe ini. Halaman harga Mercedes-Benz Indonesia mencantumkan 'EQS Saloon mulai Rp3.540.000.000' (dasar harga tidak disebutkan) tanpa menyebut variannya."
+    },
+    {
+      "id": "mercedes-benz-eqs-2024-450-plus-edition-one",
+      "model_year": 2024,
+      "variant": "EQS 450+ Edition One",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "assembly": "CBU import",
+        "price_otr_idr": 4110000000
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7414905/sabar-mercedes-benz-baru-rakit-mobil-listrik-di-wanaherang-2027",
+            "title": "Sabar! Mercedes-Benz Baru Rakit Mobil Listrik di Wanaherang 2027 - detikOto",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs/spesifikasi",
+            "title": "Mercedes Benz EQS 2025 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launch edition. OTR Rp4,110,000,000 still shown on oto.com; September 2024 dealer list Rp4,065,000,000. Not on the current Mercedes-Benz Indonesia price page, so marked discontinued (status uncertain). No trim-specific specs published. Mercedes-Benz Indonesia price page lists 'EQS Saloon from Rp3,540,000,000' (basis not stated) without naming variants.",
+      "notes_id": "Edisi peluncuran. OTR Rp4.110.000.000 masih tampil di oto.com; daftar diler September 2024 Rp4.065.000.000. Tidak ada di halaman harga Mercedes-Benz Indonesia saat ini, sehingga ditandai sudah tidak dijual (status belum pasti). Tidak ada spesifikasi khusus tipe ini yang dipublikasikan. Halaman harga Mercedes-Benz Indonesia mencantumkan 'EQS Saloon mulai Rp3.540.000.000' (dasar harga tidak disebutkan) tanpa menyebut variannya."
+    },
+    {
+      "id": "mercedes-benz-eqs-2022-450-plus-electric-art-line",
+      "model_year": 2022,
+      "variant": "450+ Electric Art Line",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "range_km": 770,
+        "ac_max_kw": 11,
+        "ac_full_hours": 10,
+        "dc_10_80_min": 45,
+        "price_otr_idr": 2984000000,
+        "battery_usable_kwh": 107.8,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 396,
+        "drive": "RWD",
+        "dc_max_kw": 200,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "width_mm": 1926,
+        "wheelbase_mm": 3210,
+        "boot_l": 610,
+        "airbags": 11,
+        "v2l": false,
+        "frunk_l": 0,
+        "power_kw": 245,
+        "torque_nm": 565,
+        "accel_0_100_s": 6.2,
+        "top_speed_kmh": 210,
+        "length_mm": 5216,
+        "height_mm": 1512,
+        "seats": 5,
+        "motor_count": 1,
+        "battery_gross_kwh": 120.0
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched in Jakarta on 8 December 2022. OTR Jakarta Rp2,984,000,000 at launch (Fortune IDN; moladin gives the same figure without a basis); wallbox sold separately (Rp38-50 million). Range 770 km, standard not stated (sources quote WLTP consumption 15.7-20.4 kWh/100 km). Battery 107.8 kWh not labelled gross/net (Mercedes quotes it as net). AC about 10 h 0-100% on an 11 kW wallbox. Power and dimensions not in the launch sources. Fortune also calls it 'Electric Line'. Price rose to Rp3,135,000,000 OTR by 2025 (see 2025 record). Drive, power (328 hp = 245 kW), torque, 0-100, top speed, DC power, connectors, dimensions, boot, seats and airbags (11) from the Malaysian spec of the EQS 450+ AMG Line (carbase.my); usable battery 107.8 kWh, chemistry (NMC811), voltage, charge port, V2L and frunk from the European spec (ev-database.org). Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 107.8 kWh figure is stored as usable capacity; gross 120.0 kWh is from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan di Jakarta pada 8 Desember 2022. OTR Jakarta Rp2.984.000.000 saat peluncuran (Fortune IDN; moladin menyebut angka sama tanpa keterangan); wallbox dijual terpisah (Rp38-50 juta). Jarak tempuh 770 km, standar tidak disebutkan (sumber menyebut konsumsi WLTP 15,7-20,4 kWh/100 km). Baterai 107,8 kWh tidak disebut gross/net (Mercedes menyebutnya net). AC sekitar 10 jam 0-100% dengan wallbox 11 kW. Tenaga dan dimensi tidak ada di sumber peluncuran. Fortune juga menyebutnya 'Electric Line'. Harga naik menjadi Rp3.135.000.000 OTR pada 2025 (lihat catatan 2025). Penggerak, daya (328 hp = 245 kW), torsi, 0-100, kecepatan maksimum, daya DC, konektor, dimensi, bagasi, jumlah kursi, dan airbag (11) dari spesifikasi Malaysia untuk EQS 450+ AMG Line (carbase.my); baterai usable 107,8 kWh, kimia baterai (NMC811), tegangan, posisi port, V2L, dan frunk dari spesifikasi Eropa (ev-database.org). Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 107,8 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 120 kWh dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "mercedes-benz-eqs-2022-450-plus-amg-line",
+      "model_year": 2022,
+      "variant": "450+ AMG Line",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "range_km": 770,
+        "ac_max_kw": 11,
+        "ac_full_hours": 10,
+        "dc_10_80_min": 45,
+        "price_otr_idr": 3410000000,
+        "battery_usable_kwh": 107.8,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 396,
+        "drive": "RWD",
+        "dc_max_kw": 200,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "width_mm": 1926,
+        "wheelbase_mm": 3210,
+        "boot_l": 610,
+        "airbags": 11,
+        "v2l": false,
+        "frunk_l": 0,
+        "power_kw": 245,
+        "torque_nm": 565,
+        "accel_0_100_s": 6.2,
+        "top_speed_kmh": 210,
+        "length_mm": 5216,
+        "height_mm": 1512,
+        "seats": 5,
+        "motor_count": 1,
+        "adas": "AEB, ESA, FCW, ACC, LKA, BSM",
+        "battery_gross_kwh": 120.0
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mercedes-benz-eqs-dan-eqe-mengaspal-di-indonesia-harga-mulai-rp2-2-m-00-4vfn9-xd3gfv",
+            "title": "Mercedes-Benz EQS dan EQE Mengaspal di Indonesia, Harga Mulai Rp2,2 M",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqs-dan-eqe/",
+            "title": "Harga Mercedes-Benz EQS dan EQE",
+            "date": "2022-12",
+            "type": "media"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ (Nov 2021 - Jun 2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carbase.my/mercedes-benz/eqs/v297/eqs-450+-amg-line-2023",
+            "title": "Mercedes-Benz EQS 450+ AMG Line (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/car/1483/Mercedes-Benz-EQS-450plus",
+            "title": "Mercedes-Benz EQS 450+ - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched in Jakarta on 8 December 2022. OTR Jakarta Rp3,410,000,000 at launch (Fortune IDN; moladin gives the same figure without a basis); wallbox sold separately (Rp38-50 million). Range 770 km, standard not stated (sources quote WLTP consumption 15.7-20.4 kWh/100 km). Battery 107.8 kWh not labelled gross/net (Mercedes quotes it as net). AC about 10 h 0-100% on an 11 kW wallbox. Power and dimensions not in the launch sources. Same battery and charging as the Electric Art Line per the launch reports. Price rose to Rp3,655,000,000 OTR by 2025. Drive, power (328 hp = 245 kW), torque, 0-100, top speed, DC power, connectors, dimensions, boot, seats and airbags (11), ADAS from the Malaysian spec of the EQS 450+ AMG Line (carbase.my); usable battery 107.8 kWh, chemistry (NMC811), voltage, charge port, V2L and frunk from the European spec (ev-database.org). Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 107.8 kWh figure is stored as usable capacity; gross 120.0 kWh is from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan di Jakarta pada 8 Desember 2022. OTR Jakarta Rp3.410.000.000 saat peluncuran (Fortune IDN; moladin menyebut angka sama tanpa keterangan); wallbox dijual terpisah (Rp38-50 juta). Jarak tempuh 770 km, standar tidak disebutkan (sumber menyebut konsumsi WLTP 15,7-20,4 kWh/100 km). Baterai 107,8 kWh tidak disebut gross/net (Mercedes menyebutnya net). AC sekitar 10 jam 0-100% dengan wallbox 11 kW. Tenaga dan dimensi tidak ada di sumber peluncuran. Baterai dan pengisian sama dengan Electric Art Line menurut laporan peluncuran. Harga naik menjadi Rp3.655.000.000 OTR pada 2025. Penggerak, daya (328 hp = 245 kW), torsi, 0-100, kecepatan maksimum, daya DC, konektor, dimensi, bagasi, jumlah kursi, dan airbag (11), ADAS dari spesifikasi Malaysia untuk EQS 450+ AMG Line (carbase.my); baterai usable 107,8 kWh, kimia baterai (NMC811), tegangan, posisi port, V2L, dan frunk dari spesifikasi Eropa (ev-database.org). Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 107,8 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 120 kWh dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

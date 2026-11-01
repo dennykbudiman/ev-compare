@@ -1,0 +1,1232 @@
+{
+  "make": "Porsche",
+  "model": "Macan Electric",
+  "trims": [
+    {
+      "id": "porsche-macan-electric-2025-base",
+      "model_year": 2025,
+      "variant": "Macan Electric",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "power_kw": 265,
+        "accel_0_100_s": 5.7,
+        "top_speed_kmh": 220,
+        "range_km": 643,
+        "drive": "RWD",
+        "voltage_architecture": "800 V",
+        "motor_type": "PMSM",
+        "ac_max_kw": 11,
+        "dc_max_kw": 270,
+        "dc_10_80_min": 21,
+        "length_mm": 4784,
+        "width_mm": 1938,
+        "wheelbase_mm": 2893,
+        "frunk_l": 84,
+        "battery_gross_kwh": 100,
+        "torque_nm": 563,
+        "height_mm": 1623,
+        "kerb_weight_kg": 2220,
+        "boot_l": 540
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Macan Electric 4 and Turbo launched in Indonesia June 2024 (Eurokars), 'from Rp2.45 billion off the road' (no OTR published, so price left out); the RWD Macan Electric, 4S and GTS appear on the Porsche Indonesia site later (launch dates not confirmed). Range is Porsche Indonesia's 'ECE' figure (WLTP 'TBA' on the site), so range_standard left out. Power is the overboost figure; 0-100 with Launch Control. Recorded as model year 2025 (current site configuration). Motor type, battery capacity (100 kWh), torque, 800 V architecture, AC/DC power, DC 10-80% time, dimensions (width excl. mirrors), kerb weight (DIN), boot and frunk from the Malaysian spec (Porsche technical data issued at Porsche Malaysia's launch, December 2024).",
+      "notes_id": "Macan Electric 4 dan Turbo diluncurkan di Indonesia Juni 2024 (Eurokars), 'mulai Rp2,45 miliar off the road' (tidak ada harga OTR, sehingga harga dikosongkan); Macan Electric RWD, 4S, dan GTS muncul belakangan di situs Porsche Indonesia (tanggal peluncuran belum terkonfirmasi). Jarak tempuh adalah angka 'ECE' versi Porsche Indonesia (WLTP tertulis 'TBA' di situs), sehingga range_standard dikosongkan. Tenaga adalah angka overboost; 0-100 dengan Launch Control. Dicatat sebagai model year 2025 (konfigurasi situs saat ini). Jenis motor, kapasitas baterai (100 kWh), torsi, arsitektur 800 V, daya AC/DC, waktu DC 10-80%, dimensi (lebar tanpa spion), berat kosong (DIN), bagasi, dan frunk dari spesifikasi Malaysia (data teknis Porsche pada peluncuran Porsche Malaysia, Desember 2024)."
+    },
+    {
+      "id": "porsche-macan-electric-2025-4",
+      "model_year": 2025,
+      "variant": "Macan 4 Electric",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "power_kw": 300,
+        "accel_0_100_s": 5.2,
+        "top_speed_kmh": 220,
+        "range_km": 619,
+        "drive": "AWD",
+        "battery_gross_kwh": 100,
+        "torque_nm": 650,
+        "voltage_architecture": "800 V",
+        "motor_type": "PMSM (front and rear)",
+        "ac_max_kw": 11,
+        "dc_max_kw": 270,
+        "dc_10_80_min": 21,
+        "length_mm": 4784,
+        "width_mm": 1938,
+        "wheelbase_mm": 2893,
+        "frunk_l": 84,
+        "battery_usable_kwh": 95,
+        "height_mm": 1622,
+        "kerb_weight_kg": 2330,
+        "boot_l": 540
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-macan-ev-tiba-di-indonesia-siapkan-minimal-rp25-miliar-untuk-meminangnya/",
+            "title": "Porsche Macan EV Tiba di Indonesia, Siapkan Minimal Rp2,5 Miliar untuk Meminangnya - Zigwheels",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-macan-ev-tiba-di-indonesia-siapkan-minimal-rp25-miliar-untuk-meminangnya/",
+            "title": "Porsche Macan EV Tiba di Indonesia, Siapkan Minimal Rp2,5 Miliar untuk Meminangnya - Zigwheels",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-macan-ev-tiba-di-indonesia-siapkan-minimal-rp25-miliar-untuk-meminangnya/",
+            "title": "Porsche Macan EV Tiba di Indonesia, Siapkan Minimal Rp2,5 Miliar untuk Meminangnya - Zigwheels",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Zigwheels (June 2024) quotes 406 hp; Porsche Indonesia 300 kW / 408 PS overboost. Macan Electric 4 and Turbo launched in Indonesia June 2024 (Eurokars), 'from Rp2.45 billion off the road' (no OTR published, so price left out); the RWD Macan Electric, 4S and GTS appear on the Porsche Indonesia site later (launch dates not confirmed). Range is Porsche Indonesia's 'ECE' figure (WLTP 'TBA' on the site), so range_standard left out. Power is the overboost figure; 0-100 with Launch Control. Recorded as model year 2025 (current site configuration). Motor type, usable battery (95 kWh), 800 V architecture, AC/DC power, DC 10-80% time, dimensions (width excl. mirrors), kerb weight (DIN), boot and frunk from the Malaysian spec (Porsche technical data issued at Porsche Malaysia's launch, December 2024).",
+      "notes_id": "Zigwheels (Juni 2024) menyebut 406 hp; Porsche Indonesia 300 kW / 408 PS overboost. Macan Electric 4 dan Turbo diluncurkan di Indonesia Juni 2024 (Eurokars), 'mulai Rp2,45 miliar off the road' (tidak ada harga OTR, sehingga harga dikosongkan); Macan Electric RWD, 4S, dan GTS muncul belakangan di situs Porsche Indonesia (tanggal peluncuran belum terkonfirmasi). Jarak tempuh adalah angka 'ECE' versi Porsche Indonesia (WLTP tertulis 'TBA' di situs), sehingga range_standard dikosongkan. Tenaga adalah angka overboost; 0-100 dengan Launch Control. Dicatat sebagai model year 2025 (konfigurasi situs saat ini). Jenis motor, baterai usable (95 kWh), arsitektur 800 V, daya AC/DC, waktu DC 10-80%, dimensi (lebar tanpa spion), berat kosong (DIN), bagasi, dan frunk dari spesifikasi Malaysia (data teknis Porsche pada peluncuran Porsche Malaysia, Desember 2024)."
+    },
+    {
+      "id": "porsche-macan-electric-2025-4s",
+      "model_year": 2025,
+      "variant": "Macan 4S Electric",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "power_kw": 380,
+        "accel_0_100_s": 4.1,
+        "top_speed_kmh": 240,
+        "range_km": 617,
+        "voltage_architecture": "800 V",
+        "motor_type": "PMSM (front and rear)",
+        "ac_max_kw": 11,
+        "dc_max_kw": 270,
+        "dc_10_80_min": 21,
+        "length_mm": 4784,
+        "width_mm": 1938,
+        "wheelbase_mm": 2893,
+        "frunk_l": 84,
+        "battery_gross_kwh": 100,
+        "drive": "AWD",
+        "torque_nm": 820,
+        "height_mm": 1622,
+        "kerb_weight_kg": 2345,
+        "boot_l": 540
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Macan Electric 4 and Turbo launched in Indonesia June 2024 (Eurokars), 'from Rp2.45 billion off the road' (no OTR published, so price left out); the RWD Macan Electric, 4S and GTS appear on the Porsche Indonesia site later (launch dates not confirmed). Range is Porsche Indonesia's 'ECE' figure (WLTP 'TBA' on the site), so range_standard left out. Power is the overboost figure; 0-100 with Launch Control. Recorded as model year 2025 (current site configuration). Motor type, battery capacity (100 kWh), drive, torque (with Launch Control), 800 V architecture, AC/DC power, DC 10-80% time, dimensions (width excl. mirrors), kerb weight (DIN), boot and frunk from the Malaysian spec (Porsche technical data issued at Porsche Malaysia's launch, December 2024).",
+      "notes_id": "Macan Electric 4 dan Turbo diluncurkan di Indonesia Juni 2024 (Eurokars), 'mulai Rp2,45 miliar off the road' (tidak ada harga OTR, sehingga harga dikosongkan); Macan Electric RWD, 4S, dan GTS muncul belakangan di situs Porsche Indonesia (tanggal peluncuran belum terkonfirmasi). Jarak tempuh adalah angka 'ECE' versi Porsche Indonesia (WLTP tertulis 'TBA' di situs), sehingga range_standard dikosongkan. Tenaga adalah angka overboost; 0-100 dengan Launch Control. Dicatat sebagai model year 2025 (konfigurasi situs saat ini). Jenis motor, kapasitas baterai (100 kWh), penggerak, torsi (dengan Launch Control), arsitektur 800 V, daya AC/DC, waktu DC 10-80%, dimensi (lebar tanpa spion), berat kosong (DIN), bagasi, dan frunk dari spesifikasi Malaysia (data teknis Porsche pada peluncuran Porsche Malaysia, Desember 2024)."
+    },
+    {
+      "id": "porsche-macan-electric-2025-gts",
+      "model_year": 2025,
+      "variant": "Macan GTS Electric",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "power_kw": 420,
+        "accel_0_100_s": 3.8,
+        "top_speed_kmh": 250,
+        "range_km": 614,
+        "battery_gross_kwh": 100,
+        "torque_nm": 955,
+        "dc_max_kw": 270,
+        "dc_10_80_min": 21,
+        "battery_usable_kwh": 95,
+        "battery_chemistry": "NMC",
+        "cell_format": "Prismatic",
+        "cell_count": 180,
+        "voltage_architecture": "800 V",
+        "motor_type": "PMSM (front and rear)",
+        "drive": "AWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "length_mm": 4784,
+        "width_mm": 1938,
+        "height_mm": 1622,
+        "wheelbase_mm": 2893,
+        "ground_clearance_mm": 184,
+        "boot_l": 540,
+        "frunk_l": 84,
+        "seats": 5,
+        "seat_layout": "2+3",
+        "airbags": 8,
+        "airbag_positions": "front, front and rear side, curtain",
+        "adas": "ACC, LDW, LKA, RCTA",
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_format": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.carexpert.com.au/porsche/macan/2026/gts/features-and-specs",
+            "title": "2026 Porsche Macan GTS features and specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Macan Electric 4 and Turbo launched in Indonesia June 2024 (Eurokars), 'from Rp2.45 billion off the road' (no OTR published, so price left out); the RWD Macan Electric, 4S and GTS appear on the Porsche Indonesia site later (launch dates not confirmed). Range is Porsche Indonesia's 'ECE' figure (WLTP 'TBA' on the site), so range_standard left out. Power is the overboost figure; 0-100 with Launch Control. Recorded as model year 2025 (current site configuration). Usable battery (95 kWh), NMC prismatic cells (180), 800 V, motor type, drive, AC power, connectors, dimensions (width excl. mirrors), ground clearance, boot, frunk, seats, airbags, ADAS and heat pump from the Australian spec of the Macan GTS (CarExpert).",
+      "notes_id": "Macan Electric 4 dan Turbo diluncurkan di Indonesia Juni 2024 (Eurokars), 'mulai Rp2,45 miliar off the road' (tidak ada harga OTR, sehingga harga dikosongkan); Macan Electric RWD, 4S, dan GTS muncul belakangan di situs Porsche Indonesia (tanggal peluncuran belum terkonfirmasi). Jarak tempuh adalah angka 'ECE' versi Porsche Indonesia (WLTP tertulis 'TBA' di situs), sehingga range_standard dikosongkan. Tenaga adalah angka overboost; 0-100 dengan Launch Control. Dicatat sebagai model year 2025 (konfigurasi situs saat ini). Baterai usable (95 kWh), sel prismatik NMC (180), 800 V, jenis motor, penggerak, daya AC, konektor, dimensi (lebar tanpa spion), ground clearance, bagasi, frunk, jumlah kursi, airbag, ADAS, dan heat pump dari spesifikasi Australia untuk Macan GTS (CarExpert)."
+    },
+    {
+      "id": "porsche-macan-electric-2025-turbo",
+      "model_year": 2025,
+      "variant": "Macan Turbo Electric",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "power_kw": 470,
+        "accel_0_100_s": 3.3,
+        "top_speed_kmh": 260,
+        "range_km": 611,
+        "drive": "AWD",
+        "battery_gross_kwh": 100,
+        "torque_nm": 1130,
+        "voltage_architecture": "800 V",
+        "motor_type": "PMSM (front and rear)",
+        "ac_max_kw": 11,
+        "dc_max_kw": 270,
+        "dc_10_80_min": 21,
+        "length_mm": 4784,
+        "width_mm": 1938,
+        "wheelbase_mm": 2893,
+        "frunk_l": 84,
+        "battery_usable_kwh": 95,
+        "battery_chemistry": "NMC",
+        "pack_nominal_voltage_v": 662,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "v2l": false,
+        "height_mm": 1621,
+        "kerb_weight_kg": 2405,
+        "boot_l": 480
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.porsche.com/pap/_indonesia_/models/macan/macan-electric-models/macan-gts-electric/",
+            "title": "Porsche Macan GTS - Porsche Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-macan-ev-tiba-di-indonesia-siapkan-minimal-rp25-miliar-untuk-meminangnya/",
+            "title": "Porsche Macan EV Tiba di Indonesia, Siapkan Minimal Rp2,5 Miliar untuk Meminangnya - Zigwheels",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-macan-ev-tiba-di-indonesia-siapkan-minimal-rp25-miliar-untuk-meminangnya/",
+            "title": "Porsche Macan EV Tiba di Indonesia, Siapkan Minimal Rp2,5 Miliar untuk Meminangnya - Zigwheels",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/porsche-macan-ev-tiba-di-indonesia-siapkan-minimal-rp25-miliar-untuk-meminangnya/",
+            "title": "Porsche Macan EV Tiba di Indonesia, Siapkan Minimal Rp2,5 Miliar untuk Meminangnya - Zigwheels",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/car/2085/Porsche-Macan-Turbo-Electric",
+            "title": "Porsche Macan Turbo Electric (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/2085/Porsche-Macan-Turbo-Electric",
+            "title": "Porsche Macan Turbo Electric (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/car/2085/Porsche-Macan-Turbo-Electric",
+            "title": "Porsche Macan Turbo Electric (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/2085/Porsche-Macan-Turbo-Electric",
+            "title": "Porsche Macan Turbo Electric (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/2085/Porsche-Macan-Turbo-Electric",
+            "title": "Porsche Macan Turbo Electric (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/car/2085/Porsche-Macan-Turbo-Electric",
+            "title": "Porsche Macan Turbo Electric (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autointernational.com.my/WebNews/News/Year 2024/Dec 24/Porsche Malaysia marks the arrival of the all-electric Macan  - 12 Dec 24/Macan All Specs.pdf",
+            "title": "Macan All Specs - Porsche technical data distributed at Porsche Malaysia's all-electric Macan launch (12 December 2024)",
+            "date": "2024-12",
+            "type": "official",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Zigwheels (June 2024) quotes 637 hp; Porsche Indonesia 470 kW / 639 PS overboost. Zigwheels: 240 kW DC, '80% in 21 min'. Macan Electric 4 and Turbo launched in Indonesia June 2024 (Eurokars), 'from Rp2.45 billion off the road' (no OTR published, so price left out); the RWD Macan Electric, 4S and GTS appear on the Porsche Indonesia site later (launch dates not confirmed). Range is Porsche Indonesia's 'ECE' figure (WLTP 'TBA' on the site), so range_standard left out. Power is the overboost figure; 0-100 with Launch Control. Recorded as model year 2025 (current site configuration). Motor type, usable battery (95 kWh), 800 V architecture, AC/DC power, DC 10-80% time, dimensions (width excl. mirrors), kerb weight (DIN), boot and frunk from the Malaysian spec (Porsche technical data issued at Porsche Malaysia's launch, December 2024). Chemistry (NMC811), nominal voltage, connectors and V2L from the European spec (ev-database.org).",
+      "notes_id": "Zigwheels (Juni 2024) menyebut 637 hp; Porsche Indonesia 470 kW / 639 PS overboost. Zigwheels: DC 240 kW, '80% dalam 21 menit'. Macan Electric 4 dan Turbo diluncurkan di Indonesia Juni 2024 (Eurokars), 'mulai Rp2,45 miliar off the road' (tidak ada harga OTR, sehingga harga dikosongkan); Macan Electric RWD, 4S, dan GTS muncul belakangan di situs Porsche Indonesia (tanggal peluncuran belum terkonfirmasi). Jarak tempuh adalah angka 'ECE' versi Porsche Indonesia (WLTP tertulis 'TBA' di situs), sehingga range_standard dikosongkan. Tenaga adalah angka overboost; 0-100 dengan Launch Control. Dicatat sebagai model year 2025 (konfigurasi situs saat ini). Jenis motor, baterai usable (95 kWh), arsitektur 800 V, daya AC/DC, waktu DC 10-80%, dimensi (lebar tanpa spion), berat kosong (DIN), bagasi, dan frunk dari spesifikasi Malaysia (data teknis Porsche pada peluncuran Porsche Malaysia, Desember 2024). Kimia baterai (NMC811), tegangan nominal, konektor, dan V2L dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

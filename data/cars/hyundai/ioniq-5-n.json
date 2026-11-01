@@ -1,0 +1,269 @@
+{
+  "make": "Hyundai",
+  "model": "Ioniq 5 N",
+  "trims": [
+    {
+      "id": "hyundai-ioniq-5-n-2026-n",
+      "model_year": 2026,
+      "variant": "N",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 1500000000,
+        "battery_gross_kwh": 84,
+        "range_km": 448,
+        "motor_count": 2,
+        "drive": "AWD",
+        "motor_type": "PMSM",
+        "power_kw": 478,
+        "torque_nm": 770,
+        "dc_10_80_min": 18,
+        "length_mm": 4715,
+        "width_mm": 1940,
+        "height_mm": 1585,
+        "wheelbase_mm": 3000,
+        "boot_l": 490,
+        "seats": 5,
+        "tyre_size": "275/35 R21",
+        "accel_0_100_s": 3.4,
+        "top_speed_kmh": 260,
+        "adas": "LKA, LFA, BCA, BSM, RCTA",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "platform": "E-GMP",
+        "ac_max_kw": 11,
+        "dc_max_kw": 350,
+        "v2l": true,
+        "v2l_kw": 3.6
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000566",
+            "title": "Hyundai IONIQ 5 Price Guide: Exploring the Popular Electric Vehicle",
+            "date": "2025-06",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-5-n/spesifikasi/",
+            "title": "Hyundai Ioniq 5 N spesifikasi - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000526",
+            "title": "Hyundai IONIQ 5: A Premium Electric Vehicle with Cutting-Edge Technology",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/hyundai/ioniq-5-n/ne-facelift/awd-2026/",
+            "title": "Hyundai Ioniq 5 N AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/hyundai/ioniq-5-n/ne-facelift/awd-2026/",
+            "title": "Hyundai Ioniq 5 N AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/research/hyundai/ioniq-5-n/ne-facelift/awd-2026/",
+            "title": "Hyundai Ioniq 5 N AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/hyundai/ioniq-5-n/ne-facelift/awd-2026/",
+            "title": "Hyundai Ioniq 5 N AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Power 478 kW and 0-100 km/h 3.4 s are with N Grin Boost (Hyundai Indonesia); Zigwheels gives 609/641 hp and 740/770 Nm (normal/boost), torque here is the boost figure. Range 448 km, test standard not stated. Price was Rp1,372.5 jt OTR Jakarta in June 2025 (Hyundai Indonesia); Rp1.5 billion now (Zigwheels). Reported as locally assembled from 2024 but not confirmed by a source read here, so assembly is left out. Same specs 2024-2026. AC 11 kW, DC 350 kW and V2L 3.6 kW from the Malaysian Ioniq 5 N spec (paultan.org; facelifted car with the same 84 kWh / 478 kW powertrain).",
+      "notes_id": "Tenaga 478 kW dan 0-100 km/jam 3,4 detik dicapai dengan N Grin Boost (Hyundai Indonesia); Zigwheels menyebut 609/641 hp dan 740/770 Nm (normal/boost), torsi di sini memakai angka boost. Jarak tempuh 448 km, standar pengujian tidak disebutkan. Harga Rp1.372,5 jt OTR Jakarta pada Juni 2025 (Hyundai Indonesia); kini Rp1,5 miliar (Zigwheels). Dilaporkan dirakit lokal sejak 2024, tetapi belum dikonfirmasi sumber yang dibaca di sini, sehingga status perakitan dikosongkan. Spesifikasi sama 2024-2026. AC 11 kW, DC 350 kW, dan V2L 3,6 kW dari spesifikasi Malaysia Ioniq 5 N (paultan.org; versi facelift dengan powertrain 84 kWh / 478 kW yang sama)."
+    }
+  ]
+}

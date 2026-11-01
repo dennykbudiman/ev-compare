@@ -1,0 +1,1015 @@
+{
+  "make": "Toyota",
+  "model": "bZ4X",
+  "trims": [
+    {
+      "id": "toyota-bz4x-2025-fwd-cbu",
+      "model_year": 2025,
+      "variant": "FWD (CBU)",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 1190000000,
+        "battery_gross_kwh": 71.4,
+        "range_km": 500,
+        "power_kw": 152,
+        "drive": "FWD",
+        "length_mm": 4690,
+        "width_mm": 1860,
+        "height_mm": 1600,
+        "wheelbase_mm": 2850,
+        "ground_clearance_mm": 210,
+        "platform": "e-TNGA",
+        "motor_type": "PMSM",
+        "cell_count": 96,
+        "pack_nominal_voltage_v": 355,
+        "ac_max_kw": 6.6,
+        "ac_connector": "Type 2",
+        "dc_max_kw": 150,
+        "boot_l": 452,
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8221636/toyota-bz4x-produksi-lokal-meluncur-harga-turun-jadi-rp-799-juta",
+            "title": "Toyota bZ4X Produksi Lokal Meluncur, Harga Turun Jadi Rp 799 Juta",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8035173/segini-jarak-tempuh-toyota-bz4x-rakitan-lokal",
+            "title": "Segini Jarak Tempuh Toyota bZ4X Rakitan Lokal",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8035173/segini-jarak-tempuh-toyota-bz4x-rakitan-lokal",
+            "title": "Segini Jarak Tempuh Toyota bZ4X Rakitan Lokal",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.wapcar.my/news/60551first-look-at-the-malaysianspec-toyota-bz4x-ev-launching-in-malaysia-soon-60551",
+            "title": "First look at the Malaysian-spec Toyota bZ4X EV, launching in Malaysia soon - wapcar.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.wapcar.my/news/60551first-look-at-the-malaysianspec-toyota-bz4x-ev-launching-in-malaysia-soon-60551",
+            "title": "First look at the Malaysian-spec Toyota bZ4X EV, launching in Malaysia soon - wapcar.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.wapcar.my/news/60551first-look-at-the-malaysianspec-toyota-bz4x-ev-launching-in-malaysia-soon-60551",
+            "title": "First look at the Malaysian-spec Toyota bZ4X EV, launching in Malaysia soon - wapcar.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ]
+      },
+      "notes": "Original bZ4X imported from Japan, on sale Nov 2022 until the locally built facelift arrived in Nov 2025; same specs 2022–2025. Price Rp1.19 billion OTR Jakarta (Gridoto launch report); Detik (Jul 2025) still quotes about Rp1.2 billion. Power given as 204 hp by katadata (= 152 kW); globally this is 204 PS / 150 kW. Range test standard not stated. AC 6.6 kW (Type 2) and DC 150 kW from the Malaysian FWD spec (wapcar.my); motor type, cell count, pack voltage, boot and top speed from the UK FWD spec (Toyota UK).",
+      "notes_id": "bZ4X generasi awal yang diimpor dari Jepang, dijual sejak November 2022 hingga facelift rakitan lokal hadir pada November 2025; spesifikasi sama 2022–2025. Harga Rp1,19 miliar OTR Jakarta (laporan peluncuran Gridoto); Detik (Juli 2025) masih menyebut sekitar Rp1,2 miliar. Tenaga disebut 204 hp oleh katadata (= 152 kW); secara global angkanya 204 PS / 150 kW. Standar pengujian jarak tempuh tidak disebutkan. AC 6,6 kW (Type 2) dan DC 150 kW dari spesifikasi Malaysia FWD (wapcar.my); jenis motor, jumlah sel, tegangan paket, bagasi, dan kecepatan maksimum dari spesifikasi Inggris FWD (Toyota UK)."
+    },
+    {
+      "id": "toyota-bz4x-2026-mono-tone",
+      "model_year": 2026,
+      "variant": "Mono Tone",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 799000000,
+        "battery_gross_kwh": 73.11,
+        "range_km": 525,
+        "power_kw": 165,
+        "adas": "PCS (AEB), DRCC (ACC), LDA, BSM",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "FWD",
+        "torque_nm": 269,
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 22,
+        "dc_max_kw": 150,
+        "length_mm": 4690,
+        "width_mm": 1860,
+        "height_mm": 1650,
+        "wheelbase_mm": 2850,
+        "kerb_weight_kg": 2020,
+        "boot_l": 452,
+        "seats": 5,
+        "airbags": 8,
+        "accel_0_100_s": 7.4,
+        "top_speed_kmh": 160,
+        "tyre_size": "235/50 R20"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8221636/toyota-bz4x-produksi-lokal-meluncur-harga-turun-jadi-rp-799-juta",
+            "title": "Toyota bZ4X Produksi Lokal Meluncur, Harga Turun Jadi Rp 799 Juta",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-new-bz4x-bev-locally-produced-and-urban-cruiser-bev-launched-21668",
+            "title": "Toyota New bZ4X BEV Locally Produced and Urban Cruiser BEV Launched",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/bz4x/touring-battery-ev",
+            "title": "Toyota bZ4X Touring Battery EV - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-new-bz4x-bev-locally-produced-and-urban-cruiser-bev-launched-21668",
+            "title": "Toyota New bZ4X BEV Locally Produced and Urban Cruiser BEV Launched",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8221636/toyota-bz4x-produksi-lokal-meluncur-harga-turun-jadi-rp-799-juta",
+            "title": "Toyota bZ4X Produksi Lokal Meluncur, Harga Turun Jadi Rp 799 Juta",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-new-bz4x-bev-locally-produced-and-urban-cruiser-bev-launched-21668",
+            "title": "Toyota New bZ4X BEV Locally Produced and Urban Cruiser BEV Launched",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-new-bz4x-bev-locally-produced-and-urban-cruiser-bev-launched-21668",
+            "title": "Toyota New bZ4X BEV Locally Produced and Urban Cruiser BEV Launched",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-new-bz4x-bev-locally-produced-and-urban-cruiser-bev-launched-21668",
+            "title": "Toyota New bZ4X BEV Locally Produced and Urban Cruiser BEV Launched",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-bz4x-launches-at-gjaw-2025-check-out-its-advantages-21640",
+            "title": "Toyota bZ4X Launches at GJAW 2025, Check Out Its Advantages",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-new-bz4x-bev-locally-produced-and-urban-cruiser-bev-launched-21668",
+            "title": "Toyota New bZ4X BEV Locally Produced and Urban Cruiser BEV Launched",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/toyota/bz4x/ea10-facelift/fwd-2026/",
+            "title": "Toyota bZ4X FWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Facelifted bZ4X assembled at TMMIN, launched GJAW 21 Nov 2025 at Rp799 jt OTR Jakarta (was over Rp1 billion as CBU). Variant name 'Mono Tone' from oto.com. Power 165 kW (221.2 hp), 20-inch wheels; Toyota adds free battery checks every 6 months for 3-5 years. Range standard not stated. oto.com's 'Touring' spec page actually shows this car's figures (73.11 kWh, 525 km, FWD, 221 hp, 269 Nm, 4,690 mm), so it was not used for the Touring; drive and torque left out because no source labelled for this variant states them. Drive, torque, ~400 V, AC 22 kW, DC 150 kW, dimensions, weight, boot, seats, 8 airbags, 0-100 km/h, top speed and tyres from the Malaysian facelifted 73.1 kWh FWD spec (paultan.org).",
+      "notes_id": "bZ4X facelift dirakit di TMMIN, diluncurkan di GJAW 21 November 2025 seharga Rp799 jt OTR Jakarta (sebelumnya lebih dari Rp1 miliar sebagai CBU). Nama varian 'Mono Tone' dari oto.com. Tenaga 165 kW (221,2 hp), pelek 20 inci; Toyota menambahkan pemeriksaan baterai gratis setiap 6 bulan selama 3-5 tahun. Standar jarak tempuh tidak disebutkan. Halaman spesifikasi 'Touring' di oto.com justru menampilkan angka mobil ini (73,11 kWh, 525 km, FWD, 221 hp, 269 Nm, 4.690 mm), sehingga tidak dipakai untuk Touring; penggerak dan torsi dikosongkan karena tidak ada sumber berlabel varian ini yang menyebutkannya. Penggerak, torsi, ~400 V, AC 22 kW, DC 150 kW, dimensi, berat, bagasi, jumlah kursi, 8 airbag, 0-100 km/jam, kecepatan maksimum, dan ban dari spesifikasi Malaysia facelift 73,1 kWh FWD (paultan.org)."
+    },
+    {
+      "id": "toyota-bz4x-2026-touring",
+      "model_year": 2026,
+      "variant": "Touring",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 889000000,
+        "battery_gross_kwh": 74.69,
+        "range_km": 487,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 280,
+        "dc_10_80_min": 28,
+        "length_mm": 4830,
+        "width_mm": 1860,
+        "height_mm": 1675,
+        "wheelbase_mm": 2850,
+        "ground_clearance_mm": 216,
+        "boot_l": 669,
+        "seats": 5,
+        "airbags": 8,
+        "battery_chemistry": "NCM",
+        "battery_usable_kwh": 71,
+        "voltage_architecture": "~400 V",
+        "torque_nm": 438,
+        "dc_max_kw": 150,
+        "accel_0_100_s": 6.9,
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.gridoto.com/amp/224399945/toyota-bz4x-kini-makin-lengkap-varian-touring-meluncur-dengan-harga-segini?page=all",
+            "title": "Toyota bZ4X Kini Makin Lengkap, Varian Touring Meluncur dengan Harga Segini",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/bz4x/touring-battery-ev",
+            "title": "Toyota bZ4X Touring Battery EV - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://auto2000.co.id/berita-dan-tips/spesifikasi-bz4x-touring",
+            "title": "Spesifikasi bZ4X Touring dan Teknologi Mobil Listrik Toyota - Auto2000",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://auto2000.co.id/berita-dan-tips/spesifikasi-bz4x-touring",
+            "title": "Spesifikasi bZ4X Touring dan Teknologi Mobil Listrik Toyota - Auto2000",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.topgear.com.ph/news/car-news/toyota-bz4x-touring-giias-2026-a6888-20260731",
+            "title": "Toyota bZ4X Touring debuts at GIIAS 2026 - Top Gear Philippines",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://auto2000.co.id/berita-dan-tips/spesifikasi-bz4x-touring",
+            "title": "Spesifikasi bZ4X Touring dan Teknologi Mobil Listrik Toyota - Auto2000",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224399945/toyota-bz4x-kini-makin-lengkap-varian-touring-meluncur-dengan-harga-segini?page=all",
+            "title": "Toyota bZ4X Kini Makin Lengkap, Varian Touring Meluncur dengan Harga Segini",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://auto2000.co.id/berita-dan-tips/spesifikasi-bz4x-touring",
+            "title": "Spesifikasi bZ4X Touring dan Teknologi Mobil Listrik Toyota - Auto2000",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224399945/toyota-bz4x-kini-makin-lengkap-varian-touring-meluncur-dengan-harga-segini?page=all",
+            "title": "Toyota bZ4X Kini Makin Lengkap, Varian Touring Meluncur dengan Harga Segini",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.topgear.com.ph/news/car-news/toyota-bz4x-touring-giias-2026-a6888-20260731",
+            "title": "Toyota bZ4X Touring debuts at GIIAS 2026 - Top Gear Philippines",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.gridoto.com/amp/224399945/toyota-bz4x-kini-makin-lengkap-varian-touring-meluncur-dengan-harga-segini?page=all",
+            "title": "Toyota bZ4X Kini Makin Lengkap, Varian Touring Meluncur dengan Harga Segini",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/224399945/toyota-bz4x-kini-makin-lengkap-varian-touring-meluncur-dengan-harga-segini?page=all",
+            "title": "Toyota bZ4X Kini Makin Lengkap, Varian Touring Meluncur dengan Harga Segini",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/224399945/toyota-bz4x-kini-makin-lengkap-varian-touring-meluncur-dengan-harga-segini?page=all",
+            "title": "Toyota bZ4X Kini Makin Lengkap, Varian Touring Meluncur dengan Harga Segini",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/224399945/toyota-bz4x-kini-makin-lengkap-varian-touring-meluncur-dengan-harga-segini?page=all",
+            "title": "Toyota bZ4X Kini Makin Lengkap, Varian Touring Meluncur dengan Harga Segini",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/toyota/toyota-bz4x-touring/spesifikasi",
+            "title": "Spesifikasi Toyota bZ4X Touring - Moladin",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://evkx.net/models/toyota/bz4x/bz4x_touring_awd/specifications/",
+            "title": "Toyota bZ4X Touring AWD specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://evkx.net/models/toyota/bz4x/bz4x_touring_awd/specifications/",
+            "title": "Toyota bZ4X Touring AWD specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://evkx.net/models/toyota/bz4x/bz4x_touring_awd/specifications/",
+            "title": "Toyota bZ4X Touring AWD specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://evkx.net/models/toyota/bz4x/bz4x_touring_awd/specifications/",
+            "title": "Toyota bZ4X Touring AWD specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://evkx.net/models/toyota/bz4x/bz4x_touring_awd/specifications/",
+            "title": "Toyota bZ4X Touring AWD specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://evkx.net/models/toyota/bz4x/bz4x_touring_awd/specifications/",
+            "title": "Toyota bZ4X Touring AWD specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://evkx.net/models/toyota/bz4x/bz4x_touring_awd/specifications/",
+            "title": "Toyota bZ4X Touring AWD specifications - EVKX.net",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched GIIAS 29 Jul 2026. Price Rp889 jt from oto.com Jakarta (Moladin estimate Rp899 jt). Power: Gridoto gives 280 kW system output (matches global Touring); Auto2000 gives 167 kW / 221 hp, which is the single front eAxle. Torque left out: sources give 268.6-269 Nm, which is per eAxle, not combined. Range 487 km (Auto2000 gives 462-487 km, Moladin 590 km WLTP); standard not stated. Auto2000/Gridoto say 20-inch wheels, Moladin says 235/60 R18, so tyres left out. Moladin also lists 22 kW AC (doubtful) and 2,465 kg weight (probably gross), not used. CKD/CBU not stated. Battery chemistry, usable capacity, ~400 V, torque, DC 150 kW, 0-100 km/h and top speed from the European bZ4X Touring AWD spec (EVKX.net).",
+      "notes_id": "Diluncurkan di GIIAS 29 Juli 2026. Harga Rp889 jt dari oto.com Jakarta (estimasi Moladin Rp899 jt). Tenaga: Gridoto menyebut output sistem 280 kW (sesuai Touring global); Auto2000 menyebut 167 kW / 221 hp, yang merupakan angka satu eAxle depan. Torsi dikosongkan: sumber menyebut 268,6-269 Nm, yang merupakan angka per eAxle, bukan gabungan. Jarak tempuh 487 km (Auto2000 menyebut 462-487 km, Moladin 590 km WLTP); standar tidak disebutkan. Auto2000/Gridoto menyebut pelek 20 inci, Moladin menyebut 235/60 R18, sehingga ukuran ban dikosongkan. Moladin juga mencantumkan AC 22 kW (diragukan) dan bobot 2.465 kg (kemungkinan bobot kotor), tidak dipakai. Status CKD/CBU tidak disebutkan. Kimia baterai, kapasitas usable, ~400 V, torsi, DC 150 kW, 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Eropa bZ4X Touring AWD (EVKX.net)."
+    },
+    {
+      "id": "toyota-bz4x-2023-fwd-two-tone-cbu",
+      "model_year": 2023,
+      "variant": "FWD Two Tone (CBU)",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1198000000,
+        "battery_gross_kwh": 71.4,
+        "range_km": 500,
+        "drive": "FWD",
+        "power_kw": 152,
+        "torque_nm": 266,
+        "accel_0_100_s": 8.3,
+        "length_mm": 4690,
+        "width_mm": 1860,
+        "height_mm": 1600,
+        "wheelbase_mm": 2850,
+        "ground_clearance_mm": 210,
+        "platform": "e-TNGA",
+        "motor_type": "PMSM",
+        "cell_count": 96,
+        "pack_nominal_voltage_v": 355,
+        "ac_max_kw": 6.6,
+        "ac_connector": "Type 2",
+        "dc_max_kw": 150,
+        "boot_l": 452,
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.gridoto.com/amp/223886071/puluhan-toyota-bz4x-dukung-ktt-asean-2023-berapa-harganya-sekarang",
+            "title": "Puluhan Toyota bZ4X Dukung KTT ASEAN 2023, Berapa Harganya Sekarang?",
+            "date": "2023-09",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.gridoto.com/amp/223886071/puluhan-toyota-bz4x-dukung-ktt-asean-2023-berapa-harganya-sekarang",
+            "title": "Puluhan Toyota bZ4X Dukung KTT ASEAN 2023, Berapa Harganya Sekarang?",
+            "date": "2023-09",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.gridoto.com/amp/223886071/puluhan-toyota-bz4x-dukung-ktt-asean-2023-berapa-harganya-sekarang",
+            "title": "Puluhan Toyota bZ4X Dukung KTT ASEAN 2023, Berapa Harganya Sekarang?",
+            "date": "2023-09",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.gridoto.com/amp/223886071/puluhan-toyota-bz4x-dukung-ktt-asean-2023-berapa-harganya-sekarang",
+            "title": "Puluhan Toyota bZ4X Dukung KTT ASEAN 2023, Berapa Harganya Sekarang?",
+            "date": "2023-09",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.gridoto.com/amp/223886071/puluhan-toyota-bz4x-dukung-ktt-asean-2023-berapa-harganya-sekarang",
+            "title": "Puluhan Toyota bZ4X Dukung KTT ASEAN 2023, Berapa Harganya Sekarang?",
+            "date": "2023-09",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.gridoto.com/amp/223886071/puluhan-toyota-bz4x-dukung-ktt-asean-2023-berapa-harganya-sekarang",
+            "title": "Puluhan Toyota bZ4X Dukung KTT ASEAN 2023, Berapa Harganya Sekarang?",
+            "date": "2023-09",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://www.gridoto.com/amp/223570968/spesifikasi-mobil-listrik-toyota-bz4x-yang-dijual-di-indonesia?page=all",
+            "title": "Spesifikasi Mobil Listrik Toyota bZ4X yang Dijual di Indonesia",
+            "date": "2022-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223886071/puluhan-toyota-bz4x-dukung-ktt-asean-2023-berapa-harganya-sekarang",
+            "title": "Puluhan Toyota bZ4X Dukung KTT ASEAN 2023, Berapa Harganya Sekarang?",
+            "date": "2023-09",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.wapcar.my/news/60551first-look-at-the-malaysianspec-toyota-bz4x-ev-launching-in-malaysia-soon-60551",
+            "title": "First look at the Malaysian-spec Toyota bZ4X EV, launching in Malaysia soon - wapcar.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.wapcar.my/news/60551first-look-at-the-malaysianspec-toyota-bz4x-ev-launching-in-malaysia-soon-60551",
+            "title": "First look at the Malaysian-spec Toyota bZ4X EV, launching in Malaysia soon - wapcar.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.wapcar.my/news/60551first-look-at-the-malaysianspec-toyota-bz4x-ev-launching-in-malaysia-soon-60551",
+            "title": "First look at the Malaysian-spec Toyota bZ4X EV, launching in Malaysia soon - wapcar.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/230831-bZ4X-Tech-Specs.pdf",
+            "title": "Toyota bZ4X Technical Specifications - Toyota UK media",
+            "date": "2023-08",
+            "type": "official",
+            "market": "UK"
+          }
+        ]
+      },
+      "notes": "Two-tone paint version of the original imported bZ4X; Gridoto (Sep 2023) lists Rp1.19 billion One Tone and Rp1.198 billion Two Tone OTR Jakarta. The One Tone at Rp1.19 billion is unchanged since the Nov 2022 launch and is covered by the 2025 'FWD (CBU)' record (same specs 2022-2025), so no separate 2022/2023 One Tone record. Power 204 dk (= 152 kW; global 150 kW / 204 PS). Range 500 km, standard not stated. Toyota Safety Sense 3.0. CBU per the 2025 record; not restated in this source. AC 6.6 kW (Type 2) and DC 150 kW from the Malaysian FWD spec (wapcar.my); motor type, cell count, pack voltage, boot and top speed from the UK FWD spec (Toyota UK).",
+      "notes_id": "Versi cat dua warna dari bZ4X impor generasi awal; Gridoto (September 2023) mencantumkan Rp1,19 miliar One Tone dan Rp1,198 miliar Two Tone OTR Jakarta. One Tone Rp1,19 miliar tidak berubah sejak peluncuran November 2022 dan sudah tercakup oleh data 2025 'FWD (CBU)' (spesifikasi sama 2022-2025), sehingga tidak ada data One Tone 2022/2023 terpisah. Tenaga 204 dk (= 152 kW; global 150 kW / 204 PS). Jarak tempuh 500 km, standar tidak disebutkan. Toyota Safety Sense 3.0. CBU menurut data 2025; tidak disebutkan ulang di sumber ini. AC 6,6 kW (Type 2) dan DC 150 kW dari spesifikasi Malaysia FWD (wapcar.my); jenis motor, jumlah sel, tegangan paket, bagasi, dan kecepatan maksimum dari spesifikasi Inggris FWD (Toyota UK)."
+    }
+  ]
+}

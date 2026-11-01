@@ -1,0 +1,1930 @@
+{
+  "make": "Jaecoo",
+  "model": "J5 EV",
+  "trims": [
+    {
+      "id": "jaecoo-j5-ev-2025-standard",
+      "model_year": 2025,
+      "variant": "Standard",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 249900000,
+        "segment": "SUV",
+        "battery_gross_kwh": 60.9,
+        "range_km": 461,
+        "range_standard": "NEDC",
+        "power_kw": 155,
+        "torque_nm": 288,
+        "dc_max_kw": 130,
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "length_mm": 4380,
+        "width_mm": 1860,
+        "height_mm": 1650,
+        "ground_clearance_mm": 200,
+        "boot_l": 480,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "wheelbase_mm": 2620,
+        "airbags": 6,
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "pack_nominal_voltage_v": 355,
+        "ac_max_kw": 7,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "tyre_size": "235/55 R18",
+        "accel_0_100_s": 7.3,
+        "wading_mm": 450,
+        "adas": "AEB, LKA"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launch price Nov 2025 (paultan: for the first 1,000 customers; CNN does not state OTR). 9-inch screen, 2 speakers, fabric seats. DC 30-80% in about 28 min (Moladin spec page says 27-28 min). 0-100: Moladin 7.3 s vs paultan 7.7 s; Moladin (later) used. AC 7 kW (7-8 h) from Moladin only. 17 ADAS functions incl. AEB, LKA, BSM per paultan (BSM/360 camera/FCTA only on Premium per Moladin). Assembly not stated by sources consulted.",
+      "notes_id": "Harga peluncuran November 2025 (paultan: untuk 1.000 konsumen pertama; CNN tidak menyebut OTR). Layar 9 inci, 2 speaker, jok kain. DC 30-80% sekitar 28 menit (halaman spesifikasi Moladin menyebut 27-28 menit). 0-100: Moladin 7,3 detik vs paultan 7,7 detik; dipakai Moladin (lebih baru). AC 7 kW (7-8 jam) hanya dari Moladin. 17 fungsi ADAS, termasuk AEB, LKA, BSM menurut paultan (BSM/kamera 360/FCTA hanya di Premium menurut Moladin). Status perakitan tidak disebutkan sumber yang dirujuk."
+    },
+    {
+      "id": "jaecoo-j5-ev-2025-premium",
+      "model_year": 2025,
+      "variant": "Premium",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 299900000,
+        "segment": "SUV",
+        "battery_gross_kwh": 60.9,
+        "range_km": 461,
+        "range_standard": "NEDC",
+        "power_kw": 155,
+        "torque_nm": 288,
+        "dc_max_kw": 130,
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "length_mm": 4380,
+        "width_mm": 1860,
+        "height_mm": 1650,
+        "ground_clearance_mm": 200,
+        "boot_l": 480,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "wheelbase_mm": 2620,
+        "airbags": 6,
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "pack_nominal_voltage_v": 355,
+        "ac_max_kw": 7,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "tyre_size": "235/55 R18",
+        "accel_0_100_s": 7.3,
+        "wading_mm": 450,
+        "adas": "AEB, LKA, BSM"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launch price Nov 2025 OTR Jakarta. DC 30-80% in about 28 min (Moladin spec page says 27-28 min). 0-100: Moladin 7.3 s vs paultan 7.7 s; Moladin (later) used. AC 7 kW (7-8 h) from Moladin only. 17 ADAS functions incl. AEB, LKA, BSM per paultan (BSM/360 camera/FCTA only on Premium per Moladin). Assembly not stated by sources consulted.",
+      "notes_id": "Harga peluncuran November 2025 OTR Jakarta. DC 30-80% sekitar 28 menit (halaman spesifikasi Moladin menyebut 27-28 menit). 0-100: Moladin 7,3 detik vs paultan 7,7 detik; dipakai Moladin (lebih baru). AC 7 kW (7-8 jam) hanya dari Moladin. 17 fungsi ADAS, termasuk AEB, LKA, BSM menurut paultan (BSM/kamera 360/FCTA hanya di Premium menurut Moladin). Status perakitan tidak disebutkan sumber yang dirujuk."
+    },
+    {
+      "id": "jaecoo-j5-ev-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 279900000,
+        "segment": "SUV",
+        "battery_gross_kwh": 60.9,
+        "range_km": 461,
+        "range_standard": "NEDC",
+        "power_kw": 155,
+        "torque_nm": 288,
+        "dc_max_kw": 130,
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "length_mm": 4380,
+        "width_mm": 1860,
+        "height_mm": 1650,
+        "ground_clearance_mm": 200,
+        "boot_l": 480,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "wheelbase_mm": 2620,
+        "airbags": 6,
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "pack_nominal_voltage_v": 355,
+        "ac_max_kw": 7,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "tyre_size": "235/55 R18",
+        "accel_0_100_s": 7.3,
+        "wading_mm": 450,
+        "adas": "AEB, LKA"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Price raised Rp249.9 jt -> Rp279.9 jt in April 2026. DC 30-80% in about 28 min (Moladin spec page says 27-28 min). 0-100: Moladin 7.3 s vs paultan 7.7 s; Moladin (later) used. AC 7 kW (7-8 h) from Moladin only. 17 ADAS functions incl. AEB, LKA, BSM per paultan (BSM/360 camera/FCTA only on Premium per Moladin). Assembly not stated by sources consulted.",
+      "notes_id": "Harga naik dari Rp249,9 jt -> Rp279,9 jt pada April 2026. DC 30-80% sekitar 28 menit (halaman spesifikasi Moladin menyebut 27-28 menit). 0-100: Moladin 7,3 detik vs paultan 7,7 detik; dipakai Moladin (lebih baru). AC 7 kW (7-8 jam) hanya dari Moladin. 17 fungsi ADAS, termasuk AEB, LKA, BSM menurut paultan (BSM/kamera 360/FCTA hanya di Premium menurut Moladin). Status perakitan tidak disebutkan sumber yang dirujuk."
+    },
+    {
+      "id": "jaecoo-j5-ev-2026-premium",
+      "model_year": 2026,
+      "variant": "Premium",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 324900000,
+        "segment": "SUV",
+        "battery_gross_kwh": 60.9,
+        "range_km": 461,
+        "range_standard": "NEDC",
+        "power_kw": 155,
+        "torque_nm": 288,
+        "dc_max_kw": 130,
+        "dc_10_80_min": 28,
+        "dc_time_window": "30–80%",
+        "length_mm": 4380,
+        "width_mm": 1860,
+        "height_mm": 1650,
+        "ground_clearance_mm": 200,
+        "boot_l": 480,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "wheelbase_mm": 2620,
+        "airbags": 6,
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "pack_nominal_voltage_v": 355,
+        "ac_max_kw": 7,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "tyre_size": "235/55 R18",
+        "accel_0_100_s": 7.3,
+        "wading_mm": 450,
+        "adas": "AEB, LKA, BSM, FCTA, RCTA"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.cnnindonesia.com/otomotif/20251103142326-603-1291296/jaecoo-j5-ev-meluncur-harga-menggoda-konsumen-lcgc",
+            "title": "Jaecoo J5 EV Meluncur, Harga Menggoda Konsumen LCGC",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/kenaikan-harga-jaecoo-j5-per-september-2026/2/",
+            "title": "Kenaikan Harga Jaecoo J5 per September 2026",
+            "date": "2026-09",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/jaecoo/jaecoo-j5/spesifikasi",
+            "title": "Spesifikasi Jaecoo J5 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://moladin.com/news/update-jaecoo-j5-ev-april-2026-harga-naik/",
+            "title": "Update Jaecoo J5 EV April 2026, Harga Naik",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2025/11/04/2026-jaecoo-j5-ev-launched-in-indonesia/",
+            "title": "2026 Jaecoo J5 EV launched in Indonesia",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Price Rp299.9 jt at launch, Rp309.9 jt from April 2026, Rp324.9 jt from Sept 2026 (Moladin news); Moladin spec page shows Rp329.9 jt (conflict). Adds 13.2-inch screen, panoramic roof, 360 camera, BSM. DC 30-80% in about 28 min (Moladin spec page says 27-28 min). 0-100: Moladin 7.3 s vs paultan 7.7 s; Moladin (later) used. AC 7 kW (7-8 h) from Moladin only. 17 ADAS functions incl. AEB, LKA, BSM per paultan (BSM/360 camera/FCTA only on Premium per Moladin). Assembly not stated by sources consulted.",
+      "notes_id": "Harga Rp299,9 jt saat peluncuran, Rp309,9 jt mulai April 2026, Rp324,9 jt mulai September 2026 (berita Moladin); halaman spesifikasi Moladin menunjukkan Rp329,9 jt (berbeda). Menambahkan layar 13,2 inci, atap panoramik, kamera 360, dan BSM. DC 30-80% sekitar 28 menit (halaman spesifikasi Moladin menyebut 27-28 menit). 0-100: Moladin 7,3 detik vs paultan 7,7 detik; dipakai Moladin (lebih baru). AC 7 kW (7-8 jam) hanya dari Moladin. 17 fungsi ADAS, termasuk AEB, LKA, BSM menurut paultan (BSM/kamera 360/FCTA hanya di Premium menurut Moladin). Status perakitan tidak disebutkan sumber yang dirujuk."
+    }
+  ]
+}

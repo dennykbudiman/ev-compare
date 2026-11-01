@@ -1,0 +1,1329 @@
+{
+  "make": "BYD",
+  "model": "Sealion 7",
+  "trims": [
+    {
+      "id": "byd-sealion-7-2026-premium",
+      "model_year": 2026,
+      "variant": "Premium",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "length_mm": 4830,
+        "width_mm": 1925,
+        "height_mm": 1620,
+        "wheelbase_mm": 2930,
+        "frunk_l": 58,
+        "airbags": 9,
+        "ac_max_kw": 7,
+        "voltage_architecture": "~400 V",
+        "price_otr_idr": 629000000,
+        "assembly": "CBU import",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 82.56,
+        "range_km": 567,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 230,
+        "torque_nm": 380,
+        "dc_max_kw": 150,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "ground_clearance_mm": 157,
+        "accel_0_100_s": 6.5,
+        "top_speed_kmh": 215,
+        "tyre_size": "235/50 R19 front, 255/45 R19 rear",
+        "seats": 5,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "ACC, AEB, FCW, BSD, LKA",
+        "motor_type": "PMSM",
+        "heat_pump": true,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "crash_rating": "5 stars (ANCAP 2025)"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/premium-2024/",
+            "title": "BYD Sealion 7 Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-premium-suv-rwd-electric-jsgo8kwg20250212",
+            "title": "BYD Sealion 7 Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/premium-2024/",
+            "title": "BYD Sealion 7 Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-premium-suv-rwd-electric-jsgo8kwg20250212",
+            "title": "BYD Sealion 7 Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/premium-2024/",
+            "title": "BYD Sealion 7 Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-premium-suv-rwd-electric-jsgo8kwg20250212",
+            "title": "BYD Sealion 7 Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/premium-2024/",
+            "title": "BYD Sealion 7 Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-premium-suv-rwd-electric-jsgo8kwg20250212",
+            "title": "BYD Sealion 7 Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-premium-suv-rwd-electric-jsgo8kwg20250212",
+            "title": "BYD Sealion 7 Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-premium-suv-rwd-electric-jsgo8kwg20250212",
+            "title": "BYD Sealion 7 Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-premium-suv-rwd-electric-jsgo8kwg20250212",
+            "title": "BYD Sealion 7 Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-premium-suv-rwd-electric-jsgo8kwg20250212",
+            "title": "BYD Sealion 7 Premium (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Launched at IIMS 13 Feb 2025 at Rp629 jt; same price and specs 2025–2026 (still listed by Moladin Aug 2026) until replaced by the Extended as the only variant on the October 2026 list. Imported from China. Kerb weight conflicts (Tirto 2,225 kg, Moladin 2,340 kg) and boot conflicts (Tirto 500 L, Moladin 520 L), so both are left out. AC: Moladin 7 kW vs KabarBursa 11 kW; the per-variant Moladin figure is used. Top speed 215 km/h appears once in KabarBursa after both variants. Seats, V2L and ADAS list from the Malaysian spec (paultan.org); motor type, heat pump, charging connectors and ANCAP rating from the Australian spec (CarExpert), both Premium 82.56 kWh RWD.",
+      "notes_id": "Diluncurkan di IIMS 13 Februari 2025 seharga Rp629 jt; harga dan spesifikasi sama 2025–2026 (masih tercantum di Moladin Agustus 2026) hingga digantikan Extended sebagai satu-satunya varian di daftar Oktober 2026. Diimpor dari China. Bobot kosong berbeda (Tirto 2.225 kg, Moladin 2.340 kg), begitu pula bagasi (Tirto 500 L, Moladin 520 L), sehingga keduanya dikosongkan. AC: Moladin 7 kW vs KabarBursa 11 kW; dipakai angka per varian dari Moladin. Kecepatan maksimum 215 km/jam muncul sekali di KabarBursa setelah penjelasan kedua varian. Jumlah kursi, V2L, dan daftar ADAS dari spesifikasi Malaysia (paultan.org); jenis motor, heat pump, konektor pengisian, dan peringkat ANCAP dari spesifikasi Australia (CarExpert), keduanya Premium 82,56 kWh RWD."
+    },
+    {
+      "id": "byd-sealion-7-2026-performance",
+      "model_year": 2026,
+      "variant": "Performance AWD",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "length_mm": 4830,
+        "width_mm": 1925,
+        "height_mm": 1620,
+        "wheelbase_mm": 2930,
+        "frunk_l": 58,
+        "airbags": 9,
+        "ac_max_kw": 7,
+        "voltage_architecture": "~400 V",
+        "price_otr_idr": 719000000,
+        "assembly": "CBU import",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 82.56,
+        "range_km": 542,
+        "range_standard": "NEDC",
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 390,
+        "torque_nm": 690,
+        "dc_max_kw": 150,
+        "dc_10_80_min": 32,
+        "ground_clearance_mm": 163,
+        "accel_0_100_s": 4.5,
+        "top_speed_kmh": 215,
+        "tyre_size": "245/45 R20",
+        "seats": 5,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "adas": "ACC, AEB, FCW, BSD, LKA",
+        "motor_type": "Induction (front) + PMSM (rear)",
+        "heat_pump": true,
+        "crash_rating": "5 stars (ANCAP 2025)"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7781595/tambah-sealion-7-ini-daftar-mobil-byd-yang-dijual-di-indonesia",
+            "title": "Tambah Sealion 7, Ini Daftar Mobil BYD yang Dijual di Indonesia",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://carsofmalaysia.com/news/2024-byd-sealion-7-launched-in-malaysia-from-rm187k-up-to-567km-range/",
+            "title": "2024 BYD Sealion 7 launched in Malaysia (Cars of Malaysia)",
+            "date": "2024-11",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/performance-2024/",
+            "title": "BYD Sealion 7 Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-performance-suv-4x4-electric-jsgo8kwk20250212",
+            "title": "BYD Sealion 7 Performance (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/performance-2024/",
+            "title": "BYD Sealion 7 Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-performance-suv-4x4-electric-jsgo8kwk20250212",
+            "title": "BYD Sealion 7 Performance (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/performance-2024/",
+            "title": "BYD Sealion 7 Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-performance-suv-4x4-electric-jsgo8kwk20250212",
+            "title": "BYD Sealion 7 Performance (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/performance-2024/",
+            "title": "BYD Sealion 7 Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-performance-suv-4x4-electric-jsgo8kwk20250212",
+            "title": "BYD Sealion 7 Performance (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/performance-2024/",
+            "title": "BYD Sealion 7 Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-performance-suv-4x4-electric-jsgo8kwk20250212",
+            "title": "BYD Sealion 7 Performance (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/byd/sealion-7/mk1/performance-2024/",
+            "title": "BYD Sealion 7 Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-performance-suv-4x4-electric-jsgo8kwk20250212",
+            "title": "BYD Sealion 7 Performance (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-performance-suv-4x4-electric-jsgo8kwk20250212",
+            "title": "BYD Sealion 7 Performance (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.carexpert.com.au/byd/sealion-7/2025-performance-suv-4x4-electric-jsgo8kwk20250212",
+            "title": "BYD Sealion 7 Performance (2025) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Launched at IIMS 13 Feb 2025 at Rp719 jt; same price and specs 2025–2026 until dropped from the October 2026 list. Tirto quotes 'up to 540 km' range; 542 km NEDC used. Imported from China. Kerb weight conflicts (Tirto 2,225 kg, Moladin 2,340 kg) and boot conflicts (Tirto 500 L, Moladin 520 L), so both are left out. AC: Moladin 7 kW vs KabarBursa 11 kW; the per-variant Moladin figure is used. Top speed 215 km/h appears once in KabarBursa after both variants. Seats, V2L, charging connectors and ADAS list from the Malaysian spec (paultan.org); motor types, heat pump and ANCAP rating from the Australian spec (CarExpert), both Performance 82.56 kWh AWD. DC peak corrected (Nov 2026): Moladin's 230 kW belongs to the 91.3 kWh Extended; this 82.56 kWh Performance charges at up to 150 kW (Malaysian spec of the same 390 kW AWD car, Cars of Malaysia).",
+      "notes_id": "Diluncurkan di IIMS 13 Februari 2025 seharga Rp719 jt; harga dan spesifikasi sama 2025–2026 hingga dihapus dari daftar Oktober 2026. Tirto menyebut jarak tempuh 'hingga 540 km'; dipakai 542 km NEDC. Diimpor dari China. Bobot kosong berbeda (Tirto 2.225 kg, Moladin 2.340 kg), begitu pula bagasi (Tirto 500 L, Moladin 520 L), sehingga keduanya dikosongkan. AC: Moladin 7 kW vs KabarBursa 11 kW; dipakai angka per varian dari Moladin. Kecepatan maksimum 215 km/jam muncul sekali di KabarBursa setelah penjelasan kedua varian. Jumlah kursi, V2L, konektor pengisian, dan daftar ADAS dari spesifikasi Malaysia (paultan.org); jenis motor, heat pump, dan peringkat ANCAP dari spesifikasi Australia (CarExpert), keduanya Performance 82,56 kWh AWD. DC puncak dikoreksi (Nov 2026): angka 230 kW di Moladin milik varian Extended 91,3 kWh; Performance 82,56 kWh ini mengisi daya hingga 150 kW (spesifikasi Malaysia untuk mobil AWD 390 kW yang sama, Cars of Malaysia)."
+    },
+    {
+      "id": "byd-sealion-7-2026-extended",
+      "model_year": 2026,
+      "variant": "Extended 5-Seater",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "length_mm": 4830,
+        "width_mm": 1925,
+        "height_mm": 1620,
+        "wheelbase_mm": 2930,
+        "frunk_l": 58,
+        "airbags": 9,
+        "ac_max_kw": 7,
+        "price_otr_idr": 879000000,
+        "battery_gross_kwh": 91.39,
+        "range_km": 650,
+        "range_standard": "NEDC",
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 390,
+        "torque_nm": 690,
+        "dc_max_kw": 230,
+        "dc_10_80_min": 32,
+        "ground_clearance_mm": 163,
+        "boot_l": 500,
+        "tyre_size": "245/45 R20",
+        "battery_chemistry": "LFP",
+        "cell_format": "Blade",
+        "heat_pump": true,
+        "accel_0_100_s": 4.5,
+        "top_speed_kmh": 215,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "seats": 5,
+        "platform": "e-Platform 3.0",
+        "airbag_positions": "driver, front passenger, front centre, front side, rear side, curtain",
+        "adas": "AEB, ACC, FCW, RCW, LDW, LCC, ELKA, TSR, ISLC, BSD, FCTA, RCTA, DMS, 360 camera",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "voltage_architecture": "800 V"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-sealion-7-resmi-dirilis-di-iims-2025-simak-spesifikasinya",
+            "title": "BYD Sealion 7 Resmi Dirilis di IIMS 2025, Simak Spesifikasinya",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://tirto.id/harga-byd-sealion-7-dan-spesifikasinya-di-iims-2025-g8ln",
+            "title": "Harga BYD Sealion 7 dan Spesifikasinya di IIMS 2025",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/byd-seal-dan-sealion-7-naik-harga-oktober-2026/?show_all=1",
+            "title": "BYD Seal dan Sealion 7 Naik Harga Per Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-perluas-segmen-suv-lewat-atto-3-dan-sealion-7",
+            "title": "BYD Perluas Segmen SUV lewat Atto 3 dan Sealion 7",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-perluas-segmen-suv-lewat-atto-3-dan-sealion-7",
+            "title": "BYD Perluas Segmen SUV lewat Atto 3 dan Sealion 7",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-perluas-segmen-suv-lewat-atto-3-dan-sealion-7",
+            "title": "BYD Perluas Segmen SUV lewat Atto 3 dan Sealion 7",
+            "date": "2026-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/byd-perluas-segmen-suv-lewat-atto-3-dan-sealion-7",
+            "title": "BYD Perluas Segmen SUV lewat Atto 3 dan Sealion 7",
+            "date": "2026-02",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-sealion-7",
+            "title": "BYD Sealion 7 harga dan spesifikasi (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_format": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          },
+          {
+            "url": "https://www.drivingelectric.com/byd/sealion-7/prices-specs/107108/390kw-excellence-awd-91kwh-5dr-auto",
+            "title": "BYD Sealion 7 Estate 390kW Excellence AWD 91kWh 5dr Auto - specs (DrivingElectric)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          },
+          {
+            "url": "https://www.drivingelectric.com/byd/sealion-7/prices-specs/107108/390kw-excellence-awd-91kwh-5dr-auto",
+            "title": "BYD Sealion 7 Estate 390kW Excellence AWD 91kWh 5dr Auto - specs (DrivingElectric)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          },
+          {
+            "url": "https://www.drivingelectric.com/byd/sealion-7/prices-specs/107108/390kw-excellence-awd-91kwh-5dr-auto",
+            "title": "BYD Sealion 7 Estate 390kW Excellence AWD 91kWh 5dr Auto - specs (DrivingElectric)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          },
+          {
+            "url": "https://www.drivingelectric.com/byd/sealion-7/prices-specs/107108/390kw-excellence-awd-91kwh-5dr-auto",
+            "title": "BYD Sealion 7 Estate 390kW Excellence AWD 91kWh 5dr Auto - specs (DrivingElectric)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          },
+          {
+            "url": "https://www.drivingelectric.com/byd/sealion-7/prices-specs/107108/390kw-excellence-awd-91kwh-5dr-auto",
+            "title": "BYD Sealion 7 Estate 390kW Excellence AWD 91kWh 5dr Auto - specs (DrivingElectric)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://ev-database.org/car/3072/BYD-SEALION-7-913-kWh-AWD-Excellence",
+            "title": "BYD SEALION 7 91.3 kWh AWD Excellence (EV Database)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.drivingelectric.com/byd/sealion-7/prices-specs/107108/390kw-excellence-awd-91kwh-5dr-auto",
+            "title": "BYD Sealion 7 Estate 390kW Excellence AWD 91kWh 5dr Auto - specs (DrivingElectric)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "UK"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.drivingelectric.com/byd/sealion-7/prices-specs/107108/390kw-excellence-awd-91kwh-5dr-auto",
+            "title": "BYD Sealion 7 Estate 390kW Excellence AWD 91kWh 5dr Auto - specs (DrivingElectric)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "UK"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.drivingelectric.com/byd/sealion-7/prices-specs/107108/390kw-excellence-awd-91kwh-5dr-auto",
+            "title": "BYD Sealion 7 Estate 390kW Excellence AWD 91kWh 5dr Auto - specs (DrivingElectric)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://autolifethailand.tv/official-price-byd-sealion-7-my2026-awd-ultimate-800v/",
+            "title": "Official price BYD Sealion 7 MY2026 AWD Ultimate 800V (Autolife Thailand)",
+            "date": "2026-08",
+            "type": "press",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Launched at IIMS Feb 2026 at Rp859 jt OTR (KabarBursa), Rp879 jt on the October 2026 list. Battery conflict: KabarBursa (launch) and Moladin's spec page give 91.39 kWh / 650 km NEDC, but a Moladin news item (Oct 2026) says 82.56 kWh / 567 km; the launch figure is used. Motor count, AWD, 523 hp (converted to 390 kW), 690 Nm and charging come only from Moladin's spec table. Assembly not confirmed. Battery chemistry, Blade cell format, heat pump, 0–100 km/h, top speed, connectors, charge port, V2L, seats and platform from the European spec of the 91.3 kWh Sealion 7 Excellence AWD (ev-database.org); airbag positions, ADAS list and Euro NCAP rating from the UK/European spec (drivingelectric.com). Voltage (Nov 2026 check): Moladin lists ~400 V for every Sealion 7 variant, which does not fit this version; 800 V is from the Thai spec of the same car (AWD Ultimate: 91.39 kWh, 530 hp, 690 Nm, 230 kW DC; Autolife Thailand). Pack voltage not added; European kerb weight differs between sources (2,410 vs 2,435 kg) and was left out.",
+      "notes_id": "Diluncurkan di IIMS Februari 2026 seharga Rp859 jt OTR (KabarBursa), Rp879 jt di daftar Oktober 2026. Baterai berbeda: KabarBursa (peluncuran) dan halaman spesifikasi Moladin menyebut 91,39 kWh / 650 km NEDC, tetapi satu berita Moladin (Oktober 2026) menyebut 82,56 kWh / 567 km; dipakai angka peluncuran. Jumlah motor, AWD, 523 hp (dikonversi menjadi 390 kW), 690 Nm, dan data pengisian hanya berasal dari tabel spesifikasi Moladin. Status perakitan belum terkonfirmasi. Kimia baterai, format sel Blade, heat pump, 0–100 km/jam, kecepatan maksimum, konektor, letak port pengisian, V2L, jumlah kursi, dan platform dari spesifikasi Eropa Sealion 7 Excellence AWD 91,3 kWh (ev-database.org); posisi airbag, daftar ADAS, dan rating Euro NCAP dari spesifikasi Inggris/Eropa (drivingelectric.com). EV Database mencantumkan 800 V dan tegangan nominal 538 V untuk baterai ini, bertentangan dengan ~400 V yang tercatat di sini, sehingga tegangan baterai tidak ditambahkan; berat kosong versi Eropa berbeda antar sumber (2.410 vs 2.435 kg) sehingga tidak dicantumkan. Tegangan (pemeriksaan Nov 2026): Moladin mencantumkan ~400 V untuk semua varian Sealion 7, yang tidak cocok untuk versi ini; 800 V dari spesifikasi Thailand untuk mobil yang sama (AWD Ultimate: 91,39 kWh, 530 hp, 690 Nm, DC 230 kW; Autolife Thailand)."
+    }
+  ]
+}

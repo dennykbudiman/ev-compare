@@ -1,0 +1,354 @@
+{
+  "make": "MINI",
+  "model": "Countryman (electric)",
+  "trims": [
+    {
+      "id": "mini-countryman-electric-2026-se-all4",
+      "model_year": 2026,
+      "variant": "Countryman SE ALL4",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1502000000,
+        "battery_gross_kwh": 66.5,
+        "voltage_architecture": "~400 V",
+        "range_km": 500,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 230,
+        "torque_nm": 494,
+        "accel_0_100_s": 5.6,
+        "top_speed_kmh": 180,
+        "ac_max_kw": 11,
+        "ac_full_hours": 6.5,
+        "dc_max_kw": 130,
+        "dc_10_80_min": 29,
+        "length_mm": 4444,
+        "width_mm": 1843,
+        "height_mm": 1661,
+        "wheelbase_mm": 2692,
+        "ground_clearance_mm": 165,
+        "kerb_weight_kg": 1911,
+        "boot_l": 460,
+        "seats": 5,
+        "tyre_size": "245/40 R20",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "frunk_l": 0,
+        "adas": "AEB, FCW, LKA, BSM, ACC, 360 camera, auto parking",
+        "battery_usable_kwh": 64.6
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-countryman.html",
+            "title": "All-Electric MINI Countryman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://secure.mini.co.id/pricelist.php",
+            "title": "MINI Indonesia - Get A Pricelist (all prices on-the-road)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-countryman.html",
+            "title": "All-Electric MINI Countryman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-countryman.html",
+            "title": "All-Electric MINI Countryman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-countryman.html",
+            "title": "All-Electric MINI Countryman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-countryman.html",
+            "title": "All-Electric MINI Countryman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-countryman.html",
+            "title": "All-Electric MINI Countryman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/mini/mini-all-electric-countryman/spesifikasi",
+            "title": "Spesifikasi Mini All-Electric Countryman 2026 Terbaru - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4",
+            "title": "Mini Countryman SE ALL4 (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4",
+            "title": "Mini Countryman SE ALL4 (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4",
+            "title": "Mini Countryman SE ALL4 (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/mini/countryman/u25/s-electric-2024/",
+            "title": "MINI Countryman S Electric (U25) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-countryman.html",
+            "title": "All-Electric MINI Countryman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4",
+            "title": "Mini Countryman SE ALL4 (MY24-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "OTR Jakarta Rp1,502,000,000 (MINI price list). Conflicts on MINI's own site: battery 66.5 kWh (family table) vs 64.6 kWh (model page, likely net); range 500 km (table) vs 433 km (FAQ; Moladin also 433 km WLTP); power 313 hp vs 308 hp, both 230 kW; torque 494 Nm (Moladin table 492 Nm). AC: MINI 11 kW / 6.5 h; Moladin 22 kW / 6.25 h. Boot up to 1,390 l folded. Moladin lists 9 airbags but its own breakdown doesn't add up, so airbags left out. Connectors and frunk from the European spec (ev-database.org). ADAS from the Malaysian spec of the same 66.5 kWh, 313 hp AWD model (paultan.org). Battery check (Nov 2026): the 64.6 kWh on MINI Indonesia's model page is the usable capacity (matches the European spec), now stored as usable capacity; 66.5 kWh is gross.",
+      "notes_id": "OTR Jakarta Rp1.502.000.000 (daftar harga MINI). Data berbeda di situs MINI sendiri: baterai 66,5 kWh (tabel keluarga) vs 64,6 kWh (halaman model, kemungkinan net); jarak tempuh 500 km (tabel) vs 433 km (FAQ; Moladin juga 433 km WLTP); tenaga 313 hp vs 308 hp, keduanya 230 kW; torsi 494 Nm (tabel Moladin 492 Nm). AC: MINI 11 kW / 6,5 jam; Moladin 22 kW / 6,25 jam. Bagasi hingga 1.390 l saat jok dilipat. Moladin mencantumkan 9 airbag, tetapi rinciannya sendiri tidak cocok jumlahnya, sehingga airbag dikosongkan. Konektor dan frunk dari spesifikasi Eropa (ev-database.org). ADAS dari spesifikasi Malaysia untuk model yang sama, 66,5 kWh, 313 hp AWD (paultan.org). Pemeriksaan baterai (Nov 2026): angka 64,6 kWh di halaman model MINI Indonesia adalah kapasitas pakai (sesuai spesifikasi Eropa), kini disimpan sebagai kapasitas pakai; 66,5 kWh adalah kapasitas kotor."
+    }
+  ]
+}

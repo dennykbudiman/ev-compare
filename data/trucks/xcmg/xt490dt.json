@@ -1,0 +1,244 @@
+{
+  "make": "XCMG",
+  "model": "XT490DT EV",
+  "trims": [
+    {
+      "id": "xcmg-xt490dt-2024-8x4-350kwh",
+      "model_year": 2024,
+      "variant": "8x4 dump truck (350 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Heavy",
+        "axle_config": "8x4",
+        "drive": "8x4",
+        "gvw_kg": 70000,
+        "payload_kg": 40000,
+        "battery_gross_kwh": 350,
+        "pack_nominal_voltage_v": 579.6,
+        "power_kw": 550,
+        "torque_nm": 3060,
+        "range_km": 150,
+        "dc_10_80_min": 60,
+        "dc_time_window": "0–100%",
+        "body_type": "Mining truck",
+        "battery_swap": true,
+        "transmission": "4-speed automated manual"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "axle_config": [
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_swap": [
+          {
+            "url": "https://wartakota.tribunnews.com/2024/09/11/gaya-makmur-mobil-luncurkan-dua-truk-listrik-xcmg-di-indonesia-mining-2024",
+            "title": "Gaya Makmur Mobil Luncurkan Dua Truk Listrik XCMG di Indonesia Mining 2024 (Wartakotalive)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.dimensinews.co.id/224757/xcmg-luncurkan-2-truk-listrik-di-ajang-pameran-mining-indonesia-2024.html",
+            "title": "XCMG Luncurkan 2 Truk Listrik di Ajang Pameran Mining Indonesia 2024 (Dimensi)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "XCMG electric dump truck (12 wheels) launched 11 Sep 2024 at Mining Indonesia 2024 by PT Gaya Makmur Mobil (GM Mobil, GMM), the FAW Trucks distributor that also holds the XCMG truck brand in Indonesia (detikOto Sep 2025: 'agen pemegang merek'). It was offered for sale with a free charger (worth Rp 500 million) for buyers of two units, and was still in GM Mobil's EV line at Mining Indonesia 2026. Sales evidence: GMM and PT Gaya Makmur Tractors handed 150 XCMG electric dump trucks to PT Borneo Indobara (Tanah Bumbu, South Kalimantan) on 9 Feb 2026, but the model was not named, so it is not proven that these were XT490DT. Battery 604 Ah at 579.6 V, 'up to 350 kWh' (chemistry not stated). Motor 360 kW (490 hp) and 1,640 Nm rated; 550 kW and 3,060 Nm peak (stored); 4-speed AMT. GVW 'up to 70 t' and payload 40 t (load). Range 'up to 150 km' (Berita Kota: 100–150 km; no test cycle). Full fast charge in about 1 h (stored as 0–100%, charger power not stated); battery swap in about 5 min is offered. No price published. Assembly not stated (XCMG Indonesia said other electric dump trucks for South Kalimantan were built in Xuzhou, China).",
+      "notes_id": "Dump truck listrik XCMG (12 roda) diluncurkan 11 September 2024 di Mining Indonesia 2024 oleh PT Gaya Makmur Mobil (GM Mobil, GMM), distributor FAW Trucks yang juga agen pemegang merek truk XCMG di Indonesia (detikOto, September 2025). Truk ini ditawarkan dengan bonus charger senilai Rp 500 juta untuk pembelian dua unit, dan masih ada di lini truk listrik GM Mobil di Mining Indonesia 2026. Bukti penjualan: GMM dan PT Gaya Makmur Tractors menyerahkan 150 dump truck listrik XCMG kepada PT Borneo Indobara (Tanah Bumbu, Kalimantan Selatan) pada 9 Februari 2026, tetapi modelnya tidak disebut, jadi belum terbukti bahwa unit itu XT490DT. Baterai 604 Ah pada 579,6 V, 'hingga 350 kWh' (kimia tidak disebutkan). Motor nominal 360 kW (490 dk) dan 1.640 Nm; puncak 550 kW dan 3.060 Nm (yang disimpan); transmisi AMT 4 percepatan. GVW 'hingga 70 ton' dan muatan 40 ton (muatan saja). Jarak tempuh 'hingga 150 km' (Berita Kota: 100–150 km; tanpa siklus uji). Pengisian cepat penuh sekitar 1 jam (disimpan sebagai 0–100%, daya pengisi tidak disebutkan); tersedia opsi tukar baterai sekitar 5 menit. Harga tidak dipublikasikan. Lokasi perakitan tidak disebutkan (XCMG Indonesia menyebut dump truck listrik lain untuk Kalimantan Selatan dibuat di Xuzhou, China)."
+    }
+  ]
+}

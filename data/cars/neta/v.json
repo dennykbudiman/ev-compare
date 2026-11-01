@@ -1,0 +1,807 @@
+{
+  "make": "Neta",
+  "model": "V",
+  "trims": [
+    {
+      "id": "neta-v-2024-v",
+      "model_year": 2024,
+      "variant": "V",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 317000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 40.1,
+        "range_km": 401,
+        "power_kw": 70,
+        "torque_nm": 150,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 8,
+        "airbags": 2,
+        "airbag_positions": "front",
+        "adas": "n/a"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Original imported Neta V (launched Oct 2023 at Rp379 jt), cut to Rp317 jt OTR Jakarta in 2024 and replaced by the locally built V-II from May 2024. Battery 40.1 kWh per detik (single source). detik says it has no ADAS. Range test standard not stated.",
+      "notes_id": "Neta V impor generasi awal (diluncurkan Oktober 2023 seharga Rp379 jt), turun menjadi Rp317 jt OTR Jakarta pada 2024 dan digantikan V-II rakitan lokal mulai Mei 2024. Baterai 40,1 kWh menurut detik (satu sumber). detik menyebut model ini tanpa ADAS. Standar pengujian jarak tempuh tidak disebutkan."
+    },
+    {
+      "id": "neta-v-2024-v-ii",
+      "model_year": 2024,
+      "variant": "V-II",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 299000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 36.1,
+        "range_km": 401,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 4070,
+        "width_mm": 1690,
+        "height_mm": 1540,
+        "boot_l": 335,
+        "power_kw": 70,
+        "torque_nm": 150,
+        "ac_full_hours": 8,
+        "airbags": 2,
+        "airbag_positions": "front",
+        "cell_supplier": "Gotion",
+        "adas": "FCW, AEB, ACC, TJA, ICA, LDW, LKA, HBA",
+        "drive": "FWD",
+        "motor_count": 1,
+        "seats": 5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/the-first-production-of-neta-v-ii-by-pt-handal-indonesia-motor",
+            "title": "The First Production of NETA V-II by PT Handal Indonesia Motor",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.gridoto.com/amp/224092664/harga-neta-v-ii-produksi-lokal-resmi-diungkap-dijual-segini",
+            "title": "Harga Neta V-II Produksi Lokal Resmi Diungkap, Dijual Segini",
+            "date": "2024-05",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224073460/neta-v-ii-siap-produksi-ckd-indonesia-begini-spesifikasinya?page=all",
+            "title": "Neta V-II Siap Produksi CKD Indonesia, Begini Spesifikasinya",
+            "date": "2024-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224073460/neta-v-ii-siap-produksi-ckd-indonesia-begini-spesifikasinya?page=all",
+            "title": "Neta V-II Siap Produksi CKD Indonesia, Begini Spesifikasinya",
+            "date": "2024-04",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          },
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/the-first-production-of-neta-v-ii-by-pt-handal-indonesia-motor",
+            "title": "The First Production of NETA V-II by PT Handal Indonesia Motor",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.gridoto.com/amp/224073460/neta-v-ii-siap-produksi-ckd-indonesia-begini-spesifikasinya?page=all",
+            "title": "Neta V-II Siap Produksi CKD Indonesia, Begini Spesifikasinya",
+            "date": "2024-04",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.gridoto.com/amp/224073460/neta-v-ii-siap-produksi-ckd-indonesia-begini-spesifikasinya?page=all",
+            "title": "Neta V-II Siap Produksi CKD Indonesia, Begini Spesifikasinya",
+            "date": "2024-04",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.handal-idmotor.co.id/news/details/the-first-production-of-neta-v-ii-by-pt-handal-indonesia-motor",
+            "title": "The First Production of NETA V-II by PT Handal Indonesia Motor",
+            "date": "2024-05",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "Launched PEVS May 2024, CKD at PT Handal Indonesia Motor, Bekasi (44% TKDN, Gotion LFP cells). Rp299 jt OTR Jakarta. Neta exited Indonesia around mid-2025, so not on sale in 2026; no separate 2025 price found. Drive/power from gridoto citing the Thai-spec car (same 70 kW/150 Nm as detik). Range test standard not stated.",
+      "notes_id": "Diluncurkan di PEVS Mei 2024, CKD di PT Handal Indonesia Motor, Bekasi (TKDN 44%, sel LFP Gotion). Rp299 jt OTR Jakarta. Neta hengkang dari Indonesia sekitar pertengahan 2025, sehingga tidak dijual pada 2026; tidak ditemukan harga 2025 tersendiri. Penggerak/tenaga dari gridoto yang mengacu pada mobil spesifikasi Thailand (sama-sama 70 kW/150 Nm seperti detik). Standar pengujian jarak tempuh tidak disebutkan."
+    },
+    {
+      "id": "neta-v-2023-v",
+      "model_year": 2023,
+      "variant": "V",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 379000000,
+        "battery_gross_kwh": 40.7,
+        "range_km": 401,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 70,
+        "torque_nm": 150,
+        "top_speed_kmh": 120,
+        "ac_max_kw": 6.6,
+        "ac_full_hours": 8,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 4070,
+        "width_mm": 1690,
+        "height_mm": 1540,
+        "ground_clearance_mm": 130,
+        "seats": 5,
+        "seat_layout": "2+3",
+        "tyre_size": "185/55 R16",
+        "airbags": 2,
+        "airbag_positions": "front",
+        "adas": "n/a",
+        "vehicle_warranty": "5 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 180,000 km",
+        "free_service": "Free periodic service for 4 years or 50,000 km (labour, parts, materials)"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7679346/ini-perbedaan-neta-v-dengan-neta-v-ii-mana-yang-lebih-unggul",
+            "title": "Ini Perbedaan Neta V dengan Neta V-II, Mana yang Lebih Unggul?",
+            "date": "2024-12",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-neta-v/",
+            "title": "Spesifikasi Neta V",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233926231/mobil-listrik-neta-v-resmi-dijual-segini-harganya-jarak-tempuh-jauh",
+            "title": "Mobil Listrik Neta V Resmi Dijual, Segini Harganya, Jarak Tempuh Jauh",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://m.antaranews.com/amp/berita/3789291/harga-neta-v-lebih-rendah-daripada-jangkauannya",
+            "title": "Harga Neta V lebih rendah daripada jangkauannya",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Shown at GIIAS Aug 2023 (pre-order Rp379 jt) and officially launched 24 Oct 2023 at Rp379 jt OTR Jakarta, imported from Thailand; cut to Rp317 jt in 2024 (see 2024 record). Battery 40.7 kWh per all 2023 launch reports; detik's 2024 comparison says 40.1 kWh. Range 401 km CLTC (384 km NEDC per Otomotifnet). Chemistry not stated in 2023 launch reports (detik 2024 says LFP), so left out. Moladin claims 100 kW DC peak; not confirmed elsewhere and left out. Antara calls it a crossover; SUV kept for consistency with the 2024 records. Has ESC, traction control, auto hold and hill descent control but no AEB/lane assist.",
+      "notes_id": "Dipamerkan di GIIAS Agustus 2023 (pemesanan Rp379 jt) dan resmi diluncurkan 24 Oktober 2023 seharga Rp379 jt OTR Jakarta, diimpor dari Thailand; turun menjadi Rp317 jt pada 2024 (lihat catatan 2024). Baterai 40,7 kWh menurut semua laporan peluncuran 2023; perbandingan detik 2024 menyebut 40,1 kWh. Jarak tempuh 401 km CLTC (384 km NEDC menurut Otomotifnet). Kimia baterai tidak disebutkan dalam laporan peluncuran 2023 (detik 2024 menyebut LFP), sehingga dikosongkan. Moladin menyebut DC puncak 100 kW; tidak dikonfirmasi sumber lain sehingga dikosongkan. Antara menyebutnya crossover; SUV dipertahankan agar konsisten dengan catatan 2024. Dilengkapi ESC, kontrol traksi, auto hold dan hill descent control, tetapi tanpa AEB/bantuan jalur."
+    }
+  ]
+}

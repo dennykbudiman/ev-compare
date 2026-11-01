@@ -1,0 +1,371 @@
+{
+  "make": "Toyota",
+  "model": "Urban Cruiser",
+  "trims": [
+    {
+      "id": "toyota-urban-cruiser-2026-mono-tone",
+      "model_year": 2026,
+      "variant": "Mono Tone",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 759000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 61.1,
+        "range_km": 426.7,
+        "power_kw": 128,
+        "torque_nm": 192.5,
+        "drive": "FWD",
+        "ac_max_kw": 7,
+        "length_mm": 4285,
+        "width_mm": 1800,
+        "height_mm": 1635,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 180,
+        "seats": 5,
+        "airbags": 7,
+        "tyre_size": "225/45 R18",
+        "adas": "AEB (Brake Support), ACC, LKA, LDP, BSM, RCTA, AHB",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "motor_type": "PMSM",
+        "cell_count": 120,
+        "pack_nominal_voltage_v": 381,
+        "dc_max_kw": 67,
+        "boot_l": 310,
+        "accel_0_100_s": 8.7,
+        "top_speed_kmh": 150
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-urban-cruiser-launches-at-gjaw-2025-no-long-waiting-period-21654",
+            "title": "Toyota Urban Cruiser Launches at GJAW 2025, No Long Waiting Period",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-urban-cruiser-launches-at-gjaw-2025-no-long-waiting-period-21654",
+            "title": "Toyota Urban Cruiser Launches at GJAW 2025, No Long Waiting Period",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gaikindo.or.id/en/toyota-rolls-out-urban-cruiser-ev-at-gjaw-2025/",
+            "title": "Toyota Rolls Out Urban Cruiser EV at GJAW 2025 - GAIKINDO",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-urban-cruiser-launches-at-gjaw-2025-no-long-waiting-period-21654",
+            "title": "Toyota Urban Cruiser Launches at GJAW 2025, No Long Waiting Period",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.gaikindo.or.id/en/toyota-rolls-out-urban-cruiser-ev-at-gjaw-2025/",
+            "title": "Toyota Rolls Out Urban Cruiser EV at GJAW 2025 - GAIKINDO",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-beda-tipis-bz4x-begini-spek-toyota-urban-cruiser/",
+            "title": "Harga Beda Tipis bZ4X, Begini Spek Toyota Urban Cruiser",
+            "date": "2025-12",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-beda-tipis-bz4x-begini-spek-toyota-urban-cruiser/",
+            "title": "Harga Beda Tipis bZ4X, Begini Spek Toyota Urban Cruiser",
+            "date": "2025-12",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-beda-tipis-bz4x-begini-spek-toyota-urban-cruiser/",
+            "title": "Harga Beda Tipis bZ4X, Begini Spek Toyota Urban Cruiser",
+            "date": "2025-12",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-urban-cruiser-launches-at-gjaw-2025-no-long-waiting-period-21654",
+            "title": "Toyota Urban Cruiser Launches at GJAW 2025, No Long Waiting Period",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-beda-tipis-bz4x-begini-spek-toyota-urban-cruiser/",
+            "title": "Harga Beda Tipis bZ4X, Begini Spek Toyota Urban Cruiser",
+            "date": "2025-12",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-urban-cruiser-launches-at-gjaw-2025-no-long-waiting-period-21654",
+            "title": "Toyota Urban Cruiser Launches at GJAW 2025, No Long Waiting Period",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.gridoto.com/amp/224325841/harganya-lumayan-toyota-urban-cruiser-ev-dapat-fitur-apa-saja?page=all",
+            "title": "Harganya Lumayan, Toyota Urban Cruiser EV Dapat Fitur Apa Saja",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-beda-tipis-bz4x-begini-spek-toyota-urban-cruiser/",
+            "title": "Harga Beda Tipis bZ4X, Begini Spek Toyota Urban Cruiser",
+            "date": "2025-12",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-beda-tipis-bz4x-begini-spek-toyota-urban-cruiser/",
+            "title": "Harga Beda Tipis bZ4X, Begini Spek Toyota Urban Cruiser",
+            "date": "2025-12",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-urban-cruiser-launches-at-gjaw-2025-no-long-waiting-period-21654",
+            "title": "Toyota Urban Cruiser Launches at GJAW 2025, No Long Waiting Period",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8352485/si-kembar-beda-harga-rp-4-juta-suzuki-e-vitara-vs-toyota-urban-cruiser",
+            "title": "Si Kembar Beda Harga Rp 4 Juta, Suzuki e Vitara vs Toyota Urban Cruiser",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/urban-cruiser/spesifikasi?amp=1",
+            "title": "Toyota Urban Cruiser spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/toyota-urban-cruiser-launches-at-gjaw-2025-no-long-waiting-period-21654",
+            "title": "Toyota Urban Cruiser Launches at GJAW 2025, No Long Waiting Period",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/251210-Urban-Cruiser-Tech-Specs.pdf",
+            "title": "Toyota Urban Cruiser Technical Specifications - Toyota UK media",
+            "date": "2025-12",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/251210-Urban-Cruiser-Tech-Specs.pdf",
+            "title": "Toyota Urban Cruiser Technical Specifications - Toyota UK media",
+            "date": "2025-12",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/251210-Urban-Cruiser-Tech-Specs.pdf",
+            "title": "Toyota Urban Cruiser Technical Specifications - Toyota UK media",
+            "date": "2025-12",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/251210-Urban-Cruiser-Tech-Specs.pdf",
+            "title": "Toyota Urban Cruiser Technical Specifications - Toyota UK media",
+            "date": "2025-12",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/251210-Urban-Cruiser-Tech-Specs.pdf",
+            "title": "Toyota Urban Cruiser Technical Specifications - Toyota UK media",
+            "date": "2025-12",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/251210-Urban-Cruiser-Tech-Specs.pdf",
+            "title": "Toyota Urban Cruiser Technical Specifications - Toyota UK media",
+            "date": "2025-12",
+            "type": "official",
+            "market": "UK"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://media.toyota.co.uk/wp-content/uploads/sites/5/pdf/251210-Urban-Cruiser-Tech-Specs.pdf",
+            "title": "Toyota Urban Cruiser Technical Specifications - Toyota UK media",
+            "date": "2025-12",
+            "type": "official",
+            "market": "UK"
+          }
+        ]
+      },
+      "notes": "Rebadged Suzuki e Vitara, launched GJAW 21 Nov 2025. CBU: katadata says from India, GAIKINDO says from Japan (India is the known production source). Range 426.7 km (oto.com rounds to 427 km), test standard not stated. Zigwheels gives height 1,640 mm. No radar-based Toyota Safety Sense. The October 2026 list also shows a Two Tone at Rp763 jt, but no source read here confirms it, so only the Mono Tone is recorded. Motor type, cell count, pack voltage, DC 67 kW, boot, 0-100 km/h (0-62 mph) and top speed (93 mph) from the UK 61 kWh FWD spec (Toyota UK).",
+      "notes_id": "Rebadge dari Suzuki e Vitara, diluncurkan di GJAW 21 November 2025. CBU: katadata menyebut dari India, GAIKINDO menyebut dari Jepang (India adalah basis produksi yang diketahui). Jarak tempuh 426,7 km (oto.com membulatkan menjadi 427 km), standar pengujian tidak disebutkan. Zigwheels menyebut tinggi 1.640 mm. Tanpa Toyota Safety Sense berbasis radar. Daftar Oktober 2026 juga menampilkan Two Tone seharga Rp763 jt, tetapi belum ada sumber yang dibaca yang mengonfirmasinya, sehingga hanya Mono Tone yang dicatat. Jenis motor, jumlah sel, tegangan paket, DC 67 kW, bagasi, 0-100 km/jam (0-62 mph), dan kecepatan maksimum (93 mph) dari spesifikasi Inggris 61 kWh FWD (Toyota UK)."
+    }
+  ]
+}

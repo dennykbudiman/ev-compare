@@ -1,0 +1,1428 @@
+{
+  "make": "Aion",
+  "model": "V",
+  "trims": [
+    {
+      "id": "aion-v-2025-exclusive",
+      "model_year": 2025,
+      "variant": "Exclusive",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 449000000,
+        "battery_gross_kwh": 64.5,
+        "range_km": 505,
+        "power_kw": 135,
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "accel_0_100_s": 7.9,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "dc_10_80_min": 16,
+        "dc_time_window": "30–80%",
+        "boot_l": 427,
+        "adas": "ACC, TJA, FCW, LDW, LKA, AEB",
+        "pack_nominal_voltage_v": 383,
+        "ac_max_kw": 6.6,
+        "length_mm": 4605,
+        "width_mm": 1854,
+        "height_mm": 1686,
+        "wheelbase_mm": 2775,
+        "ground_clearance_mm": 180,
+        "frunk_l": 60,
+        "seats": 5,
+        "tyre_size": "225/45 R19",
+        "torque_nm": 240,
+        "motor_type": "PMSM",
+        "battery_cooling": "Liquid"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.ph/new-cars/gac/aion-v/elite",
+            "title": "GAC Aion V Elite (ZigWheels Philippines)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://www.autoindustriya.com/new/car/GAC/aion-v.html",
+            "title": "GAC Aion V price and specs (AutoIndustriya)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ]
+      },
+      "notes": "Launch price Rp449 jt (autobuzz; OTR not stated). Launched IIMS Feb 2025, CKD at GAC Indonesia, Cikampek (from March 2025). DC 30-80% in about 16 min (autobuzz, Moladin). Moladin lists DC 180 kW for Luxury but 150 kW for Exclusive while autobuzz quotes 'up to 180 kW' for the model, so DC kW left out for Exclusive. Moladin lists 9 airbags and 19-inch 225/45 R19 tyres; autobuzz mentions 18-inch wheels — airbags not recorded. Torque 240 Nm for both per Moladin (autobuzz gives 240 Nm for Luxury only). AC 6.6 kW per Moladin. Motor type and battery cooling from the Philippine spec of the Aion V Elite (64.5 kWh, 183 PS, 240 Nm; zigwheels.ph, autoindustriya.com).",
+      "notes_id": "Harga peluncuran Rp449 jt (autobuzz; tidak disebutkan apakah OTR). Diluncurkan di IIMS Februari 2025, dirakit CKD di GAC Indonesia, Cikampek (mulai Maret 2025). DC 30-80% sekitar 16 menit (autobuzz, Moladin). Moladin mencantumkan DC 180 kW untuk Luxury tetapi 150 kW untuk Exclusive, sementara autobuzz menyebut 'hingga 180 kW' untuk model ini, sehingga DC kW untuk Exclusive dikosongkan. Moladin mencantumkan 9 airbag dan ban 19 inci 225/45 R19; autobuzz menyebut pelek 18 inci — jumlah airbag tidak dicatat. Torsi 240 Nm untuk kedua tipe menurut Moladin (autobuzz menyebut 240 Nm hanya untuk Luxury). AC 6,6 kW menurut Moladin. Tipe motor dan pendinginan baterai dari spesifikasi Filipina Aion V Elite (64,5 kWh, 183 PS, 240 Nm; zigwheels.ph, autoindustriya.com)."
+    },
+    {
+      "id": "aion-v-2025-luxury",
+      "model_year": 2025,
+      "variant": "Luxury",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 489000000,
+        "battery_gross_kwh": 75.3,
+        "range_km": 602,
+        "power_kw": 150,
+        "torque_nm": 240,
+        "dc_max_kw": 180,
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "accel_0_100_s": 7.9,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "dc_10_80_min": 16,
+        "dc_time_window": "30–80%",
+        "boot_l": 427,
+        "adas": "ACC, TJA, FCW, LDW, LKA, AEB",
+        "pack_nominal_voltage_v": 383,
+        "ac_max_kw": 6.6,
+        "length_mm": 4605,
+        "width_mm": 1854,
+        "height_mm": 1686,
+        "wheelbase_mm": 2775,
+        "ground_clearance_mm": 180,
+        "frunk_l": 60,
+        "seats": 5,
+        "tyre_size": "225/45 R19",
+        "motor_type": "PMSM",
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/aion/v/specifications",
+            "title": "Aion V specifications – ZigWheels Thailand",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/aion/v/specifications",
+            "title": "Aion V specifications – ZigWheels Thailand",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Launch price Rp489 jt (autobuzz; OTR not stated). Launched IIMS Feb 2025, CKD at GAC Indonesia, Cikampek (from March 2025). DC 30-80% in about 16 min (autobuzz, Moladin). Moladin lists DC 180 kW for Luxury but 150 kW for Exclusive while autobuzz quotes 'up to 180 kW' for the model, so DC kW left out for Exclusive. Moladin lists 9 airbags and 19-inch 225/45 R19 tyres; autobuzz mentions 18-inch wheels — airbags not recorded. Torque 240 Nm for both per Moladin (autobuzz gives 240 Nm for Luxury only). AC 6.6 kW per Moladin. Motor type and top speed from the Thai spec (ZigWheels Thailand, Luxury 75.2 kWh / 240 Nm / 602 km).",
+      "notes_id": "Harga peluncuran Rp489 jt (autobuzz; tidak disebutkan apakah OTR). Diluncurkan di IIMS Februari 2025, dirakit CKD di GAC Indonesia, Cikampek (mulai Maret 2025). DC 30-80% sekitar 16 menit (autobuzz, Moladin). Moladin mencantumkan DC 180 kW untuk Luxury tetapi 150 kW untuk Exclusive, sementara autobuzz menyebut 'hingga 180 kW' untuk model ini, sehingga DC kW untuk Exclusive dikosongkan. Moladin mencantumkan 9 airbag dan ban 19 inci 225/45 R19; autobuzz menyebut pelek 18 inci — jumlah airbag tidak dicatat. Torsi 240 Nm untuk kedua tipe menurut Moladin (autobuzz menyebut 240 Nm hanya untuk Luxury). AC 6,6 kW menurut Moladin. Jenis motor dan kecepatan maksimum dari spesifikasi Thailand (ZigWheels Thailand, Luxury 75,2 kWh / 240 Nm / 602 km)."
+    },
+    {
+      "id": "aion-v-2026-exclusive",
+      "model_year": 2026,
+      "variant": "Exclusive",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 499000000,
+        "battery_gross_kwh": 64.5,
+        "range_km": 505,
+        "power_kw": 135,
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "accel_0_100_s": 7.9,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "dc_10_80_min": 16,
+        "dc_time_window": "30–80%",
+        "boot_l": 427,
+        "adas": "ACC, TJA, FCW, LDW, LKA, AEB",
+        "pack_nominal_voltage_v": 383,
+        "ac_max_kw": 6.6,
+        "length_mm": 4605,
+        "width_mm": 1854,
+        "height_mm": 1686,
+        "wheelbase_mm": 2775,
+        "ground_clearance_mm": 180,
+        "frunk_l": 60,
+        "seats": 5,
+        "tyre_size": "225/45 R19",
+        "torque_nm": 240,
+        "motor_type": "PMSM",
+        "battery_cooling": "Liquid"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.ph/new-cars/gac/aion-v/elite",
+            "title": "GAC Aion V Elite (ZigWheels Philippines)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://www.autoindustriya.com/new/car/GAC/aion-v.html",
+            "title": "GAC Aion V price and specs (AutoIndustriya)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ]
+      },
+      "notes": "Moladin (Aug 2026) lists Rp499-504 jt in Jakarta (lower bound used, as in the Oct 2026 price list). Launched IIMS Feb 2025, CKD at GAC Indonesia, Cikampek (from March 2025). DC 30-80% in about 16 min (autobuzz, Moladin). Moladin lists DC 180 kW for Luxury but 150 kW for Exclusive while autobuzz quotes 'up to 180 kW' for the model, so DC kW left out for Exclusive. Moladin lists 9 airbags and 19-inch 225/45 R19 tyres; autobuzz mentions 18-inch wheels — airbags not recorded. Torque 240 Nm for both per Moladin (autobuzz gives 240 Nm for Luxury only). AC 6.6 kW per Moladin. Motor type and battery cooling from the Philippine spec of the Aion V Elite (64.5 kWh, 183 PS, 240 Nm; zigwheels.ph, autoindustriya.com).",
+      "notes_id": "Moladin (Agustus 2026) mencantumkan Rp499-504 jt di Jakarta (dipakai batas bawah, sama seperti daftar harga Oktober 2026). Diluncurkan di IIMS Februari 2025, dirakit CKD di GAC Indonesia, Cikampek (mulai Maret 2025). DC 30-80% sekitar 16 menit (autobuzz, Moladin). Moladin mencantumkan DC 180 kW untuk Luxury tetapi 150 kW untuk Exclusive, sementara autobuzz menyebut 'hingga 180 kW' untuk model ini, sehingga DC kW untuk Exclusive dikosongkan. Moladin mencantumkan 9 airbag dan ban 19 inci 225/45 R19; autobuzz menyebut pelek 18 inci — jumlah airbag tidak dicatat. Torsi 240 Nm untuk kedua tipe menurut Moladin (autobuzz menyebut 240 Nm hanya untuk Luxury). AC 6,6 kW menurut Moladin. Tipe motor dan pendinginan baterai dari spesifikasi Filipina Aion V Elite (64,5 kWh, 183 PS, 240 Nm; zigwheels.ph, autoindustriya.com)."
+    },
+    {
+      "id": "aion-v-2026-luxury",
+      "model_year": 2026,
+      "variant": "Luxury",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 560000000,
+        "battery_gross_kwh": 75.3,
+        "range_km": 602,
+        "power_kw": 150,
+        "torque_nm": 240,
+        "dc_max_kw": 180,
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "battery_chemistry": "LFP",
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "accel_0_100_s": 7.9,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "dc_10_80_min": 16,
+        "dc_time_window": "30–80%",
+        "boot_l": 427,
+        "adas": "ACC, TJA, FCW, LDW, LKA, AEB",
+        "pack_nominal_voltage_v": 383,
+        "ac_max_kw": 6.6,
+        "length_mm": 4605,
+        "width_mm": 1854,
+        "height_mm": 1686,
+        "wheelbase_mm": 2775,
+        "ground_clearance_mm": 180,
+        "frunk_l": 60,
+        "seats": 5,
+        "tyre_size": "225/45 R19",
+        "motor_type": "PMSM",
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/aion-klaim-mobil-listriknya-nyaman-untuk-mudik-lebaran",
+            "title": "AION Klaim Mobil Listriknya Nyaman untuk Mudik Lebaran",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/?p=308104",
+            "title": "GAC Aion V launched in Indonesia as CKD model, priced from approx. RM122k",
+            "date": "2025-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/aion/aion-v",
+            "title": "AION V (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/aion/v/specifications",
+            "title": "Aion V specifications – ZigWheels Thailand",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/aion/v/specifications",
+            "title": "Aion V specifications – ZigWheels Thailand",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Moladin (Aug 2026) lists Rp560-565 jt in Jakarta (lower bound used). Launched IIMS Feb 2025, CKD at GAC Indonesia, Cikampek (from March 2025). DC 30-80% in about 16 min (autobuzz, Moladin). Moladin lists DC 180 kW for Luxury but 150 kW for Exclusive while autobuzz quotes 'up to 180 kW' for the model, so DC kW left out for Exclusive. Moladin lists 9 airbags and 19-inch 225/45 R19 tyres; autobuzz mentions 18-inch wheels — airbags not recorded. Torque 240 Nm for both per Moladin (autobuzz gives 240 Nm for Luxury only). AC 6.6 kW per Moladin. Motor type and top speed from the Thai spec (ZigWheels Thailand, Luxury 75.2 kWh / 240 Nm / 602 km).",
+      "notes_id": "Moladin (Agustus 2026) mencantumkan Rp560-565 jt di Jakarta (dipakai batas bawah). Diluncurkan di IIMS Februari 2025, dirakit CKD di GAC Indonesia, Cikampek (mulai Maret 2025). DC 30-80% sekitar 16 menit (autobuzz, Moladin). Moladin mencantumkan DC 180 kW untuk Luxury tetapi 150 kW untuk Exclusive, sementara autobuzz menyebut 'hingga 180 kW' untuk model ini, sehingga DC kW untuk Exclusive dikosongkan. Moladin mencantumkan 9 airbag dan ban 19 inci 225/45 R19; autobuzz menyebut pelek 18 inci — jumlah airbag tidak dicatat. Torsi 240 Nm untuk kedua tipe menurut Moladin (autobuzz menyebut 240 Nm hanya untuk Luxury). AC 6,6 kW menurut Moladin. Jenis motor dan kecepatan maksimum dari spesifikasi Thailand (ZigWheels Thailand, Luxury 75,2 kWh / 240 Nm / 602 km)."
+    }
+  ]
+}

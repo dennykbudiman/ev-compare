@@ -1,0 +1,292 @@
+{
+  "make": "Volvo",
+  "model": "FM Electric",
+  "trims": [
+    {
+      "id": "volvo-fm-electric-2024-6x4t-450kwh",
+      "model_year": 2024,
+      "variant": "6x4T tractor head (5 batteries, 450 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Heavy",
+        "axle_config": "6x4",
+        "drive": "6x4",
+        "assembly": "CBU import",
+        "battery_gross_kwh": 450,
+        "motor_count": 3,
+        "power_kw": 490,
+        "range_km": 340,
+        "ac_full_hours": 10,
+        "dc_10_80_min": 120,
+        "dc_time_window": "0–100%",
+        "gcw_kg": 44000,
+        "length_mm": 6280,
+        "width_mm": 2500,
+        "height_mm": 2989,
+        "wheelbase_mm": 3900,
+        "adas": "FCW, LKS, LDW",
+        "body_type": "Tractor head",
+        "transmission": "12-speed automated manual (I-Shift)"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "axle_config": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://investor.id/business/373261/volvo-rilis-truk-listrik-pertama",
+            "title": "Volvo Rilis Truk Listrik Pertama (Investor.id)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          },
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          },
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          },
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          },
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          },
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "gcw_kg": [
+          {
+            "url": "https://mobilkomersial.com/2025/06/17/profil-volvo-fm-6x4t-electric-truk-listrik-eropa-pertama-di-indonesia/",
+            "title": "Profil Volvo FM 6x4T Electric, Truk Listrik Eropa Pertama di Indonesia (Mobil Komersial)",
+            "date": "2025-06",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://mobilkomersial.com/2025/06/17/profil-volvo-fm-6x4t-electric-truk-listrik-eropa-pertama-di-indonesia/",
+            "title": "Profil Volvo FM 6x4T Electric, Truk Listrik Eropa Pertama di Indonesia (Mobil Komersial)",
+            "date": "2025-06",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://mobilkomersial.com/2025/06/17/profil-volvo-fm-6x4t-electric-truk-listrik-eropa-pertama-di-indonesia/",
+            "title": "Profil Volvo FM 6x4T Electric, Truk Listrik Eropa Pertama di Indonesia (Mobil Komersial)",
+            "date": "2025-06",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://mobilkomersial.com/2025/06/17/profil-volvo-fm-6x4t-electric-truk-listrik-eropa-pertama-di-indonesia/",
+            "title": "Profil Volvo FM 6x4T Electric, Truk Listrik Eropa Pertama di Indonesia (Mobil Komersial)",
+            "date": "2025-06",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://mobilkomersial.com/2025/06/17/profil-volvo-fm-6x4t-electric-truk-listrik-eropa-pertama-di-indonesia/",
+            "title": "Profil Volvo FM 6x4T Electric, Truk Listrik Eropa Pertama di Indonesia (Mobil Komersial)",
+            "date": "2025-06",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://mobilkomersial.com/2024/09/11/truk-listrik-volvo-fm-6x4t-electric-resmi-meluncur-di-indonesia/",
+            "title": "Truk Listrik Volvo FM 6x4T Electric Resmi Meluncur di Indonesia (Mobil Komersial)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.garduoto.com/35328/volvo-perkenalkan-fm-electric-truk-listrik-pertama-volvo-untuk-indonesia/",
+            "title": "Volvo Perkenalkan FM Electric, Truk Listrik Pertama Volvo untuk Indonesia (Garduoto)",
+            "date": "2024-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.autojago.com/news/first-drive-truk-listrik-eropa-pertama-di-indonesia-volvo-fm-6-x4-t-electric",
+            "title": "Volvo FM 6X4T: Truk Listrik Eropa Pertama di Indonesia (AutoJago first drive)",
+            "date": "2024-09",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Tractor head launched 11 Sep 2024 at Mining Indonesia 2024 by Volvo Trucks with Indomobil (brand holder PT Wahana Inti Selaras; dealers PT Indotruck Utama and PT Eka Dharma Jaya Sakti), imported CBU from Sweden. Volvo and Indomobil signed agreements with PT Pancaran Darat Transport and PT Artha Satya Karunia to start adopting Volvo e-trucks (volvotrucks.id press release, Sep 2024), but I found no confirmed Indonesian deliveries: Investor.id (Sep 2024) calls it a pilot project, and Kompas (Feb 2025) headlined that it was 'still waiting for regulation'. Status 'on sale' means officially offered, not proven deliveries. Battery: 5 packs, 450 kWh total as quoted (stored as gross; usable not published). 490 kW (666 hp) from 3 electric motors; 12-speed I-Shift. Range is a claim of 'more than 340 km' (no test cycle); Kompas headlined 300 km. AutoJago says a 6th battery is optional for up to 380 km, but no capacity or separate Indonesian variant was published, so it is not a separate trim. Charging: about 10 h on AC and about 2 h 0–100% on DC (Garduoto says 2–3 h); charger power not stated. GCW 44 t and dimensions from Mobil Komersial (2025). The same article gives tyres as '3295/80R22.5' (an obvious typo, probably 295/80 R22.5), so tyre size is left out. Price: AutoJago quotes an estimated Rp 5.5 billion (estimate, no subsidy; not OTR) and about Rp 300 million per battery pack, so no OTR price is stored, and the estimate is not stored as a quoted price either. The volvotrucks.id FM Electric product page shows the global range (360–540 kWh, 2 motors, 350 kW DC, up to 65 t GCW). That is a newer or different configuration than the Indonesian 3-motor 6x4T, so it is not used. Zigwheels/OTO Indonesia list '450 HP 180 kWh' and '666 HP 540 kWh' variants that look like copied Philippine data, so they are not used either.",
+      "notes_id": "Tractor head diluncurkan 11 September 2024 di Mining Indonesia 2024 oleh Volvo Trucks bersama Indomobil (pemegang merek PT Wahana Inti Selaras; diler PT Indotruck Utama dan PT Eka Dharma Jaya Sakti), diimpor CBU dari Swedia. Volvo dan Indomobil meneken kesepakatan dengan PT Pancaran Darat Transport dan PT Artha Satya Karunia untuk mulai mengadopsi truk listrik Volvo (siaran pers volvotrucks.id, September 2024), tetapi saya tidak menemukan konfirmasi pengiriman unit di Indonesia: Investor.id (September 2024) menyebutnya proyek percontohan, dan Kompas (Februari 2025) menulis bahwa truk ini 'masih menunggu regulasi'. Status 'on sale' berarti resmi ditawarkan, bukan bukti unit sudah dikirim. Baterai: 5 paket, total 450 kWh sesuai kutipan (disimpan sebagai kapasitas kotor; kapasitas bersih tidak dipublikasikan). Tenaga 490 kW (666 dk) dari 3 motor listrik, transmisi I-Shift 12 percepatan. Jarak tempuh adalah klaim 'lebih dari 340 km' tanpa siklus uji; Kompas menulis 300 km. Menurut AutoJago, baterai ke-6 tersedia sebagai opsi untuk jarak hingga 380 km, tetapi kapasitasnya dan varian Indonesia tersendiri tidak dipublikasikan, jadi tidak dibuat trim terpisah. Pengisian: sekitar 10 jam dengan AC dan sekitar 2 jam 0–100% dengan DC (Garduoto menyebut 2–3 jam); daya pengisi tidak disebutkan. GCW 44 ton dan dimensi dari Mobil Komersial (2025). Artikel yang sama menulis ban '3295/80R22.5' (jelas salah ketik, kemungkinan 295/80 R22.5), jadi ukuran ban tidak dicantumkan. Harga: AutoJago menyebut estimasi Rp 5,5 miliar (perkiraan, tanpa subsidi; bukan OTR) dan sekitar Rp 300 juta per paket baterai, jadi harga OTR tidak diisi, dan estimasi ini juga tidak disimpan sebagai harga kutipan. Halaman produk FM Electric di volvotrucks.id memuat rentang global (360–540 kWh, 2 motor, DC 350 kW, GCW hingga 65 ton). Itu konfigurasi yang lebih baru atau berbeda dari 6x4T 3 motor versi Indonesia, jadi tidak dipakai. Data Zigwheels/OTO Indonesia ('450 HP 180 kWh' dan '666 HP 540 kWh') tampaknya salinan data Filipina, jadi juga tidak dipakai."
+    }
+  ]
+}

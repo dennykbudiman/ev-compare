@@ -1,0 +1,490 @@
+{
+  "make": "Volvo",
+  "model": "EC40",
+  "trims": [
+    {
+      "id": "volvo-ec40-2025-ultra-twin-motor",
+      "model_year": 2025,
+      "variant": "Ultra Twin Motor",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 1288000000,
+        "battery_gross_kwh": 82,
+        "range_km": 650,
+        "motor_count": 2,
+        "drive": "AWD",
+        "motor_type": "PMSM",
+        "power_kw": 300,
+        "torque_nm": 670,
+        "accel_0_100_s": 4.7,
+        "top_speed_kmh": 180,
+        "ac_full_hours": 8,
+        "dc_10_80_min": 28,
+        "length_mm": 4440,
+        "width_mm": 1873,
+        "height_mm": 1591,
+        "wheelbase_mm": 2702,
+        "kerb_weight_kg": 2185,
+        "boot_l": 404,
+        "seats": 5,
+        "tyre_size": "245/45 R19",
+        "adas": "ACC, BSM, LDW, RCTA, 360 camera, park assist",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "ac_max_kw": 11,
+        "dc_max_kw": 200,
+        "airbag_positions": "front, front side, driver knee, curtain"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224277027/hadir-di-giias-2025-intip-harga-volvo-xc60-ex40-hingga-xc90-hybrid",
+            "title": "Hadir di GIIAS 2025, Intip Harga Volvo XC60, EX40 Hingga XC90 Hybrid - GridOto",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/volvo/ec40/spesifikasi",
+            "title": "Volvo EC40 2026 Specification - All Details & Features - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/volvo/ec40/gen1/ultra-twin-motor-2025/",
+            "title": "Volvo EC40 Ultra Twin Motor - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/volvo/ec40/gen1/ultra-twin-motor-2025/",
+            "title": "Volvo EC40 Ultra Twin Motor - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/volvo/ec40/gen1/ultra-twin-motor-2025/",
+            "title": "Volvo EC40 Ultra Twin Motor - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Formerly sold as the C40 Recharge (renamed EC40 in 2024). Coupe-SUV body filed as Crossover. Sources list 408 hp; Volvo's rating is metric (PS), converted x0.7355 = 300 kW. Price Rp1,288,000,000 since GIIAS July 2025 (gridoto, Investortrust; OTR basis not stated there) and listed as OTR on oto.com in October 2026. Range standard not stated. Oto lists the 0-100 figure only as 'acceleration'. Same specs 2024-2026. AC/DC charging power and airbag positions from the Malaysian spec (paultan.org).",
+      "notes_id": "Sebelumnya dijual sebagai C40 Recharge (berganti nama menjadi EC40 pada 2024). Bodi SUV coupe dimasukkan sebagai Crossover. Sumber mencantumkan 408 hp; angka Volvo memakai satuan metrik (PS), dikonversi x0,7355 = 300 kW. Harga Rp1.288.000.000 sejak GIIAS Juli 2025 (gridoto, Investortrust; dasar OTR tidak disebutkan di sana) dan tercantum sebagai OTR di oto.com pada Oktober 2026. Standar pengujian jarak tempuh tidak disebutkan. Oto hanya mencantumkan angka 0-100 sebagai 'akselerasi'. Spesifikasi sama 2024-2026. Daya pengisian AC/DC dan posisi airbag dari spesifikasi Malaysia (paultan.org)."
+    },
+    {
+      "id": "volvo-ec40-2023-c40-recharge-twin-motor",
+      "model_year": 2023,
+      "variant": "C40 Recharge Pure Electric Twin Motor",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "battery_gross_kwh": 78,
+        "range_km": 420,
+        "drive": "AWD",
+        "power_kw": 300,
+        "torque_nm": 670,
+        "accel_0_100_s": 4.7,
+        "ac_max_kw": 11,
+        "dc_max_kw": 150,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "length_mm": 4440,
+        "width_mm": 1873,
+        "height_mm": 1582,
+        "wheelbase_mm": 2702,
+        "kerb_weight_kg": 2185,
+        "boot_l": 413,
+        "seats": 5,
+        "airbags": 7,
+        "airbag_positions": "front, front side, driver knee, curtain",
+        "adas": "AEB, FCW, LKA, BSM, ACC, 360 camera"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/news/harga-volvo-c40-ev-cuma-rp-13-miliaran/",
+            "title": "Harga Volvo C40 EV Cuma Rp 1,3 Miliaran",
+            "date": "2023-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6871748/volvo-siap-teror-segmen-mobil-premium-di-indonesia/amp",
+            "title": "Volvo Siap Teror Segmen Mobil Premium di Indonesia",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/news/harga-volvo-c40-ev-cuma-rp-13-miliaran/",
+            "title": "Harga Volvo C40 EV Cuma Rp 1,3 Miliaran",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6871748/volvo-siap-teror-segmen-mobil-premium-di-indonesia/amp",
+            "title": "Volvo Siap Teror Segmen Mobil Premium di Indonesia",
+            "date": "2023-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/harga-volvo-c40-ev-cuma-rp-13-miliaran/",
+            "title": "Harga Volvo C40 EV Cuma Rp 1,3 Miliaran",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/news/harga-volvo-c40-ev-cuma-rp-13-miliaran/",
+            "title": "Harga Volvo C40 EV Cuma Rp 1,3 Miliaran",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/news/harga-volvo-c40-ev-cuma-rp-13-miliaran/",
+            "title": "Harga Volvo C40 EV Cuma Rp 1,3 Miliaran",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/news/harga-volvo-c40-ev-cuma-rp-13-miliaran/",
+            "title": "Harga Volvo C40 EV Cuma Rp 1,3 Miliaran",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/news/harga-volvo-c40-ev-cuma-rp-13-miliaran/",
+            "title": "Harga Volvo C40 EV Cuma Rp 1,3 Miliaran",
+            "date": "2023-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carbase.my/volvo/c40/gen1/recharge-p8-2023",
+            "title": "Volvo C40 Recharge P8 (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Introduced at GIIAS August 2023. Price reported only as 'about Rp1.36 billion' without an OTR basis (moladin), so price left out. Coupe-SUV body filed as Crossover. 408 hp (PS) x0.7355 = 300 kW. Torque 670 Nm per moladin (XC40 Recharge sources say 660 Nm). Range: detik 'up to 420 km', moladin says both 420 and about 500 km; 420 used, standard not stated. Battery 78 kWh not labelled gross/net. Fast charge 'about 40 min' with no window or kW. Renamed EC40 in 2024. AC/DC power, connectors, dimensions, kerb weight, boot, seats, airbags and ADAS from the Malaysian spec of the 2023 C40 Recharge P8 (carbase.my); matched on 78 kWh and 408 PS AWD (the Malaysian sheet gives 660 Nm).",
+      "notes_id": "Diperkenalkan di GIIAS Agustus 2023. Harga hanya disebut 'sekitar Rp1,36 miliar' tanpa keterangan OTR (moladin), sehingga harga dikosongkan. Bodi coupe-SUV dicatat sebagai Crossover. 408 hp (PS) x0,7355 = 300 kW. Torsi 670 Nm menurut moladin (sumber XC40 Recharge menyebut 660 Nm). Jarak tempuh: detik 'hingga 420 km', moladin menyebut 420 km dan sekitar 500 km; dipakai 420 km, standar tidak disebutkan. Baterai 78 kWh tidak disebut gross/net. Pengisian cepat 'sekitar 40 menit' tanpa rentang atau kW. Berganti nama menjadi EC40 pada 2024. Daya AC/DC, konektor, dimensi, berat kosong, bagasi, jumlah kursi, airbag, dan ADAS dari spesifikasi Malaysia untuk C40 Recharge P8 2023 (carbase.my); dicocokkan pada 78 kWh dan 408 PS AWD (lembar Malaysia mencantumkan 660 Nm)."
+    }
+  ]
+}

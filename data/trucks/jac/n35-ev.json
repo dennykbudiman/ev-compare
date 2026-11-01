@@ -1,0 +1,999 @@
+{
+  "make": "JAC",
+  "model": "Metromover N35 EV",
+  "trims": [
+    {
+      "id": "jac-n35-ev-2026-c4",
+      "model_year": 2026,
+      "variant": "C4 (38.64 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "gvw_kg": 3450,
+        "payload_kg": 2000,
+        "battery_gross_kwh": 38.64,
+        "battery_chemistry": "LFP",
+        "cell_supplier": "CATL",
+        "battery_ip": "IP68",
+        "range_km": 180,
+        "motor_type": "PMSM",
+        "power_kw": 50,
+        "torque_nm": 140,
+        "dc_max_kw": 60,
+        "dc_10_80_min": 45,
+        "dc_time_window": "20–80%",
+        "length_mm": 5300,
+        "width_mm": 1750,
+        "height_mm": 1990,
+        "wheelbase_mm": 3100,
+        "kerb_weight_kg": 1660,
+        "tyre_size": "195/70 R15",
+        "price_otr_idr": 405000000,
+        "assembly": "CKD Indonesia",
+        "battery_warranty": "8 yrs",
+        "vehicle_warranty": "1 yr",
+        "body_type": "Rigid truck",
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148954/jac-motors-indonesia-debut-di-giicomvec-2026-hadirkan-tiga-ev-komersial-untuk-industri",
+            "title": "JAC Motors Indonesia Debut di GIICOMVEC 2026, Hadirkan Tiga EV Komersial untuk Industri (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/indomobil-jac-perkenalkan-truk-listrik-berpendingin-pertama-di-indonesia",
+            "title": "Indomobil JAC Perkenalkan Truk Listrik Berpendingin Pertama di Indonesia (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/truk-baru/jac/n35-ev/harga",
+            "title": "JAC N35 EV harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-confident-in-commercial-ev-sales-straight-to-local-assembly-20046",
+            "title": "JAC Motors Confident in Commercial EV Sales, Straight to Local Assembly (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.viva.co.id/otomotif/1843956-jac-motors-motors-bawa-ev-niaga-ke-ri",
+            "title": "JAC Motors Bawa EV Niaga ke RI (VIVA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1843956-jac-motors-motors-bawa-ev-niaga-ke-ri",
+            "title": "JAC Motors Bawa EV Niaga ke RI (VIVA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/jac-motors-resmi-hadir-langsung-bawa-tiga-produk-ev-komersial/",
+            "title": "JAC Motors Resmi Hadir, Langsung Bawa Tiga Produk EV Komersial (Moladin)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/indomobil-jac-perkenalkan-truk-listrik-berpendingin-pertama-di-indonesia",
+            "title": "Indomobil JAC Perkenalkan Truk Listrik Berpendingin Pertama di Indonesia (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Light-duty electric truck (dropside/box chassis) with GVW 3,450 kg on OTO (GIICOMVEC 2026 release: 3.5 t), so it sits in Small cargo by GVW even though it is marketed as a light truck. Payload 2,000 kg is the launch figure (Katadata); it is more than GVW minus OTO's kerb weight, so it is probably a rated chassis load (body plus load) rather than load only. Power 67 bhp (OTO) converted at x0.7457 = 50 kW; OTO lists the same 67 bhp / 140 Nm for every battery size. Range has no named test cycle. DC: 60 kW, 20–80% in 45 min (launch releases). OTO's AC figures are 20–80% times, not 0–100%, so ac_full_hours is left out. Battery chemistry from OTO ('Lithium-Iron'); cells are CATL; pack is IP68. Warranty: JAC Indonesia states 8 years battery, 1 year vehicle and 3 years electric motor; no km limits published. Local assembly claimed for all JAC models (Pulogadung, PT National Assemblers). Same specs 2025–2026; prices are OTO's OTR Jakarta Selatan listing (detikOto at launch: Rp 405–460 juta OTR Jakarta). Cargo body sizes depend on the karoseri and are not recorded. OTO lists AC 20–80% in 4 hours. The C4 (38.64 kWh) was not mentioned in the GIICOMVEC 2026 release, which listed only the 49.45 and 63.75 kWh packs, but OTO still lists it in November 2026.",
+      "notes_id": "Truk listrik ringan (bak/boks) dengan JBB 3.450 kg di OTO (rilis GIICOMVEC 2026: 3,5 ton), sehingga masuk kelas Small cargo menurut JBB meskipun dipasarkan sebagai truk ringan. Payload 2.000 kg adalah angka peluncuran (Katadata); angka ini lebih besar dari JBB dikurangi berat kosong di OTO, jadi kemungkinan daya angkut sasis (karoseri plus muatan), bukan muatan saja. Tenaga 67 bhp (OTO) dikonversi x0,7457 = 50 kW; OTO mencantumkan 67 bhp / 140 Nm yang sama untuk semua ukuran baterai. Jarak tempuh tanpa siklus uji yang disebut. DC: 60 kW, 20–80% dalam 45 menit (rilis peluncuran). Waktu pengisian AC di OTO adalah 20–80%, bukan 0–100%, sehingga waktu pengisian AC 0–100% tidak diisi. Kimia baterai dari OTO ('Lithium-Iron'); sel dari CATL; baterai bersertifikat IP68. Garansi: JAC Indonesia menyebut baterai 8 tahun, kendaraan 1 tahun, dan motor listrik 3 tahun; batas km tidak dipublikasikan. Semua model JAC diklaim dirakit lokal (Pulogadung, PT National Assemblers). Spesifikasi sama 2025–2026; harga dari daftar OTR Jakarta Selatan OTO (detikOto saat peluncuran: Rp405–460 juta OTR Jakarta). Ukuran bak/boks tergantung karoseri dan tidak dicatat. OTO mencantumkan AC 20–80% dalam 4 jam. Varian C4 (38,64 kWh) tidak disebut dalam rilis GIICOMVEC 2026 yang hanya menyebut baterai 49,45 dan 63,75 kWh, tetapi OTO masih mencantumkannya pada November 2026."
+    },
+    {
+      "id": "jac-n35-ev-2026-c5",
+      "model_year": 2026,
+      "variant": "C5 (49.45 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "gvw_kg": 3450,
+        "payload_kg": 2000,
+        "battery_gross_kwh": 49.45,
+        "battery_chemistry": "LFP",
+        "cell_supplier": "CATL",
+        "battery_ip": "IP68",
+        "range_km": 230,
+        "motor_type": "PMSM",
+        "power_kw": 50,
+        "torque_nm": 140,
+        "dc_max_kw": 60,
+        "dc_10_80_min": 45,
+        "dc_time_window": "20–80%",
+        "length_mm": 5300,
+        "width_mm": 1750,
+        "height_mm": 1990,
+        "wheelbase_mm": 3100,
+        "kerb_weight_kg": 1730,
+        "tyre_size": "195/70 R15",
+        "price_otr_idr": 435000000,
+        "assembly": "CKD Indonesia",
+        "battery_warranty": "8 yrs",
+        "vehicle_warranty": "1 yr",
+        "body_type": "Rigid truck",
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148954/jac-motors-indonesia-debut-di-giicomvec-2026-hadirkan-tiga-ev-komersial-untuk-industri",
+            "title": "JAC Motors Indonesia Debut di GIICOMVEC 2026, Hadirkan Tiga EV Komersial untuk Industri (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/indomobil-jac-perkenalkan-truk-listrik-berpendingin-pertama-di-indonesia",
+            "title": "Indomobil JAC Perkenalkan Truk Listrik Berpendingin Pertama di Indonesia (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148954/jac-motors-indonesia-debut-di-giicomvec-2026-hadirkan-tiga-ev-komersial-untuk-industri",
+            "title": "JAC Motors Indonesia Debut di GIICOMVEC 2026, Hadirkan Tiga EV Komersial untuk Industri (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/truk-baru/jac/n35-ev/harga",
+            "title": "JAC N35 EV harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-confident-in-commercial-ev-sales-straight-to-local-assembly-20046",
+            "title": "JAC Motors Confident in Commercial EV Sales, Straight to Local Assembly (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.viva.co.id/otomotif/1843956-jac-motors-motors-bawa-ev-niaga-ke-ri",
+            "title": "JAC Motors Bawa EV Niaga ke RI (VIVA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1843956-jac-motors-motors-bawa-ev-niaga-ke-ri",
+            "title": "JAC Motors Bawa EV Niaga ke RI (VIVA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/jac-motors-resmi-hadir-langsung-bawa-tiga-produk-ev-komersial/",
+            "title": "JAC Motors Resmi Hadir, Langsung Bawa Tiga Produk EV Komersial (Moladin)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/indomobil-jac-perkenalkan-truk-listrik-berpendingin-pertama-di-indonesia",
+            "title": "Indomobil JAC Perkenalkan Truk Listrik Berpendingin Pertama di Indonesia (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c5",
+            "title": "JAC N35 EV C5 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Light-duty electric truck (dropside/box chassis) with GVW 3,450 kg on OTO (GIICOMVEC 2026 release: 3.5 t), so it sits in Small cargo by GVW even though it is marketed as a light truck. Payload 2,000 kg is the launch figure (Katadata); it is more than GVW minus OTO's kerb weight, so it is probably a rated chassis load (body plus load) rather than load only. Power 67 bhp (OTO) converted at x0.7457 = 50 kW; OTO lists the same 67 bhp / 140 Nm for every battery size. Range has no named test cycle. DC: 60 kW, 20–80% in 45 min (launch releases). OTO's AC figures are 20–80% times, not 0–100%, so ac_full_hours is left out. Battery chemistry from OTO ('Lithium-Iron'); cells are CATL; pack is IP68. Warranty: JAC Indonesia states 8 years battery, 1 year vehicle and 3 years electric motor; no km limits published. Local assembly claimed for all JAC models (Pulogadung, PT National Assemblers). Same specs 2025–2026; prices are OTO's OTR Jakarta Selatan listing (detikOto at launch: Rp 405–460 juta OTR Jakarta). Cargo body sizes depend on the karoseri and are not recorded. OTO lists AC 20–80% in 5 hours.",
+      "notes_id": "Truk listrik ringan (bak/boks) dengan JBB 3.450 kg di OTO (rilis GIICOMVEC 2026: 3,5 ton), sehingga masuk kelas Small cargo menurut JBB meskipun dipasarkan sebagai truk ringan. Payload 2.000 kg adalah angka peluncuran (Katadata); angka ini lebih besar dari JBB dikurangi berat kosong di OTO, jadi kemungkinan daya angkut sasis (karoseri plus muatan), bukan muatan saja. Tenaga 67 bhp (OTO) dikonversi x0,7457 = 50 kW; OTO mencantumkan 67 bhp / 140 Nm yang sama untuk semua ukuran baterai. Jarak tempuh tanpa siklus uji yang disebut. DC: 60 kW, 20–80% dalam 45 menit (rilis peluncuran). Waktu pengisian AC di OTO adalah 20–80%, bukan 0–100%, sehingga waktu pengisian AC 0–100% tidak diisi. Kimia baterai dari OTO ('Lithium-Iron'); sel dari CATL; baterai bersertifikat IP68. Garansi: JAC Indonesia menyebut baterai 8 tahun, kendaraan 1 tahun, dan motor listrik 3 tahun; batas km tidak dipublikasikan. Semua model JAC diklaim dirakit lokal (Pulogadung, PT National Assemblers). Spesifikasi sama 2025–2026; harga dari daftar OTR Jakarta Selatan OTO (detikOto saat peluncuran: Rp405–460 juta OTR Jakarta). Ukuran bak/boks tergantung karoseri dan tidak dicatat. OTO mencantumkan AC 20–80% dalam 5 jam."
+    },
+    {
+      "id": "jac-n35-ev-2026-c6",
+      "model_year": 2026,
+      "variant": "C6 (63.75 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "gvw_kg": 3450,
+        "payload_kg": 2000,
+        "battery_gross_kwh": 63.75,
+        "battery_chemistry": "LFP",
+        "cell_supplier": "CATL",
+        "battery_ip": "IP68",
+        "range_km": 297,
+        "motor_type": "PMSM",
+        "power_kw": 50,
+        "torque_nm": 140,
+        "dc_max_kw": 60,
+        "dc_10_80_min": 45,
+        "dc_time_window": "20–80%",
+        "length_mm": 5300,
+        "width_mm": 1750,
+        "height_mm": 1990,
+        "wheelbase_mm": 3100,
+        "kerb_weight_kg": 1800,
+        "tyre_size": "195/70 R15",
+        "price_otr_idr": 461000000,
+        "assembly": "CKD Indonesia",
+        "battery_warranty": "8 yrs",
+        "vehicle_warranty": "1 yr",
+        "body_type": "Rigid truck",
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/spesifikasi",
+            "title": "JAC N35 EV spesifikasi (OTO, C4 data)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148954/jac-motors-indonesia-debut-di-giicomvec-2026-hadirkan-tiga-ev-komersial-untuk-industri",
+            "title": "JAC Motors Indonesia Debut di GIICOMVEC 2026, Hadirkan Tiga EV Komersial untuk Industri (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/indomobil-jac-perkenalkan-truk-listrik-berpendingin-pertama-di-indonesia",
+            "title": "Indomobil JAC Perkenalkan Truk Listrik Berpendingin Pertama di Indonesia (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/indomobil-jac-perkenalkan-truk-listrik-berpendingin-pertama-di-indonesia",
+            "title": "Indomobil JAC Perkenalkan Truk Listrik Berpendingin Pertama di Indonesia (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148954/jac-motors-indonesia-debut-di-giicomvec-2026-hadirkan-tiga-ev-komersial-untuk-industri",
+            "title": "JAC Motors Indonesia Debut di GIICOMVEC 2026, Hadirkan Tiga EV Komersial untuk Industri (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/truk-baru/jac/n35-ev/harga",
+            "title": "JAC N35 EV harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-confident-in-commercial-ev-sales-straight-to-local-assembly-20046",
+            "title": "JAC Motors Confident in Commercial EV Sales, Straight to Local Assembly (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.viva.co.id/otomotif/1843956-jac-motors-motors-bawa-ev-niaga-ke-ri",
+            "title": "JAC Motors Bawa EV Niaga ke RI (VIVA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1843956-jac-motors-motors-bawa-ev-niaga-ke-ri",
+            "title": "JAC Motors Bawa EV Niaga ke RI (VIVA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/jac-motors-resmi-hadir-langsung-bawa-tiga-produk-ev-komersial/",
+            "title": "JAC Motors Resmi Hadir, Langsung Bawa Tiga Produk EV Komersial (Moladin)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/indomobil-jac-perkenalkan-truk-listrik-berpendingin-pertama-di-indonesia",
+            "title": "Indomobil JAC Perkenalkan Truk Listrik Berpendingin Pertama di Indonesia (Kontan)",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.oto.com/truk-baru/jac/n35-ev/c6",
+            "title": "JAC N35 EV C6 (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Light-duty electric truck (dropside/box chassis) with GVW 3,450 kg on OTO (GIICOMVEC 2026 release: 3.5 t), so it sits in Small cargo by GVW even though it is marketed as a light truck. Payload 2,000 kg is the launch figure (Katadata); it is more than GVW minus OTO's kerb weight, so it is probably a rated chassis load (body plus load) rather than load only. Power 67 bhp (OTO) converted at x0.7457 = 50 kW; OTO lists the same 67 bhp / 140 Nm for every battery size. Range has no named test cycle. DC: 60 kW, 20–80% in 45 min (launch releases). OTO's AC figures are 20–80% times, not 0–100%, so ac_full_hours is left out. Battery chemistry from OTO ('Lithium-Iron'); cells are CATL; pack is IP68. Warranty: JAC Indonesia states 8 years battery, 1 year vehicle and 3 years electric motor; no km limits published. Local assembly claimed for all JAC models (Pulogadung, PT National Assemblers). Same specs 2025–2026; prices are OTO's OTR Jakarta Selatan listing (detikOto at launch: Rp 405–460 juta OTR Jakarta). Cargo body sizes depend on the karoseri and are not recorded. OTO lists AC 20–80% in 6.5 hours. A refrigerated N35 (box by Hwasung Thermo, factory e-PTO) was shown in November 2025.",
+      "notes_id": "Truk listrik ringan (bak/boks) dengan JBB 3.450 kg di OTO (rilis GIICOMVEC 2026: 3,5 ton), sehingga masuk kelas Small cargo menurut JBB meskipun dipasarkan sebagai truk ringan. Payload 2.000 kg adalah angka peluncuran (Katadata); angka ini lebih besar dari JBB dikurangi berat kosong di OTO, jadi kemungkinan daya angkut sasis (karoseri plus muatan), bukan muatan saja. Tenaga 67 bhp (OTO) dikonversi x0,7457 = 50 kW; OTO mencantumkan 67 bhp / 140 Nm yang sama untuk semua ukuran baterai. Jarak tempuh tanpa siklus uji yang disebut. DC: 60 kW, 20–80% dalam 45 menit (rilis peluncuran). Waktu pengisian AC di OTO adalah 20–80%, bukan 0–100%, sehingga waktu pengisian AC 0–100% tidak diisi. Kimia baterai dari OTO ('Lithium-Iron'); sel dari CATL; baterai bersertifikat IP68. Garansi: JAC Indonesia menyebut baterai 8 tahun, kendaraan 1 tahun, dan motor listrik 3 tahun; batas km tidak dipublikasikan. Semua model JAC diklaim dirakit lokal (Pulogadung, PT National Assemblers). Spesifikasi sama 2025–2026; harga dari daftar OTR Jakarta Selatan OTO (detikOto saat peluncuran: Rp405–460 juta OTR Jakarta). Ukuran bak/boks tergantung karoseri dan tidak dicatat. OTO mencantumkan AC 20–80% dalam 6,5 jam. Versi berpendingin (boks Hwasung Thermo, e-PTO pabrikan) diperkenalkan November 2025."
+    }
+  ]
+}

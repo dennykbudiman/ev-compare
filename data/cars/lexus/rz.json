@@ -1,0 +1,966 @@
+{
+  "make": "Lexus",
+  "model": "RZ",
+  "trims": [
+    {
+      "id": "lexus-rz-2025-450e-luxury",
+      "model_year": 2025,
+      "variant": "450e Luxury",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 2390000000,
+        "battery_gross_kwh": 71.4,
+        "range_km": 400,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 230,
+        "torque_nm": 435,
+        "adas": "PCS (AEB), ACC (all-speed), LDA with steering assist, LTA, AHB, SEA",
+        "ac_max_kw": 11,
+        "dc_max_kw": 150,
+        "length_mm": 4805,
+        "width_mm": 1895,
+        "height_mm": 1635,
+        "wheelbase_mm": 2850,
+        "kerb_weight_kg": 2125,
+        "boot_l": 522,
+        "seats": 5,
+        "accel_0_100_s": 5.3,
+        "top_speed_kmh": 160,
+        "tyre_size": "235/50 R20"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/lexus/lexus-rz/harga-tipe",
+            "title": "Harga Lexus RZ - Moladin",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "On sale from Q2 2023 at Rp2.287 billion OTR Jakarta; latest listed price Rp2.39 billion (Moladin, Aug 2026). Replaced in practice by the RZ 500e (Nov 2025); Moladin still lists it, so status is a judgement. Power 308 hp (= 230 kW); range 'about 400 km', standard not stated. Same specs 2024-2025. AC 11 kW, DC 150 kW, dimensions, weight, boot, seats, 0-100 km/h, top speed and tyres from the Malaysian RZ 450e spec (paultan.org).",
+      "notes_id": "Dijual sejak kuartal II 2023 seharga Rp2,287 miliar OTR Jakarta; harga terakhir yang tercantum Rp2,39 miliar (Moladin, Agustus 2026). Praktis digantikan RZ 500e (November 2025); Moladin masih mencantumkannya, sehingga statusnya berdasarkan penilaian. Tenaga 308 hp (= 230 kW); jarak tempuh 'sekitar 400 km', standar tidak disebutkan. Spesifikasi sama 2024-2025. AC 11 kW, DC 150 kW, dimensi, berat, bagasi, jumlah kursi, 0-100 km/jam, kecepatan maksimum, dan ban dari spesifikasi Malaysia RZ 450e (paultan.org)."
+    },
+    {
+      "id": "lexus-rz-2026-500e",
+      "model_year": 2026,
+      "variant": "500e",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 2488000000,
+        "battery_gross_kwh": 74.69,
+        "range_km": 460,
+        "range_standard": "WLTC",
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 280,
+        "battery_preheat": true,
+        "torque_nm": 537,
+        "ac_max_kw": 22,
+        "dc_max_kw": 150,
+        "dc_10_80_min": 30,
+        "battery_chemistry": "NMC",
+        "cell_format": "Prismatic",
+        "cell_count": 104,
+        "pack_nominal_voltage_v": 391,
+        "motor_type": "PMSM",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "heat_pump": true,
+        "length_mm": 4805,
+        "width_mm": 1895,
+        "height_mm": 1635,
+        "wheelbase_mm": 2850,
+        "ground_clearance_mm": 155,
+        "kerb_weight_kg": 2105,
+        "boot_l": 522,
+        "frunk_l": 0,
+        "seats": 5,
+        "accel_0_100_s": 4.6,
+        "top_speed_kmh": 180
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8228976/pakai-setir-seperti-pesawat-segini-harga-lexus-rz-500e-di-ri",
+            "title": "Pakai Setir Seperti Pesawat, Segini Harga Lexus RZ 500e di RI",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8228976/pakai-setir-seperti-pesawat-segini-harga-lexus-rz-500e-di-ri",
+            "title": "Pakai Setir Seperti Pesawat, Segini Harga Lexus RZ 500e di RI",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://listrikindonesia.com/detail/19045/lexus-rz-ramaikan-pasar-mobil-listrik-ini-terobosan-yang-ditawarkan",
+            "title": "Lexus RZ Ramaikan Pasar Mobil Listrik, Ini Terobosan yang Ditawarkan",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8228976/pakai-setir-seperti-pesawat-segini-harga-lexus-rz-500e-di-ri",
+            "title": "Pakai Setir Seperti Pesawat, Segini Harga Lexus RZ 500e di RI",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8228976/pakai-setir-seperti-pesawat-segini-harga-lexus-rz-500e-di-ri",
+            "title": "Pakai Setir Seperti Pesawat, Segini Harga Lexus RZ 500e di RI",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://listrikindonesia.com/detail/19045/lexus-rz-ramaikan-pasar-mobil-listrik-ini-terobosan-yang-ditawarkan",
+            "title": "Lexus RZ Ramaikan Pasar Mobil Listrik, Ini Terobosan yang Ditawarkan",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://listrikindonesia.com/detail/19045/lexus-rz-ramaikan-pasar-mobil-listrik-ini-terobosan-yang-ditawarkan",
+            "title": "Lexus RZ Ramaikan Pasar Mobil Listrik, Ini Terobosan yang Ditawarkan",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8228976/pakai-setir-seperti-pesawat-segini-harga-lexus-rz-500e-di-ri",
+            "title": "Pakai Setir Seperti Pesawat, Segini Harga Lexus RZ 500e di RI",
+            "date": "2025-11",
+            "type": "press"
+          },
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_preheat": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8228976/pakai-setir-seperti-pesawat-segini-harga-lexus-rz-500e-di-ri",
+            "title": "Pakai Setir Seperti Pesawat, Segini Harga Lexus RZ 500e di RI",
+            "date": "2025-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.autoindustriya.com/auto-industry-news/2026-lexus-rz-350e-500e-now-in-ph-begins-at-php-4438m.html",
+            "title": "2026 Lexus RZ 350e, 500e now in PH; begins at PHP 4.438M - AutoIndustriya",
+            "date": "2026-08",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.autoindustriya.com/auto-industry-news/2026-lexus-rz-350e-500e-now-in-ph-begins-at-php-4438m.html",
+            "title": "2026 Lexus RZ 350e, 500e now in PH; begins at PHP 4.438M - AutoIndustriya",
+            "date": "2026-08",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.autoindustriya.com/auto-industry-news/2026-lexus-rz-350e-500e-now-in-ph-begins-at-php-4438m.html",
+            "title": "2026 Lexus RZ 350e, 500e now in PH; begins at PHP 4.438M - AutoIndustriya",
+            "date": "2026-08",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.autoindustriya.com/auto-industry-news/2026-lexus-rz-350e-500e-now-in-ph-begins-at-php-4438m.html",
+            "title": "2026 Lexus RZ 350e, 500e now in PH; begins at PHP 4.438M - AutoIndustriya",
+            "date": "2026-08",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_format": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carexpert.com.au/lexus/rz/2026-sports-luxury-suv-4x4-electric-jsfmkag820260409",
+            "title": "Lexus RZ Sports Luxury (2026) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Facelifted RZ shown at GJAW 24 Nov 2025, Rp2.488 billion OTR Jakarta, first Lexus BEV in Indonesia with steer-by-wire. Power 375 hp (= 280 kW) per Detik/CNN. Battery 74.69 kWh and dual-motor AWD are global (Japan) spec; the Japanese source gives 250 kW for the 500e, which conflicts with the Indonesian 375 hp. The starting list's Rp2.49 billion is this price rounded. Torque 537 Nm, AC 22 kW, DC 150 kW and DC 10-80% 30 min from the Philippine RZ 500e spec (AutoIndustriya); chemistry, cells, pack voltage, motor type, connectors, heat pump, dimensions, ground clearance, kerb weight, boot, frunk, seats, 0-100 km/h and top speed from the Australian 280 kW AWD spec (CarExpert).",
+      "notes_id": "RZ facelift tampil di GJAW 24 November 2025, Rp2,488 miliar OTR Jakarta, BEV Lexus pertama di Indonesia dengan steer-by-wire. Tenaga 375 hp (= 280 kW) menurut Detik/CNN. Baterai 74,69 kWh dan AWD motor ganda mengacu spesifikasi global (Jepang); sumber Jepang menyebut 250 kW untuk 500e, berbeda dengan angka Indonesia 375 hp. Angka Rp2,49 miliar di daftar awal adalah pembulatan harga ini. Torsi 537 Nm, AC 22 kW, DC 150 kW, dan DC 10-80% 30 menit dari spesifikasi Filipina RZ 500e (AutoIndustriya); kimia baterai, sel, tegangan paket, jenis motor, konektor, heat pump, dimensi, ground clearance, berat kosong, bagasi, frunk, jumlah kursi, 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Australia 280 kW AWD (CarExpert)."
+    },
+    {
+      "id": "lexus-rz-2026-600e-f-sport-performance",
+      "model_year": 2026,
+      "variant": "600e F Sport Performance",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 3588000000,
+        "battery_gross_kwh": 76.79,
+        "range_km": 525,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 313,
+        "accel_0_100_s": 4.4,
+        "length_mm": 4860,
+        "width_mm": 1965,
+        "height_mm": 1615,
+        "wheelbase_mm": 2850,
+        "kerb_weight_kg": 2140,
+        "tyre_size": "255/40 R21 (front), 295/35 R21 (rear)"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8596439/cuma-satu-di-ri-lexus-pamer-mobil-listrik-buas-rz-600e-f-sport-performance",
+            "title": "Cuma Satu di RI, Lexus Pamer Mobil Listrik Buas RZ 600e F Sport Performance",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8596439/cuma-satu-di-ri-lexus-pamer-mobil-listrik-buas-rz-600e-f-sport-performance",
+            "title": "Cuma Satu di RI, Lexus Pamer Mobil Listrik Buas RZ 600e F Sport Performance",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8596439/cuma-satu-di-ri-lexus-pamer-mobil-listrik-buas-rz-600e-f-sport-performance",
+            "title": "Cuma Satu di RI, Lexus Pamer Mobil Listrik Buas RZ 600e F Sport Performance",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8596439/cuma-satu-di-ri-lexus-pamer-mobil-listrik-buas-rz-600e-f-sport-performance",
+            "title": "Cuma Satu di RI, Lexus Pamer Mobil Listrik Buas RZ 600e F Sport Performance",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8596439/cuma-satu-di-ri-lexus-pamer-mobil-listrik-buas-rz-600e-f-sport-performance",
+            "title": "Cuma Satu di RI, Lexus Pamer Mobil Listrik Buas RZ 600e F Sport Performance",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://cnnindonesia.com/otomotif/20260803092631-603-1387877/cuma-satu-di-indonesia-lexus-rz-600e-f-sport-performance-sudah-laku",
+            "title": "Cuma Satu di Indonesia, Lexus RZ 600e F Sport Performance Sudah Laku",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8596439/cuma-satu-di-ri-lexus-pamer-mobil-listrik-buas-rz-600e-f-sport-performance",
+            "title": "Cuma Satu di RI, Lexus Pamer Mobil Listrik Buas RZ 600e F Sport Performance",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://global.toyota/en/newsroom/lexus/43750712.html",
+            "title": "Lexus Introduces the Special Edition RZ 600e \"F SPORT Performance\" - Toyota global newsroom",
+            "date": "2025-12",
+            "type": "official",
+            "market": "Japan"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://global.toyota/en/newsroom/lexus/43750712.html",
+            "title": "Lexus Introduces the Special Edition RZ 600e \"F SPORT Performance\" - Toyota global newsroom",
+            "date": "2025-12",
+            "type": "official",
+            "market": "Japan"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://global.toyota/en/newsroom/lexus/43750712.html",
+            "title": "Lexus Introduces the Special Edition RZ 600e \"F SPORT Performance\" - Toyota global newsroom",
+            "date": "2025-12",
+            "type": "official",
+            "market": "Japan"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://global.toyota/en/newsroom/lexus/43750712.html",
+            "title": "Lexus Introduces the Special Edition RZ 600e \"F SPORT Performance\" - Toyota global newsroom",
+            "date": "2025-12",
+            "type": "official",
+            "market": "Japan"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://global.toyota/en/newsroom/lexus/43750712.html",
+            "title": "Lexus Introduces the Special Edition RZ 600e \"F SPORT Performance\" - Toyota global newsroom",
+            "date": "2025-12",
+            "type": "official",
+            "market": "Japan"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://global.toyota/en/newsroom/lexus/43750712.html",
+            "title": "Lexus Introduces the Special Edition RZ 600e \"F SPORT Performance\" - Toyota global newsroom",
+            "date": "2025-12",
+            "type": "official",
+            "market": "Japan"
+          }
+        ]
+      },
+      "notes": "Shown at GIIAS 29 Jul 2026; only one unit brought in and already sold (Detik, CNN). Price Rp3.588 billion (CNN; not stated whether OTR). Power 313 kW (425.5 PS); torque given only per motor (268 Nm), so left out. Range 525 km, WLTC per paultan, standard not stated in Indonesian sources. Dimensions, vehicle weight and tyres from the Japanese-market RZ 600e F SPORT Performance spec (Toyota global newsroom; battery given there as 76.96 kWh).",
+      "notes_id": "Tampil di GIIAS 29 Juli 2026; hanya satu unit didatangkan dan sudah terjual (Detik, CNN). Harga Rp3,588 miliar (CNN; tidak disebutkan apakah OTR). Tenaga 313 kW (425,5 PS); torsi hanya disebut per motor (268 Nm), sehingga dikosongkan. Jarak tempuh 525 km, WLTC menurut paultan, standarnya tidak disebutkan sumber Indonesia. Dimensi, berat kendaraan, dan ban dari spesifikasi Jepang RZ 600e F SPORT Performance (Toyota global newsroom; baterai di sana 76,96 kWh)."
+    },
+    {
+      "id": "lexus-rz-2023-450e-luxury",
+      "model_year": 2023,
+      "variant": "450e Luxury",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 2287000000,
+        "battery_gross_kwh": 71.4,
+        "range_km": 400,
+        "motor_count": 2,
+        "drive": "AWD",
+        "motor_type": "PMSM",
+        "power_kw": 230,
+        "torque_nm": 435,
+        "adas": "PCS (AEB), ACC (all-speed), LDA with steering assist, LTA, AHB, SEA",
+        "ac_max_kw": 11,
+        "dc_max_kw": 150,
+        "length_mm": 4805,
+        "width_mm": 1895,
+        "height_mm": 1635,
+        "wheelbase_mm": 2850,
+        "kerb_weight_kg": 2125,
+        "boot_l": 522,
+        "seats": 5,
+        "accel_0_100_s": 5.3,
+        "top_speed_kmh": 160,
+        "tyre_size": "235/50 R20"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/lexus-indonesia-resmi-pasarkan-rz-dan-rx-hybrid-performance/",
+            "title": "Lexus Indonesia Resmi Pasarkan RZ dan RX Hybrid Performance",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/lexus/rz/eb10/rz450e-2024/",
+            "title": "Lexus RZ RZ450e - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched 20 Jun 2023 at Rp2.287 billion OTR Jakarta (Q2 2023 price); AC wall charger and portable charger included. Power 308 hp (= 230 kW), Direct4 dual-PMSM AWD. Range 400 km, standard not stated. Same specs continue in the 2025 record, where the price is Rp2.39 billion. AC 11 kW, DC 150 kW, dimensions, weight, boot, seats, 0-100 km/h, top speed and tyres from the Malaysian RZ 450e spec (paultan.org).",
+      "notes_id": "Diluncurkan 20 Juni 2023 seharga Rp2,287 miliar OTR Jakarta (harga kuartal II 2023); termasuk AC wall charger dan charger portabel. Tenaga 308 hp (= 230 kW), AWD Direct4 dengan dua PMSM. Jarak tempuh 400 km, standar tidak disebutkan. Spesifikasi sama berlanjut di data 2025, dengan harga Rp2,39 miliar. AC 11 kW, DC 150 kW, dimensi, berat, bagasi, jumlah kursi, 0-100 km/jam, kecepatan maksimum, dan ban dari spesifikasi Malaysia RZ 450e (paultan.org)."
+    }
+  ]
+}

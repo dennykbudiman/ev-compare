@@ -1,0 +1,726 @@
+{
+  "make": "Denza",
+  "model": "D9",
+  "trims": [
+    {
+      "id": "denza-d9-2025-fwd",
+      "model_year": 2025,
+      "variant": "D9 EV (FWD)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "battery_gross_kwh": 103.36,
+        "range_km": 600,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 230,
+        "torque_nm": 360,
+        "ac_max_kw": 11,
+        "dc_max_kw": 166,
+        "length_mm": 5250,
+        "width_mm": 1950,
+        "height_mm": 1920,
+        "accel_0_100_s": 9.5,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "assembly": "CBU import",
+        "price_otr_idr": 950000000,
+        "wheelbase_mm": 3110,
+        "boot_l": 410,
+        "seats": 7,
+        "tyre_size": "235/60 R18",
+        "adas": "ACC, AEB, FCW, LKA, BSM",
+        "airbag_positions": "front, front and rear side, curtain"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "First-generation D9 BEV, launched in Indonesia 22 Jan 2025 at Rp950 jt OTR Jakarta (PHEV not offered). AutoBuzz quotes 313 hp and 520 km WLTP; detik's 230 kW / 600 km NEDC is used. AutoBuzz mentions an AWD version exists globally but not that it is sold in Indonesia. CKD assembly in Subang was planned for 2026. Wheelbase, boot capacity, seats, tyre size, ADAS list and airbag positions from the Malaysian spec (paultan.org, D9 Advanced FWD 103.36 kWh).",
+      "notes_id": "D9 BEV generasi pertama, diluncurkan di Indonesia 22 Januari 2025 seharga Rp950 jt OTR Jakarta (PHEV tidak ditawarkan). AutoBuzz menyebut 313 hp dan 520 km WLTP; dipakai angka detik 230 kW / 600 km NEDC. AutoBuzz menyebut versi AWD ada secara global, tetapi tidak menyebut bahwa versi itu dijual di Indonesia. Perakitan CKD di Subang direncanakan pada 2026. Jarak sumbu roda, kapasitas bagasi, jumlah kursi, ukuran ban, daftar ADAS, dan posisi airbag dari spesifikasi Malaysia (paultan.org, D9 Advanced FWD 103,36 kWh)."
+    },
+    {
+      "id": "denza-d9-2026-fwd",
+      "model_year": 2026,
+      "variant": "D9 EV (FWD)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "battery_gross_kwh": 103.36,
+        "range_km": 600,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 230,
+        "torque_nm": 360,
+        "ac_max_kw": 11,
+        "dc_max_kw": 166,
+        "length_mm": 5250,
+        "width_mm": 1950,
+        "height_mm": 1920,
+        "accel_0_100_s": 9.5,
+        "vehicle_warranty": "6 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "price_otr_idr": 935500000,
+        "wheelbase_mm": 3110,
+        "boot_l": 410,
+        "seats": 7,
+        "tyre_size": "235/60 R18",
+        "adas": "ACC, AEB, FCW, LKA, BSM",
+        "airbag_positions": "front, front and rear side, curtain"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          },
+          {
+            "url": "https://autobuzz.my/2025/01/27/denza-d9-luxury-mpv-arrives-in-indonesia-priced-at-rm257k-ckd-production-to-commence-in-2026/",
+            "title": "Denza D9 luxury MPV arrives in Indonesia priced at RM257k",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7744180/denza-d9-meluncur-di-indonesia-harga-nggak-sampai-rp-1-miliar",
+            "title": "Denza D9 Meluncur di Indonesia, Harga Nggak Sampai Rp 1 Miliar",
+            "date": "2025-01",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/pangkas-fitur-denza-d9-varian-baru-hadir-lebih-hemat-rp79-juta",
+            "title": "Pangkas Fitur, Denza D9 Varian Baru Hadir Lebih Hemat Rp79 Juta",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/denza/d9/mk1/advanced-fwd-2025/",
+            "title": "Denza D9 Advanced FWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "First-generation D9; KabarBursa (July 2026) gives Rp935.5 jt OTR Jabodetabek (down from Rp950 jt at launch). Same specs as 2025. Replaced by the second-generation 'New D9' launched 14 Oct 2026; whether gen-1 stock is still sold is unclear. Whether 2026 units are CBU or CKD is not confirmed. Wheelbase, boot capacity, seats, tyre size, ADAS list and airbag positions from the Malaysian spec (paultan.org, D9 Advanced FWD 103.36 kWh).",
+      "notes_id": "D9 generasi pertama; KabarBursa (Juli 2026) menyebut Rp935,5 jt OTR Jabodetabek (turun dari Rp950 jt saat peluncuran). Spesifikasi sama dengan 2025. Digantikan 'New D9' generasi kedua yang diluncurkan 14 Oktober 2026; belum jelas apakah stok generasi pertama masih dijual. Belum terkonfirmasi apakah unit 2026 berstatus CBU atau CKD. Jarak sumbu roda, kapasitas bagasi, jumlah kursi, ukuran ban, daftar ADAS, dan posisi airbag dari spesifikasi Malaysia (paultan.org, D9 Advanced FWD 103,36 kWh)."
+    },
+    {
+      "id": "denza-d9-2026-new-d9",
+      "model_year": 2026,
+      "variant": "New D9 (second generation, Flash Charging)",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "price_otr_idr": 1080000000,
+        "range_km": 730,
+        "range_standard": "NEDC",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "FWD",
+        "ac_max_kw": 11,
+        "dc_10_80_min": 5,
+        "dc_time_window": "10–70%",
+        "length_mm": 5250,
+        "width_mm": 1960,
+        "height_mm": 1920,
+        "wheelbase_mm": 3110,
+        "ground_clearance_mm": 155,
+        "seats": 7,
+        "airbags": 8,
+        "tyre_size": "235/60 R18"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://industri.kontan.co.id/news/byd-perkenalkan-flash-charging-cukup-9-menit-full-danza-new-d9-dan-z9-gt",
+            "title": "BYD Perkenalkan Flash Charging, Cukup 9 Menit Full, Danza New D9 dan Z9 GT",
+            "date": "2026-10",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/byd-luncurkan-danza-new-d9-dan-z9-gt-di-indonesia/?show_all=1",
+            "title": "BYD Luncurkan Danza New D9 dan Z9 GT di Indonesia",
+            "date": "2026-10",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/denza/denza-d9/spesifikasi",
+            "title": "Spesifikasi Denza D9 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Second-generation D9 BEV launched in Indonesia 14 Oct 2026 at Rp1.08 billion (sources do not say OTR); badged 'Danza' in BYD Indonesia material. Flash Charging claims 10–70% in 5 min and 10–97% in 9 min on BYD's megawatt charger, whose availability in Indonesia is unconfirmed. Battery not confirmed: Moladin lists 103.36 kWh / 800 V / 466 hp, while the Chinese-market gen-2 BEV is reported with 115 kWh and 340 kW FWD, so those fields are left out. Dimensions, seats, airbags and drive come from Moladin only. Assembly not stated.",
+      "notes_id": "D9 BEV generasi kedua diluncurkan di Indonesia 14 Oktober 2026 seharga Rp1,08 miliar (sumber tidak menyebut OTR); disebut 'Danza' dalam materi BYD Indonesia. Flash Charging diklaim 10–70% dalam 5 menit dan 10–97% dalam 9 menit dengan charger megawatt BYD, yang ketersediaannya di Indonesia belum terkonfirmasi. Baterai belum terkonfirmasi: Moladin mencantumkan 103,36 kWh / 800 V / 466 hp, sedangkan BEV generasi kedua pasar China dilaporkan memakai 115 kWh dan 340 kW FWD, sehingga kolom-kolom tersebut dikosongkan. Dimensi, jumlah kursi, airbag, dan penggerak hanya dari Moladin. Status perakitan tidak disebutkan."
+    }
+  ]
+}

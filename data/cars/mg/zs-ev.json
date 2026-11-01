@@ -1,0 +1,266 @@
+{
+  "make": "MG",
+  "model": "ZS EV",
+  "trims": [
+    {
+      "id": "mg-zs-ev-2026-magnify",
+      "model_year": 2026,
+      "variant": "Magnify",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "vehicle_warranty": "4 yrs / unlimited km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic maintenance (labour and parts) for 5 years",
+        "segment": "SUV",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 417500000,
+        "battery_gross_kwh": 50.3,
+        "range_km": 403,
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "power_kw": 130,
+        "torque_nm": 280,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "length_mm": 4323,
+        "width_mm": 1809,
+        "height_mm": 1649,
+        "wheelbase_mm": 2585,
+        "ground_clearance_mm": 161,
+        "tyre_size": "215/55 R17",
+        "adas": "ACC, TJA, LKA, AEB, IHC, BSD, RCTA, LCA, LDW, FCW, DOW, 360 camera",
+        "v2l": true,
+        "motor_count": 1,
+        "drive": "FWD",
+        "airbags": 6
+      },
+      "sources": {
+        "vehicle_warranty": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/newmgzsev",
+            "title": "MG ZS EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.autocarindia.com/cars/mg/zs-ev/specifications",
+            "title": "MG ZS EV specifications (Autocar India)",
+            "date": "2026-10",
+            "type": "media",
+            "market": "India"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.autocarindia.com/cars/mg/zs-ev/specifications",
+            "title": "MG ZS EV specifications (Autocar India)",
+            "date": "2026-10",
+            "type": "media",
+            "market": "India"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.wapcar.my/news/43311new-2022-mg-zs-ev-facelift-live-at-the-bangkok-international-motor-show-404-km-177-ps-43311",
+            "title": "New 2022 MG ZS EV facelift live at the Bangkok International Motor Show; 404 km, 177 PS",
+            "date": "2022-03",
+            "type": "media",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://www.autocarindia.com/cars/mg/zs-ev/specifications",
+            "title": "MG ZS EV specifications (Autocar India)",
+            "date": "2026-10",
+            "type": "media",
+            "market": "India"
+          }
+        ]
+      },
+      "notes": "CKD launch January 2024 at Rp453,000,000; now Rp417,500,000 OTR Jakarta (mgmotor.id). Same specs 2024-2026. Fast charge time published as 30 min for 30-80%. Warranty/free-service terms are the January 2024 'MG Electric Package' for locally built units. Motor count and drive from the Indian spec (autocarindia.com) and 6 airbags from the Thai spec (wapcar.my) of the same 50.3 kWh, 177 PS, 280 Nm ZS EV.",
+      "notes_id": "Peluncuran CKD Januari 2024 seharga Rp453.000.000; kini Rp417.500.000 OTR Jakarta (mgmotor.id). Spesifikasi sama 2024-2026. Waktu pengisian cepat dipublikasikan 30 menit untuk 30-80%. Ketentuan garansi/servis gratis mengacu 'MG Electric Package' Januari 2024 untuk unit rakitan lokal. Jumlah motor dan penggerak dari spesifikasi India (autocarindia.com) serta 6 airbag dari spesifikasi Thailand (wapcar.my) untuk ZS EV 50,3 kWh, 177 PS, 280 Nm yang sama."
+    }
+  ]
+}

@@ -1,0 +1,971 @@
+{
+  "make": "MG",
+  "model": "MG 4 EV",
+  "trims": [
+    {
+      "id": "mg-mg4-ev-2026-magnify",
+      "model_year": 2026,
+      "variant": "Magnify",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "vehicle_warranty": "4 yrs / unlimited km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic maintenance (labour and parts) for 5 years",
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 405000000,
+        "battery_gross_kwh": 51,
+        "battery_chemistry": "LFP",
+        "range_km": 425,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "motor_type": "PMSM",
+        "power_kw": 125,
+        "torque_nm": 250,
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 117,
+        "dc_10_80_min": 35,
+        "accel_0_100_s": 7.7,
+        "length_mm": 4287,
+        "width_mm": 1836,
+        "height_mm": 1516,
+        "wheelbase_mm": 2705,
+        "turning_radius_m": 5.3,
+        "tyre_size": "215/50 R17",
+        "adas": "ACC, TJA, FCW, AEB, LKA, LDW, LCA, BSD, IHC, RCTA, DOW, RCW, RCTB, ELK",
+        "v2l": true,
+        "seats": 5,
+        "kerb_weight_kg": 1655,
+        "boot_l": 363,
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "vehicle_warranty": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          },
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/01/11/indonesias-ckd-mg4-ev-launched-from-approx-rm129k-350km-range-6-6kw-ac-charging/",
+            "title": "Indonesia's CKD MG4 EV launched, approx. RM129k - 350km range, 6.6kW AC charging - AutoBuzz",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mgmotor.id/news/mg-4-ev-dan-mg-zs-ev-buatan-anak-negeri-mengaspal-di-tanah-air",
+            "title": "Akhirnya MG 4 EV dan MG ZS EV Buatan Anak Negeri Mengaspal di Tanah Air! - MG Motor Indonesia",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/standard-2024/",
+            "title": "MG4 Standard - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/standard-2024/",
+            "title": "MG4 Standard - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/standard-2024/",
+            "title": "MG4 Standard - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/standard-2024/",
+            "title": "MG4 Standard - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "CKD launch January 2024 at Rp433,000,000; now Rp405,000,000 OTR Jakarta (mgmotor.id, October 2026). Same specs 2024-2026. Range 425 km NEDC (350 km WLTP per AutoBuzz). Warranty/free-service terms are the January 2024 'MG Electric Package' for locally built units; current terms may differ. Local assembly confirmed in 2024; AutoBuzz names the Cikarang plant. Seats, kerb weight (listed as weight), boot capacity and top speed from the Malaysian spec of the 51 kWh, 168 hp RWD MG4 Standard (paultan.org); Malaysian AC 11 kW / DC 150 kW and 6 airbags differ from Indonesian figures and were not used.",
+      "notes_id": "Peluncuran CKD Januari 2024 seharga Rp433.000.000; kini Rp405.000.000 OTR Jakarta (mgmotor.id, Oktober 2026). Spesifikasi sama 2024-2026. Jarak tempuh 425 km NEDC (350 km WLTP menurut AutoBuzz). Ketentuan garansi/servis gratis mengacu 'MG Electric Package' Januari 2024 untuk unit rakitan lokal; ketentuan saat ini bisa berbeda. Perakitan lokal terkonfirmasi pada 2024; AutoBuzz menyebut pabrik Cikarang. Jumlah kursi, berat kosong (tertulis sebagai berat), kapasitas bagasi, dan kecepatan maksimum dari spesifikasi Malaysia untuk MG4 Standard 51 kWh, 168 hp RWD (paultan.org); AC 11 kW / DC 150 kW dan 6 airbag versi Malaysia berbeda dari angka Indonesia dan tidak dipakai."
+    },
+    {
+      "id": "mg-mg4-ev-2025-magnify-max",
+      "model_year": 2025,
+      "variant": "Magnify Max",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 419000000,
+        "battery_gross_kwh": 64,
+        "battery_chemistry": "NMC",
+        "range_km": 540,
+        "range_standard": "NEDC",
+        "drive": "RWD",
+        "motor_type": "PMSM",
+        "power_kw": 150,
+        "torque_nm": 250,
+        "dc_max_kw": 140,
+        "dc_10_80_min": 26,
+        "ac_full_hours": 7.9,
+        "length_mm": 4287,
+        "width_mm": 1836,
+        "height_mm": 1516,
+        "wheelbase_mm": 2705,
+        "ground_clearance_mm": 117,
+        "seats": 5,
+        "airbags": 4,
+        "turning_radius_m": 5.3,
+        "tyre_size": "235/45 R18",
+        "adas": "ACC, TJA, FCW, AEB, LKA, LDW, LCA, BSD, IHC, RCTA, DOW, RCW, RCTB, ELK",
+        "v2l": true,
+        "motor_count": 1,
+        "ac_max_kw": 11,
+        "v2l_kw": 2.5,
+        "kerb_weight_kg": 1685,
+        "boot_l": 363,
+        "accel_0_100_s": 7.7,
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mg/4-ev/magnify-max",
+            "title": "MG 4 EV Magnify Max - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.mgmotor.id/mgmodels/mg4ev",
+            "title": "MG 4 EV Indonesia - MG Motor Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/lux-2026/",
+            "title": "MG4 Lux - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/lux-2026/",
+            "title": "MG4 Lux - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/lux-2026/",
+            "title": "MG4 Lux - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/lux-2026/",
+            "title": "MG4 Lux - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/lux-2026/",
+            "title": "MG4 Lux - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/lux-2026/",
+            "title": "MG4 Lux - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/lux-2026/",
+            "title": "MG4 Lux - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Introduced at GIIAS July 2025 as 'MG4 EV Max' at Rp419 million (press reports say limited to 100 units); still listed October 2026. Assembly not confirmed (the 64 kWh NMC pack differs from the CKD Magnify). DC: mgmotor.id 26 min at 140 kW vs oto.com 35 min. Power 204 PS = 150 kW (oto.com: 201 hp). Motor count, AC power, V2L output, kerb weight (listed as weight), boot, 0–100 km/h and top speed from the Malaysian spec of the 64 kWh, 200 hp RWD MG4 Lux (paultan.org); Malaysian airbag set (front, side, curtain) not used because the Indonesian count is 4.",
+      "notes_id": "Diperkenalkan di GIIAS Juli 2025 sebagai 'MG4 EV Max' seharga Rp419 juta (laporan media menyebut terbatas 100 unit); masih tercantum per Oktober 2026. Status perakitan belum terkonfirmasi (baterai NMC 64 kWh berbeda dari Magnify CKD). DC: mgmotor.id 26 menit pada 140 kW vs oto.com 35 menit. Tenaga 204 PS = 150 kW (oto.com: 201 hp). Jumlah motor, daya AC, output V2L, berat kosong (tertulis sebagai berat), bagasi, 0–100 km/jam, dan kecepatan maksimum dari spesifikasi Malaysia untuk MG4 Lux 64 kWh, 200 hp RWD (paultan.org); susunan airbag Malaysia (depan, samping, tirai) tidak dipakai karena jumlah di Indonesia 4."
+    },
+    {
+      "id": "mg-mg4-ev-2023-ignite",
+      "model_year": 2023,
+      "variant": "Ignite",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 649900000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 51,
+        "range_km": 425,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 125,
+        "torque_nm": 250,
+        "accel_0_100_s": 7.7,
+        "dc_10_80_min": 35,
+        "length_mm": 4287,
+        "width_mm": 1836,
+        "height_mm": 1516,
+        "wheelbase_mm": 2705,
+        "seats": 5,
+        "seat_layout": "2+3",
+        "tyre_size": "215/50 R17",
+        "v2l": true,
+        "vehicle_warranty": "4 yrs / unlimited km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "kerb_weight_kg": 1655,
+        "boot_l": 363,
+        "top_speed_kmh": 160
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-mg4-ev-diumumkan-mulai-rp6499-juta/",
+            "title": "Harga MG4 EV Diumumkan, Mulai Rp649,9 Juta",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/kendaraan-listrik/d-6977241/mobil-listrik-mg4-ev-berjubah-oren-meluncur-di-ri-pertama-di-asia",
+            "title": "Mobil Listrik MG4 EV Berjubah Oren Meluncur di RI, Pertama di Asia",
+            "date": "2023-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/kendaraan-listrik/d-6977241/mobil-listrik-mg4-ev-berjubah-oren-meluncur-di-ri-pertama-di-asia",
+            "title": "Mobil Listrik MG4 EV Berjubah Oren Meluncur di RI, Pertama di Asia",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-mg4-ev-diumumkan-mulai-rp6499-juta/",
+            "title": "Harga MG4 EV Diumumkan, Mulai Rp649,9 Juta",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/kendaraan-listrik/d-6977241/mobil-listrik-mg4-ev-berjubah-oren-meluncur-di-ri-pertama-di-asia",
+            "title": "Mobil Listrik MG4 EV Berjubah Oren Meluncur di RI, Pertama di Asia",
+            "date": "2023-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-mg4-ev-diumumkan-mulai-rp6499-juta/",
+            "title": "Harga MG4 EV Diumumkan, Mulai Rp649,9 Juta",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-listrik/d-6977241/mobil-listrik-mg4-ev-berjubah-oren-meluncur-di-ri-pertama-di-asia",
+            "title": "Mobil Listrik MG4 EV Berjubah Oren Meluncur di RI, Pertama di Asia",
+            "date": "2023-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/kendaraan-listrik/d-6977241/mobil-listrik-mg4-ev-berjubah-oren-meluncur-di-ri-pertama-di-asia",
+            "title": "Mobil Listrik MG4 EV Berjubah Oren Meluncur di RI, Pertama di Asia",
+            "date": "2023-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/kendaraan-listrik/d-6977241/mobil-listrik-mg4-ev-berjubah-oren-meluncur-di-ri-pertama-di-asia",
+            "title": "Mobil Listrik MG4 EV Berjubah Oren Meluncur di RI, Pertama di Asia",
+            "date": "2023-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-mg4-ev-diumumkan-mulai-rp6499-juta/",
+            "title": "Harga MG4 EV Diumumkan, Mulai Rp649,9 Juta",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-mg4-ev-diumumkan-mulai-rp6499-juta/",
+            "title": "Harga MG4 EV Diumumkan, Mulai Rp649,9 Juta",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/harga-mg4-ev-diumumkan-mulai-rp6499-juta/",
+            "title": "Harga MG4 EV Diumumkan, Mulai Rp649,9 Juta",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://moladin.com/blog/harga-mg4-ev-2023-di-indonesia/",
+            "title": "Harga MG4 EV 2023 di Indonesia",
+            "date": "2023-06",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/standard-2024/",
+            "title": "MG4 Standard - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/standard-2024/",
+            "title": "MG4 Standard - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/mg/4/mk1/standard-2024/",
+            "title": "MG4 Standard - specifications Malaysia (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Imported pre-CKD MG4 EV, priced in June 2023 at Rp649.9 jt (Moladin: OTR Jakarta; Zigwheels says off-the-road) with deliveries from July 2023; detik (Oct 2023) still quotes 'from Rp649 jutaan' OTR Jakarta. Replaced by the CKD Magnify at Rp433 jt in January 2024 (see 2024+ records). Assembly origin of these early units not stated, so left out. Moladin's '125 PS' is taken as a typo for detik's 125 kW. Ignite has ABS/EBD/EBA, stability and traction control, hill start assist and auto hold but not the i-Smart ADAS (BSD, RCTA, DOW, RCW, LDW, ACC) of the Magnify i-Smart. The Magnify i-Smart was also offered in 2023 but no price was found. Free service: Moladin 4 yrs/50,000 km, Zigwheels 5 yrs, so left out. Fast charge 10–80% 35 min (charger power not stated). Range test standard not stated in 2023 sources. Kerb weight (listed as weight), boot capacity and top speed from the Malaysian spec of the 51 kWh, 168 hp RWD MG4 Standard (paultan.org).",
+      "notes_id": "MG4 EV impor sebelum CKD, diberi harga Juni 2023 Rp649,9 jt (Moladin: OTR Jakarta; Zigwheels menyebut off-the-road) dengan pengiriman mulai Juli 2023; detik (Oktober 2023) masih menyebut 'mulai Rp649 jutaan' OTR Jakarta. Digantikan Magnify CKD seharga Rp433 jt pada Januari 2024 (lihat catatan 2024 dan seterusnya). Asal perakitan unit awal ini tidak disebutkan, sehingga dikosongkan. '125 PS' di Moladin dianggap salah tulis untuk 125 kW versi detik. Ignite dilengkapi ABS/EBD/EBA, kontrol stabilitas dan traksi, hill start assist dan auto hold, tetapi tanpa ADAS i-Smart (BSD, RCTA, DOW, RCW, LDW, ACC) milik Magnify i-Smart. Magnify i-Smart juga ditawarkan pada 2023 tetapi harganya tidak ditemukan. Servis gratis: Moladin 4 tahun/50.000 km, Zigwheels 5 tahun, sehingga dikosongkan. Pengisian cepat 10–80% 35 menit (daya pengisi tidak disebutkan). Standar pengujian jarak tempuh tidak disebutkan dalam sumber 2023. Berat kosong (tertulis sebagai berat), kapasitas bagasi, dan kecepatan maksimum dari spesifikasi Malaysia untuk MG4 Standard 51 kWh, 168 hp RWD (paultan.org)."
+    }
+  ]
+}

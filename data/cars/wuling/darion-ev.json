@@ -1,0 +1,819 @@
+{
+  "make": "Wuling",
+  "model": "Darion EV",
+  "trims": [
+    {
+      "id": "wuling-darion-ev-2026-ev-ce",
+      "model_year": 2026,
+      "variant": "EV CE",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "MPV",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 399000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 69.2,
+        "range_km": 540,
+        "range_standard": "CLTC",
+        "drive": "FWD",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_full_hours": 8,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "seats": 7,
+        "length_mm": 4910,
+        "width_mm": 1870,
+        "height_mm": 1770,
+        "wheelbase_mm": 2910,
+        "ground_clearance_mm": 205,
+        "kerb_weight_kg": 1810,
+        "tyre_size": "215/55 R17",
+        "airbags": 4,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 150,
+        "top_speed_kmh": 150,
+        "accel_0_100_s": 7.9,
+        "turning_radius_m": 5.6,
+        "seat_layout": "2+2+3",
+        "airbag_positions": "driver, front passenger, front side"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.car250.com/new-wuling-starlight-darion-mpv-2026-01.html",
+            "title": "Wuling Starlight Darion MPV ไฟฟ้า 500 กม./ชาร์จ NEDC ราคา 839,000 – 899,000 บาท (car250)",
+            "date": "2026-04",
+            "type": "media",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.car250.com/new-wuling-starlight-darion-mpv-2026-01.html",
+            "title": "Wuling Starlight Darion MPV ไฟฟ้า 500 กม./ชาร์จ NEDC ราคา 839,000 – 899,000 บาท (car250)",
+            "date": "2026-04",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.car250.com/new-wuling-starlight-darion-mpv-2026-01.html",
+            "title": "Wuling Starlight Darion MPV ไฟฟ้า 500 กม./ชาร์จ NEDC ราคา 839,000 – 899,000 บาท (car250)",
+            "date": "2026-04",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://www.car250.com/new-wuling-starlight-darion-mpv-2026-01.html",
+            "title": "Wuling Starlight Darion MPV ไฟฟ้า 500 กม./ชาร์จ NEDC ราคา 839,000 – 899,000 บาท (car250)",
+            "date": "2026-04",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "BEV version of the Darion MPV (a PHEV version also exists and is not covered here). Price valid from 1 Jan 2026 per wuling.id; at the Nov 2025 launch the EV started at Rp355–356 jt OTR Jakarta for the first 1,500 buyers (detik). Width: wuling.id 1,870 mm vs Moladin 1,850 mm; official figure used. Second row has captain seats per wuling.id. DC kW and connector not published; AC about 8 h (0–100%) per Moladin. Moladin lists power as '150 hp'; the official figure is 150 kW (201 hp). Boot 1,202 L per Moladin (definition unclear), left out. CE has 4 airbags and no Level 2 ADAS. Motor count, motor type, AC/DC charging power, top speed, 0–100 km/h, turning radius, seat layout and airbag positions from the Thai spec of the Starlight Darion EV Comfort (imported from Indonesia; car250.com, zigwheels.co.th). Thai ADAS equipment is not used because the Indonesian CE has no Level 2 ADAS.",
+      "notes_id": "Versi BEV dari MPV Darion (versi PHEV juga ada, tetapi tidak dibahas di sini). Harga berlaku mulai 1 Januari 2026 menurut wuling.id; saat peluncuran November 2025 versi EV dibanderol mulai Rp355–356 jt OTR Jakarta untuk 1.500 pembeli pertama (detik). Lebar: wuling.id 1.870 mm vs Moladin 1.850 mm; dipakai angka resmi. Baris kedua memakai captain seat menurut wuling.id. DC kW dan jenis konektor tidak dipublikasikan; AC sekitar 8 jam (0–100%) menurut Moladin. Moladin mencantumkan tenaga '150 hp'; angka resminya 150 kW (201 hp). Bagasi 1.202 L menurut Moladin (definisinya tidak jelas), dikosongkan. CE memiliki 4 airbag dan tanpa ADAS Level 2. Jumlah motor, tipe motor, daya pengisian AC/DC, kecepatan maksimum, 0–100 km/jam, radius putar, tata letak kursi, dan posisi airbag dari spesifikasi Thailand Starlight Darion EV Comfort (diimpor dari Indonesia; car250.com, zigwheels.co.th). Fitur ADAS versi Thailand tidak dipakai karena CE Indonesia tidak memiliki ADAS Level 2."
+    },
+    {
+      "id": "wuling-darion-ev-2026-ev-ex",
+      "model_year": 2026,
+      "variant": "EV EX",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "MPV",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 459000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 69.2,
+        "range_km": 540,
+        "range_standard": "CLTC",
+        "drive": "FWD",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "ac_full_hours": 8,
+        "dc_10_80_min": 30,
+        "dc_time_window": "30–80%",
+        "seats": 7,
+        "length_mm": 4910,
+        "width_mm": 1870,
+        "height_mm": 1770,
+        "wheelbase_mm": 2910,
+        "ground_clearance_mm": 205,
+        "kerb_weight_kg": 1835,
+        "tyre_size": "215/55 R17",
+        "airbags": 6,
+        "adas": "ACC, IDA (lane keeping), FCW, AEB, LDW, BSD, LCA, DOW, RCTA, RCW, IHMA, 360 camera",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 150,
+        "top_speed_kmh": 150,
+        "accel_0_100_s": 7.9,
+        "turning_radius_m": 5.6,
+        "seat_layout": "2+2+3"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8195049/wuling-darion-meluncur-di-indonesia-ada-ev-dan-phev-harga-mulai-rp-356-juta",
+            "title": "Wuling Darion Meluncur di Indonesia: Ada EV dan PHEV, Harga Mulai Rp 356 Juta",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.wuling.id/en/darion",
+            "title": "Wuling Cortez Darion specifications (wuling.id)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-cortez-darion/spesifikasi",
+            "title": "Spesifikasi Wuling Cortez Darion (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.car250.com/new-wuling-starlight-darion-mpv-2026-01.html",
+            "title": "Wuling Starlight Darion MPV ไฟฟ้า 500 กม./ชาร์จ NEDC ราคา 839,000 – 899,000 บาท (car250)",
+            "date": "2026-04",
+            "type": "media",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.car250.com/new-wuling-starlight-darion-mpv-2026-01.html",
+            "title": "Wuling Starlight Darion MPV ไฟฟ้า 500 กม./ชาร์จ NEDC ราคา 839,000 – 899,000 บาท (car250)",
+            "date": "2026-04",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.car250.com/new-wuling-starlight-darion-mpv-2026-01.html",
+            "title": "Wuling Starlight Darion MPV ไฟฟ้า 500 กม./ชาร์จ NEDC ราคา 839,000 – 899,000 บาท (car250)",
+            "date": "2026-04",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.zigwheels.co.th/new-cars/wuling/darion-ev/specifications",
+            "title": "Wuling DARION EV specifications (ZigWheels Thailand)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://www.car250.com/new-wuling-starlight-darion-mpv-2026-01.html",
+            "title": "Wuling Starlight Darion MPV ไฟฟ้า 500 กม./ชาร์จ NEDC ราคา 839,000 – 899,000 บาท (car250)",
+            "date": "2026-04",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "BEV version of the Darion MPV (a PHEV version also exists and is not covered here). Price valid from 1 Jan 2026 per wuling.id; at the Nov 2025 launch the EV started at Rp355–356 jt OTR Jakarta for the first 1,500 buyers (detik). Width: wuling.id 1,870 mm vs Moladin 1,850 mm; official figure used. Second row has captain seats per wuling.id. DC kW and connector not published; AC about 8 h (0–100%) per Moladin. Moladin lists power as '150 hp'; the official figure is 150 kW (201 hp). Boot 1,202 L per Moladin (definition unclear), left out. Motor count, motor type, AC/DC charging power, top speed, 0–100 km/h, turning radius and seat layout from the Thai spec of the Starlight Darion EV (imported from Indonesia; car250.com, zigwheels.co.th).",
+      "notes_id": "Versi BEV dari MPV Darion (versi PHEV juga ada, tetapi tidak dibahas di sini). Harga berlaku mulai 1 Januari 2026 menurut wuling.id; saat peluncuran November 2025 versi EV dibanderol mulai Rp355–356 jt OTR Jakarta untuk 1.500 pembeli pertama (detik). Lebar: wuling.id 1.870 mm vs Moladin 1.850 mm; dipakai angka resmi. Baris kedua memakai captain seat menurut wuling.id. DC kW dan jenis konektor tidak dipublikasikan; AC sekitar 8 jam (0–100%) menurut Moladin. Moladin mencantumkan tenaga '150 hp'; angka resminya 150 kW (201 hp). Bagasi 1.202 L menurut Moladin (definisinya tidak jelas), dikosongkan. Jumlah motor, tipe motor, daya pengisian AC/DC, kecepatan maksimum, 0–100 km/jam, radius putar, dan tata letak kursi dari spesifikasi Thailand Starlight Darion EV (diimpor dari Indonesia; car250.com, zigwheels.co.th)."
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "make": "Volvo",
+  "model": "ES90",
+  "trims": [
+    {
+      "id": "volvo-es90-2026-single-motor",
+      "model_year": 2026,
+      "variant": "Single Motor",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 2100000000,
+        "battery_gross_kwh": 92,
+        "battery_chemistry": "NMC",
+        "range_km": 661,
+        "drive": "RWD",
+        "power_kw": 245,
+        "torque_nm": 480,
+        "dc_max_kw": 350,
+        "dc_10_80_min": 20,
+        "length_mm": 5000,
+        "width_mm": 1942,
+        "height_mm": 1549,
+        "wheelbase_mm": 3102,
+        "ac_max_kw": 11,
+        "ground_clearance_mm": 178,
+        "boot_l": 424,
+        "frunk_l": 27,
+        "accel_0_100_s": 6.6,
+        "top_speed_kmh": 180,
+        "voltage_architecture": "800 V",
+        "adas": "ACC (Pilot Assist), BSM, RCTA, LKA, oncoming lane mitigation, rear collision warning, door opening alert, 360 camera, park assist",
+        "kerb_weight_kg": 2410,
+        "seats": 5,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://listrikindonesia.com/detail/19494/sedan-listrik-volvo-es90-masuk-indonesia-ini-fitur-dan-performanya",
+            "title": "Sedan Listrik Volvo ES90 Masuk Indonesia, Ini Fitur dan Performanya - Listrik Indonesia",
+            "date": "2026-03",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2026/01/22/locally-assembled-2026-volvo-es90-launched-in-malaysia-rwd-651-km-range-rm340k/",
+            "title": "Locally assembled 2026 Volvo ES90 launched in Malaysia - RWD, 651 km range, RM340k (AutoBuzz)",
+            "date": "2026-01",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://autobuzz.my/2026/01/22/locally-assembled-2026-volvo-es90-launched-in-malaysia-rwd-651-km-range-rm340k/",
+            "title": "Locally assembled 2026 Volvo ES90 launched in Malaysia - RWD, 651 km range, RM340k (AutoBuzz)",
+            "date": "2026-01",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://autobuzz.my/2026/01/22/locally-assembled-2026-volvo-es90-launched-in-malaysia-rwd-651-km-range-rm340k/",
+            "title": "Locally assembled 2026 Volvo ES90 launched in Malaysia - RWD, 651 km range, RM340k (AutoBuzz)",
+            "date": "2026-01",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://autobuzz.my/2026/01/22/locally-assembled-2026-volvo-es90-launched-in-malaysia-rwd-651-km-range-rm340k/",
+            "title": "Locally assembled 2026 Volvo ES90 launched in Malaysia - RWD, 651 km range, RM340k (AutoBuzz)",
+            "date": "2026-01",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2026/01/22/locally-assembled-2026-volvo-es90-launched-in-malaysia-rwd-651-km-range-rm340k/",
+            "title": "Locally assembled 2026 Volvo ES90 launched in Malaysia - RWD, 651 km range, RM340k (AutoBuzz)",
+            "date": "2026-01",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2026/01/22/locally-assembled-2026-volvo-es90-launched-in-malaysia-rwd-651-km-range-rm340k/",
+            "title": "Locally assembled 2026 Volvo ES90 launched in Malaysia - RWD, 651 km range, RM340k (AutoBuzz)",
+            "date": "2026-01",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://autobuzz.my/2026/01/22/locally-assembled-2026-volvo-es90-launched-in-malaysia-rwd-651-km-range-rm340k/",
+            "title": "Locally assembled 2026 Volvo ES90 launched in Malaysia - RWD, 651 km range, RM340k (AutoBuzz)",
+            "date": "2026-01",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2026/01/22/locally-assembled-2026-volvo-es90-launched-in-malaysia-rwd-651-km-range-rm340k/",
+            "title": "Locally assembled 2026 Volvo ES90 launched in Malaysia - RWD, 651 km range, RM340k (AutoBuzz)",
+            "date": "2026-01",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.volvocars.com/sg/cars/es90-electric/specifications/",
+            "title": "Explore ES90 specifications - Volvo Cars Singapore",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ]
+      },
+      "notes": "Not on the October 2026 starting list but reported launched by Volvo Cars Indonesia on 5 March 2026 at Rp2.1 billion OTR Jakarta (single source; variant name not given, specs match the global Single Motor). Power 328 hp x0.7457 = 245 kW. Range standard not stated. Status and price need confirmation from a second source. AC power, ground clearance, boot and frunk, 0-100, top speed, voltage and ADAS from the Malaysian spec (autobuzz.my); kerb weight, seats and heat pump from Volvo Cars Singapore (volvocars.com/sg), whose 661 km range and dimensions match the Indonesian figures. Matched on 92 kWh and 245 kW RWD.",
+      "notes_id": "Tidak ada di daftar awal Oktober 2026, tetapi dilaporkan diluncurkan Volvo Cars Indonesia pada 5 Maret 2026 seharga Rp2,1 miliar OTR Jakarta (satu sumber; nama varian tidak disebutkan, spesifikasi cocok dengan Single Motor global). Tenaga 328 hp x0,7457 = 245 kW. Standar pengujian jarak tempuh tidak disebutkan. Status dan harga perlu dikonfirmasi sumber kedua. Daya AC, ground clearance, bagasi dan frunk, 0-100, kecepatan maksimum, tegangan, dan ADAS dari spesifikasi Malaysia (autobuzz.my); berat kosong, jumlah kursi, dan heat pump dari Volvo Cars Singapura (volvocars.com/sg), yang jarak tempuh 661 km dan dimensinya sama dengan angka Indonesia. Dicocokkan pada 92 kWh dan 245 kW RWD."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "make": "Toyota",
+  "model": "Hilux BEV",
+  "trims": [
+    {
+      "id": "toyota-hilux-bev-2026-double-cabin-4x4",
+      "model_year": 2026,
+      "variant": "Double Cabin 4x4",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Pickup",
+        "cab_type": "Double cab",
+        "price_otr_idr": 1019000000,
+        "battery_gross_kwh": 59.2,
+        "battery_chemistry": "NMC",
+        "pack_nominal_voltage_v": 296,
+        "range_km": 315,
+        "motor_count": 2,
+        "motor_type": "PMSM",
+        "drive": "AWD",
+        "axle_config": "4x4",
+        "power_kw": 144,
+        "torque_nm": 474,
+        "ac_max_kw": 10,
+        "dc_max_kw": 125,
+        "dc_10_80_min": 30,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "length_mm": 5320,
+        "width_mm": 1855,
+        "height_mm": 1800,
+        "wheelbase_mm": 3085,
+        "ground_clearance_mm": 210,
+        "gvw_kg": 3145,
+        "kerb_weight_kg": 2455,
+        "wading_mm": 700,
+        "seats": 5,
+        "tyre_size": "265/65 R17",
+        "airbags": 7,
+        "body_type": "Pickup",
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.gridoto.com/amp/224391567/toyota-hilux-listrik-meluncur-di-indonesia-harga-tembus-rp-1-miliar",
+            "title": "Toyota Hilux Listrik Meluncur di Indonesia, Harga Tembus Rp 1 Miliar (GridOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224391567/toyota-hilux-listrik-meluncur-di-indonesia-harga-tembus-rp-1-miliar",
+            "title": "Toyota Hilux Listrik Meluncur di Indonesia, Harga Tembus Rp 1 Miliar (GridOto)",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://paultan.org/research/toyota/hilux/an220an230/ev-2026/",
+            "title": "Toyota Hilux EV 2026 specifications (paultan.org, Malaysia)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/perbandingan/toyota-hilux-double-cabin-battery-ev",
+            "title": "Toyota Hilux Double Cabin Battery EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224391581/punya-torsi-badak-segini-jarak-tempuh-toyota-hilux-versi-listrik?page=all",
+            "title": "Punya Torsi Badak, Segini Jarak Tempuh Toyota Hilux Versi Listrik (GridOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224391591/pesona-teknologi-toyota-hilux-tanpa-diesel-ini-tiga-keunikannya?page=all",
+            "title": "Pesona Teknologi Toyota Hilux Tanpa Diesel, Ini Tiga Keunikannya (GridOto)",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224391567/toyota-hilux-listrik-meluncur-di-indonesia-harga-tembus-rp-1-miliar",
+            "title": "Toyota Hilux Listrik Meluncur di Indonesia, Harga Tembus Rp 1 Miliar (GridOto)",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "axle_config": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/toyota/hilux-battery-ev/harga/jakarta-pusat/",
+            "title": "Toyota Hilux Battery EV price (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/toyota-hilux-bev-terdaftar-di-indonesia/",
+            "title": "Toyota Hilux BEV Terdaftar di Indonesia (Moladin News)",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.gridoto.com/amp/224391567/toyota-hilux-listrik-meluncur-di-indonesia-harga-tembus-rp-1-miliar",
+            "title": "Toyota Hilux Listrik Meluncur di Indonesia, Harga Tembus Rp 1 Miliar (GridOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224391591/pesona-teknologi-toyota-hilux-tanpa-diesel-ini-tiga-keunikannya?page=all",
+            "title": "Pesona Teknologi Toyota Hilux Tanpa Diesel, Ini Tiga Keunikannya (GridOto)",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/perbandingan/toyota-hilux-double-cabin-battery-ev",
+            "title": "Toyota Hilux Double Cabin Battery EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/toyota/hilux/an220an230/ev-2026/",
+            "title": "Toyota Hilux EV 2026 specifications (paultan.org, Malaysia)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/toyota/hilux/an220an230/ev-2026/",
+            "title": "Toyota Hilux EV 2026 specifications (paultan.org, Malaysia)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi/",
+            "title": "Toyota Hilux Battery EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi/",
+            "title": "Toyota Hilux Battery EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi/",
+            "title": "Toyota Hilux Battery EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi/",
+            "title": "Toyota Hilux Battery EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/toyota/hilux/an220an230/ev-2026/",
+            "title": "Toyota Hilux EV 2026 specifications (paultan.org, Malaysia)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://www.gridoto.com/amp/224391581/punya-torsi-badak-segini-jarak-tempuh-toyota-hilux-versi-listrik?page=all",
+            "title": "Punya Torsi Badak, Segini Jarak Tempuh Toyota Hilux Versi Listrik (GridOto)",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi/",
+            "title": "Toyota Hilux Battery EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi/",
+            "title": "Toyota Hilux Battery EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/toyota-hilux-double-cabin-battery-ev",
+            "title": "Toyota Hilux Double Cabin Battery EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://oto.detik.com/mobil/d-8552446/toyota-hilux-terbaru-ada-versi-listrik-harga-rp-1-019-miliar-jarak-tempuh-315-km",
+            "title": "Toyota Hilux Terbaru Ada Versi Listrik: Harga Rp 1,019 Miliar, Jarak Tempuh 315 Km (detikOto)",
+            "date": "2026-06",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/toyota/hilux-battery-ev/spesifikasi?amp=1",
+            "title": "Toyota Hilux Battery EV specifications (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Single Indonesian variant (Double Cabin 4x4), launched 29 June 2026 with the 9th-generation Hilux; price Rp 1.019 billion OTR Jakarta. Range 315 km is Toyota Indonesia's claim; Indonesian launch reports name no test cycle (Moladin labels it NEDC; the Malaysian spec quotes 257 km WLTP; a 380 km figure in some reports is an overseas urban claim), so range_standard is left out. Power 144 kW (193 hp) combined; torque 474 Nm is OTO's combined figure, launch reports give 205 Nm front motor and 268.6 Nm rear motor. AC 10 kW and DC 125 kW from OTO; Moladin lists 'AC 10-11 kW, 10-100% in 6 h 30 min' and 'DC 125-150 kW, 10-80% in 30 min'. Pack voltage 296 V from Moladin. Height 1,800 mm per OTO/Zigwheels/Moladin (detikOto quotes 1,815 mm for the New Hilux range in general). GVW 3,145 kg is OTO's 'gross weight'. Battery chemistry, AC/DC connectors and kerb weight from the Malaysian spec (paultan.org), same 59.2 kWh / 144 kW AWD version. Not found in Indonesian sources: payload, braked towing capacity, warranty, and whether it is CBU from Thailand (assembly left out).",
+      "notes_id": "Satu varian di Indonesia (Double Cabin 4x4), diluncurkan 29 Juni 2026 bersama Hilux generasi ke-9; harga Rp 1,019 miliar OTR Jakarta. Jarak tempuh 315 km adalah klaim Toyota Indonesia; laporan peluncuran tidak menyebut metode uji (Moladin menulis NEDC; spesifikasi Malaysia menyebut 257 km WLTP; angka 380 km di beberapa berita adalah klaim perkotaan luar negeri), jadi standar uji jarak tempuh dikosongkan. Tenaga gabungan 144 kW (193 hp); torsi 474 Nm adalah angka gabungan dari OTO, sedangkan laporan peluncuran menyebut 205 Nm motor depan dan 268,6 Nm motor belakang. AC 10 kW dan DC 125 kW dari OTO; Moladin menulis 'AC 10-11 kW, 10-100% 6 jam 30 menit' dan 'DC 125-150 kW, 10-80% 30 menit'. Tegangan baterai 296 V dari Moladin. Tinggi 1.800 mm menurut OTO/Zigwheels/Moladin (detikOto menyebut 1.815 mm untuk New Hilux secara umum). JBB 3.145 kg adalah 'gross weight' dari OTO. Kimia baterai, konektor AC/DC, dan berat kosong dari spesifikasi Malaysia (paultan.org), versi sama 59,2 kWh / 144 kW AWD. Tidak ditemukan di sumber Indonesia: daya angkut, kapasitas tarik, garansi, dan apakah diimpor CBU dari Thailand (status perakitan dikosongkan)."
+    }
+  ]
+}

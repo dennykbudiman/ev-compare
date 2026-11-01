@@ -1,0 +1,73 @@
+{
+  "make": "Mercedes-Benz",
+  "model": "EQS SUV",
+  "trims": [
+    {
+      "id": "mercedes-benz-eqs-suv-2024-450-4matic-amg-line",
+      "model_year": 2024,
+      "variant": "EQS 450 4MATIC SUV AMG Line",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 3805000000,
+        "range_km": 616,
+        "seats": 5,
+        "battery_warranty": "10 yrs / 250,000 km"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs-suv/450-4matic-amg-line",
+            "title": "Mercedes Benz EQS SUV 450 4MATIC AMG Line Price, Review and Specs - Oto",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7414905/sabar-mercedes-benz-baru-rakit-mobil-listrik-di-wanaherang-2027",
+            "title": "Sabar! Mercedes-Benz Baru Rakit Mobil Listrik di Wanaherang 2027 - detikOto",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs-suv/450-4matic-amg-line",
+            "title": "Mercedes Benz EQS SUV 450 4MATIC AMG Line Price, Review and Specs - Oto",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs-suv/450-4matic-amg-line",
+            "title": "Mercedes Benz EQS SUV 450 4MATIC AMG Line Price, Review and Specs - Oto",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs-suv/450-4matic-amg-line",
+            "title": "Mercedes Benz EQS SUV 450 4MATIC AMG Line Price, Review and Specs - Oto",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqs-suv/450-4matic-amg-line",
+            "title": "Mercedes Benz EQS SUV 450 4MATIC AMG Line Price, Review and Specs - Oto",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "OTR Rp3,805,000,000 (oto.com, Nov 2025); September 2024 dealer list Rp3,765,000,000. Not on the current Mercedes-Benz Indonesia price page (only the Mercedes-Maybach EQS 680 SUV is listed), so marked discontinued. Oto.com's power, torque, battery and dimension figures for this SUV are identical to the EQS saloon (333 hp, 565 Nm, 107.8 kWh, 5,216 x 1,512 mm), which cannot be right for the 4MATIC SUV, so they are left out. Range 616 km kept (standard not stated).",
+      "notes_id": "OTR Rp3.805.000.000 (oto.com, November 2025); daftar diler September 2024 Rp3.765.000.000. Tidak ada di halaman harga Mercedes-Benz Indonesia saat ini (hanya Mercedes-Maybach EQS 680 SUV yang tercantum), sehingga ditandai sudah tidak dijual. Angka tenaga, torsi, baterai, dan dimensi SUV ini di oto.com identik dengan EQS sedan (333 hp, 565 Nm, 107,8 kWh, 5.216 x 1.512 mm), yang tidak mungkin benar untuk 4MATIC SUV, sehingga dikosongkan. Jarak tempuh 616 km tetap dicatat (standar tidak disebutkan)."
+    }
+  ]
+}

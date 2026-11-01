@@ -1,0 +1,328 @@
+{
+  "make": "VinFast",
+  "model": "VF 3",
+  "trims": [
+    {
+      "id": "vinfast-vf-3-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "City car",
+        "price_otr_idr": 192847000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 18.64,
+        "voltage_architecture": "~400 V",
+        "range_km": 215,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 29.8,
+        "torque_nm": 110,
+        "dc_10_80_min": 36,
+        "dc_time_window": "10–70%",
+        "ac_full_hours": 8,
+        "vehicle_warranty": "7 yrs / 160,000 km",
+        "battery_warranty": "8 yrs / unlimited km",
+        "seats": 4,
+        "length_mm": 3190,
+        "width_mm": 1679,
+        "height_mm": 1652,
+        "wheelbase_mm": 2075,
+        "ground_clearance_mm": 175,
+        "tyre_size": "175/75 R16",
+        "airbags": 2,
+        "top_speed_kmh": 100,
+        "kerb_weight_kg": 857,
+        "accel_0_100_s": 19.3,
+        "turning_radius_m": 4.05
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/vinfast/vinfast-vf3/spesifikasi",
+            "title": "Spesifikasi VinFast VF3 (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://vingroup.net/en/news/detail/3334/vinfast-launches-vf-3-offers-free-charging-for-its-ev-in-indonesia",
+            "title": "VinFast launches VF 3, offers free charging for its EV in Indonesia",
+            "date": "2025-02",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf3-eco-2026-18716,vinfast-vf3-plus-2026-18369",
+            "title": "So sánh xe VinFast VF3 Eco 2026 vs VinFast VF3 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf3-eco-2026-18716,vinfast-vf3-plus-2026-18369",
+            "title": "So sánh xe VinFast VF3 Eco 2026 vs VinFast VF3 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf3-eco-2026-18716,vinfast-vf3-plus-2026-18369",
+            "title": "So sánh xe VinFast VF3 Eco 2026 vs VinFast VF3 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ]
+      },
+      "notes": "Marketed as a mini SUV. On sale since Feb 2025 (launch price Rp227.65 jt incl. battery; Rp195 jt in June 2025; battery-subscription price Rp156 jt from Aug 2025). 2026 price Rp192.847 jt incl. battery per oto.com (Jan 2026); the Oct 2026 starting list quoted Rp192.28 jt, which could not be confirmed. Power published as 40 hp (= 29.8 kW). oto.com shows '110 km' range and 'front motor', which conflict with VinFast's 215 km and Moladin's RWD; those figures are not used. Battery: Moladin 18.6 kWh vs oto.com 18.64 kWh. DC time is 10–70%. 0–50 km/h 5.3 s (VinFast). Airbag count (2) from Moladin only. VinFast planned local assembly of the VF 3 at Subang from Jan 2026; assembly status left out because current CKD supply is not confirmed. Price is the battery-included (battery ownership) OTR Jakarta price; VinFast also sells with a battery subscription at a lower upfront price. Kerb weight, 0–100 km/h time and turning radius from the Vietnamese spec (bonbanh.com); Vietnam lists 1 airbag vs 2 per Moladin for Indonesia.",
+      "notes_id": "Dipasarkan sebagai SUV mini. Dijual sejak Februari 2025 (harga peluncuran Rp227,65 jt termasuk baterai; Rp195 jt pada Juni 2025; harga dengan sewa baterai Rp156 jt mulai Agustus 2025). Harga 2026 Rp192,847 jt termasuk baterai menurut oto.com (Januari 2026); daftar awal Oktober 2026 menyebut Rp192,28 jt, yang tidak dapat dikonfirmasi. Tenaga dipublikasikan sebagai 40 hp (= 29,8 kW). oto.com menampilkan jarak tempuh '110 km' dan 'motor depan', yang bertentangan dengan 215 km versi VinFast dan RWD versi Moladin; angka tersebut tidak dipakai. Baterai: Moladin 18,6 kWh vs oto.com 18,64 kWh. Waktu DC adalah 10–70%. 0–50 km/jam 5,3 detik (VinFast). Jumlah airbag (2) hanya dari Moladin. VinFast merencanakan perakitan lokal VF 3 di Subang mulai Januari 2026; status perakitan dikosongkan karena pasokan CKD saat ini belum terkonfirmasi. Harga adalah OTR Jakarta termasuk baterai (baterai milik sendiri); VinFast juga menjual dengan skema sewa baterai dengan harga awal lebih rendah. Berat kosong, waktu 0–100 km/jam, dan radius putar dari spesifikasi Vietnam (bonbanh.com); Vietnam mencantumkan 1 airbag, sedangkan Moladin mencantumkan 2 untuk Indonesia."
+    }
+  ]
+}

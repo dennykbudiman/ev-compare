@@ -1,0 +1,298 @@
+{
+  "make": "Foton",
+  "model": "eMiler",
+  "trims": [
+    {
+      "id": "foton-emiler-2026-cab-chassis",
+      "model_year": 2026,
+      "variant": "Cab-chassis (GVW 4.5 t)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Light",
+        "assembly": "CKD Indonesia",
+        "gvw_kg": 4500,
+        "battery_gross_kwh": 63.75,
+        "cell_supplier": "CATL",
+        "range_km": 175,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "power_kw": 100,
+        "torque_nm": 270,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 60,
+        "dc_time_window": "20–100%",
+        "length_mm": 4900,
+        "height_mm": 2100,
+        "turning_radius_m": 5.25,
+        "body_type": "Rigid truck",
+        "price_quote_idr": 505000000,
+        "price_quote_basis": "basis not stated"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.industry.co.id/read/148945/foton-pacu-elektrifikasi-kendaraan-komersial-perkuat-perakitan-lokal-dan-ekspansi-pasar-ri",
+            "title": "Foton Pacu Elektrifikasi Kendaraan Komersial, Perkuat Perakitan Lokal dan Ekspansi Pasar RI (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://goodcar.id/artikel-mobil/foton-kendaraan-komersial-listrik-indonesia-tampil-di-giicomvec-2026-bawa-ekosistem-easy-move",
+            "title": "Foton Kendaraan Komersial Listrik Indonesia Tampil di GIICOMVEC 2026, Bawa Ekosistem Easy Move (Goodcar)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148879/giicomvec-2026-hadirkan-deretan-truk-canggih-dari-brand-global",
+            "title": "GIICOMVEC 2026 Hadirkan Deretan Truk Canggih dari Brand Global (Industry.co.id)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.idntimes.com/automotive/car/mobil-listrik-komersial-foton-emiler-meluncur-jarak-tempuh-175-km-00-7cdnt-dfzwjn",
+            "title": "Mobil Listrik Komersial Foton eMiler Meluncur, Jarak Tempuh 175 km (IDN Times)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/foton-emiler-hadir-di-indonesia-truk-listrik-jangkau-175-km-harga-di-bawah-500-juta",
+            "title": "Foton eMiler Hadir di Indonesia: Truk Listrik Jangkau 175 Km, Harga di Bawah 500 Juta (Aftermarketplus)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.idntimes.com/automotive/car/mobil-listrik-komersial-foton-emiler-meluncur-jarak-tempuh-175-km-00-7cdnt-dfzwjn",
+            "title": "Mobil Listrik Komersial Foton eMiler Meluncur, Jarak Tempuh 175 km (IDN Times)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://otoexpo.com/foton-emiler-hadir-di-indonesia-untuk-logistik-modern/",
+            "title": "Foton eMiler Hadir di Indonesia untuk Logistik Modern (OtoExpo)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.idntimes.com/automotive/car/mobil-listrik-komersial-foton-emiler-meluncur-jarak-tempuh-175-km-00-7cdnt-dfzwjn",
+            "title": "Mobil Listrik Komersial Foton eMiler Meluncur, Jarak Tempuh 175 km (IDN Times)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.idntimes.com/automotive/car/mobil-listrik-komersial-foton-emiler-meluncur-jarak-tempuh-175-km-00-7cdnt-dfzwjn",
+            "title": "Mobil Listrik Komersial Foton eMiler Meluncur, Jarak Tempuh 175 km (IDN Times)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
+            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
+            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/foton-emiler-hadir-di-indonesia-truk-listrik-jangkau-175-km-harga-di-bawah-500-juta",
+            "title": "Foton eMiler Hadir di Indonesia: Truk Listrik Jangkau 175 Km, Harga di Bawah 500 Juta (Aftermarketplus)",
+            "date": "2025-04",
+            "type": "press"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://www.foton-indomobil.com/",
+            "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://www.foton-indomobil.com/",
+            "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "4-wheel electric light truck sold as a cab-chassis for local bodies (box, cold box, food truck). GVW 4.5 t puts it in Light. Same specs 2025–2026. Sale evidence: launched 24 April 2025 by PT Indomobil Global Transportasi at Rp 480 million off the road, chassis only, with an AC charger bundled (bodies extra); new dealers opened in Pasar Minggu (Jakarta) and Surabaya at launch; the Foton Indomobil Pasar Minggu dealer lists it 'from Rp 505,000,000' (Nov 2026, basis not stated). No OTR price. The dealer's current 'from Rp 505,000,000' is stored as the quoted price (basis not stated); the launch price was Rp 480 million off the road, chassis only. Assembly: CKD at Indomobil's Pulo Gadung plant per Foton's GIICOMVEC 2026 statements (36.25% local content); the 2025 launch reports did not say it was locally built. Power 100 kW (135 PS) peak, PMSM with e-axle (Aftermarketplus also mentions 63.74 kW, likely rated power). Range 175 km is a manufacturer claim with no cycle. DC fast charging via CCS2, 20–100% in about 1 hour. Length 4.9 m and height 2.1 m are rounded figures from the launch reports. Payload: Aftermarketplus gives 'up to 1,020 kg', the same figure as the eTruckMate and not confirmed elsewhere, so it is left out. 0–50 km/h 7.4 s; gradeability above 20%.",
+      "notes_id": "Truk ringan listrik 4 roda yang dijual dalam bentuk sasis-kabin untuk karoseri lokal (boks, boks pendingin, food truck). JBB 4,5 ton sehingga masuk kelas Light. Spesifikasi sama 2025–2026. Bukti penjualan: diluncurkan 24 April 2025 oleh PT Indomobil Global Transportasi dengan harga Rp480 juta off the road, sasis saja, sudah termasuk unit pengisi daya AC (karoseri terpisah); dealer baru di Pasar Minggu (Jakarta) dan Surabaya dibuka saat peluncuran; dealer Foton Indomobil Pasar Minggu mencantumkan 'mulai Rp505.000.000' (November 2026, basis harga tidak disebut). Tidak ada harga OTR. Harga dealer terkini 'mulai Rp505.000.000' disimpan sebagai harga kutipan (dasar harga tidak disebut); harga peluncuran Rp480 juta off the road, sasis saja. Perakitan: CKD di pabrik Indomobil Pulo Gadung menurut pernyataan Foton di GIICOMVEC 2026 (TKDN 36,25%); laporan peluncuran 2025 tidak menyebut perakitan lokal. Tenaga puncak 100 kW (135 PS), motor PMSM dengan e-axle (Aftermarketplus juga menyebut 63,74 kW, kemungkinan tenaga nominal). Jarak tempuh 175 km adalah klaim pabrikan tanpa metode uji. Pengisian cepat DC lewat CCS2, 20–100% sekitar 1 jam. Panjang 4,9 m dan tinggi 2,1 m adalah angka bulat dari laporan peluncuran. Daya angkut: Aftermarketplus menyebut 'hingga 1.020 kg', angka yang sama dengan eTruckMate dan tidak terkonfirmasi sumber lain, sehingga dikosongkan. Akselerasi 0–50 km/jam 7,4 detik; daya tanjak di atas 20%."
+    }
+  ]
+}

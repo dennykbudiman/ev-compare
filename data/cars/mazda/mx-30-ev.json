@@ -1,0 +1,231 @@
+{
+  "make": "Mazda",
+  "model": "MX-30 EV",
+  "trims": [
+    {
+      "id": "mazda-mx-30-ev-2026-ev",
+      "model_year": 2026,
+      "variant": "EV",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 860000000,
+        "battery_gross_kwh": 35.5,
+        "range_km": 200,
+        "range_standard": "WLTP",
+        "power_kw": 107,
+        "torque_nm": 271,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 25,
+        "dc_time_window": "20–80%",
+        "length_mm": 4395,
+        "width_mm": 1795,
+        "height_mm": 1555,
+        "wheelbase_mm": 2655,
+        "ground_clearance_mm": 136,
+        "adas": "AEB (Smart Brake Support), ACC (MRCC), LDW, LKA, BSM, FCTA, RCTA, TJA, DAA, DMS, SVM, HBC",
+        "vehicle_warranty": "5 yrs / 150,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "pack_nominal_voltage_v": 355,
+        "ac_connector": "Type 2",
+        "airbags": 7,
+        "accel_0_100_s": 9.7,
+        "top_speed_kmh": 140
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7632962/spek-mobil-listrik-mazda-mx-30-harga-tembus-rp-860-juta-jarak-cuma-200-km",
+            "title": "Spek Mobil Listrik Mazda MX-30: Harga Tembus Rp 860 Juta, Jarak Cuma 200 Km",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://paultan.org/2023/01/16/mazda-mx-30-malaysia/",
+            "title": "Mazda MX-30 2023 - unit spesifikasi tempatan pertama tiba di M'sia - paultan.org",
+            "date": "2023-01",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/2023/01/16/mazda-mx-30-malaysia/",
+            "title": "Mazda MX-30 2023 - unit spesifikasi tempatan pertama tiba di M'sia - paultan.org",
+            "date": "2023-01",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2023/01/16/mazda-mx-30-malaysia/",
+            "title": "Mazda MX-30 2023 - unit spesifikasi tempatan pertama tiba di M'sia - paultan.org",
+            "date": "2023-01",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/2023/01/16/mazda-mx-30-malaysia/",
+            "title": "Mazda MX-30 2023 - unit spesifikasi tempatan pertama tiba di M'sia - paultan.org",
+            "date": "2023-01",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2023/01/16/mazda-mx-30-malaysia/",
+            "title": "Mazda MX-30 2023 - unit spesifikasi tempatan pertama tiba di M'sia - paultan.org",
+            "date": "2023-01",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched Nov 2024 at Rp860 jt OTR Jakarta including wall and portable chargers (premium paint +Rp4 jt). Power 145 PS (= 107 kW). DC time is 20-80% in 25 min. MyMazda Service covers 5 yrs/100,000 km (whether fully free not stated). Same specs 2024-2026. Pack voltage, AC connector, 7 airbags, 0-100 km/h and top speed from the Malaysian 35.5 kWh spec (paultan.org).",
+      "notes_id": "Diluncurkan November 2024 seharga Rp860 jt OTR Jakarta termasuk wall charger dan charger portabel (cat premium +Rp4 jt). Tenaga 145 PS (= 107 kW). Waktu DC adalah 20-80% dalam 25 menit. MyMazda Service mencakup 5 tahun/100.000 km (tidak disebutkan apakah sepenuhnya gratis). Spesifikasi sama 2024-2026. Tegangan paket, konektor AC, 7 airbag, 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Malaysia 35,5 kWh (paultan.org)."
+    }
+  ]
+}

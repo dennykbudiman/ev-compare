@@ -1,0 +1,1306 @@
+{
+  "make": "BMW",
+  "model": "iX",
+  "trims": [
+    {
+      "id": "bmw-ix-2025-xdrive45",
+      "model_year": 2025,
+      "variant": "xDrive45",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 2639000000,
+        "battery_usable_kwh": 96,
+        "range_km": 602,
+        "range_standard": "WLTP",
+        "power_kw": 300,
+        "torque_nm": 700,
+        "accel_0_100_s": 5.1,
+        "top_speed_kmh": 200,
+        "ac_max_kw": 11,
+        "ac_full_hours": 9.75,
+        "dc_max_kw": 175,
+        "dc_10_80_min": 34,
+        "length_mm": 4965,
+        "width_mm": 1970,
+        "height_mm": 1695,
+        "wheelbase_mm": 3000,
+        "kerb_weight_kg": 2450,
+        "boot_l": 500,
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 332,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 5,
+        "v2l": false,
+        "heat_pump": true,
+        "battery_gross_kwh": 100.0,
+        "drive": "AWD"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW_ID_PriceAnnouncement_NIK25NIK26_June2026.pdf.asset.1782353595356.pdf",
+            "title": "BMW Model Range 2026 price announcement NIK25/NIK26 (June 2026)",
+            "date": "2026-06",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/imp/car/3109/BMW-iX-xDrive45",
+            "title": "BMW iX xDrive45 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Facelift (LCI) iX, NIK 2025, launched GIIAS 2025. OTR Jakarta Rp2,639,000,000 (off-the-road Rp2,611,000,000), unchanged in the June 2026 list. Range is the top of 490-602 km WLTP. Battery figure as printed on the bmw.co.id technical page (not labelled gross/net; BMW quotes net). Gross battery (100.0 kWh nominal; ev-database gives 94.8 kWh usable vs 96 kWh printed by BMW Indonesia), chemistry, voltage, drive, connectors, charge port, seats, V2L and heat pump from the European spec (ev-database.org).",
+      "notes_id": "iX facelift (LCI), NIK 2025, diluncurkan di GIIAS 2025. OTR Jakarta Rp2.639.000.000 (off-the-road Rp2.611.000.000), tidak berubah di daftar Juni 2026. Jarak tempuh diambil dari batas atas 490-602 km WLTP. Angka baterai sesuai yang tercantum di halaman teknis bmw.co.id (tanpa label gross/net; BMW biasanya menyebut net). Baterai gross (100,0 kWh nominal; ev-database menyebut 94,8 kWh usable, sedangkan BMW Indonesia mencetak 96 kWh), kimia baterai, tegangan, penggerak, konektor, posisi port, jumlah kursi, V2L, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "bmw-ix-2024-xdrive50-sport",
+      "model_year": 2024,
+      "variant": "xDrive50 Sport",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 2719000000,
+        "battery_usable_kwh": 108.8,
+        "range_km": 633,
+        "range_standard": "WLTP",
+        "power_kw": 385,
+        "torque_nm": 765,
+        "accel_0_100_s": 4.6,
+        "top_speed_kmh": 200,
+        "ac_max_kw": 11,
+        "ac_full_hours": 11,
+        "dc_max_kw": 195,
+        "dc_10_80_min": 35,
+        "length_mm": 4953,
+        "width_mm": 1967,
+        "height_mm": 1695,
+        "wheelbase_mm": 3000,
+        "kerb_weight_kg": 2585,
+        "boot_l": 500,
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 369,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 5,
+        "v2l": false,
+        "heat_pump": true,
+        "battery_gross_kwh": 111.5,
+        "drive": "AWD",
+        "airbag_positions": "front, front side, curtain",
+        "adas": "Driving Assistant Professional, Parking Assistant Professional"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          },
+          {
+            "url": "https://bmw.astra.co.id/pricelist/",
+            "title": "BMW Astra - BMW Model Range Pricelist (as per October 2025)",
+            "date": "2025-10",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1473/BMW-iX-xDrive50",
+            "title": "BMW iX xDrive50 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Pre-facelift iX, NIK 2024 stock still in the January 2026 and October 2026 price lists. OTR Jakarta Rp2,719,000,000 (off-the-road Rp2,691,000,000); July 2024 OTR Rp2,665,000,000. Range is the top of 587-633 km WLTP. Battery figure as printed on the bmw.co.id technical page (not labelled gross/net; BMW quotes net). Battery energy content 111.5 kWh, drive, airbag positions and assistance packages from the Thai technical data (bmw.co.th); chemistry, voltage, connectors, charge port, seats, V2L and heat pump from the European spec (ev-database.org, which gives 111.5 kWh nominal / 105.2 kWh usable vs 108.8 kWh printed by BMW Indonesia).",
+      "notes_id": "iX pra-facelift, stok NIK 2024 yang masih ada di daftar harga Januari 2026 dan Oktober 2026. OTR Jakarta Rp2.719.000.000 (off-the-road Rp2.691.000.000); OTR Juli 2024 Rp2.665.000.000. Jarak tempuh diambil dari batas atas 587-633 km WLTP. Angka baterai sesuai yang tercantum di halaman teknis bmw.co.id (tanpa label gross/net; BMW biasanya menyebut net). Kapasitas energi baterai 111,5 kWh, penggerak, posisi airbag, dan paket asistensi dari data teknis Thailand (bmw.co.th); kimia baterai, tegangan, konektor, posisi port, jumlah kursi, V2L, dan heat pump dari spesifikasi Eropa (ev-database.org, yang menyebut 111,5 kWh nominal / 105,2 kWh usable, sedangkan BMW Indonesia mencetak 108,8 kWh)."
+    },
+    {
+      "id": "bmw-ix-2024-xdrive40-sport",
+      "model_year": 2024,
+      "variant": "xDrive40 Sport",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 2545000000,
+        "battery_usable_kwh": 74.1,
+        "range_km": 425,
+        "range_standard": "WLTP",
+        "power_kw": 240,
+        "torque_nm": 630,
+        "accel_0_100_s": 6.1,
+        "top_speed_kmh": 200,
+        "ac_max_kw": 11,
+        "ac_full_hours": 7.5,
+        "dc_max_kw": 150,
+        "dc_10_80_min": 31,
+        "length_mm": 4953,
+        "width_mm": 1967,
+        "height_mm": 1695,
+        "wheelbase_mm": 3000,
+        "kerb_weight_kg": 2440,
+        "boot_l": 500,
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 330,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 5,
+        "v2l": false,
+        "heat_pump": true,
+        "battery_gross_kwh": 76.6,
+        "drive": "AWD",
+        "airbag_positions": "front, front side, curtain",
+        "adas": "Driving Assistant Professional, Parking Assistant Professional"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          },
+          {
+            "url": "https://bmw.astra.co.id/pricelist/",
+            "title": "BMW Astra - BMW Model Range Pricelist (as per October 2025)",
+            "date": "2025-10",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix/bmw-ix-technical-data.html",
+            "title": "BMW iX (I20): Specs and engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Pre-facelift iX, NIK 2024; listed through January 2026 but absent from the October 2026 list, so marked discontinued. OTR Jakarta Rp2,545,000,000 (off-the-road Rp2,429,000,000); July 2024 OTR Rp2,483,000,000. Range is the top of 372-425 km WLTP. Battery figure as printed on the bmw.co.id technical page (not labelled gross/net; BMW quotes net). Battery energy content 76.6 kWh, drive, airbag positions and assistance packages from the Thai technical data (bmw.co.th); chemistry, voltage, connectors, charge port, seats, V2L and heat pump from the European spec (ev-database.org, which gives 76.6 kWh nominal / 71.0 kWh usable vs 74.1 kWh printed by BMW Indonesia).",
+      "notes_id": "iX pra-facelift, NIK 2024; tercantum hingga Januari 2026 tetapi tidak ada di daftar Oktober 2026, sehingga ditandai sudah tidak dijual. OTR Jakarta Rp2.545.000.000 (off-the-road Rp2.429.000.000); OTR Juli 2024 Rp2.483.000.000. Jarak tempuh diambil dari batas atas 372-425 km WLTP. Angka baterai sesuai yang tercantum di halaman teknis bmw.co.id (tanpa label gross/net; BMW biasanya menyebut net). Kapasitas energi baterai 76,6 kWh, penggerak, posisi airbag, dan paket asistensi dari data teknis Thailand (bmw.co.th); kimia baterai, tegangan, konektor, posisi port, jumlah kursi, V2L, dan heat pump dari spesifikasi Eropa (ev-database.org, yang menyebut 76,6 kWh nominal / 71,0 kWh usable, sedangkan BMW Indonesia mencetak 74,1 kWh)."
+    },
+    {
+      "id": "bmw-ix-2022-xdrive40",
+      "model_year": 2022,
+      "variant": "xDrive40",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "battery_gross_kwh": 76.6,
+        "range_km": 425,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 240,
+        "torque_nm": 630,
+        "accel_0_100_s": 6.1,
+        "dc_connector": "CCS2",
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 330,
+        "ac_connector": "Type 2",
+        "charge_port": "Right rear",
+        "seats": 5,
+        "v2l": false,
+        "heat_pump": true,
+        "battery_usable_kwh": 71.0,
+        "dc_max_kw": 150,
+        "dc_10_80_min": 31,
+        "length_mm": 4953,
+        "width_mm": 1967,
+        "height_mm": 1696,
+        "kerb_weight_kg": 2440,
+        "boot_l": 500,
+        "top_speed_kmh": 200,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "Driving Assistant Professional, Parking Assistant Professional"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mobil-listrik-bmw-ix-dan-i4-mengaspal-di-giias-2022-paling-murah-rp-2-2-miliar-1ydndlzSEXU",
+            "title": "Mobil Listrik BMW iX dan i4 Mengaspal di GIIAS 2022, Paling Murah Rp 2,2 Miliar",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mobil-listrik-bmw-ix-dan-i4-mengaspal-di-giias-2022-paling-murah-rp-2-2-miliar-1ydndlzSEXU",
+            "title": "Mobil Listrik BMW iX dan i4 Mengaspal di GIIAS 2022, Paling Murah Rp 2,2 Miliar",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mobil-listrik-bmw-ix-dan-i4-mengaspal-di-giias-2022-paling-murah-rp-2-2-miliar-1ydndlzSEXU",
+            "title": "Mobil Listrik BMW iX dan i4 Mengaspal di GIIAS 2022, Paling Murah Rp 2,2 Miliar",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mobil-listrik-bmw-ix-dan-i4-mengaspal-di-giias-2022-paling-murah-rp-2-2-miliar-1ydndlzSEXU",
+            "title": "Mobil Listrik BMW iX dan i4 Mengaspal di GIIAS 2022, Paling Murah Rp 2,2 Miliar",
+            "date": "2022-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://kumparan.com/kumparanoto/mobil-listrik-bmw-ix-dan-i4-mengaspal-di-giias-2022-paling-murah-rp-2-2-miliar-1ydndlzSEXU",
+            "title": "Mobil Listrik BMW iX dan i4 Mengaspal di GIIAS 2022, Paling Murah Rp 2,2 Miliar",
+            "date": "2022-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1472/BMW-iX-xDrive40",
+            "title": "BMW iX xDrive40 (2021-2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/specsheet/iX-20240417-01_EN.pdf.asset.1724906649694.pdf",
+            "title": "BMW iX technical data (BMW Thailand, effective 24 April 2024)",
+            "date": "2024-04",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS on 11 August 2022 (assembly not stated in the sources). Launch price Rp2,267,000,000 was reported as OFF the road (kumparan); moladin's 'Rp2.2 billion OTR' is rounded, so price left out. Battery 76.6 kWh (oto.com) is not labelled gross/net; it matches BMW's global gross figure (about 71 kWh net). Power: kumparan 240 kW (about 324 hp); oto.com 322 hp. Range 425 km WLTP (oto.com); moladin says 420 km. Moladin's 'up to 200 kW DC, 0-80% under 34 min' looks like the xDrive50 figure, so DC power left out. Assumed to continue unchanged into 2023 until the 2024 xDrive40 Sport record. Battery 76.6 kWh: the source does not say gross or net; it matches BMW's global gross figure for the xDrive40. DC power, DC 10-80% time (31 min at a 500 A charger), dimensions, kerb weight, boot, top speed, airbag positions and assistance packages from the Thai technical data for the same pre-facelift xDrive40 (bmw.co.th, April 2024); usable battery (71.0 kWh), chemistry, voltage, AC connector, charge port, seats, V2L and heat pump from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan di GIIAS pada 11 Agustus 2022 (perakitan tidak disebutkan sumber). Harga peluncuran Rp2.267.000.000 dilaporkan sebagai harga off the road (kumparan); angka 'Rp2,2 miliar OTR' dari moladin dibulatkan, sehingga harga dikosongkan. Baterai 76,6 kWh (oto.com) tidak disebut gross/net; angka ini sama dengan kapasitas gross global BMW (sekitar 71 kWh net). Tenaga: kumparan 240 kW (sekitar 324 hp); oto.com 322 hp. Jarak tempuh 425 km WLTP (oto.com); moladin menyebut 420 km. Angka moladin 'DC hingga 200 kW, 0-80% di bawah 34 menit' tampaknya milik xDrive50, sehingga daya DC dikosongkan. Diperkirakan berlanjut tanpa perubahan hingga 2023 sebelum catatan xDrive40 Sport 2024. Baterai 76,6 kWh: sumber tidak menyebut kotor atau bersih; angka ini sesuai kapasitas kotor global BMW untuk xDrive40. Daya DC, waktu DC 10-80% (31 menit pada charger 500 A), dimensi, berat kosong, bagasi, kecepatan maksimum, posisi airbag, dan paket asistensi dari data teknis Thailand untuk xDrive40 pra-facelift yang sama (bmw.co.th, April 2024); baterai usable (71,0 kWh), kimia baterai, tegangan, konektor AC, posisi port, jumlah kursi, V2L, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "make": "Farizon",
+  "model": "F3E Super Cargo",
+  "trims": [
+    {
+      "id": "farizon-f3e-2026-super-cargo",
+      "model_year": 2026,
+      "variant": "Box body",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Light",
+        "payload_kg": 2000,
+        "seats": 2,
+        "battery_gross_kwh": 72.82,
+        "battery_chemistry": "LFP",
+        "cell_supplier": "CATL",
+        "voltage_architecture": "~400 V",
+        "range_km": 410,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 110,
+        "torque_nm": 260,
+        "ac_max_kw": 11,
+        "dc_max_kw": 100,
+        "airbags": 2,
+        "length_mm": 5875,
+        "width_mm": 1850,
+        "height_mm": 2060,
+        "wheelbase_mm": 3700,
+        "ground_clearance_mm": 180,
+        "tyre_size": "195/70 R15",
+        "price_otr_idr": 475000000,
+        "body_type": "Rigid truck",
+        "cargo_volume_m3": 12,
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ybJd78AK-farizon-luncurkan-empat-kendaraan-niaga-listrik-di-giias-2026-dua-model-dirakit-lokal",
+            "title": "Farizon Luncurkan Empat Kendaraan Niaga Listrik di GIIAS 2026, Dua Model Dirakit Lokal (Medcom)",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://www.carexpert.com.au/car-news/farizon-f3e-electric-cab-chassis-launched-in-australia",
+            "title": "Farizon F3E electric cab chassis launched in Australia (CarExpert)",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carsales.com.au/research/farizon/f3e/2026/trayback/",
+            "title": "Farizon F3E 2026 Trayback overview (carsales)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          },
+          {
+            "url": "https://evcentral.com.au/cars/farizon/f3e/",
+            "title": "Farizon F3E (EV Central)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://evcentral.com.au/cars/farizon/f3e/",
+            "title": "Farizon F3E (EV Central)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/car-news/farizon-f3e-electric-cab-chassis-launched-in-australia",
+            "title": "Farizon F3E electric cab chassis launched in Australia (CarExpert)",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://evcentral.com.au/cars/farizon/f3e/",
+            "title": "Farizon F3E (EV Central)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          },
+          {
+            "url": "https://www.carexpert.com.au/car-news/farizon-f3e-electric-cab-chassis-launched-in-australia",
+            "title": "Farizon F3E electric cab chassis launched in Australia (CarExpert)",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ybJd78AK-farizon-luncurkan-empat-kendaraan-niaga-listrik-di-giias-2026-dua-model-dirakit-lokal",
+            "title": "Farizon Luncurkan Empat Kendaraan Niaga Listrik di GIIAS 2026, Dua Model Dirakit Lokal (Medcom)",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/berita-mobil/farizon-dan-arista-group-rilis-4-kendaraan-niaga-listrik-di-giias-2026-siapkan-rakitan-lokal-ckd",
+            "title": "Farizon dan Arista Group Rilis 4 Kendaraan Niaga Listrik di GIIAS 2026, Siapkan Rakitan Lokal CKD (OTO)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-f3e/spesifikasi",
+            "title": "Farizon F3E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Light electric truck with a factory cargo box of up to 12 m3, launched at GIIAS 2026 (July 2026) at Rp 475 juta OTR Jakarta. Class: no Indonesian source gives the GVW (Moladin lists weights as not yet available). The Australian cab-chassis (72.8 kWh LFP, 110 kW / 260 Nm, rear-wheel drive) has a GVM of 3,495 kg (carsales) and 1,440–1,705 kg payload, which cannot carry the Indonesian 'up to 2 tonnes' (Bloomberg Technoz) plus a factory box, so the Indonesian box truck is not the same version and the Australian GVM is not used. A 2-tonne payload on a truck of this size puts the gross weight above 3.5 t, so it is filed as Light until an Indonesian JBB is published. Drive, AC/DC charging power and cell supplier are from the Australian spec (carsales, EV Central, CarExpert). Moladin lists front-wheel drive, which conflicts with the rear-mounted motor in the Australian and other specs, so the Australian RWD figure replaces it. Range: 410 km (Bloomberg Technoz) / 'more than 400 km' (GIIAS releases); Moladin lists 428 km WLTP, the same as the V8E, and Australia quotes 265–314 km WLTP, so no test cycle is recorded. Moladin's DC time (20–80% in 36 min) is identical to its V8E listing, so it is not used (Nov 2026 review). CKD assembly with PT Handal Indonesia Motor was announced at GIIAS 2026, but the start of F3E production is not confirmed, so assembly is left out. Warranty not published for Indonesia. Review (Nov 2026): class changed from Small cargo to Light and the Australian GVW removed (see above).",
+      "notes_id": "Truk listrik ringan dengan boks kargo pabrikan hingga 12 m3, diluncurkan di GIIAS 2026 (Juli 2026) dengan harga Rp475 juta OTR Jakarta. Kelas: tidak ada sumber Indonesia yang menyebut JBB (Moladin mencantumkan berat belum tersedia). Versi yang sama di Australia (LFP 72,8 kWh, 110 kW / 260 Nm, penggerak roda belakang) memiliki GVM 3.495 kg (carsales), sehingga truk ini dimasukkan ke Small cargo; klaim payload Indonesia 'hingga 2 ton' (Bloomberg Technoz) tidak cocok dengan GVM tersebut (payload Australia 1.440–1.705 kg), jadi kelas ini bersifat sementara sampai JBB Indonesia dipublikasikan. JBB, penggerak, daya pengisian AC/DC, dan pemasok sel dari spesifikasi Australia (carsales, EV Central, CarExpert). Moladin mencantumkan penggerak roda depan, yang bertentangan dengan motor di belakang pada spesifikasi Australia dan lainnya, sehingga diganti dengan RWD dari spesifikasi Australia. Jarak tempuh: 410 km (Bloomberg Technoz) / 'lebih dari 400 km' (rilis GIIAS); Moladin mencantumkan 428 km WLTP, sama dengan V8E, dan Australia menyebut 265–314 km WLTP, sehingga siklus uji tidak dicatat. Waktu DC di Moladin (20–80% dalam 36 menit) sama persis dengan data V8E-nya. Perakitan CKD bersama PT Handal Indonesia Motor diumumkan di GIIAS 2026, tetapi dimulainya produksi F3E belum dikonfirmasi, sehingga status perakitan tidak diisi. Garansi untuk Indonesia tidak dipublikasikan. Tinjauan (Nov 2026): kelas diubah dari Small cargo ke Light dan JBB versi Australia dihapus, karena daya angkut 2 ton ditambah boks pabrikan tidak muat dalam JBB 3,5 ton; waktu pengisian DC dari Moladin juga dihapus karena sama persis dengan halaman V8E."
+    }
+  ]
+}

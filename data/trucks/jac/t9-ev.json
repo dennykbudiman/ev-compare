@@ -1,0 +1,471 @@
+{
+  "make": "JAC",
+  "model": "Trekker T9 EV",
+  "trims": [
+    {
+      "id": "jac-t9-ev-2026-double-cab-4x4",
+      "model_year": 2026,
+      "variant": "Double cab 4x4 (88 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Pickup",
+        "cab_type": "Double cab",
+        "drive": "4x4",
+        "axle_config": "4x4",
+        "motor_count": 2,
+        "gvw_kg": 3260,
+        "payload_kg": 910,
+        "towing_kg": 2000,
+        "battery_gross_kwh": 88.02,
+        "battery_chemistry": "LFP",
+        "cell_supplier": "CATL",
+        "pack_nominal_voltage_v": 328,
+        "range_km": 340,
+        "power_kw": 219,
+        "torque_nm": 516,
+        "dc_max_kw": 100,
+        "dc_10_80_min": 40,
+        "dc_time_window": "20–80%",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "airbags": 6,
+        "top_speed_kmh": 140,
+        "seats": 5,
+        "length_mm": 5330,
+        "width_mm": 1965,
+        "height_mm": 1920,
+        "wheelbase_mm": 3110,
+        "ground_clearance_mm": 205,
+        "tyre_size": "265/60 R18",
+        "price_otr_idr": 888000000,
+        "assembly": "CKD Indonesia",
+        "battery_warranty": "8 yrs",
+        "vehicle_warranty": "1 yr",
+        "body_type": "Pickup"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/jac-motors-bidik-pasar-kendaraan-listrik-di-sektor-tambang",
+            "title": "JAC Motors Bidik Pasar Kendaraan Listrik di Sektor Tambang (Kontan)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/jac-motors-bidik-pasar-kendaraan-listrik-di-sektor-tambang",
+            "title": "JAC Motors Bidik Pasar Kendaraan Listrik di Sektor Tambang (Kontan)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "axle_config": [
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/jac-motors-bidik-pasar-kendaraan-listrik-di-sektor-tambang",
+            "title": "JAC Motors Bidik Pasar Kendaraan Listrik di Sektor Tambang (Kontan)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.rctiplus.com/news/detail/inews/5469472/jac-bawa-2-kendaraan-komersial-bertenaga-listrik-di-mining-indonesia--intip-spesifikasinya-",
+            "title": "JAC Bawa 2 Kendaraan Komersial Bertenaga Listrik di Mining Indonesia, Intip Spesifikasinya (iNews/RCTI+)",
+            "date": "2026-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://www.rctiplus.com/news/detail/inews/5469472/jac-bawa-2-kendaraan-komersial-bertenaga-listrik-di-mining-indonesia--intip-spesifikasinya-",
+            "title": "JAC Bawa 2 Kendaraan Komersial Bertenaga Listrik di Mining Indonesia, Intip Spesifikasinya (iNews/RCTI+)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://www.rctiplus.com/news/detail/inews/5469472/jac-bawa-2-kendaraan-komersial-bertenaga-listrik-di-mining-indonesia--intip-spesifikasinya-",
+            "title": "JAC Bawa 2 Kendaraan Komersial Bertenaga Listrik di Mining Indonesia, Intip Spesifikasinya (iNews/RCTI+)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "towing_kg": [
+          {
+            "url": "https://www.rctiplus.com/news/detail/inews/5469472/jac-bawa-2-kendaraan-komersial-bertenaga-listrik-di-mining-indonesia--intip-spesifikasinya-",
+            "title": "JAC Bawa 2 Kendaraan Komersial Bertenaga Listrik di Mining Indonesia, Intip Spesifikasinya (iNews/RCTI+)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.rctiplus.com/news/detail/inews/5469472/jac-bawa-2-kendaraan-komersial-bertenaga-listrik-di-mining-indonesia--intip-spesifikasinya-",
+            "title": "JAC Bawa 2 Kendaraan Komersial Bertenaga Listrik di Mining Indonesia, Intip Spesifikasinya (iNews/RCTI+)",
+            "date": "2026-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148954/jac-motors-indonesia-debut-di-giicomvec-2026-hadirkan-tiga-ev-komersial-untuk-industri",
+            "title": "JAC Motors Indonesia Debut di GIICOMVEC 2026, Hadirkan Tiga EV Komersial untuk Industri (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.rctiplus.com/news/detail/inews/5469472/jac-bawa-2-kendaraan-komersial-bertenaga-listrik-di-mining-indonesia--intip-spesifikasinya-",
+            "title": "JAC Bawa 2 Kendaraan Komersial Bertenaga Listrik di Mining Indonesia, Intip Spesifikasinya (iNews/RCTI+)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://autobuzz.my/2025/03/06/jac-t9ev-launched-as-first-ev-pickup-truck-in-malaysia-t9-diesel-from-rm119888-ev-from-rm200k/",
+            "title": "JAC T9EV launched as first EV pickup truck in Malaysia (Autobuzz)",
+            "date": "2025-03",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/jac/t9-ev/mk1/luxury-2026/",
+            "title": "JAC T9 EV Luxury 2026 (paultan.org Car Buyer's Guide)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.antaranews.com/berita/5049593/jac-motors-resmi-masuki-pasar-indonesia-dengan-3-model-andalan",
+            "title": "JAC Motors resmi masuki pasar Indonesia dengan 3 model andalan (ANTARA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/jac/t9-ev/harga-lampung-utara",
+            "title": "JAC T9 EV harga (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/jac/jac-t9-ev/spesifikasi",
+            "title": "JAC T9 EV spesifikasi (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.rctiplus.com/news/detail/inews/5469472/jac-bawa-2-kendaraan-komersial-bertenaga-listrik-di-mining-indonesia--intip-spesifikasinya-",
+            "title": "JAC Bawa 2 Kendaraan Komersial Bertenaga Listrik di Mining Indonesia, Intip Spesifikasinya (iNews/RCTI+)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://industri.kontan.co.id/news/jac-motors-bidik-pasar-kendaraan-listrik-di-sektor-tambang",
+            "title": "JAC Motors Bidik Pasar Kendaraan Listrik di Sektor Tambang (Kontan)",
+            "date": "2026-09",
+            "type": "press"
+          },
+          {
+            "url": "https://www.rctiplus.com/news/detail/inews/5469472/jac-bawa-2-kendaraan-komersial-bertenaga-listrik-di-mining-indonesia--intip-spesifikasinya-",
+            "title": "JAC Bawa 2 Kendaraan Komersial Bertenaga Listrik di Mining Indonesia, Intip Spesifikasinya (iNews/RCTI+)",
+            "date": "2026-09",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8069928/3-mobil-yang-dibawa-jac-motors-ke-indonesia-semuanya-ev-niaga",
+            "title": "3 Mobil yang Dibawa JAC Motors ke Indonesia, Semuanya EV Niaga (detikOto)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-confident-in-commercial-ev-sales-straight-to-local-assembly-20046",
+            "title": "JAC Motors Confident in Commercial EV Sales, Straight to Local Assembly (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://kumparan.com/kumparanoto/jac-motors-masuk-indonesia-bareng-indomobil-bawa-3-ev-komersial-25gfBCH49F4",
+            "title": "JAC Motors Masuk Indonesia Bareng Indomobil, Bawa 3 EV Komersial (kumparanOTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.viva.co.id/otomotif/1843956-jac-motors-motors-bawa-ev-niaga-ke-ri",
+            "title": "JAC Motors Bawa EV Niaga ke RI (VIVA)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1843956-jac-motors-motors-bawa-ev-niaga-ke-ri",
+            "title": "JAC Motors Bawa EV Niaga ke RI (VIVA)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/news/jac-motors-resmi-hadir-langsung-bawa-tiga-produk-ev-komersial/",
+            "title": "JAC Motors Resmi Hadir, Langsung Bawa Tiga Produk EV Komersial (Moladin)",
+            "date": "2025-08",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://auto.katadata.co.id/car/jac-motors-enters-indonesia-via-indomobil-bringing-3-products-20042",
+            "title": "JAC Motors Enters Indonesia via Indomobil, Bringing 3 Products (Katadata OTO)",
+            "date": "2025-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148954/jac-motors-indonesia-debut-di-giicomvec-2026-hadirkan-tiga-ev-komersial-untuk-industri",
+            "title": "JAC Motors Indonesia Debut di GIICOMVEC 2026, Hadirkan Tiga EV Komersial untuk Industri (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Single variant (double cab 4x4, 88 kWh); same specs 2025–2026, on sale since the August 2025 launch. Price: Rp 888 juta OTR Jakarta is the normal price quoted at Mining Indonesia, September 2026 (Rp 868 juta was a show pre-booking price). Earlier quotes were Rp 780 juta OTR Jakarta at launch (August 2025) and Rp 770 juta OTR on OTO/Moladin listings. Power: 294 hp (Katadata) converted at x0.7457 = 219 kW; iNews gives motor peaks of 70 kW front + 150 kW rear. The 201 hp on OTO/Moladin matches the rear motor alone and was not used. Torque: Indonesian sources quote 340 Nm, which is the rear motor only (iNews: front 176 Nm peak, rear 340 Nm peak), so the combined 516 Nm from the Malaysian spec (paultan.org, Autobuzz) is used instead. Range 340 km is quoted at a constant 60 km/h (no test cycle named); Katadata's 449 km and GIICOMVEC's 344.5 km were not used. DC: 100 kW, 20–80% in 40 min (launch releases); Moladin lists 30–80% in 35–40 min. AC charging is left out because sources disagree (Moladin 9.8 kW, Malaysian spec 11 kW). GVW 3,260 kg and payload 910 kg from iNews (Moladin lists 3,260 as 'vehicle weight', which matches the GVW, so kerb weight is left out). Towing 2,000 kg as quoted; braked/unbraked not stated. Warranty: JAC Indonesia states 8 years battery (as long as capacity stays at or above 80%), 1 year vehicle and 3 years electric motor; no km limits published. Local assembly is claimed for all JAC models (Pulogadung, PT National Assemblers).",
+      "notes_id": "Satu varian (kabin ganda 4x4, 88 kWh); spesifikasi sama 2025–2026, dijual sejak peluncuran Agustus 2025. Harga: Rp888 juta OTR Jakarta adalah harga normal yang disebut di Mining Indonesia, September 2026 (Rp868 juta harga pemesanan khusus pameran). Sebelumnya Rp780 juta OTR Jakarta saat peluncuran (Agustus 2025) dan Rp770 juta OTR di daftar OTO/Moladin. Tenaga: 294 hp (Katadata) dikonversi x0,7457 = 219 kW; iNews menyebut daya puncak motor depan 70 kW + belakang 150 kW. Angka 201 hp di OTO/Moladin hanya sesuai motor belakang sehingga tidak dipakai. Torsi: sumber Indonesia menyebut 340 Nm, yang merupakan motor belakang saja (iNews: depan 176 Nm, belakang 340 Nm), sehingga dipakai torsi gabungan 516 Nm dari spesifikasi Malaysia (paultan.org, Autobuzz). Jarak tempuh 340 km diukur pada kecepatan konstan 60 km/jam (siklus uji tidak disebut); angka 449 km (Katadata) dan 344,5 km (GIICOMVEC) tidak dipakai. DC: 100 kW, 20–80% dalam 40 menit (rilis peluncuran); Moladin menyebut 30–80% dalam 35–40 menit. Daya AC tidak dicantumkan karena sumber berbeda (Moladin 9,8 kW, spesifikasi Malaysia 11 kW). GVW 3.260 kg dan payload 910 kg dari iNews (Moladin mencantumkan 3.260 sebagai 'berat mobil', sama dengan GVW, sehingga berat kosong tidak dicantumkan). Kapasitas towing 2.000 kg sesuai kutipan; tidak disebut dengan atau tanpa rem. Garansi: JAC Indonesia menyebut baterai 8 tahun (selama kapasitas minimal 80%), kendaraan 1 tahun, dan motor listrik 3 tahun; batas km tidak dipublikasikan. Semua model JAC diklaim dirakit lokal (Pulogadung, PT National Assemblers)."
+    }
+  ]
+}

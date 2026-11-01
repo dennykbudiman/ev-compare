@@ -1,0 +1,1440 @@
+{
+  "make": "Wuling",
+  "model": "BinguoEV",
+  "trims": [
+    {
+      "id": "wuling-binguoev-2024-long-range",
+      "model_year": 2024,
+      "variant": "Long Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 358000000,
+        "battery_chemistry": "LFP",
+        "battery_ip": "IP67",
+        "battery_gross_kwh": 31.9,
+        "range_km": 333,
+        "power_kw": 50,
+        "battery_warranty": "Lifetime (core EV components; T&C apply)",
+        "length_mm": 3950,
+        "width_mm": 1708,
+        "height_mm": 1580,
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Jakarta OTR price at Dec 2023 launch (before VAT incentive). The Jan 2024 Yogyakarta release lists Long Range AC (Rp354 jt Yogyakarta OTR) and a Long Range AC DC version (Rp364 jt Yogyakarta OTR); no Jakarta price for the AC DC version was found, so it is not listed separately. Power: the Jan 2024 Wuling release says '50 kWh electric motor' (a typo for 50 kW). Range test standard not stated. First sold in December 2023 at the same specs and price.",
+      "notes_id": "Harga OTR Jakarta saat peluncuran Desember 2023 (sebelum insentif PPN). Rilis Yogyakarta Januari 2024 mencantumkan Long Range AC (Rp354 jt OTR Yogyakarta) dan versi Long Range AC DC (Rp364 jt OTR Yogyakarta); tidak ditemukan harga Jakarta untuk versi AC DC, sehingga tidak dicantumkan terpisah. Tenaga: rilis Wuling Januari 2024 menyebut '50 kWh electric motor' (salah ketik, seharusnya 50 kW). Standar pengujian jarak tempuh tidak disebutkan. Pertama dijual Desember 2023 dengan spesifikasi dan harga yang sama."
+    },
+    {
+      "id": "wuling-binguoev-2024-premium-range",
+      "model_year": 2024,
+      "variant": "Premium Range",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 408000000,
+        "battery_chemistry": "LFP",
+        "battery_ip": "IP67",
+        "battery_gross_kwh": 37.9,
+        "range_km": 410,
+        "power_kw": 50,
+        "battery_warranty": "Lifetime (core EV components; T&C apply)",
+        "length_mm": 3950,
+        "width_mm": 1708,
+        "height_mm": 1580,
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          },
+          {
+            "url": "https://wuling.id/en/blog/press-release/wulings-second-electric-car-binguoev-starts-being-marketed-to-yogyakarta-consumers",
+            "title": "Wuling's Second Electric Car, BinguoEV Starts being Marketed to Yogyakarta Consumers",
+            "date": "2024-01",
+            "type": "official"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7091607/wuling-umumkan-harga-binguoev-mulai-rp-358-juta",
+            "title": "Wuling Umumkan Harga BinguoEV Mulai Rp 358 Juta",
+            "date": "2023-12",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Jakarta OTR price at Dec 2023 launch (before VAT incentive). Premium Range has AC and DC charging. Discontinued in 2025 (katadata, July 2025). Power: the Jan 2024 Wuling release says '50 kWh electric motor' (a typo for 50 kW). Range test standard not stated. First sold in December 2023 at the same specs and price.",
+      "notes_id": "Harga OTR Jakarta saat peluncuran Desember 2023 (sebelum insentif PPN). Premium Range mendukung pengisian AC dan DC. Sudah tidak dijual sejak 2025 (katadata, Juli 2025). Tenaga: rilis Wuling Januari 2024 menyebut '50 kWh electric motor' (salah ketik, seharusnya 50 kW). Standar pengujian jarak tempuh tidak disebutkan. Pertama dijual Desember 2023 dengan spesifikasi dan harga yang sama."
+    },
+    {
+      "id": "wuling-binguoev-2025-lite",
+      "model_year": 2025,
+      "variant": "Lite",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 279000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 31.9,
+        "range_km": 333,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 50,
+        "torque_nm": 150,
+        "dc_10_80_min": 35,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 5.5,
+        "seats": 5,
+        "length_mm": 3950,
+        "width_mm": 1708,
+        "height_mm": 1580,
+        "wheelbase_mm": 2560,
+        "ground_clearance_mm": 130,
+        "kerb_weight_kg": 1120,
+        "tyre_size": "185/60 R15",
+        "airbags": 1,
+        "airbag_positions": "driver",
+        "top_speed_kmh": 120
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/binguo-ev/",
+            "title": "Wuling Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "New BinguoEV launched 11 July 2025; all variants now 31.9 kWh with DC fast charging (30–80% in 35 min; DC kW not published). Moladin lists power as '50 hp', which conflicts with Wuling's 50 kW; the official figure is used. Trunk 'up to 790 L' (seats folded) per Wuling, so boot_l is left out. Top speed 120 km/h only from Moladin's FAQ. Moladin's AC figure (about 5.5 h) is labelled 0–100% in the table and 20–100% in the FAQ. 2025 price is the official launch price (incentive included, Jakarta, launch period); katadata reported the Pro at Rp332 jt the same week.",
+      "notes_id": "BinguoEV baru diluncurkan 11 Juli 2025; semua varian kini 31,9 kWh dengan pengisian cepat DC (30–80% dalam 35 menit; DC kW tidak dipublikasikan). Moladin mencantumkan tenaga '50 hp', berbeda dengan 50 kW versi Wuling; dipakai angka resmi. Bagasi 'hingga 790 L' (jok dilipat) menurut Wuling, sehingga boot_l dikosongkan. Kecepatan maksimum 120 km/jam hanya dari FAQ Moladin. Angka AC Moladin (sekitar 5,5 jam) dilabeli 0–100% di tabel dan 20–100% di FAQ. Harga 2025 adalah harga peluncuran resmi (termasuk insentif, Jakarta, periode peluncuran); katadata melaporkan Pro seharga Rp332 jt pada pekan yang sama."
+    },
+    {
+      "id": "wuling-binguoev-2026-lite",
+      "model_year": 2026,
+      "variant": "Lite",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 318000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 31.9,
+        "range_km": 333,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 50,
+        "torque_nm": 150,
+        "dc_10_80_min": 35,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 5.5,
+        "seats": 5,
+        "length_mm": 3950,
+        "width_mm": 1708,
+        "height_mm": 1580,
+        "wheelbase_mm": 2560,
+        "ground_clearance_mm": 130,
+        "kerb_weight_kg": 1120,
+        "tyre_size": "185/60 R15",
+        "airbags": 1,
+        "airbag_positions": "driver",
+        "top_speed_kmh": 120
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/binguo-ev/",
+            "title": "Wuling Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/binguo-ev/",
+            "title": "Wuling Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "New BinguoEV launched 11 July 2025; all variants now 31.9 kWh with DC fast charging (30–80% in 35 min; DC kW not published). Moladin lists power as '50 hp', which conflicts with Wuling's 50 kW; the official figure is used. Trunk 'up to 790 L' (seats folded) per Wuling, so boot_l is left out. Top speed 120 km/h only from Moladin's FAQ. Moladin's AC figure (about 5.5 h) is labelled 0–100% in the table and 20–100% in the FAQ. 2026 price per Moladin (updated Oct 2026).",
+      "notes_id": "BinguoEV baru diluncurkan 11 Juli 2025; semua varian kini 31,9 kWh dengan pengisian cepat DC (30–80% dalam 35 menit; DC kW tidak dipublikasikan). Moladin mencantumkan tenaga '50 hp', berbeda dengan 50 kW versi Wuling; dipakai angka resmi. Bagasi 'hingga 790 L' (jok dilipat) menurut Wuling, sehingga boot_l dikosongkan. Kecepatan maksimum 120 km/jam hanya dari FAQ Moladin. Angka AC Moladin (sekitar 5,5 jam) dilabeli 0–100% di tabel dan 20–100% di FAQ. Harga 2026 menurut Moladin (diperbarui Oktober 2026)."
+    },
+    {
+      "id": "wuling-binguoev-2025-pro",
+      "model_year": 2025,
+      "variant": "Pro",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 317000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 31.9,
+        "range_km": 333,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 50,
+        "torque_nm": 150,
+        "dc_10_80_min": 35,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 5.5,
+        "seats": 5,
+        "length_mm": 3950,
+        "width_mm": 1708,
+        "height_mm": 1580,
+        "wheelbase_mm": 2560,
+        "ground_clearance_mm": 130,
+        "kerb_weight_kg": 1150,
+        "tyre_size": "185/60 R15",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "top_speed_kmh": 120
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/binguo-ev/",
+            "title": "Wuling Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "New BinguoEV launched 11 July 2025; all variants now 31.9 kWh with DC fast charging (30–80% in 35 min; DC kW not published). Moladin lists power as '50 hp', which conflicts with Wuling's 50 kW; the official figure is used. Trunk 'up to 790 L' (seats folded) per Wuling, so boot_l is left out. Top speed 120 km/h only from Moladin's FAQ. Moladin's AC figure (about 5.5 h) is labelled 0–100% in the table and 20–100% in the FAQ. Pro adds passenger airbag, LED lights, power driver seat, dual 10.25-inch screens with navigation and cruise control. 2025 price is the official launch price (incentive included, Jakarta, launch period); katadata reported the Pro at Rp332 jt the same week.",
+      "notes_id": "BinguoEV baru diluncurkan 11 Juli 2025; semua varian kini 31,9 kWh dengan pengisian cepat DC (30–80% dalam 35 menit; DC kW tidak dipublikasikan). Moladin mencantumkan tenaga '50 hp', berbeda dengan 50 kW versi Wuling; dipakai angka resmi. Bagasi 'hingga 790 L' (jok dilipat) menurut Wuling, sehingga boot_l dikosongkan. Kecepatan maksimum 120 km/jam hanya dari FAQ Moladin. Angka AC Moladin (sekitar 5,5 jam) dilabeli 0–100% di tabel dan 20–100% di FAQ. Pro menambahkan airbag penumpang, lampu LED, jok pengemudi elektrik, layar ganda 10,25 inci dengan navigasi, dan cruise control. Harga 2025 adalah harga peluncuran resmi (termasuk insentif, Jakarta, periode peluncuran); katadata melaporkan Pro seharga Rp332 jt pada pekan yang sama."
+    },
+    {
+      "id": "wuling-binguoev-2026-pro",
+      "model_year": 2026,
+      "variant": "Pro",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "assembly": "CKD Indonesia",
+        "price_otr_idr": 363000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 31.9,
+        "range_km": 333,
+        "range_standard": "CLTC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 50,
+        "torque_nm": 150,
+        "dc_10_80_min": 35,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 5.5,
+        "seats": 5,
+        "length_mm": 3950,
+        "width_mm": 1708,
+        "height_mm": 1580,
+        "wheelbase_mm": 2560,
+        "ground_clearance_mm": 130,
+        "kerb_weight_kg": 1150,
+        "tyre_size": "185/60 R15",
+        "airbags": 2,
+        "airbag_positions": "driver, front passenger",
+        "top_speed_kmh": 120
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://wuling.id/en/blog/press-release/discover-abc-stories-wulings-three-ev-lineups-manufactured-in-indonesia",
+            "title": "Discover ABC Stories, Wuling's Three EV Lineups Manufactured in Indonesia",
+            "date": "2024-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/binguo-ev/",
+            "title": "Wuling Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www3.wuling.id/?p=28515",
+            "title": "Wuling Launches New BinguoEV at the Wuling 8th Anniversary Event, Starting at Rp279 Million | Wuling",
+            "date": "2025-07",
+            "type": "official"
+          },
+          {
+            "url": "https://auto.katadata.co.id/car/wuling-binguoev-specifications-now-with-fast-charging-19563",
+            "title": "Wuling BinguoEV Specifications, Now with Fast Charging",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-new-binguo-ev/spesifikasi",
+            "title": "Spesifikasi Wuling New Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/binguo-ev/",
+            "title": "Wuling Binguo EV (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "New BinguoEV launched 11 July 2025; all variants now 31.9 kWh with DC fast charging (30–80% in 35 min; DC kW not published). Moladin lists power as '50 hp', which conflicts with Wuling's 50 kW; the official figure is used. Trunk 'up to 790 L' (seats folded) per Wuling, so boot_l is left out. Top speed 120 km/h only from Moladin's FAQ. Moladin's AC figure (about 5.5 h) is labelled 0–100% in the table and 20–100% in the FAQ. Pro adds passenger airbag, LED lights, power driver seat, dual 10.25-inch screens with navigation and cruise control. 2026 price per Moladin (updated Oct 2026).",
+      "notes_id": "BinguoEV baru diluncurkan 11 Juli 2025; semua varian kini 31,9 kWh dengan pengisian cepat DC (30–80% dalam 35 menit; DC kW tidak dipublikasikan). Moladin mencantumkan tenaga '50 hp', berbeda dengan 50 kW versi Wuling; dipakai angka resmi. Bagasi 'hingga 790 L' (jok dilipat) menurut Wuling, sehingga boot_l dikosongkan. Kecepatan maksimum 120 km/jam hanya dari FAQ Moladin. Angka AC Moladin (sekitar 5,5 jam) dilabeli 0–100% di tabel dan 20–100% di FAQ. Pro menambahkan airbag penumpang, lampu LED, jok pengemudi elektrik, layar ganda 10,25 inci dengan navigasi, dan cruise control. Harga 2026 menurut Moladin (diperbarui Oktober 2026)."
+    }
+  ]
+}

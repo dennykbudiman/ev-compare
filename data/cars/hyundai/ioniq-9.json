@@ -1,0 +1,366 @@
+{
+  "make": "Hyundai",
+  "model": "Ioniq 9",
+  "trims": [
+    {
+      "id": "hyundai-ioniq-9-2026-awd",
+      "model_year": 2026,
+      "variant": "AWD",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1490000000,
+        "battery_gross_kwh": 110.3,
+        "battery_chemistry": "NCM",
+        "range_km": 734,
+        "range_standard": "NEDC",
+        "drive": "AWD",
+        "power_kw": 315,
+        "torque_nm": 700,
+        "voltage_architecture": "800 V",
+        "dc_10_80_min": 24,
+        "seats": 7,
+        "accel_0_100_s": 5.2,
+        "motor_type": "PMSM",
+        "pack_nominal_voltage_v": 610,
+        "ac_max_kw": 10.5,
+        "onboard_charger_kw": 10.5,
+        "dc_max_kw": 350,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "heat_pump": true,
+        "length_mm": 5060,
+        "width_mm": 1980,
+        "height_mm": 1790,
+        "wheelbase_mm": 3130,
+        "ground_clearance_mm": 174,
+        "boot_l": 338,
+        "airbags": 10,
+        "tyre_size": "285/45 R21"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.gridoto.com/amp/224226816/hyundai-ioniq-9-dijual-dalam-tiga-varian-ini-yang-membedakan?page=all",
+            "title": "Hyundai IONIQ 9 Dijual Dalam Tiga Varian, Ini yang Membedakan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/berita-mobil/hyundai-ioniq-9-sudah-bisa-dipesan-dengan-harga-spesial-rp149-miliar-suv-listrik-flagship-sapa-giias-2026",
+            "title": "Hyundai Ioniq 9 Sudah Bisa Dipesan dengan Harga Spesial Rp1,49 Miliar, SUV Listrik Flagship Sapa GIIAS 2026",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/hyundai-ioniq-9-resmi-debut-di-giias-2026-jarak-tempuh-734-km",
+            "title": "Hyundai IONIQ 9 Resmi Debut di GIIAS 2026, Jarak Tempuh 734 Km",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "onboard_charger_kw": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.hyundai.com/content/dam/hyundai/au/en/models/ioniq-9-2025/docs/Hyundai-IONIQ-9-Specification-Sheet.pdf",
+            "title": "Hyundai IONIQ 9 Specification Sheet - Hyundai Australia",
+            "date": "2026-11",
+            "type": "official",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS 2026 (pre-booking 30 Jul-9 Aug 2026). No Indonesian variant name published; one AWD version. Price is the GIIAS special pre-booking price Rp1.49 billion; the regular list price (reportedly about Rp1.547 billion) was not confirmed by a source. Power 427.7 PS (= 315 kW). DC 10-80% 24 min on a 350 kW charger. NCM chemistry from a Korean-market report (global spec). CBU/CKD not stated. Motor type, pack voltage, AC/DC charging, connectors, V2L, heat pump, dimensions, ground clearance, boot (behind 3rd row), 10 airbags and tyres from the Australian 110.3 kWh AWD spec sheet (Hyundai Australia; rated 314 kW there).",
+      "notes_id": "Diluncurkan di GIIAS 2026 (pemesanan awal 30 Juli-9 Agustus 2026). Tidak ada nama varian Indonesia yang dipublikasikan; satu versi AWD. Harga adalah harga spesial pemesanan awal GIIAS Rp1,49 miliar; harga resmi reguler (kabarnya sekitar Rp1,547 miliar) belum dikonfirmasi sumber. Tenaga 427,7 PS (= 315 kW). DC 10-80% 24 menit dengan charger 350 kW. Kimia baterai NCM dari laporan pasar Korea (spesifikasi global). Status CBU/CKD tidak disebutkan. Jenis motor, tegangan paket, pengisian AC/DC, konektor, V2L, heat pump, dimensi, ground clearance, bagasi (di belakang baris ke-3), 10 airbag, dan ban dari lembar spesifikasi Australia 110,3 kWh AWD (Hyundai Australia; di sana 314 kW)."
+    }
+  ]
+}

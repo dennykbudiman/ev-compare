@@ -1,0 +1,430 @@
+{
+  "make": "Mazda",
+  "model": "6e",
+  "trims": [
+    {
+      "id": "mazda-6e-2026-fastback",
+      "model_year": 2026,
+      "variant": "Fastback",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 850000000,
+        "battery_gross_kwh": 77.94,
+        "range_km": 560,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 190,
+        "torque_nm": 290,
+        "ac_max_kw": 7.2,
+        "dc_max_kw": 194,
+        "dc_10_80_min": 24,
+        "length_mm": 4921,
+        "width_mm": 1890,
+        "height_mm": 1491,
+        "wheelbase_mm": 2895,
+        "ground_clearance_mm": 148,
+        "turning_radius_m": 5.6,
+        "frunk_l": 72,
+        "seats": 5,
+        "airbags": 9,
+        "tyre_size": "245/45 R19",
+        "headroom_front_mm": 988,
+        "headroom_rear_mm": 963,
+        "legroom_front_mm": 1059,
+        "legroom_rear_mm": 921,
+        "adas": "ACC, BSM, LDW, RCTA, SVM",
+        "accel_0_100_s": 7.9,
+        "top_speed_kmh": 175,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "battery_chemistry": "LFP",
+        "battery_usable_kwh": 77.0,
+        "voltage_architecture": "~400 V",
+        "heat_pump": true,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "boot_l": 456
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "headroom_front_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "headroom_rear_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "legroom_front_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "legroom_rear_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/mobil-baru/mazda/6e/spesifikasi",
+            "title": "Mazda 6E spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2026/07/30/mazda-6e-indonesia-launch-giias-2026/",
+            "title": "Mazda 6e launched in Indonesia at GIIAS 2026 - paultan.org",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://ev-database.org/car/3466/Mazda-6e-78-kWh",
+            "title": "Mazda 6e 78 kWh - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched GIIAS July 2026, single Fastback variant at Rp850 jt OTR Jakarta (oto.com). Indonesian 77.94 kWh / 258 PS (= 190 kW; oto.com says 254 hp) / RWD spec, not the European 68.8/80 kWh. AC: oto.com 7.2 kW vs paultan 11 kW (Thai car). DC 194 kW peak, 0-100 km/h 7.9 s and 175 km/h are Thai-market figures that paultan says should carry over (global spec). oto.com lists pack voltage 232-423 V and gross weight 2,440 kg. CBU/CKD not stated. Battery chemistry, usable capacity, ~400 V, heat pump, connectors, V2L 3.3 kW and boot from the European 78 kWh RWD spec (ev-database.org).",
+      "notes_id": "Diluncurkan di GIIAS Juli 2026, satu varian Fastback seharga Rp850 jt OTR Jakarta (oto.com). Spesifikasi Indonesia 77,94 kWh / 258 PS (= 190 kW; oto.com menyebut 254 hp) / RWD, bukan 68,8/80 kWh versi Eropa. AC: oto.com 7,2 kW vs paultan 11 kW (mobil Thailand). Puncak DC 194 kW, 0-100 km/jam 7,9 detik, dan 175 km/jam adalah angka pasar Thailand yang menurut paultan seharusnya berlaku juga (spesifikasi global). oto.com mencantumkan tegangan baterai 232-423 V dan bobot kotor 2.440 kg. Status CBU/CKD tidak disebutkan. Kimia baterai, kapasitas usable, ~400 V, heat pump, konektor, V2L 3,3 kW, dan bagasi dari spesifikasi Eropa 78 kWh RWD (ev-database.org)."
+    }
+  ]
+}

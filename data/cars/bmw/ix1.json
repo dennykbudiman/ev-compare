@@ -1,0 +1,436 @@
+{
+  "make": "BMW",
+  "model": "iX1",
+  "trims": [
+    {
+      "id": "bmw-ix1-2024-edrive20-m-sport",
+      "model_year": 2024,
+      "variant": "eDrive20 M Sport",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1379000000,
+        "battery_usable_kwh": 64.8,
+        "range_km": 439,
+        "range_standard": "WLTP",
+        "power_kw": 150,
+        "torque_nm": 250,
+        "accel_0_100_s": 8.6,
+        "top_speed_kmh": 170,
+        "ac_max_kw": 22,
+        "ac_full_hours": 6.5,
+        "dc_10_80_min": 29,
+        "length_mm": 4500,
+        "width_mm": 1845,
+        "height_mm": 1616,
+        "wheelbase_mm": 2692,
+        "kerb_weight_kg": 1940,
+        "adas": "Driving Assistant Plus, Parking Assistant Plus, High-beam assistant",
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_gross_kwh": 66.5,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 286,
+        "drive": "FWD",
+        "dc_max_kw": 130,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "boot_l": 490,
+        "seats": 5,
+        "airbags": 6,
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-ID-Price-announcement-of_2025.pdf.asset.1750308084479.pdf",
+            "title": "BMW Model Range 2025 price announcement (June 2025)",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/ix1/bmw-ix1-technical-data.html",
+            "title": "BMW iX1 SUV (U11): Technical data & engines of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-ID-Spec-card2024-iX1-eDrive20-M-Sport-04.pdf.asset.1721645977501.pdf",
+            "title": "BMW iX1 eDrive20 M Sport spec card (December 2023)",
+            "date": "2023-12",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.carbase.my/bmw/ix1/u11-ev/edrive20-m-sport-2025",
+            "title": "BMW iX1 eDrive20 M Sport (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carbase.my/bmw/ix1/u11-ev/edrive20-m-sport-2025",
+            "title": "BMW iX1 eDrive20 M Sport (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://press.bmwgroup.com/asia/article/detail/T0436925EN/attractive-introduction-to-the-world-of-premium-electric-mobility:-the-all-new-bmw-ix1-edrive20",
+            "title": "Attractive introduction to the world of premium electric mobility: the all-new BMW iX1 eDrive20 (BMW Group PressClub)",
+            "date": "2023-09",
+            "type": "official",
+            "market": "Global"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/bmw/ix1/u11-ev/edrive20-m-sport-2025",
+            "title": "BMW iX1 eDrive20 M Sport (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://press.bmwgroup.com/asia/article/detail/T0436925EN/attractive-introduction-to-the-world-of-premium-electric-mobility:-the-all-new-bmw-ix1-edrive20",
+            "title": "Attractive introduction to the world of premium electric mobility: the all-new BMW iX1 eDrive20 (BMW Group PressClub)",
+            "date": "2023-09",
+            "type": "official",
+            "market": "Global"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/bmw/ix1/u11-ev/edrive20-m-sport-2025",
+            "title": "BMW iX1 eDrive20 M Sport (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/bmw/ix1/u11-ev/edrive20-m-sport-2025",
+            "title": "BMW iX1 eDrive20 M Sport (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/bmw/ix1/u11-ev/edrive20-m-sport-2025",
+            "title": "BMW iX1 eDrive20 M Sport (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carbase.my/bmw/ix1/u11-ev/edrive20-m-sport-2025",
+            "title": "BMW iX1 eDrive20 M Sport (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/bmw/ix1/u11-ev/edrive20-m-sport-2025",
+            "title": "BMW iX1 eDrive20 M Sport (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1996/BMW-iX1-eDrive20",
+            "title": "BMW iX1 eDrive20 (MY23-25) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "NIK 2024 units, still sold in 2026. OTR Jakarta Rp1,379,000,000 (off-the-road Rp1,351,000,000); July 2024 OTR was Rp1,337,000,000. Range conflict: December 2023 spec card says up to 474 km WLTP, current technical page says 417-439 km WLTP (newer figure used). Height: spec card 1,642 mm vs technical page 1,616 mm (technical page used). AC 0-100% 6.5 h standard / 3.75 h with the optional 22 kW charger (spec card lists 22 kW AC charging Professional as fitted). Boot left out: the technical page prints '750 / 75 l', which looks like trailer/towbar loads rather than luggage volume. DC peak kW not published in Indonesia. BMW Indonesia lists a single battery figure; the spec card labels it net (usable), so it is stored as battery_usable_kwh. Gross capacity not published in Indonesia. Battery capacity (66.5 kWh), drive, DC power, connectors, boot, seats and airbags from the Malaysian spec (carbase.my), DC power and drive also in BMW's global press release; chemistry (NMC811), voltage, charge port, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "Unit NIK 2024, masih dijual pada 2026. OTR Jakarta Rp1.379.000.000 (off-the-road Rp1.351.000.000); OTR Juli 2024 Rp1.337.000.000. Jarak tempuh berbeda: kartu spesifikasi Desember 2023 menyebut hingga 474 km WLTP, halaman teknis terbaru menyebut 417-439 km WLTP (dipakai angka terbaru). Tinggi: kartu spesifikasi 1.642 mm vs halaman teknis 1.616 mm (dipakai halaman teknis). AC 0-100% 6,5 jam standar / 3,75 jam dengan charger opsional 22 kW (kartu spesifikasi mencantumkan pengisian AC 22 kW Professional sebagai perlengkapan terpasang). Bagasi dikosongkan: halaman teknis menulis '750 / 75 l', yang tampaknya beban trailer/towbar, bukan volume bagasi. Puncak DC kW tidak dipublikasikan di Indonesia. BMW Indonesia hanya mencantumkan satu angka baterai; kartu spesifikasi menyebutnya net (usable), sehingga disimpan sebagai battery_usable_kwh. Kapasitas gross tidak dipublikasikan di Indonesia. Kapasitas baterai (66,5 kWh), penggerak, daya DC, konektor, bagasi, jumlah kursi, dan airbag dari spesifikasi Malaysia (carbase.my), daya DC dan penggerak juga dari siaran pers global BMW; kimia baterai (NMC811), tegangan, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

@@ -1,0 +1,1132 @@
+{
+  "make": "BMW",
+  "model": "i5",
+  "trims": [
+    {
+      "id": "bmw-i5-2024-edrive40-m-sport",
+      "model_year": 2024,
+      "variant": "eDrive40 M Sport",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 2225000000,
+        "battery_usable_kwh": 81.2,
+        "range_km": 582,
+        "range_standard": "WLTP",
+        "power_kw": 250,
+        "torque_nm": 430,
+        "accel_0_100_s": 6.0,
+        "top_speed_kmh": 193,
+        "ac_max_kw": 22,
+        "ac_full_hours": 8.5,
+        "dc_max_kw": 205,
+        "dc_10_80_min": 30,
+        "length_mm": 5060,
+        "width_mm": 1900,
+        "height_mm": 1515,
+        "wheelbase_mm": 2995,
+        "kerb_weight_kg": 2205,
+        "boot_l": 490,
+        "adas": "Driving Assistant Professional, Parking Assistant Professional",
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_gross_kwh": 83.9,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "drive": "RWD",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-overview.html",
+            "title": "BMW i5 (G60): Models, technical data & prices",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-ID-Price-announcement-of_2025.pdf.asset.1750308084479.pdf",
+            "title": "BMW Model Range 2025 price announcement (June 2025)",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-overview.html",
+            "title": "BMW i5 (G60): Models, technical data & prices",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-overview.html",
+            "title": "BMW i5 (G60): Models, technical data & prices",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/BMW-i5-eDrive40-M-Sport.pdf.asset.1711447053042.pdf",
+            "title": "BMW i5 eDrive40 M Sport spec card",
+            "date": "2024-03",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/Topics/Specs/i5-20240314-01_EN_edit.pdf.asset.1711337624852.pdf",
+            "title": "BMW i5 technical data (BMW Thailand, effective 19 October 2023)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Thailand"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1906/BMW-i5-eDrive40-Sedan",
+            "title": "BMW i5 eDrive40 Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1906/BMW-i5-eDrive40-Sedan",
+            "title": "BMW i5 eDrive40 Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/bmw/i5/g60/edrive40-m-sport-2025/",
+            "title": "BMW i5 eDrive40 M Sport (G60) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.pml.com.sg/BMWi5_Specifications.pdf",
+            "title": "BMW i5 Specifications (Performance Munich Autos, BMW Singapore dealer, Jan 2025)",
+            "date": "2025-01",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/bmw/i5/g60/edrive40-m-sport-2024",
+            "title": "BMW i5 eDrive40 M Sport (2024) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1906/BMW-i5-eDrive40-Sedan",
+            "title": "BMW i5 eDrive40 Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/bmw/i5/g60/edrive40-m-sport-2024",
+            "title": "BMW i5 eDrive40 M Sport (2024) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1906/BMW-i5-eDrive40-Sedan",
+            "title": "BMW i5 eDrive40 Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1906/BMW-i5-eDrive40-Sedan",
+            "title": "BMW i5 eDrive40 Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/bmw/i5/g60/edrive40-m-sport-2025/",
+            "title": "BMW i5 eDrive40 M Sport (G60) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i5/g60/edrive40-m-sport-2024",
+            "title": "BMW i5 eDrive40 M Sport (2024) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/bmw/i5/g60/edrive40-m-sport-2025/",
+            "title": "BMW i5 eDrive40 M Sport (G60) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i5/g60/edrive40-m-sport-2024",
+            "title": "BMW i5 eDrive40 M Sport (2024) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/bmw/i5/g60/edrive40-m-sport-2025/",
+            "title": "BMW i5 eDrive40 M Sport (G60) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i5/g60/edrive40-m-sport-2024",
+            "title": "BMW i5 eDrive40 M Sport (2024) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1906/BMW-i5-eDrive40-Sedan",
+            "title": "BMW i5 eDrive40 Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1906/BMW-i5-eDrive40-Sedan",
+            "title": "BMW i5 eDrive40 Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1906/BMW-i5-eDrive40-Sedan",
+            "title": "BMW i5 eDrive40 Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "OTR Jakarta Rp2,225,000,000 (off-the-road Rp2,197,000,000); July 2024 OTR Rp2,205,000,000. Torque conflict: spec card 430 Nm, technical page 400 Nm (spec card used; global eDrive40 is 430 Nm with boost). AC: spec card lists 22 kW AC charging Professional; technical page gives 11 kW / 8.5 h. NIK 2024 units, still in the 2026 price lists. BMW Indonesia lists a single battery figure; the spec card labels it net (usable), so it is stored as battery_usable_kwh. Gross capacity not published in Indonesia. DC 205 kW, 10-80% in 30 min from the technical page. Drive, seats, airbags and connectors from the Malaysian spec (paultan.org, carbase.my; the Thai sheet lists 9 airbags incl. a driver centre airbag); battery energy content 83.9 kWh from the Thai technical data (bmw.co.th, gross/net not labelled; ev-database.org gives 84.4 kWh nominal); chemistry, voltage, charge port, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "OTR Jakarta Rp2.225.000.000 (off-the-road Rp2.197.000.000); OTR Juli 2024 Rp2.205.000.000. Torsi berbeda: kartu spesifikasi 430 Nm, halaman teknis 400 Nm (dipakai kartu spesifikasi; eDrive40 global 430 Nm dengan boost). AC: kartu spesifikasi mencantumkan pengisian AC 22 kW Professional; halaman teknis menyebut 11 kW / 8,5 jam. Unit NIK 2024, masih ada di daftar harga 2026. BMW Indonesia hanya mencantumkan satu angka baterai; kartu spesifikasi menyebutnya net (usable), sehingga disimpan sebagai battery_usable_kwh. Kapasitas gross tidak dipublikasikan di Indonesia. DC 205 kW, 10-80% dalam 30 menit menurut halaman teknis. Penggerak, jumlah kursi, airbag, dan konektor dari spesifikasi Malaysia (paultan.org, carbase.my; lembar data Thailand menyebut 9 airbag termasuk airbag tengah pengemudi); kapasitas energi baterai 83,9 kWh dari data teknis Thailand (bmw.co.th, gross/net tidak disebut; ev-database.org menyebut 84,4 kWh nominal); kimia baterai, tegangan, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "bmw-i5-2024-m60-xdrive",
+      "model_year": 2024,
+      "variant": "M60 xDrive",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 2830000000,
+        "battery_usable_kwh": 81.2,
+        "range_km": 540,
+        "range_standard": "WLTP",
+        "power_kw": 442,
+        "torque_nm": 795,
+        "accel_0_100_s": 3.8,
+        "top_speed_kmh": 230,
+        "ac_max_kw": 22,
+        "dc_max_kw": 205,
+        "dc_10_80_min": 30,
+        "length_mm": 5060,
+        "width_mm": 1900,
+        "height_mm": 1505,
+        "wheelbase_mm": 2995,
+        "kerb_weight_kg": 2370,
+        "boot_l": 490,
+        "adas": "Driving Assistant Professional, Parking Assistant Professional",
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_gross_kwh": 83.9,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "drive": "AWD",
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-overview.html",
+            "title": "BMW i5 (G60): Models, technical data & prices",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-ID-Price-announcement-of_2025.pdf.asset.1750308084479.pdf",
+            "title": "BMW Model Range 2025 price announcement (June 2025)",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/2024/specsheet/BMW-i5-M60-xDrive.pdf.asset.1724690291146.pdf",
+            "title": "BMW i5 M60 xDrive spec card",
+            "date": "2024-08",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/Topics/Specs/i5-20240314-01_EN_edit.pdf.asset.1711337624852.pdf",
+            "title": "BMW i5 technical data (BMW Thailand, effective 19 October 2023)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://paultan.org/research/bmw/i5/g60/m60-xdrive-2024/",
+            "title": "BMW i5 M60 xDrive (G60) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+            "title": "BMW i5 M60 xDrive Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+            "title": "BMW i5 M60 xDrive Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/bmw/i5/g60/m60-xdrive-2024/",
+            "title": "BMW i5 M60 xDrive (G60) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.bmw.co.th/content/dam/bmw/marketTH/bmw_co_th/Topics/Specs/i5-20240314-01_EN_edit.pdf.asset.1711337624852.pdf",
+            "title": "BMW i5 technical data (BMW Thailand, effective 19 October 2023)",
+            "date": "2024-03",
+            "type": "official",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://www.pml.com.sg/BMWi5_Specifications.pdf",
+            "title": "BMW i5 Specifications (Performance Munich Autos, BMW Singapore dealer, Jan 2025)",
+            "date": "2025-01",
+            "type": "official",
+            "market": "Singapore"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/bmw/i5/g60/m60-xdrive-2024/",
+            "title": "BMW i5 M60 xDrive (G60) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/bmw/i5/g60/m60-xdrive-2024/",
+            "title": "BMW i5 M60 xDrive (G60) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+            "title": "BMW i5 M60 xDrive Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+            "title": "BMW i5 M60 xDrive Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+            "title": "BMW i5 M60 xDrive Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+            "title": "BMW i5 M60 xDrive Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+            "title": "BMW i5 M60 xDrive Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan",
+            "title": "BMW i5 M60 xDrive Sedan (MY23-24) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "OTR Jakarta Rp2,830,000,000 (off-the-road Rp2,802,000,000); July 2024 OTR Rp2,805,000,000. Range: technical page 472-540 km WLTP; the Indonesian spec card (21-inch wheels) says 516 km. AC 0-100%: 8.5 h at 11 kW, 4.25 h at 22 kW. NIK 2024 units, still in the 2026 price lists. BMW Indonesia lists a single battery figure; the spec card labels it net (usable), so it is stored as battery_usable_kwh. Gross capacity not published in Indonesia. DC 205 kW, 10-80% in 30 min from the technical page. Drive, seats and airbag positions from the Malaysian spec (paultan.org); battery energy content 83.9 kWh from the Thai technical data (bmw.co.th) and paultan.org (gross/net not labelled); chemistry, voltage, connectors, charge port, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "OTR Jakarta Rp2.830.000.000 (off-the-road Rp2.802.000.000); OTR Juli 2024 Rp2.805.000.000. Jarak tempuh: halaman teknis 472-540 km WLTP; kartu spesifikasi Indonesia (pelek 21 inci) menyebut 516 km. AC 0-100%: 8,5 jam pada 11 kW, 4,25 jam pada 22 kW. Unit NIK 2024, masih ada di daftar harga 2026. BMW Indonesia hanya mencantumkan satu angka baterai; kartu spesifikasi menyebutnya net (usable), sehingga disimpan sebagai battery_usable_kwh. Kapasitas gross tidak dipublikasikan di Indonesia. DC 205 kW, 10-80% dalam 30 menit menurut halaman teknis. Penggerak, jumlah kursi, dan posisi airbag dari spesifikasi Malaysia (paultan.org); kapasitas energi baterai 83,9 kWh dari data teknis Thailand (bmw.co.th) dan paultan.org (gross/net tidak disebut); kimia baterai, tegangan, konektor, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "bmw-i5-2024-edrive40-touring",
+      "model_year": 2024,
+      "variant": "eDrive40 Touring",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 2275000000,
+        "battery_usable_kwh": 81.2,
+        "range_km": 602,
+        "range_standard": "WLTP",
+        "power_kw": 250,
+        "torque_nm": 430,
+        "accel_0_100_s": 6.1,
+        "top_speed_kmh": 193,
+        "ac_max_kw": 22,
+        "ac_full_hours": 8.5,
+        "dc_max_kw": 205,
+        "dc_10_80_min": 30,
+        "length_mm": 5060,
+        "width_mm": 1900,
+        "height_mm": 1505,
+        "wheelbase_mm": 2995,
+        "kerb_weight_kg": 2255,
+        "boot_l": 570,
+        "adas": "Driving Assistant Professional, Parking Assistant Plus",
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_chemistry": "NMC",
+        "drive": "RWD",
+        "voltage_architecture": "~400 V",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-ID-Price-announcement-of_2025.pdf.asset.1750308084479.pdf",
+            "title": "BMW Model Range 2025 price announcement (June 2025)",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i5/bmw-i5-technical-data.html",
+            "title": "BMW i5: technical data (bmw.co.id)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/all-models/i-series/i5/spec_card_BMW_i5_edrive40_touring.pdf.asset.1726578284656.pdf",
+            "title": "BMW i5 eDrive40 Touring spec card",
+            "date": "2024-09",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://evkx.net/models/bmw/i5/i5_edrive40_touring/specifications/",
+            "title": "BMW i5 eDrive40 Touring specifications - EVKX.net",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://evkx.net/models/bmw/i5/i5_edrive40_touring/specifications/",
+            "title": "BMW i5 eDrive40 Touring specifications - EVKX.net",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://evkx.net/models/bmw/i5/i5_edrive40_touring/specifications/",
+            "title": "BMW i5 eDrive40 Touring specifications - EVKX.net",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://evkx.net/models/bmw/i5/i5_edrive40_touring/specifications/",
+            "title": "BMW i5 eDrive40 Touring specifications - EVKX.net",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://evkx.net/models/bmw/i5/i5_edrive40_touring/specifications/",
+            "title": "BMW i5 eDrive40 Touring specifications - EVKX.net",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://evkx.net/models/bmw/i5/i5_edrive40_touring/specifications/",
+            "title": "BMW i5 eDrive40 Touring specifications - EVKX.net",
+            "date": "2026-07",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Estate (Touring) body; the segment list has no wagon class, so filed as Sedan. Launched in Indonesia 2024 (NIK 2024 units, not in the July 2024 list; first listed June 2025). OTR Jakarta Rp2,275,000,000 (off-the-road Rp2,247,000,000). Range: technical page 493-602 km WLTP, spec card 560 km. Height: spec card 1,515 mm vs technical page 1,505 mm. Torque: spec card 430 Nm vs technical page 400 Nm. Boot 570-1,700 l. AC 0-100%: 8.5 h at 11 kW, 4.25 h at 22 kW. NIK 2024 units, still in the 2026 price lists. BMW Indonesia lists a single battery figure; the spec card labels it net (usable), so it is stored as battery_usable_kwh. Gross capacity not published in Indonesia. DC 205 kW, 10-80% in 30 min from the technical page. Chemistry, drive, voltage, DC connector, charge port and seats from the European spec of the i5 eDrive40 Touring (evkx.net); matched on 81.2 kWh usable and 250 kW. No Southeast Asian Touring spec found.",
+      "notes_id": "Bodi estate (Touring); daftar segmen tidak punya kelas wagon, jadi dimasukkan sebagai Sedan. Diluncurkan di Indonesia pada 2024 (unit NIK 2024, belum ada di daftar Juli 2024; pertama kali tercantum Juni 2025). OTR Jakarta Rp2.275.000.000 (off-the-road Rp2.247.000.000). Jarak tempuh: halaman teknis 493-602 km WLTP, kartu spesifikasi 560 km. Tinggi: kartu spesifikasi 1.515 mm vs halaman teknis 1.505 mm. Torsi: kartu spesifikasi 430 Nm vs halaman teknis 400 Nm. Bagasi 570-1.700 l. AC 0-100%: 8,5 jam pada 11 kW, 4,25 jam pada 22 kW. Unit NIK 2024, masih ada di daftar harga 2026. BMW Indonesia hanya mencantumkan satu angka baterai; kartu spesifikasi menyebutnya net (usable), sehingga disimpan sebagai battery_usable_kwh. Kapasitas gross tidak dipublikasikan di Indonesia. DC 205 kW, 10-80% dalam 30 menit menurut halaman teknis. Kimia baterai, penggerak, tegangan, konektor DC, posisi port pengisian, dan jumlah kursi dari spesifikasi Eropa i5 eDrive40 Touring (evkx.net); dicocokkan pada 81,2 kWh bersih dan 250 kW. Spesifikasi Touring Asia Tenggara tidak ditemukan."
+    }
+  ]
+}

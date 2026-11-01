@@ -1,0 +1,777 @@
+{
+  "make": "Kia",
+  "model": "EV9",
+  "trims": [
+    {
+      "id": "kia-ev9-2026-earth",
+      "model_year": 2026,
+      "variant": "Earth",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1568300000,
+        "battery_gross_kwh": 99.8,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 283,
+        "torque_nm": 700,
+        "seats": 7,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "dc_max_kw": 350,
+        "top_speed_kmh": 200,
+        "length_mm": 5015,
+        "width_mm": 1980,
+        "height_mm": 1780,
+        "wheelbase_mm": 3100
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Earth added mid-2024 below the GT-Line. oto.com lists 99 kWh / 380 hp (= 283 kW) for both variants and a model-level 99.8 kWh, AWD, 2-motor, 700 Nm table; no Earth-specific range, wheels or dimensions found. GT-Line adds rear seat heating/ventilation, memory seats and Park Assist. Same specs 2024-2026. 800 V, AC 11 kW, DC 350 kW, dimensions and top speed from the Malaysian EV9 GT-Line AWD spec (paultan.org; same 99.8 kWh / 283 kW AWD powertrain, Earth trim not sold there).",
+      "notes_id": "Earth ditambahkan pertengahan 2024 di bawah GT-Line. oto.com mencantumkan 99 kWh / 380 hp (= 283 kW) untuk kedua varian serta tabel tingkat model 99,8 kWh, AWD, 2 motor, 700 Nm; tidak ditemukan jarak tempuh, pelek, atau dimensi khusus Earth. GT-Line menambahkan pemanas/ventilasi jok belakang, jok memori, dan Park Assist. Spesifikasi sama 2024-2026. 800 V, AC 11 kW, DC 350 kW, dimensi, dan kecepatan maksimum dari spesifikasi Malaysia EV9 GT-Line AWD (paultan.org; powertrain 99,8 kWh / 283 kW AWD yang sama, varian Earth tidak dijual di sana)."
+    },
+    {
+      "id": "kia-ev9-2026-gt-line",
+      "model_year": 2026,
+      "variant": "GT-Line",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1985000000,
+        "battery_gross_kwh": 99.8,
+        "battery_cooling": "Liquid",
+        "range_km": 497,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "drive": "AWD",
+        "motor_type": "PMSM",
+        "power_kw": 283,
+        "torque_nm": 700,
+        "ac_max_kw": 11,
+        "ac_full_hours": 9,
+        "dc_10_80_min": 24,
+        "length_mm": 5015,
+        "width_mm": 1980,
+        "height_mm": 1780,
+        "wheelbase_mm": 3100,
+        "ground_clearance_mm": 203,
+        "boot_l": 333,
+        "seats": 7,
+        "airbags": 10,
+        "tyre_size": "285/45 R21",
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "adas": "AEB (FCA), ACC, LFA, LKA, BSM, RCTA",
+        "voltage_architecture": "800 V",
+        "dc_max_kw": 350,
+        "kerb_weight_kg": 2648,
+        "top_speed_kmh": 200
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/kia/ev9/spesifikasi",
+            "title": "Kia EV9 spesifikasi - oto.com",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/perbandingan/kia-ev9-gt-line",
+            "title": "KIA EV9 GT Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/kia-ev9-gt-line",
+            "title": "KIA EV9 GT Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/perbandingan/kia-ev9-gt-line",
+            "title": "KIA EV9 GT Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/kia-ev9-gt-line",
+            "title": "KIA EV9 GT Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/kia-ev9-gt-line",
+            "title": "KIA EV9 GT Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/kia-ev9-gt-line",
+            "title": "KIA EV9 GT Line - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.kia.com/id/showroom/ev9/specification.html",
+            "title": "Kia EV9 Specification - Kia Indonesia",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched GIIAS 2023. Power 385 PS (= 283 kW) per Kia Indonesia (Viva says 385 hp). DC 10-80% 24 min on a 350 kW charger (83 min on 50 kW). Range standard WLTP per Moladin only. Moladin shows the Earth price (Rp1.57 billion) on its GT-Line page; GT-Line OTR Jakarta is Rp1.985 billion (Viva, oto.com). Same specs 2024-2026. 800 V, DC 350 kW, weight and top speed from the Malaysian GT-Line AWD 7-seater spec (paultan.org).",
+      "notes_id": "Diluncurkan di GIIAS 2023. Tenaga 385 PS (= 283 kW) menurut Kia Indonesia (Viva menyebut 385 hp). DC 10-80% 24 menit dengan charger 350 kW (83 menit dengan 50 kW). Standar jarak tempuh WLTP hanya menurut Moladin. Moladin menampilkan harga Earth (Rp1,57 miliar) di halaman GT-Line; OTR Jakarta GT-Line adalah Rp1,985 miliar (Viva, oto.com). Spesifikasi sama 2024-2026. 800 V, DC 350 kW, berat, dan kecepatan maksimum dari spesifikasi Malaysia GT-Line AWD 7 kursi (paultan.org)."
+    },
+    {
+      "id": "kia-ev9-2023-gt-line",
+      "model_year": 2023,
+      "variant": "GT-Line",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1975000000,
+        "battery_gross_kwh": 99.8,
+        "range_km": 497,
+        "motor_count": 2,
+        "power_kw": 283,
+        "torque_nm": 700,
+        "ac_max_kw": 11,
+        "ac_full_hours": 10.75,
+        "v2l": true,
+        "accel_0_100_s": 5.3,
+        "adas": "AEB (FCA), LKA, ACC (SCC), BCA, HDP",
+        "drive": "AWD",
+        "voltage_architecture": "800 V",
+        "dc_max_kw": 350,
+        "v2l_kw": 3.6,
+        "kerb_weight_kg": 2648,
+        "boot_l": 333,
+        "seats": 7,
+        "top_speed_kmh": 200,
+        "length_mm": 5015,
+        "width_mm": 1980,
+        "height_mm": 1780,
+        "wheelbase_mm": 3100
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223861600/kia-luncurkan-kia-ev9-di-giias-2023-perdana-di-asia-tenggara?page=all",
+            "title": "KIA Luncurkan KIA EV9 di GIIAS 2023, Perdana di Asia Tenggara",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223861600/kia-luncurkan-kia-ev9-di-giias-2023-perdana-di-asia-tenggara?page=all",
+            "title": "KIA Luncurkan KIA EV9 di GIIAS 2023, Perdana di Asia Tenggara",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223861600/kia-luncurkan-kia-ev9-di-giias-2023-perdana-di-asia-tenggara?page=all",
+            "title": "KIA Luncurkan KIA EV9 di GIIAS 2023, Perdana di Asia Tenggara",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223861600/kia-luncurkan-kia-ev9-di-giias-2023-perdana-di-asia-tenggara?page=all",
+            "title": "KIA Luncurkan KIA EV9 di GIIAS 2023, Perdana di Asia Tenggara",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223861600/kia-luncurkan-kia-ev9-di-giias-2023-perdana-di-asia-tenggara?page=all",
+            "title": "KIA Luncurkan KIA EV9 di GIIAS 2023, Perdana di Asia Tenggara",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/223861600/kia-luncurkan-kia-ev9-di-giias-2023-perdana-di-asia-tenggara?page=all",
+            "title": "KIA Luncurkan KIA EV9 di GIIAS 2023, Perdana di Asia Tenggara",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-6876019/kia-ev9-gt-line-meluncur-di-indonesia-harga-nyaris-rp-2-m",
+            "title": "Kia EV9 GT-Line Meluncur di Indonesia, Harga Nyaris Rp 2 M",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev9/mv/gt-line-awd-(7-seater)-2026/",
+            "title": "Kia EV9 GT-Line AWD (7-Seater) - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS 10-14 Aug 2023 (first in Southeast Asia) at Rp1.975 billion OTR Jakarta and surroundings. Power 385 PS (= 283 kW), dual motors; drive layout not stated cleanly (Detik mentions AWD only next to EV6 GT figures), so left out. Range 497 km, standard not stated. AC about 10 h 45 min on an 11 kW wallbox; DC about 23 min on a 250 kW charger (window not stated). V2V also listed. Price later Rp1.985 billion; same specs 2023-2026. Drive, 800 V, DC 350 kW, V2L 3.6 kW, dimensions, weight, boot, seats and top speed from the Malaysian GT-Line AWD 7-seater spec (paultan.org).",
+      "notes_id": "Diluncurkan di GIIAS 10-14 Agustus 2023 (pertama di Asia Tenggara) seharga Rp1,975 miliar OTR Jakarta dan sekitarnya. Tenaga 385 PS (= 283 kW), dua motor; jenis penggerak tidak disebutkan dengan jelas (Detik menyebut AWD hanya di dekat data EV6 GT), sehingga tidak diisi. Jarak tempuh 497 km, standar tidak disebutkan. AC sekitar 10 jam 45 menit dengan wallbox 11 kW; DC sekitar 23 menit dengan charger 250 kW (rentang tidak disebutkan). V2V juga tercantum. Harga kemudian Rp1,985 miliar; spesifikasi sama 2023-2026. Penggerak, 800 V, DC 350 kW, V2L 3,6 kW, dimensi, berat, bagasi, jumlah kursi, dan kecepatan maksimum dari spesifikasi Malaysia GT-Line AWD 7 kursi (paultan.org)."
+    }
+  ]
+}

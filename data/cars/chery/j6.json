@@ -1,0 +1,2830 @@
+{
+  "make": "Chery",
+  "model": "J6",
+  "trims": [
+    {
+      "id": "chery-j6-2025-rwd",
+      "model_year": 2025,
+      "variant": "RWD",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 498000000,
+        "battery_gross_kwh": 65.69,
+        "range_km": 426,
+        "motor_count": 1,
+        "drive": "RWD",
+        "torque_nm": 220,
+        "accel_0_100_s": 10.5,
+        "power_kw": 135,
+        "tyre_size": "235/60 R18",
+        "battery_chemistry": "LFP",
+        "segment": "SUV",
+        "length_mm": 4406,
+        "width_mm": 1910,
+        "height_mm": 1715,
+        "range_standard": "NEDC",
+        "ground_clearance_mm": 223,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "AEB, ACC, LKA, LDW, LCW, BSM, RCTA, FCW, RCW, DOW, TJA",
+        "wheelbase_mm": 2715,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "boot_l": 450,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "top_speed_kmh": 150,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launch price (GJAW 2024, OTR Jakarta). Launched at GJAW Nov 2024 (formerly iCar 03 in China). Power converted from detik's 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews and Moladin quote 184 / 275 hp. Battery 65.69/69.77 kWh (antaranews), Moladin 65.7/69.8, detik 65.6/69.7. Dimensions: Chery/antaranews 4,406x1,910x1,715 mm; Moladin lists 4,400x1,855x1,680 and 200 mm clearance, detik 4,338 mm long — official figure used. Ground clearance 223 mm unladen / 195 mm laden (antaranews; Chery says 195). Moladin: AC 7 kW (6-7 h), DC 100-120 kW (about 30 min); 100 kW recorded. Top speed and charging connectors from the Malaysian spec of the identical iCaur 03 2WD (paultan.org, 65.69 kWh / 184 PS / 220 Nm).",
+      "notes_id": "Harga peluncuran (GJAW 2024, OTR Jakarta). Diluncurkan di GJAW November 2024 (di China bernama iCar 03). Tenaga dikonversi dari angka detik 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews dan Moladin menyebut 184 / 275 hp. Baterai 65,69/69,77 kWh (antaranews), Moladin 65,7/69,8, detik 65,6/69,7. Dimensi: Chery/antaranews 4.406x1.910x1.715 mm; Moladin mencantumkan 4.400x1.855x1.680 dan ground clearance 200 mm, detik panjang 4.338 mm — dipakai angka resmi. Ground clearance 223 mm kosong / 195 mm bermuatan (antaranews; Chery menyebut 195). Moladin: AC 7 kW (6-7 jam), DC 100-120 kW (sekitar 30 menit); dicatat 100 kW. Kecepatan maksimum dan konektor pengisian dari spesifikasi Malaysia untuk iCaur 03 2WD yang identik (paultan.org, 65,69 kWh / 184 PS / 220 Nm)."
+    },
+    {
+      "id": "chery-j6-2025-rwd-phantom",
+      "model_year": 2025,
+      "variant": "RWD Phantom",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 548000000,
+        "battery_gross_kwh": 65.69,
+        "range_km": 426,
+        "motor_count": 1,
+        "drive": "RWD",
+        "torque_nm": 220,
+        "accel_0_100_s": 10.5,
+        "power_kw": 135,
+        "tyre_size": "235/60 R18",
+        "battery_chemistry": "LFP",
+        "segment": "SUV",
+        "length_mm": 4406,
+        "width_mm": 1910,
+        "height_mm": 1715,
+        "range_standard": "NEDC",
+        "ground_clearance_mm": 223,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "AEB, ACC, LKA, LDW, LCW, BSM, RCTA, FCW, RCW, DOW, TJA",
+        "wheelbase_mm": 2715,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "boot_l": 450,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "top_speed_kmh": 150,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launch price; Phantom Edition limited to 300 units at launch, later a regular trim. Launched at GJAW Nov 2024 (formerly iCar 03 in China). Power converted from detik's 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews and Moladin quote 184 / 275 hp. Battery 65.69/69.77 kWh (antaranews), Moladin 65.7/69.8, detik 65.6/69.7. Dimensions: Chery/antaranews 4,406x1,910x1,715 mm; Moladin lists 4,400x1,855x1,680 and 200 mm clearance, detik 4,338 mm long — official figure used. Ground clearance 223 mm unladen / 195 mm laden (antaranews; Chery says 195). Moladin: AC 7 kW (6-7 h), DC 100-120 kW (about 30 min); 100 kW recorded. Top speed and charging connectors from the Malaysian spec of the identical iCaur 03 2WD (paultan.org, 65.69 kWh / 184 PS / 220 Nm).",
+      "notes_id": "Harga peluncuran; Phantom Edition dibatasi 300 unit saat peluncuran, kemudian menjadi tipe reguler. Diluncurkan di GJAW November 2024 (di China bernama iCar 03). Tenaga dikonversi dari angka detik 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews dan Moladin menyebut 184 / 275 hp. Baterai 65,69/69,77 kWh (antaranews), Moladin 65,7/69,8, detik 65,6/69,7. Dimensi: Chery/antaranews 4.406x1.910x1.715 mm; Moladin mencantumkan 4.400x1.855x1.680 dan ground clearance 200 mm, detik panjang 4.338 mm — dipakai angka resmi. Ground clearance 223 mm kosong / 195 mm bermuatan (antaranews; Chery menyebut 195). Moladin: AC 7 kW (6-7 jam), DC 100-120 kW (sekitar 30 menit); dicatat 100 kW. Kecepatan maksimum dan konektor pengisian dari spesifikasi Malaysia untuk iCaur 03 2WD yang identik (paultan.org, 65,69 kWh / 184 PS / 220 Nm)."
+    },
+    {
+      "id": "chery-j6-2025-iwd",
+      "model_year": 2025,
+      "variant": "iWD",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 558000000,
+        "battery_gross_kwh": 69.77,
+        "range_km": 418,
+        "motor_count": 2,
+        "drive": "AWD",
+        "accel_0_100_s": 6.5,
+        "top_speed_kmh": 150,
+        "power_kw": 205,
+        "torque_nm": 385,
+        "tyre_size": "255/55 R19",
+        "segment": "SUV",
+        "length_mm": 4406,
+        "width_mm": 1910,
+        "height_mm": 1715,
+        "range_standard": "NEDC",
+        "ground_clearance_mm": 223,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "AEB, ACC, LKA, LDW, LCW, BSM, RCTA, FCW, RCW, DOW, TJA",
+        "battery_chemistry": "LFP",
+        "wheelbase_mm": 2715,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "boot_l": 450,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "kerb_weight_kg": 1874,
+        "wading_mm": 600
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/iwd-2025/",
+            "title": "iCaur 03 iWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://www.wapcar.my/news/priced-from-rm-119800-icaur-03-launched-in-malaysia-2-variants-up-to-279-ps-385-nm-426-km-nedc-746458",
+            "title": "Priced from RM 119,800, iCaur 03 launched in Malaysia – 2 variants, up to 279 PS/385 Nm, 426 km NEDC",
+            "date": "2025-09",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launch price (GJAW 2024). Torque 385 Nm combined per Moladin (detik: 165 front + 220 rear). Launched at GJAW Nov 2024 (formerly iCar 03 in China). Power converted from detik's 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews and Moladin quote 184 / 275 hp. Battery 65.69/69.77 kWh (antaranews), Moladin 65.7/69.8, detik 65.6/69.7. Dimensions: Chery/antaranews 4,406x1,910x1,715 mm; Moladin lists 4,400x1,855x1,680 and 200 mm clearance, detik 4,338 mm long — official figure used. Ground clearance 223 mm unladen / 195 mm laden (antaranews; Chery says 195). Moladin: AC 7 kW (6-7 h), DC 100-120 kW (about 30 min); 100 kW recorded. Kerb weight (paultan.org) and wading depth (WapCar) from the Malaysian spec of the identical iCaur 03 iWD (69.77 kWh / 279 PS / 385 Nm).",
+      "notes_id": "Harga peluncuran (GJAW 2024). Torsi gabungan 385 Nm menurut Moladin (detik: 165 depan + 220 belakang). Diluncurkan di GJAW November 2024 (di China bernama iCar 03). Tenaga dikonversi dari angka detik 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews dan Moladin menyebut 184 / 275 hp. Baterai 65,69/69,77 kWh (antaranews), Moladin 65,7/69,8, detik 65,6/69,7. Dimensi: Chery/antaranews 4.406x1.910x1.715 mm; Moladin mencantumkan 4.400x1.855x1.680 dan ground clearance 200 mm, detik panjang 4.338 mm — dipakai angka resmi. Ground clearance 223 mm kosong / 195 mm bermuatan (antaranews; Chery menyebut 195). Moladin: AC 7 kW (6-7 jam), DC 100-120 kW (sekitar 30 menit); dicatat 100 kW. Berat kosong (paultan.org) dan kedalaman arungan (WapCar) dari spesifikasi Malaysia untuk iCaur 03 iWD yang identik (69,77 kWh / 279 PS / 385 Nm)."
+    },
+    {
+      "id": "chery-j6-2025-iwd-phantom",
+      "model_year": 2025,
+      "variant": "iWD Phantom",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 608000000,
+        "battery_gross_kwh": 69.77,
+        "range_km": 418,
+        "motor_count": 2,
+        "drive": "AWD",
+        "accel_0_100_s": 6.5,
+        "top_speed_kmh": 150,
+        "power_kw": 205,
+        "torque_nm": 385,
+        "tyre_size": "255/55 R19",
+        "segment": "SUV",
+        "length_mm": 4406,
+        "width_mm": 1910,
+        "height_mm": 1715,
+        "range_standard": "NEDC",
+        "ground_clearance_mm": 223,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "AEB, ACC, LKA, LDW, LCW, BSM, RCTA, FCW, RCW, DOW, TJA",
+        "battery_chemistry": "LFP",
+        "wheelbase_mm": 2715,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "boot_l": 450,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "kerb_weight_kg": 1874,
+        "wading_mm": 600
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/iwd-2025/",
+            "title": "iCaur 03 iWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://www.wapcar.my/news/priced-from-rm-119800-icaur-03-launched-in-malaysia-2-variants-up-to-279-ps-385-nm-426-km-nedc-746458",
+            "title": "Priced from RM 119,800, iCaur 03 launched in Malaysia – 2 variants, up to 279 PS/385 Nm, 426 km NEDC",
+            "date": "2025-09",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launch price; Phantom Edition limited to 300 units at launch. Launched at GJAW Nov 2024 (formerly iCar 03 in China). Power converted from detik's 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews and Moladin quote 184 / 275 hp. Battery 65.69/69.77 kWh (antaranews), Moladin 65.7/69.8, detik 65.6/69.7. Dimensions: Chery/antaranews 4,406x1,910x1,715 mm; Moladin lists 4,400x1,855x1,680 and 200 mm clearance, detik 4,338 mm long — official figure used. Ground clearance 223 mm unladen / 195 mm laden (antaranews; Chery says 195). Moladin: AC 7 kW (6-7 h), DC 100-120 kW (about 30 min); 100 kW recorded. Kerb weight (paultan.org) and wading depth (WapCar) from the Malaysian spec of the identical iCaur 03 iWD (69.77 kWh / 279 PS / 385 Nm).",
+      "notes_id": "Harga peluncuran; Phantom Edition dibatasi 300 unit saat peluncuran. Diluncurkan di GJAW November 2024 (di China bernama iCar 03). Tenaga dikonversi dari angka detik 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews dan Moladin menyebut 184 / 275 hp. Baterai 65,69/69,77 kWh (antaranews), Moladin 65,7/69,8, detik 65,6/69,7. Dimensi: Chery/antaranews 4.406x1.910x1.715 mm; Moladin mencantumkan 4.400x1.855x1.680 dan ground clearance 200 mm, detik panjang 4.338 mm — dipakai angka resmi. Ground clearance 223 mm kosong / 195 mm bermuatan (antaranews; Chery menyebut 195). Moladin: AC 7 kW (6-7 jam), DC 100-120 kW (sekitar 30 menit); dicatat 100 kW. Berat kosong (paultan.org) dan kedalaman arungan (WapCar) dari spesifikasi Malaysia untuk iCaur 03 iWD yang identik (69,77 kWh / 279 PS / 385 Nm)."
+    },
+    {
+      "id": "chery-j6-2026-rwd",
+      "model_year": 2026,
+      "variant": "RWD",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 560500000,
+        "battery_gross_kwh": 65.69,
+        "range_km": 426,
+        "motor_count": 1,
+        "drive": "RWD",
+        "torque_nm": 220,
+        "accel_0_100_s": 10.5,
+        "power_kw": 135,
+        "tyre_size": "235/60 R18",
+        "battery_chemistry": "LFP",
+        "segment": "SUV",
+        "length_mm": 4406,
+        "width_mm": 1910,
+        "height_mm": 1715,
+        "range_standard": "NEDC",
+        "ground_clearance_mm": 223,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "AEB, ACC, LKA, LDW, LCW, BSM, RCTA, FCW, RCW, DOW, TJA",
+        "wheelbase_mm": 2715,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "boot_l": 450,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "top_speed_kmh": 150,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Price up from Rp498 jt at launch. Launched at GJAW Nov 2024 (formerly iCar 03 in China). Power converted from detik's 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews and Moladin quote 184 / 275 hp. Battery 65.69/69.77 kWh (antaranews), Moladin 65.7/69.8, detik 65.6/69.7. Dimensions: Chery/antaranews 4,406x1,910x1,715 mm; Moladin lists 4,400x1,855x1,680 and 200 mm clearance, detik 4,338 mm long — official figure used. Ground clearance 223 mm unladen / 195 mm laden (antaranews; Chery says 195). Moladin: AC 7 kW (6-7 h), DC 100-120 kW (about 30 min); 100 kW recorded. Top speed and charging connectors from the Malaysian spec of the identical iCaur 03 2WD (paultan.org, 65.69 kWh / 184 PS / 220 Nm).",
+      "notes_id": "Harga naik dari Rp498 jt saat peluncuran. Diluncurkan di GJAW November 2024 (di China bernama iCar 03). Tenaga dikonversi dari angka detik 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews dan Moladin menyebut 184 / 275 hp. Baterai 65,69/69,77 kWh (antaranews), Moladin 65,7/69,8, detik 65,6/69,7. Dimensi: Chery/antaranews 4.406x1.910x1.715 mm; Moladin mencantumkan 4.400x1.855x1.680 dan ground clearance 200 mm, detik panjang 4.338 mm — dipakai angka resmi. Ground clearance 223 mm kosong / 195 mm bermuatan (antaranews; Chery menyebut 195). Moladin: AC 7 kW (6-7 jam), DC 100-120 kW (sekitar 30 menit); dicatat 100 kW. Kecepatan maksimum dan konektor pengisian dari spesifikasi Malaysia untuk iCaur 03 2WD yang identik (paultan.org, 65,69 kWh / 184 PS / 220 Nm)."
+    },
+    {
+      "id": "chery-j6-2026-rwd-phantom",
+      "model_year": 2026,
+      "variant": "RWD Phantom Edition",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 610500000,
+        "battery_gross_kwh": 65.69,
+        "range_km": 426,
+        "motor_count": 1,
+        "drive": "RWD",
+        "torque_nm": 220,
+        "accel_0_100_s": 10.5,
+        "power_kw": 135,
+        "tyre_size": "235/60 R18",
+        "battery_chemistry": "LFP",
+        "segment": "SUV",
+        "length_mm": 4406,
+        "width_mm": 1910,
+        "height_mm": 1715,
+        "range_standard": "NEDC",
+        "ground_clearance_mm": 223,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "AEB, ACC, LKA, LDW, LCW, BSM, RCTA, FCW, RCW, DOW, TJA",
+        "wheelbase_mm": 2715,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "boot_l": 450,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "top_speed_kmh": 150,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2"
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/2wd-2025/",
+            "title": "iCaur 03 2WD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Zigwheels lists RWD Phantom Edition at Rp555.5 jt (conflict); Moladin and the Oct 2026 price list say Rp610.5 jt. Launched at GJAW Nov 2024 (formerly iCar 03 in China). Power converted from detik's 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews and Moladin quote 184 / 275 hp. Battery 65.69/69.77 kWh (antaranews), Moladin 65.7/69.8, detik 65.6/69.7. Dimensions: Chery/antaranews 4,406x1,910x1,715 mm; Moladin lists 4,400x1,855x1,680 and 200 mm clearance, detik 4,338 mm long — official figure used. Ground clearance 223 mm unladen / 195 mm laden (antaranews; Chery says 195). Moladin: AC 7 kW (6-7 h), DC 100-120 kW (about 30 min); 100 kW recorded. Top speed and charging connectors from the Malaysian spec of the identical iCaur 03 2WD (paultan.org, 65.69 kWh / 184 PS / 220 Nm).",
+      "notes_id": "Zigwheels mencantumkan RWD Phantom Edition seharga Rp555,5 jt (berbeda); Moladin dan daftar harga Oktober 2026 menyebut Rp610,5 jt. Diluncurkan di GJAW November 2024 (di China bernama iCar 03). Tenaga dikonversi dari angka detik 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews dan Moladin menyebut 184 / 275 hp. Baterai 65,69/69,77 kWh (antaranews), Moladin 65,7/69,8, detik 65,6/69,7. Dimensi: Chery/antaranews 4.406x1.910x1.715 mm; Moladin mencantumkan 4.400x1.855x1.680 dan ground clearance 200 mm, detik panjang 4.338 mm — dipakai angka resmi. Ground clearance 223 mm kosong / 195 mm bermuatan (antaranews; Chery menyebut 195). Moladin: AC 7 kW (6-7 jam), DC 100-120 kW (sekitar 30 menit); dicatat 100 kW. Kecepatan maksimum dan konektor pengisian dari spesifikasi Malaysia untuk iCaur 03 2WD yang identik (paultan.org, 65,69 kWh / 184 PS / 220 Nm)."
+    },
+    {
+      "id": "chery-j6-2026-iwd",
+      "model_year": 2026,
+      "variant": "iWD",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 625500000,
+        "battery_gross_kwh": 69.77,
+        "range_km": 418,
+        "motor_count": 2,
+        "drive": "AWD",
+        "accel_0_100_s": 6.5,
+        "top_speed_kmh": 150,
+        "power_kw": 205,
+        "torque_nm": 385,
+        "tyre_size": "255/55 R19",
+        "segment": "SUV",
+        "length_mm": 4406,
+        "width_mm": 1910,
+        "height_mm": 1715,
+        "range_standard": "NEDC",
+        "ground_clearance_mm": 223,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "AEB, ACC, LKA, LDW, LCW, BSM, RCTA, FCW, RCW, DOW, TJA",
+        "battery_chemistry": "LFP",
+        "wheelbase_mm": 2715,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "boot_l": 450,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "kerb_weight_kg": 1874,
+        "wading_mm": 600
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/iwd-2025/",
+            "title": "iCaur 03 iWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://www.wapcar.my/news/priced-from-rm-119800-icaur-03-launched-in-malaysia-2-variants-up-to-279-ps-385-nm-426-km-nedc-746458",
+            "title": "Priced from RM 119,800, iCaur 03 launched in Malaysia – 2 variants, up to 279 PS/385 Nm, 426 km NEDC",
+            "date": "2025-09",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Moladin and Zigwheels say Rp625.5 jt; the Oct 2026 price list given to us says Rp630.5 jt (unsourced, not used). Launched at GJAW Nov 2024 (formerly iCar 03 in China). Power converted from detik's 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews and Moladin quote 184 / 275 hp. Battery 65.69/69.77 kWh (antaranews), Moladin 65.7/69.8, detik 65.6/69.7. Dimensions: Chery/antaranews 4,406x1,910x1,715 mm; Moladin lists 4,400x1,855x1,680 and 200 mm clearance, detik 4,338 mm long — official figure used. Ground clearance 223 mm unladen / 195 mm laden (antaranews; Chery says 195). Moladin: AC 7 kW (6-7 h), DC 100-120 kW (about 30 min); 100 kW recorded. Kerb weight (paultan.org) and wading depth (WapCar) from the Malaysian spec of the identical iCaur 03 iWD (69.77 kWh / 279 PS / 385 Nm).",
+      "notes_id": "Moladin dan Zigwheels menyebut Rp625,5 jt; daftar harga Oktober 2026 yang kami terima menyebut Rp630,5 jt (tanpa sumber, tidak dipakai). Diluncurkan di GJAW November 2024 (di China bernama iCar 03). Tenaga dikonversi dari angka detik 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews dan Moladin menyebut 184 / 275 hp. Baterai 65,69/69,77 kWh (antaranews), Moladin 65,7/69,8, detik 65,6/69,7. Dimensi: Chery/antaranews 4.406x1.910x1.715 mm; Moladin mencantumkan 4.400x1.855x1.680 dan ground clearance 200 mm, detik panjang 4.338 mm — dipakai angka resmi. Ground clearance 223 mm kosong / 195 mm bermuatan (antaranews; Chery menyebut 195). Moladin: AC 7 kW (6-7 jam), DC 100-120 kW (sekitar 30 menit); dicatat 100 kW. Berat kosong (paultan.org) dan kedalaman arungan (WapCar) dari spesifikasi Malaysia untuk iCaur 03 iWD yang identik (69,77 kWh / 279 PS / 385 Nm)."
+    },
+    {
+      "id": "chery-j6-2026-iwd-phantom",
+      "model_year": 2026,
+      "variant": "iWD Phantom Edition",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 675500000,
+        "battery_gross_kwh": 69.77,
+        "range_km": 418,
+        "motor_count": 2,
+        "drive": "AWD",
+        "accel_0_100_s": 6.5,
+        "top_speed_kmh": 150,
+        "power_kw": 205,
+        "torque_nm": 385,
+        "tyre_size": "255/55 R19",
+        "segment": "SUV",
+        "length_mm": 4406,
+        "width_mm": 1910,
+        "height_mm": 1715,
+        "range_standard": "NEDC",
+        "ground_clearance_mm": 223,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "adas": "AEB, ACC, LKA, LDW, LCW, BSM, RCTA, FCW, RCW, DOW, TJA",
+        "battery_chemistry": "LFP",
+        "wheelbase_mm": 2715,
+        "ac_max_kw": 7,
+        "dc_max_kw": 100,
+        "boot_l": 450,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "kerb_weight_kg": 1874,
+        "wading_mm": 600
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7652111/chery-umumkan-harga-mobil-listrik-off-road-j6-mulai-rp-498-juta",
+            "title": "Chery Umumkan Harga Mobil Listrik Off-Road J6 Mulai Rp 498 Juta",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://chery.co.id/en/tips-and-tricks/differences-between-the-j6-and-j6t",
+            "title": "Differences Between the J6 and J6T",
+            "date": "2025-11",
+            "type": "official"
+          },
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://gorontalo.antaranews.com/berita/282181/spesifikasi-dan-harga-suv-off-road-listrik-chery-j6-yang-baru-meluncur",
+            "title": "Spesifikasi dan harga SUV off-road listrik Chery J6 yang baru meluncur",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/chery/j6/spesifikasi/?amp=1",
+            "title": "CHERY J6 Specifications (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/chery/chery-j6/spesifikasi",
+            "title": "Spesifikasi Chery J6 (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/icaur/03/mk1/iwd-2025/",
+            "title": "iCaur 03 iWD – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://www.wapcar.my/news/priced-from-rm-119800-icaur-03-launched-in-malaysia-2-variants-up-to-279-ps-385-nm-426-km-nedc-746458",
+            "title": "Priced from RM 119,800, iCaur 03 launched in Malaysia – 2 variants, up to 279 PS/385 Nm, 426 km NEDC",
+            "date": "2025-09",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Zigwheels lists iWD Phantom Edition at Rp615.5 jt (conflict); Moladin Rp675.5 jt used. Launched at GJAW Nov 2024 (formerly iCar 03 in China). Power converted from detik's 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews and Moladin quote 184 / 275 hp. Battery 65.69/69.77 kWh (antaranews), Moladin 65.7/69.8, detik 65.6/69.7. Dimensions: Chery/antaranews 4,406x1,910x1,715 mm; Moladin lists 4,400x1,855x1,680 and 200 mm clearance, detik 4,338 mm long — official figure used. Ground clearance 223 mm unladen / 195 mm laden (antaranews; Chery says 195). Moladin: AC 7 kW (6-7 h), DC 100-120 kW (about 30 min); 100 kW recorded. Kerb weight (paultan.org) and wading depth (WapCar) from the Malaysian spec of the identical iCaur 03 iWD (69.77 kWh / 279 PS / 385 Nm).",
+      "notes_id": "Zigwheels mencantumkan iWD Phantom Edition seharga Rp615,5 jt (berbeda); dipakai Rp675,5 jt dari Moladin. Diluncurkan di GJAW November 2024 (di China bernama iCar 03). Tenaga dikonversi dari angka detik 184 PS (135 kW) RWD / 279 PS (205 kW) iWD; antaranews dan Moladin menyebut 184 / 275 hp. Baterai 65,69/69,77 kWh (antaranews), Moladin 65,7/69,8, detik 65,6/69,7. Dimensi: Chery/antaranews 4.406x1.910x1.715 mm; Moladin mencantumkan 4.400x1.855x1.680 dan ground clearance 200 mm, detik panjang 4.338 mm — dipakai angka resmi. Ground clearance 223 mm kosong / 195 mm bermuatan (antaranews; Chery menyebut 195). Moladin: AC 7 kW (6-7 jam), DC 100-120 kW (sekitar 30 menit); dicatat 100 kW. Berat kosong (paultan.org) dan kedalaman arungan (WapCar) dari spesifikasi Malaysia untuk iCaur 03 iWD yang identik (69,77 kWh / 279 PS / 385 Nm)."
+    }
+  ]
+}

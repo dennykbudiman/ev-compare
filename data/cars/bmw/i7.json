@@ -1,0 +1,779 @@
+{
+  "make": "BMW",
+  "model": "i7",
+  "trims": [
+    {
+      "id": "bmw-i7-2025-xdrive60-gran-lusso",
+      "model_year": 2025,
+      "variant": "xDrive60 Gran Lusso",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 3429000000,
+        "range_km": 624,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "power_kw": 400,
+        "torque_nm": 745,
+        "accel_0_100_s": 4.7,
+        "top_speed_kmh": 240,
+        "ac_max_kw": 22,
+        "dc_max_kw": 195,
+        "dc_10_80_min": 34,
+        "length_mm": 5391,
+        "width_mm": 1950,
+        "height_mm": 1544,
+        "wheelbase_mm": 3215,
+        "kerb_weight_kg": 2640,
+        "boot_l": 500,
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_gross_kwh": 105.7,
+        "battery_usable_kwh": 101.7,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 376,
+        "drive": "AWD",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 5,
+        "airbags": 7,
+        "adas": "AEB, FCW, ACC, LKA, BSM",
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW_ID_PriceAnnouncement_NIK25NIK26_June2026.pdf.asset.1782353595356.pdf",
+            "title": "BMW Model Range 2026 price announcement NIK25/NIK26 (June 2026)",
+            "date": "2026-06",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI - detikOto",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI - detikOto",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI - detikOto",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI - detikOto",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i7/bmw-i7-sedan-technical-data.html",
+            "title": "BMW i7 Sedan (G70): technical data & engines",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "NIK 2025, OTR Jakarta Rp3,429,000,000 (off-the-road Rp3,401,000,000), unchanged June 2026. Two-tone exterior version has the same specs: OTR Rp3,576,000,000 (NIK 2024). Earlier OTR: Rp3,330,000,000 (July 2024), Rp3,415,000,000 (June 2025). Battery left out: the bmw.co.id technical page prints 81.2 kWh, which looks copied from the i5 (global i7 xDrive60 is about 101.7 kWh net). Torque conflict: BMW Indonesia 745 Nm vs detikOto 2023 launch report 795 Nm. Range: technical page 515-624 km WLTP; detik quoted 590-625 km. AC 11 kW standard, 22 kW optional. Drive, connectors, seats, airbags (7) and ADAS from the Malaysian spec (paultan.org, carbase.my); gross/usable battery (105.7/101.7 kWh), chemistry, voltage, charge port, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "NIK 2025, OTR Jakarta Rp3.429.000.000 (off-the-road Rp3.401.000.000), tidak berubah per Juni 2026. Versi eksterior two-tone memiliki spesifikasi sama: OTR Rp3.576.000.000 (NIK 2024). OTR sebelumnya: Rp3.330.000.000 (Juli 2024), Rp3.415.000.000 (Juni 2025). Baterai dikosongkan: halaman teknis bmw.co.id mencantumkan 81,2 kWh, yang tampaknya tersalin dari i5 (i7 xDrive60 global sekitar 101,7 kWh net). Torsi berbeda: BMW Indonesia 745 Nm vs laporan peluncuran detikOto 2023 795 Nm. Jarak tempuh: halaman teknis 515-624 km WLTP; detik menyebut 590-625 km. AC 11 kW standar, 22 kW opsional. Penggerak, konektor, jumlah kursi, airbag (7), dan ADAS dari spesifikasi Malaysia (paultan.org, carbase.my); baterai gross/usable (105,7/101,7 kWh), kimia baterai, tegangan, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "bmw-i7-2023-xdrive60-m-sport-gran-lusso",
+      "model_year": 2023,
+      "variant": "xDrive60 M Sport Gran Lusso",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "range_km": 625,
+        "power_kw": 400,
+        "torque_nm": 795,
+        "accel_0_100_s": 4.7,
+        "dc_max_kw": 195,
+        "dc_10_80_min": 34,
+        "battery_gross_kwh": 105.7,
+        "battery_usable_kwh": 101.7,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 376,
+        "drive": "AWD",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "seats": 5,
+        "airbags": 7,
+        "adas": "AEB, FCW, ACC, LKA, BSM",
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true,
+        "ac_max_kw": 11,
+        "length_mm": 5391,
+        "width_mm": 1950,
+        "height_mm": 1544,
+        "wheelbase_mm": 3215,
+        "boot_l": 525,
+        "top_speed_kmh": 240
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/berita/d-6759009/pernah-dipakai-jokowi-sedan-listrik-bmw-termewah-meluncur-di-ri",
+            "title": "Pernah Dipakai Jokowi, Sedan Listrik BMW Termewah Meluncur di RI",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1676/BMW-i7-xDrive60",
+            "title": "BMW i7 xDrive60 (MY23-26) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carbase.my/bmw/i7/g70-bev/xdrive60-m-sport-2023",
+            "title": "BMW i7 xDrive60 M Sport (2023) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/bmw/i7/g70-bev/xdrive60-m-sport-2025/",
+            "title": "BMW i7 xDrive60 M Sport (G70) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched in Indonesia on 6 June 2023. Launch price Rp3,407,000,000 off the road (detikOto), so price left out; the later OTR prices are in the 2025 record. Power 544 PS x0.7355 = 400 kW. Torque 795 Nm per detikOto vs 745 Nm on the current BMW Indonesia page. Range 590-625 km per detikOto (top figure used, standard not stated); a BMW spokesperson quoted 500-600 km. Battery not stated in the source. Drive, AC power, connectors, dimensions, boot, top speed, seats, airbags (7) and ADAS from the Malaysian spec (paultan.org, carbase.my); gross/usable battery (105.7/101.7 kWh), chemistry, voltage, charge port, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan di Indonesia pada 6 Juni 2023. Harga peluncuran Rp3.407.000.000 off the road (detikOto), sehingga harga dikosongkan; harga OTR berikutnya ada di catatan 2025. Tenaga 544 PS x0,7355 = 400 kW. Torsi 795 Nm menurut detikOto, sedangkan halaman BMW Indonesia saat ini menyebut 745 Nm. Jarak tempuh 590-625 km menurut detikOto (angka tertinggi dipakai, standar tidak disebutkan); juru bicara BMW menyebut 500-600 km. Kapasitas baterai tidak disebutkan sumber. Penggerak, daya AC, konektor, dimensi, bagasi, kecepatan maksimum, jumlah kursi, airbag (7), dan ADAS dari spesifikasi Malaysia (paultan.org, carbase.my); baterai gross/usable (105,7/101,7 kWh), kimia baterai, tegangan, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

@@ -1,0 +1,745 @@
+{
+  "make": "Volvo",
+  "model": "EX30",
+  "trims": [
+    {
+      "id": "volvo-ex30-2025-plus",
+      "model_year": 2025,
+      "variant": "Plus (Single Motor)",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 930000000,
+        "battery_gross_kwh": 51,
+        "battery_usable_kwh": 49,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "range_km": 337,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 200,
+        "torque_nm": 343,
+        "accel_0_100_s": 5.7,
+        "top_speed_kmh": 180,
+        "ac_max_kw": 11,
+        "dc_max_kw": 134,
+        "dc_10_80_min": 26.5,
+        "length_mm": 4233,
+        "width_mm": 1836,
+        "height_mm": 1549,
+        "wheelbase_mm": 2650,
+        "ground_clearance_mm": 171,
+        "boot_l": 318,
+        "seats": 5,
+        "airbags": 8,
+        "tyre_size": "225/55 R18",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "kerb_weight_kg": 1840,
+        "frunk_l": 7
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.volvocars.com/id-id/cars/ex30-electric/",
+            "title": "Volvo EX30 - Volvo Cars Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224277027/hadir-di-giias-2025-intip-harga-volvo-xc60-ex40-hingga-xc90-hybrid",
+            "title": "Hadir di GIIAS 2025, Intip Harga Volvo XC60, EX40 Hingga XC90 Hybrid - GridOto",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.volvocars.com/id-id/cars/ex30-electric/",
+            "title": "Volvo EX30 - Volvo Cars Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.fleetnews.co.uk/electric-fleet/electric-car-and-van-data/volvo/ex30-1909",
+            "title": "Volvo EX30 Single Motor price and specifications (Fleet News, EV Database data)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "UK"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.fleetnews.co.uk/electric-fleet/electric-car-and-van-data/volvo/ex30-1909",
+            "title": "Volvo EX30 Single Motor price and specifications (Fleet News, EV Database data)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "UK"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.fleetnews.co.uk/electric-fleet/electric-car-and-van-data/volvo/ex30-1909",
+            "title": "Volvo EX30 Single Motor price and specifications (Fleet News, EV Database data)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "UK"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.fleetnews.co.uk/electric-fleet/electric-car-and-van-data/volvo/ex30-1909",
+            "title": "Volvo EX30 Single Motor price and specifications (Fleet News, EV Database data)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "UK"
+          }
+        ]
+      },
+      "notes": "Range: Moladin 337 km WLTP, launch report 344 km WLTP. Battery: launch report 51 kWh, Moladin 49 kWh (matches Volvo's usable figure). 0-100 quoted as 'under 5.7 s'. Launch prices July 2024 (AutoBuzz): Plus Rp890,000,000, Ultra Rp1,160,000,000; revised at GIIAS July 2025 to Rp930,000,000 / Rp1,100,000,000, unchanged in the October 2026 list. Sources do not label the figure OTR explicitly; treated as the Jakarta OTR price (Moladin lists Jakarta prices). Power quoted as 272 hp; Volvo's 272 is a metric (PS) rating, converted x0.7355 = 200 kW. Single rear motor in both variants. Same specs 2024-2026; model year set to 2025 (latest price revision). Connectors, kerb weight (EU unladen) and frunk from the UK spec of the 51 kWh 200 kW Single Motor (fleetnews.co.uk, EV Database data); the Malaysian Plus has the 69 kWh battery and the Singapore car is rated 110 kW, so neither matches.",
+      "notes_id": "Jarak tempuh: Moladin 337 km WLTP, laporan peluncuran 344 km WLTP. Baterai: laporan peluncuran 51 kWh, Moladin 49 kWh (sesuai angka usable Volvo). 0-100 disebut 'kurang dari 5,7 detik'. Harga peluncuran Juli 2024 (AutoBuzz): Plus Rp890.000.000, Ultra Rp1.160.000.000; direvisi di GIIAS Juli 2025 menjadi Rp930.000.000 / Rp1.100.000.000, tidak berubah di daftar Oktober 2026. Sumber tidak secara eksplisit melabeli angka ini OTR; diperlakukan sebagai harga OTR Jakarta (Moladin mencantumkan harga Jakarta). Tenaga disebut 272 hp; angka 272 dari Volvo adalah satuan metrik (PS), dikonversi x0,7355 = 200 kW. Motor tunggal di belakang pada kedua varian. Spesifikasi sama 2024-2026; model year ditetapkan 2025 (revisi harga terakhir). Konektor, berat kosong (EU unladen), dan frunk dari spesifikasi Inggris untuk Single Motor 51 kWh 200 kW (fleetnews.co.uk, data EV Database); Plus Malaysia memakai baterai 69 kWh dan mobil Singapura bertenaga 110 kW, jadi keduanya tidak cocok."
+    },
+    {
+      "id": "volvo-ex30-2025-ultra",
+      "model_year": 2025,
+      "variant": "Ultra (Single Motor Extended Range)",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 1100000000,
+        "battery_gross_kwh": 69,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "range_km": 476,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 200,
+        "torque_nm": 343,
+        "accel_0_100_s": 5.3,
+        "top_speed_kmh": 180,
+        "dc_max_kw": 134,
+        "dc_10_80_min": 26.5,
+        "length_mm": 4233,
+        "width_mm": 1836,
+        "height_mm": 1549,
+        "wheelbase_mm": 2650,
+        "ground_clearance_mm": 171,
+        "boot_l": 318,
+        "seats": 5,
+        "airbags": 8,
+        "tyre_size": "245/45 R19",
+        "battery_usable_kwh": 64.0,
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Left rear",
+        "airbag_positions": "front, front side, driver knee, curtain",
+        "adas": "AEB, FCW, ACC, LKA, BSM",
+        "v2l": false,
+        "frunk_l": 7,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.volvocars.com/id-id/cars/ex30-electric/",
+            "title": "Volvo EX30 - Volvo Cars Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224277027/hadir-di-giias-2025-intip-harga-volvo-xc60-ex40-hingga-xc90-hybrid",
+            "title": "Hadir di GIIAS 2025, Intip Harga Volvo XC60, EX40 Hingga XC90 Hybrid - GridOto",
+            "date": "2025-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2024/07/19/2024-volvo-ex30-launched-in-indonesia-from-approx-rm257k-up-to-480km-range/",
+            "title": "2024 Volvo EX30 launched in Indonesia, from approx. RM257k - up to 480km range - AutoBuzz",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.volvocars.com/id-id/cars/ex30-electric/",
+            "title": "Volvo EX30 - Volvo Cars Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.volvocars.com/id-id/cars/ex30-electric/",
+            "title": "Volvo EX30 - Volvo Cars Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/volvo-ex30-ultra-dan-volvo-ex30-plus",
+            "title": "Perbandingan Volvo EX30 Ultra dan Volvo EX30 Plus - Moladin",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+            "title": "Volvo EX30 Single Motor ER - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/volvo/ex30/ek/ultra-2025/",
+            "title": "Volvo EX30 Ultra - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+            "title": "Volvo EX30 Single Motor ER - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/volvo/ex30/ek/ultra-2025/",
+            "title": "Volvo EX30 Ultra - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+            "title": "Volvo EX30 Single Motor ER - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/volvo/ex30/ek/ultra-2025/",
+            "title": "Volvo EX30 Ultra - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+            "title": "Volvo EX30 Single Motor ER - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+            "title": "Volvo EX30 Single Motor ER - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/volvo/ex30/ek/ultra-2025/",
+            "title": "Volvo EX30 Ultra - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/volvo/ex30/ek/ultra-2025/",
+            "title": "Volvo EX30 Ultra - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+            "title": "Volvo EX30 Single Motor ER - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+            "title": "Volvo EX30 Single Motor ER - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER",
+            "title": "Volvo EX30 Single Motor ER - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Range: Moladin 476 km WLTP, launch report 480 km, Volvo Indonesia site 'up to 480 km'. Battery: launch report 69 kWh, Moladin 66 kWh. DC: launch report 134 kW; Volvo Indonesia site cites 26.5 min 10-80% at a 175 kW charger (global extended-range spec is 153 kW peak). 0-100 quoted as 'under 5.3 s'. Launch prices July 2024 (AutoBuzz): Plus Rp890,000,000, Ultra Rp1,160,000,000; revised at GIIAS July 2025 to Rp930,000,000 / Rp1,100,000,000, unchanged in the October 2026 list. Sources do not label the figure OTR explicitly; treated as the Jakarta OTR price (Moladin lists Jakarta prices). Power quoted as 272 hp; Volvo's 272 is a metric (PS) rating, converted x0.7355 = 200 kW. Single rear motor in both variants. Same specs 2024-2026; model year set to 2025 (latest price revision). AC power, connectors, airbag positions and ADAS from the Malaysian spec (paultan.org); usable battery 64 kWh, charge port, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "Jarak tempuh: Moladin 476 km WLTP, laporan peluncuran 480 km, situs Volvo Indonesia 'hingga 480 km'. Baterai: laporan peluncuran 69 kWh, Moladin 66 kWh. DC: laporan peluncuran 134 kW; situs Volvo Indonesia menyebut 26,5 menit 10-80% dengan charger 175 kW (spesifikasi global extended range: puncak 153 kW). 0-100 disebut 'kurang dari 5,3 detik'. Harga peluncuran Juli 2024 (AutoBuzz): Plus Rp890.000.000, Ultra Rp1.160.000.000; direvisi di GIIAS Juli 2025 menjadi Rp930.000.000 / Rp1.100.000.000, tidak berubah di daftar Oktober 2026. Sumber tidak secara eksplisit melabeli angka ini OTR; diperlakukan sebagai harga OTR Jakarta (Moladin mencantumkan harga Jakarta). Tenaga disebut 272 hp; angka 272 dari Volvo adalah satuan metrik (PS), dikonversi x0,7355 = 200 kW. Motor tunggal di belakang pada kedua varian. Spesifikasi sama 2024-2026; model year ditetapkan 2025 (revisi harga terakhir). Daya AC, konektor, posisi airbag, dan ADAS dari spesifikasi Malaysia (paultan.org); baterai usable 64 kWh, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

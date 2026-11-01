@@ -1,0 +1,193 @@
+{
+  "make": "XCMG",
+  "model": "XWE105 EV",
+  "trims": [
+    {
+      "id": "xcmg-xwe105-2024-wide-body-422kwh",
+      "model_year": 2024,
+      "variant": "Wide-body dump truck (422.87 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Heavy",
+        "body_type": "Mining truck",
+        "gvw_kg": 105000,
+        "battery_gross_kwh": 422.87,
+        "battery_chemistry": "LFP",
+        "pack_nominal_voltage_v": 618.24,
+        "motor_count": 2,
+        "power_kw": 450,
+        "torque_nm": 700,
+        "transmission": "7-speed automated manual (AMT)",
+        "tyre_size": "16.00R25",
+        "turning_radius_m": 12,
+        "dc_10_80_min": 82,
+        "dc_time_window": "0–100%"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.transgo.co.id/gaya-makmur-mobil-luncurkan-2-truk-listrik-di-pameran-mining-indonesia-2024/",
+            "title": "Gaya Makmur Mobil Luncurkan 2 Truk Listrik di Pameran Mining Indonesia 2024 (TransGo News)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://www.transgo.co.id/gaya-makmur-mobil-luncurkan-2-truk-listrik-di-pameran-mining-indonesia-2024/",
+            "title": "Gaya Makmur Mobil Luncurkan 2 Truk Listrik di Pameran Mining Indonesia 2024 (TransGo News)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://pmmakmur.co.id/xwe105-electric-widebody-dump-truck/",
+            "title": "XWE105 Electric Widebody Dump Truck (PT Panca Mega Makmur, XCMG distributor)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://beritakota.id/gmm-luncurkan-truk-listrik-di-ajang-mining-indonesia-2024-ini-fiturnya/",
+            "title": "GMM Luncurkan Truk Listrik di Ajang Mining Indonesia 2024, Ini Fiturnya (Berita Kota)",
+            "date": "2024-09",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "XCMG battery-electric wide-body mining dump truck (off-road, not for public roads). Launched on 11 Sep 2024 at Mining Indonesia 2024 by PT Gaya Makmur Mobil (GMM) and its sister company PT Panca Mega Makmur (PMM), which says it was appointed XCMG brand-holder agent (distributor) in 2023, alongside the XT490DT. Sale evidence: during the show GMM and PMM offered buyers of two electric trucks, 'either the 8x4 dump truck or the wide body dump truck', a free charger worth Rp 500 million (Dimensi/Wartakota), and PMM still lists the XWE105 with a brochure (Nov 2026). No price published; no delivery of this model confirmed. GVW 105 t. Payload is left out because the launch reports disagree: 65 t (Berita Kota spec list) vs 75 t (Wartakota, Dimensi). Battery 422.87 kWh on PMM's page; Berita Kota prints 423.87 kWh, but its own 684 Ah x 618.24 V gives 422.9 kWh, so the PMM figure is used. LFP. Dual motor, 450 kW total (motor EK225700PMS-1); 700 Nm maximum torque as published by both sources, probably per motor or before the gearbox (basis not stated). 7-speed AMT (EK-7DMT-20000-1). Full charge in 82 min with dual chargers (Berita Kota; Wartakota/Dimensi: about 1.5 h), stored as a 0–100% time; charger power and connector not stated. Battery swapping (5 min) was described for GMM's electric trucks in general, not for this model, so battery_swap is left out. Range not published. Dump body 6,400 x 3,400 x 1,800 mm (PMM; not stated whether inside, so not stored as cargo size). Minimum turning radius 12 m; front oil-gas suspension, rear leaf springs. Drive layout not stated. XCMG later showed the XGE105 (also 618.24 V) and XGE150 wide-body EVs in Indonesia (Sept 2025); they may succeed this model but have no sale evidence of their own.",
+      "notes_id": "Dump truck tambang listrik baterai berbadan lebar dari XCMG (off-road, bukan untuk jalan umum). Diluncurkan 11 September 2024 di Mining Indonesia 2024 oleh PT Gaya Makmur Mobil (GMM) dan perusahaan saudaranya PT Panca Mega Makmur (PMM), yang menyebut dirinya ditunjuk sebagai agen pemegang merek (distributor) XCMG pada 2023, bersama XT490DT. Bukti penjualan: selama pameran GMM dan PMM memberi paket bagi pembeli dua unit truk listrik, 'baik model 8x4 dump truck maupun wide body dump truck', berupa bonus charger senilai Rp500 juta (Dimensi/Wartakota), dan PMM masih mencantumkan XWE105 beserta brosurnya (November 2026). Harga tidak dipublikasikan; pengiriman model ini belum terkonfirmasi. JBB 105 ton. Daya angkut tidak diisi karena laporan peluncuran berbeda: 65 ton (daftar spesifikasi Berita Kota) vs 75 ton (Wartakota, Dimensi). Baterai 422,87 kWh di halaman PMM; Berita Kota menulis 423,87 kWh, tetapi 684 Ah x 618,24 V yang disebutnya sendiri menghasilkan 422,9 kWh, jadi angka PMM yang dipakai. LFP. Motor ganda, total 450 kW (motor EK225700PMS-1); torsi maksimum 700 Nm seperti dipublikasikan kedua sumber, kemungkinan per motor atau sebelum transmisi (dasarnya tidak disebut). Transmisi AMT 7 percepatan (EK-7DMT-20000-1). Pengisian penuh 82 menit dengan dua charger (Berita Kota; Wartakota/Dimensi: sekitar 1,5 jam), dicatat sebagai waktu 0–100%; daya charger dan jenis konektor tidak disebut. Penukaran baterai (5 menit) disebut untuk truk listrik GMM secara umum, bukan untuk model ini, sehingga battery_swap tidak diisi. Jarak tempuh tidak dipublikasikan. Bak dump 6.400 x 3.400 x 1.800 mm (PMM; tidak disebut apakah ukuran dalam, jadi tidak dicatat sebagai ukuran kargo). Radius putar minimum 12 m; suspensi depan oil-gas, belakang pegas daun. Konfigurasi penggerak tidak disebut. XCMG kemudian memamerkan XGE105 (juga 618,24 V) dan XGE150 berbadan lebar listrik di Indonesia (September 2025); keduanya mungkin penerus model ini tetapi belum punya bukti penjualan sendiri."
+    }
+  ]
+}

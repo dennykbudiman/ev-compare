@@ -1,0 +1,341 @@
+{
+  "make": "VinFast",
+  "model": "VF e34",
+  "trims": [
+    {
+      "id": "vinfast-vf-e34-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 320847000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 41.9,
+        "voltage_architecture": "~400 V",
+        "range_km": 318,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 110,
+        "torque_nm": 242,
+        "dc_10_80_min": 27,
+        "dc_time_window": "10–70%",
+        "ac_full_hours": 13,
+        "seats": 5,
+        "length_mm": 4300,
+        "width_mm": 1768,
+        "height_mm": 1615,
+        "wheelbase_mm": 2611,
+        "ground_clearance_mm": 165,
+        "boot_l": 290,
+        "tyre_size": "215/55 R18",
+        "airbags": 6,
+        "airbag_positions": "driver, front passenger, front side, curtain",
+        "adas": "BSM, RCTA, 360 camera, front and rear parking sensors",
+        "crash_rating": "4 stars (ASEAN NCAP)",
+        "motor_type": "PMSM",
+        "top_speed_kmh": 130,
+        "accel_0_100_s": 9.0,
+        "turning_radius_m": 5.4,
+        "dc_connector": "CCS2"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-e34-electric",
+            "title": "VinFast VF e34 Electric (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/vinfast/vf-e34/spesifikasi/",
+            "title": "VinFast VF e34 spesifikasi (ZigWheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/vinfast/vf-e34/spesifikasi/",
+            "title": "VinFast VF e34 spesifikasi (ZigWheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/vinfast/vf-e34/spesifikasi/",
+            "title": "VinFast VF e34 spesifikasi (ZigWheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/vinfast/vf-e34/spesifikasi/",
+            "title": "VinFast VF e34 spesifikasi (ZigWheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://bonbanh.com/chi-tiet-thong-so-ky-thuat-xe-vinfast-vf-e34-at-2024-15986",
+            "title": "Chi tiết thông số kĩ thuật xe VinFast VF e34 AT 2024 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ]
+      },
+      "notes": "On sale since GIIAS July 2024 (then Rp408.2 jt with battery). 2026 price Rp320.847 jt incl. battery per oto.com (Jan 2026). Same specs 2024–2026. Power: oto.com 147 hp (= 110 kW); Moladin 148. Range: oto.com 318 km, Moladin 318.6 km (NEDC). Boot: oto.com 290 L (seats up), Moladin 278 L. Ground clearance from Moladin (oto.com shows a garbled '1800'). 0–100 km/h under 9 s (oto.com). ASEAN NCAP test year not stated. CBU import. Price is the battery-included (battery ownership) OTR Jakarta price; VinFast also sells with a battery subscription at a lower upfront price. Motor type, top speed, 0–100 km/h (9.0 s) and turning radius from zigwheels.co.id (Indonesian spec page); DC connector from the Vietnamese spec (bonbanh.com). Kerb weight left out: zigwheels.co.id says 1,554 kg, the Vietnamese listing 1,490 kg.",
+      "notes_id": "Dijual sejak GIIAS Juli 2024 (saat itu Rp408,2 jt termasuk baterai). Harga 2026 Rp320,847 jt termasuk baterai menurut oto.com (Januari 2026). Spesifikasi sama 2024–2026. Tenaga: oto.com 147 hp (= 110 kW); Moladin 148. Jarak tempuh: oto.com 318 km, Moladin 318,6 km (NEDC). Bagasi: oto.com 290 L (jok tegak), Moladin 278 L. Ground clearance dari Moladin (oto.com menampilkan angka '1800' yang keliru). 0–100 km/jam kurang dari 9 detik (oto.com). Tahun pengujian ASEAN NCAP tidak disebutkan. CBU impor. Harga adalah OTR Jakarta termasuk baterai (baterai milik sendiri); VinFast juga menjual dengan skema sewa baterai dengan harga awal lebih rendah. Tipe motor, kecepatan maksimum, 0–100 km/jam (9,0 detik), dan radius putar dari zigwheels.co.id (halaman spesifikasi Indonesia); konektor DC dari spesifikasi Vietnam (bonbanh.com). Berat kosong tidak dicantumkan: zigwheels.co.id menyebut 1.554 kg, daftar Vietnam 1.490 kg."
+    }
+  ]
+}

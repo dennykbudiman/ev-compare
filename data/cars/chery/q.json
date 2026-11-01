@@ -1,0 +1,680 @@
+{
+  "make": "Chery",
+  "model": "Q",
+  "trims": [
+    {
+      "id": "chery-q-2026-pure",
+      "model_year": 2026,
+      "variant": "Pure",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 249900000,
+        "segment": "Hatchback",
+        "battery_gross_kwh": 42.7,
+        "battery_chemistry": "LFP",
+        "range_km": 400,
+        "range_standard": "NEDC",
+        "torque_nm": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 16.5,
+        "dc_time_window": "30–80%",
+        "v2l": true,
+        "v2l_kw": 6.6,
+        "length_mm": 4195,
+        "width_mm": 1811,
+        "height_mm": 1573,
+        "wheelbase_mm": 2700,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "ACC, LKA, TJA, AEB, APA (Rizz)",
+        "frunk_l": 70,
+        "power_kw": 90,
+        "legroom_rear_mm": 977
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "legroom_rear_mm": [
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Regular price Rp249.9 jt (CNBC does not state OTR for Pure). Launched GIIAS July 2026. Drive conflicts: oto.com says RWD, CNBC says FWD — left out. Power 90 kW (122 PS, CNBC); oto.com 121 hp. DC 30-80% in 16.5 min. '1,450 L' boot quoted by media is with seats folded, so boot_l not recorded. GIIAS promo was Rp10 jt off. Segment labelled hatchback by GIIAS award (Hatchback Favorit).",
+      "notes_id": "Harga reguler Rp249,9 jt (CNBC tidak menyebut OTR untuk Pure). Diluncurkan di GIIAS Juli 2026. Penggerak berbeda: oto.com menyebut RWD, CNBC menyebut FWD — dikosongkan. Tenaga 90 kW (122 PS, CNBC); oto.com 121 hp. DC 30-80% dalam 16,5 menit. Bagasi '1.450 L' yang disebut media adalah dengan jok dilipat, sehingga boot_l tidak dicatat. Promo GIIAS berupa potongan Rp10 jt. Segmen dilabeli hatchback oleh penghargaan GIIAS (Hatchback Favorit)."
+    },
+    {
+      "id": "chery-q-2026-rizz",
+      "model_year": 2026,
+      "variant": "Rizz",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 269900000,
+        "segment": "Hatchback",
+        "battery_gross_kwh": 42.7,
+        "battery_chemistry": "LFP",
+        "range_km": 400,
+        "range_standard": "NEDC",
+        "torque_nm": 115,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 16.5,
+        "dc_time_window": "30–80%",
+        "v2l": true,
+        "v2l_kw": 6.6,
+        "length_mm": 4195,
+        "width_mm": 1811,
+        "height_mm": 1573,
+        "wheelbase_mm": 2700,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "ACC, LKA, TJA, AEB, APA (Rizz)",
+        "frunk_l": 70,
+        "power_kw": 90,
+        "legroom_rear_mm": 977
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.oto.com/berita-mobil/chery-q-resmi-meluncur-di-giias-2026-dibanderol-mulai-rp2399-juta",
+            "title": "Chery Q Resmi Meluncur di GIIAS 2026, Dibanderol Mulai Rp239,9 Juta",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ],
+        "legroom_rear_mm": [
+          {
+            "url": "https://www.cnbcindonesia.com/news/20260731193056-4-755619/chery-q-tantang-pasar-ev-rp-200-an-juta-cek-spesifikasinya",
+            "title": "Chery Q Tantang Pasar EV Rp 200-an Juta, Cek Spesifikasinya",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8598984/chery-q-meluncur-di-giias-2026-harga-mulai-rp-230-jutaan",
+            "title": "Chery Q Meluncur di GIIAS 2026, Harga Mulai Rp 230 Jutaan",
+            "date": "2026-07",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Regular price Rp269.9 jt OTR Jakarta. Adds automatic parking assist. Launched GIIAS July 2026. Drive conflicts: oto.com says RWD, CNBC says FWD — left out. Power 90 kW (122 PS, CNBC); oto.com 121 hp. DC 30-80% in 16.5 min. '1,450 L' boot quoted by media is with seats folded, so boot_l not recorded. GIIAS promo was Rp10 jt off. Segment labelled hatchback by GIIAS award (Hatchback Favorit).",
+      "notes_id": "Harga reguler Rp269,9 jt OTR Jakarta. Menambahkan fitur bantuan parkir otomatis. Diluncurkan di GIIAS Juli 2026. Penggerak berbeda: oto.com menyebut RWD, CNBC menyebut FWD — dikosongkan. Tenaga 90 kW (122 PS, CNBC); oto.com 121 hp. DC 30-80% dalam 16,5 menit. Bagasi '1.450 L' yang disebut media adalah dengan jok dilipat, sehingga boot_l tidak dicatat. Promo GIIAS berupa potongan Rp10 jt. Segmen dilabeli hatchback oleh penghargaan GIIAS (Hatchback Favorit)."
+    }
+  ]
+}

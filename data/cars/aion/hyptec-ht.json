@@ -1,0 +1,855 @@
+{
+  "make": "Aion",
+  "model": "Hyptec HT",
+  "trims": [
+    {
+      "id": "aion-hyptec-ht-2025-premium",
+      "model_year": 2025,
+      "variant": "Premium",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 691000000,
+        "segment": "SUV",
+        "battery_gross_kwh": 83.3,
+        "range_km": 620,
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "voltage_architecture": "800 V",
+        "dc_10_80_min": 15,
+        "dc_time_window": "10–70%",
+        "power_kw": 250,
+        "torque_nm": 430,
+        "adas": "FCW, TJA, LKA",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "RWD",
+        "dc_max_kw": 280,
+        "length_mm": 4935,
+        "width_mm": 1920,
+        "height_mm": 1700,
+        "wheelbase_mm": 2935,
+        "ground_clearance_mm": 150,
+        "seats": 5,
+        "airbags": 10,
+        "tyre_size": "245/50 R20",
+        "accel_0_100_s": 5.8,
+        "boot_l": 670,
+        "frunk_l": 55,
+        "kerb_weight_kg": 2120,
+        "top_speed_kmh": 183,
+        "heat_pump": true
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.pcauto.com/th/cars/gac/aion-hyptec-ht/variant-gac-aion-hyptec-ht-premium-2024",
+            "title": "GAC Aion Hyptec HT Premium 2024 – PCauto Thailand",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.pcauto.com/th/cars/gac/aion-hyptec-ht/variant-gac-aion-hyptec-ht-premium-2024",
+            "title": "GAC Aion Hyptec HT Premium 2024 – PCauto Thailand",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "2025 price Rp691 jt (OTR not stated). Hyptec HT imported (1,000 units arrived Mar 2025); deliveries from late 2024. DC 10-70% in about 15 min (not 10-80%). Moladin's '430 km' range is inconsistent with the 620 km NEDC claim (kabarbursa) and was not used. Battery 83.3 kWh (kabarbursa) vs 83 kWh (Fortune, Moladin). Moladin boot figure (725) not recorded (unclear basis). Assembly not stated by sources. 0–100 km/h time and boot capacity from the Thai spec (PCauto); frunk, kerb weight, top speed and heat pump from the Chinese spec (CarNewsChina database), both 83.3 kWh LFP / 250 kW RWD. Moladin's 725 L equals the 670 L boot plus the 55 L frunk.",
+      "notes_id": "Harga 2025 Rp691 jt (tidak disebutkan apakah OTR). Hyptec HT diimpor (1.000 unit tiba Maret 2025); pengiriman mulai akhir 2024. DC 10-70% sekitar 15 menit (bukan 10-80%). Jarak tempuh '430 km' versi Moladin tidak sesuai dengan klaim 620 km NEDC (kabarbursa), sehingga tidak dipakai. Baterai 83,3 kWh (kabarbursa) vs 83 kWh (Fortune, Moladin). Angka bagasi Moladin (725) tidak dicatat (dasarnya tidak jelas). Status perakitan tidak disebutkan sumber. Waktu 0–100 km/jam dan kapasitas bagasi dari spesifikasi Thailand (PCauto); bagasi depan, berat kosong, kecepatan maksimum, dan heat pump dari spesifikasi China (database CarNewsChina), keduanya 83,3 kWh LFP / 250 kW RWD. Angka 725 L dari Moladin sama dengan bagasi 670 L ditambah bagasi depan 55 L."
+    },
+    {
+      "id": "aion-hyptec-ht-2025-ultra",
+      "model_year": 2025,
+      "variant": "Ultra",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 843500000,
+        "segment": "SUV",
+        "battery_gross_kwh": 83.3,
+        "range_km": 620,
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "voltage_architecture": "800 V",
+        "dc_10_80_min": 15,
+        "dc_time_window": "10–70%",
+        "power_kw": 250,
+        "torque_nm": 430,
+        "adas": "FCW, TJA, LKA",
+        "battery_chemistry": "LFP",
+        "drive": "RWD",
+        "motor_count": 1,
+        "length_mm": 4935,
+        "width_mm": 1920,
+        "height_mm": 1700,
+        "wheelbase_mm": 2935
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Gull-wing door variant, Rp843.5 jt in 2025 (OTR not stated). Not listed on Moladin in Oct 2026 — marked discontinued, status not confirmed by Aion. Dimensions/drive not separately sourced. Hyptec HT imported (1,000 units arrived Mar 2025); deliveries from late 2024. DC 10-70% in about 15 min (not 10-80%). Moladin's '430 km' range is inconsistent with the 620 km NEDC claim (kabarbursa) and was not used. Battery 83.3 kWh (kabarbursa) vs 83 kWh (Fortune, Moladin). Moladin boot figure (725) not recorded (unclear basis). Assembly not stated by sources. Battery chemistry, drive layout, motor count and dimensions from the Chinese spec (CarNewsChina database, 83.3 kWh / 250 kW / 430 Nm version).",
+      "notes_id": "Varian pintu gull-wing, Rp843,5 jt pada 2025 (tidak disebutkan apakah OTR). Tidak lagi tercantum di Moladin per Oktober 2026 — ditandai sudah tidak dijual, namun belum dikonfirmasi Aion. Dimensi/penggerak tidak bersumber terpisah. Hyptec HT diimpor (1.000 unit tiba Maret 2025); pengiriman mulai akhir 2024. DC 10-70% sekitar 15 menit (bukan 10-80%). Jarak tempuh '430 km' versi Moladin tidak sesuai dengan klaim 620 km NEDC (kabarbursa), sehingga tidak dipakai. Baterai 83,3 kWh (kabarbursa) vs 83 kWh (Fortune, Moladin). Angka bagasi Moladin (725) tidak dicatat (dasarnya tidak jelas). Status perakitan tidak disebutkan sumber. Kimia baterai, tata letak penggerak, jumlah motor, dan dimensi dari spesifikasi China (database CarNewsChina, versi 83,3 kWh / 250 kW / 430 Nm)."
+    },
+    {
+      "id": "aion-hyptec-ht-2026-premium",
+      "model_year": 2026,
+      "variant": "Premium",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 755000000,
+        "segment": "SUV",
+        "battery_gross_kwh": 83.3,
+        "range_km": 620,
+        "range_standard": "NEDC",
+        "motor_type": "PMSM",
+        "voltage_architecture": "800 V",
+        "dc_10_80_min": 15,
+        "dc_time_window": "10–70%",
+        "power_kw": 250,
+        "torque_nm": 430,
+        "adas": "FCW, TJA, LKA",
+        "battery_chemistry": "LFP",
+        "motor_count": 1,
+        "drive": "RWD",
+        "dc_max_kw": 280,
+        "length_mm": 4935,
+        "width_mm": 1920,
+        "height_mm": 1700,
+        "wheelbase_mm": 2935,
+        "ground_clearance_mm": 150,
+        "seats": 5,
+        "airbags": 10,
+        "tyre_size": "245/50 R20",
+        "accel_0_100_s": 5.8,
+        "boot_l": 670,
+        "frunk_l": 55,
+        "kerb_weight_kg": 2120,
+        "top_speed_kmh": 183,
+        "heat_pump": true
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/tiba-di-indonesia-1000-hyptec-ht-siap-dikirim-ke-pelanggan",
+            "title": "Tiba di Indonesia, 1.000 Hyptec HT Siap Dikirim ke Pelanggan",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/harga-sepertiga-tesla-suv-listrik-pintu-gullwing-gac-hyptec-ht-resmi-masuk-indonesia-00-4vfn9-zx37qw",
+            "title": "Harga Sepertiga Tesla, SUV Listrik Pintu Gullwing GAC Hyptec HT Resmi Masuk Indonesia",
+            "date": "2025-08",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/aion-hyptec-ht-premium",
+            "title": "AION Hyptec HT Premium (Moladin)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.pcauto.com/th/cars/gac/aion-hyptec-ht/variant-gac-aion-hyptec-ht-premium-2024",
+            "title": "GAC Aion Hyptec HT Premium 2024 – PCauto Thailand",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.pcauto.com/th/cars/gac/aion-hyptec-ht/variant-gac-aion-hyptec-ht-premium-2024",
+            "title": "GAC Aion Hyptec HT Premium 2024 – PCauto Thailand",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Thailand"
+          },
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://data.carnewschina.com/database/hyper/hyper-ht/2024/params",
+            "title": "Hyptec HT 2024 parameters – CarNewsChina database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "China"
+          }
+        ]
+      },
+      "notes": "Price up from Rp691 jt (2025) to Rp755 jt (Moladin Oct 2026, Rp755-760 jt). Hyptec HT imported (1,000 units arrived Mar 2025); deliveries from late 2024. DC 10-70% in about 15 min (not 10-80%). Moladin's '430 km' range is inconsistent with the 620 km NEDC claim (kabarbursa) and was not used. Battery 83.3 kWh (kabarbursa) vs 83 kWh (Fortune, Moladin). Moladin boot figure (725) not recorded (unclear basis). Assembly not stated by sources. 0–100 km/h time and boot capacity from the Thai spec (PCauto); frunk, kerb weight, top speed and heat pump from the Chinese spec (CarNewsChina database), both 83.3 kWh LFP / 250 kW RWD. Moladin's 725 L equals the 670 L boot plus the 55 L frunk.",
+      "notes_id": "Harga naik dari Rp691 jt (2025) menjadi Rp755 jt (Moladin Oktober 2026, Rp755-760 jt). Hyptec HT diimpor (1.000 unit tiba Maret 2025); pengiriman mulai akhir 2024. DC 10-70% sekitar 15 menit (bukan 10-80%). Jarak tempuh '430 km' versi Moladin tidak sesuai dengan klaim 620 km NEDC (kabarbursa), sehingga tidak dipakai. Baterai 83,3 kWh (kabarbursa) vs 83 kWh (Fortune, Moladin). Angka bagasi Moladin (725) tidak dicatat (dasarnya tidak jelas). Status perakitan tidak disebutkan sumber. Waktu 0–100 km/jam dan kapasitas bagasi dari spesifikasi Thailand (PCauto); bagasi depan, berat kosong, kecepatan maksimum, dan heat pump dari spesifikasi China (database CarNewsChina), keduanya 83,3 kWh LFP / 250 kW RWD. Angka 725 L dari Moladin sama dengan bagasi 670 L ditambah bagasi depan 55 L."
+    }
+  ]
+}

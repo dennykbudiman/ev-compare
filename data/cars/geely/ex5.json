@@ -1,0 +1,782 @@
+{
+  "make": "Geely",
+  "model": "EX5",
+  "trims": [
+    {
+      "id": "geely-ex5-2026-pro",
+      "model_year": 2026,
+      "variant": "Pro",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 475000000,
+        "range_km": 495,
+        "assembly": "CKD Indonesia",
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "cell_format": "Blade",
+        "battery_gross_kwh": 60.22,
+        "power_kw": 160,
+        "torque_nm": 320,
+        "airbags": 6,
+        "dc_10_80_min": 20,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 6,
+        "adas": "ACC, LKA, ELKA, AEB, FCM, RCM, RCTA, RCTB, BSD, LCA, TSR, DOW",
+        "voltage_architecture": "~400 V",
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "length_mm": 4615,
+        "width_mm": 1901,
+        "height_mm": 1670,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": 173,
+        "boot_l": 461,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "tyre_size": "235/55 R18",
+        "accel_0_100_s": 6.9,
+        "top_speed_kmh": 175,
+        "ac_max_kw": 11,
+        "dc_max_kw": 100,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "motor_type": "PMSM",
+        "heat_pump": true
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8137494/geely-mulai-produksi-lokal-di-purwakarta",
+            "title": "Geely Mulai Produksi Lokal di Purwakarta",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "cell_format": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/11/29/geely-ex5-launches-in-thailand-ckd-from-china-from-approx-rm111k/",
+            "title": "Geely EX5 launches in Thailand – CBU from China, from approx. RM111k (autobuzz.my)",
+            "date": "2024-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/11/29/geely-ex5-launches-in-thailand-ckd-from-china-from-approx-rm111k/",
+            "title": "Geely EX5 launches in Thailand – CBU from China, from approx. RM111k (autobuzz.my)",
+            "date": "2024-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/11/29/geely-ex5-launches-in-thailand-ckd-from-china-from-approx-rm111k/",
+            "title": "Geely EX5 launches in Thailand – CBU from China, from approx. RM111k (autobuzz.my)",
+            "date": "2024-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://autobuzz.my/2024/11/29/geely-ex5-launches-in-thailand-ckd-from-china-from-approx-rm111k/",
+            "title": "Geely EX5 launches in Thailand – CBU from China, from approx. RM111k (autobuzz.my)",
+            "date": "2024-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://resource.digitaldealer.com.au/pdf/170215834367b2cde233d6d543706180.pdf",
+            "title": "GEELY EX5 Specification Guide (Australia)",
+            "date": "2025-02",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://resource.digitaldealer.com.au/pdf/170215834367b2cde233d6d543706180.pdf",
+            "title": "GEELY EX5 Specification Guide (Australia)",
+            "date": "2025-02",
+            "type": "official",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Pro lacks BSM/RCTA/FCTA per Moladin table (detik lists 13 L2 functions for the model). Launched IIMS Feb 2025 (initially imported from China, first 1,000 units CBU); local KD/CKD assembly at Handal Purwakarta announced Sept 2025 — assembly field for 2026 from detik. Price unchanged Rp475/515 jt 2025-2026 (Moladin Aug 2026; promo Rp465/505 jt OTR). Same specs 2025-2026. DC 30-80% in about 20 min, AC 10-100% about 6 h; DC kW not published by Indonesian sources. Moladin table says 214 hp (=160 kW). 0-100 6.9 s / 175 km/h from Moladin FAQ only. Dealers promote a lifetime battery warranty but terms are not published. AC and DC charging power and V2L from the Thai spec (autobuzz.my); motor type and heat pump from the Australian spec guide (Geely Australia).",
+      "notes_id": "Pro tidak dilengkapi BSM/RCTA/FCTA menurut tabel Moladin (detik mencantumkan 13 fungsi L2 untuk model ini). Diluncurkan di IIMS Februari 2025 (awalnya diimpor dari China, 1.000 unit pertama CBU); perakitan KD/CKD lokal di Handal Purwakarta diumumkan September 2025 — kolom perakitan 2026 mengacu pada detik. Harga tidak berubah Rp475/515 jt 2025-2026 (Moladin Agustus 2026; promo Rp465/505 jt OTR). Spesifikasi sama 2025-2026. DC 30-80% sekitar 20 menit, AC 10-100% sekitar 6 jam; DC kW tidak dipublikasikan sumber Indonesia. Tabel Moladin menyebut 214 hp (=160 kW). 0-100 6,9 detik / 175 km/jam hanya dari FAQ Moladin. Diler mempromosikan garansi baterai seumur hidup, tetapi syaratnya tidak dipublikasikan. Daya pengisian AC dan DC serta V2L dari spesifikasi Thailand (autobuzz.my); jenis motor dan heat pump dari panduan spesifikasi Australia (Geely Australia)."
+    },
+    {
+      "id": "geely-ex5-2026-max",
+      "model_year": 2026,
+      "variant": "Max",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "price_otr_idr": 515000000,
+        "range_km": 490,
+        "assembly": "CKD Indonesia",
+        "segment": "SUV",
+        "battery_chemistry": "LFP",
+        "cell_format": "Blade",
+        "battery_gross_kwh": 60.22,
+        "power_kw": 160,
+        "torque_nm": 320,
+        "airbags": 6,
+        "dc_10_80_min": 20,
+        "dc_time_window": "30–80%",
+        "ac_full_hours": 6,
+        "adas": "ACC, LKA, ELKA, AEB, FCM, RCM, RCTA, RCTB, BSD, LCA, TSR, DOW",
+        "voltage_architecture": "~400 V",
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "length_mm": 4615,
+        "width_mm": 1901,
+        "height_mm": 1670,
+        "wheelbase_mm": 2750,
+        "ground_clearance_mm": 173,
+        "boot_l": 461,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "tyre_size": "235/55 R18",
+        "accel_0_100_s": 6.9,
+        "top_speed_kmh": 175,
+        "ac_max_kw": 11,
+        "dc_max_kw": 100,
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "motor_type": "PMSM",
+        "heat_pump": true
+      },
+      "sources": {
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8137494/geely-mulai-produksi-lokal-di-purwakarta",
+            "title": "Geely Mulai Produksi Lokal di Purwakarta",
+            "date": "2025-09",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "cell_format": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7778408/spek-dan-harga-geely-ex5-beli-di-iims-2025-lebih-murah-rp-10-juta",
+            "title": "Spek dan Harga Geely EX5, Beli di IIMS 2025 Lebih Murah Rp 10 Juta",
+            "date": "2025-02",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/mobil-baru/geely/geely-ex5",
+            "title": "Geely EX5 (Moladin)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/11/29/geely-ex5-launches-in-thailand-ckd-from-china-from-approx-rm111k/",
+            "title": "Geely EX5 launches in Thailand – CBU from China, from approx. RM111k (autobuzz.my)",
+            "date": "2024-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://autobuzz.my/2024/11/29/geely-ex5-launches-in-thailand-ckd-from-china-from-approx-rm111k/",
+            "title": "Geely EX5 launches in Thailand – CBU from China, from approx. RM111k (autobuzz.my)",
+            "date": "2024-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://autobuzz.my/2024/11/29/geely-ex5-launches-in-thailand-ckd-from-china-from-approx-rm111k/",
+            "title": "Geely EX5 launches in Thailand – CBU from China, from approx. RM111k (autobuzz.my)",
+            "date": "2024-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://autobuzz.my/2024/11/29/geely-ex5-launches-in-thailand-ckd-from-china-from-approx-rm111k/",
+            "title": "Geely EX5 launches in Thailand – CBU from China, from approx. RM111k (autobuzz.my)",
+            "date": "2024-11",
+            "type": "media",
+            "market": "Thailand"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://resource.digitaldealer.com.au/pdf/170215834367b2cde233d6d543706180.pdf",
+            "title": "GEELY EX5 Specification Guide (Australia)",
+            "date": "2025-02",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://resource.digitaldealer.com.au/pdf/170215834367b2cde233d6d543706180.pdf",
+            "title": "GEELY EX5 Specification Guide (Australia)",
+            "date": "2025-02",
+            "type": "official",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Max adds panoramic roof, power tailgate, 16-speaker audio. Launched IIMS Feb 2025 (initially imported from China, first 1,000 units CBU); local KD/CKD assembly at Handal Purwakarta announced Sept 2025 — assembly field for 2026 from detik. Price unchanged Rp475/515 jt 2025-2026 (Moladin Aug 2026; promo Rp465/505 jt OTR). Same specs 2025-2026. DC 30-80% in about 20 min, AC 10-100% about 6 h; DC kW not published by Indonesian sources. Moladin table says 214 hp (=160 kW). 0-100 6.9 s / 175 km/h from Moladin FAQ only. Dealers promote a lifetime battery warranty but terms are not published. AC and DC charging power and V2L from the Thai spec (autobuzz.my); motor type and heat pump from the Australian spec guide (Geely Australia).",
+      "notes_id": "Max menambahkan atap panoramik, pintu bagasi elektrik, dan audio 16 speaker. Diluncurkan di IIMS Februari 2025 (awalnya diimpor dari China, 1.000 unit pertama CBU); perakitan KD/CKD lokal di Handal Purwakarta diumumkan September 2025 — kolom perakitan 2026 mengacu pada detik. Harga tidak berubah Rp475/515 jt 2025-2026 (Moladin Agustus 2026; promo Rp465/505 jt OTR). Spesifikasi sama 2025-2026. DC 30-80% sekitar 20 menit, AC 10-100% sekitar 6 jam; DC kW tidak dipublikasikan sumber Indonesia. Tabel Moladin menyebut 214 hp (=160 kW). 0-100 6,9 detik / 175 km/jam hanya dari FAQ Moladin. Diler mempromosikan garansi baterai seumur hidup, tetapi syaratnya tidak dipublikasikan. Daya pengisian AC dan DC serta V2L dari spesifikasi Thailand (autobuzz.my); jenis motor dan heat pump dari panduan spesifikasi Australia (Geely Australia)."
+    }
+  ]
+}

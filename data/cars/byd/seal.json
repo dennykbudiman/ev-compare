@@ -1,0 +1,1836 @@
+{
+  "make": "BYD",
+  "model": "Seal",
+  "trims": [
+    {
+      "id": "byd-seal-2024-premium",
+      "model_year": 2024,
+      "variant": "Premium (Extended Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 82.56,
+        "range_standard": "NEDC",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 150,
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "length_mm": 4800,
+        "width_mm": 1875,
+        "height_mm": 1460,
+        "wheelbase_mm": 2920,
+        "ground_clearance_mm": 120,
+        "boot_l": 400,
+        "frunk_l": 53,
+        "airbags": 7,
+        "seats": 5,
+        "tyre_size": "235/45 R19",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "range_km": 650,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 230,
+        "torque_nm": 360,
+        "accel_0_100_s": 5.9,
+        "price_otr_idr": 629000000,
+        "assembly": "CBU import",
+        "kerb_weight_kg": 2055,
+        "dc_10_80_min": 37,
+        "adas": "ACC, AEB, FCW, BSD, LDW, LDP, LKA, FCTA, RCTA, RCTB, AHB"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.goodnewsfromindonesia.id/2024/02/16/byd-umumkan-harga-mobil-listriknya-di-indonesia-termurah-rp425-juta",
+            "title": "BYD Umumkan Harga Mobil Listriknya di Indonesia, Termurah Rp425 Juta",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/premium-2024/",
+            "title": "BYD Seal Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/premium-2024/",
+            "title": "BYD Seal Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Price announced at IIMS February 2024 as Rp629 jt ('Premium Vibrant'). Imported from China. AC charging conflicts between Moladin pages (11 kW on the spec page, 7 kW in the 2024 launch article), so it is left out; Moladin's DC time is a vague '30–80% in 26–45 min'. A 'Dynamic' 61.44 kWh variant was announced in 2024 but never priced or sold. Kerb weight, DC 10–80% time and ADAS list from the Malaysian spec (paultan.org, Premium 82.56 kWh RWD).",
+      "notes_id": "Harga diumumkan di IIMS Februari 2024 sebesar Rp629 jt ('Premium Vibrant'). Diimpor dari China. Daya pengisian AC berbeda antarhalaman Moladin (11 kW di halaman spesifikasi, 7 kW di artikel peluncuran 2024), sehingga dikosongkan; waktu DC versi Moladin kurang jelas, yakni '30–80% dalam 26–45 menit'. Varian 'Dynamic' 61,44 kWh sempat diumumkan pada 2024, tetapi tidak pernah diberi harga atau dijual. Berat kosong, waktu DC 10–80%, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Premium 82,56 kWh RWD)."
+    },
+    {
+      "id": "byd-seal-2024-performance",
+      "model_year": 2024,
+      "variant": "Performance AWD",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 82.56,
+        "range_standard": "NEDC",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 150,
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "length_mm": 4800,
+        "width_mm": 1875,
+        "height_mm": 1460,
+        "wheelbase_mm": 2920,
+        "ground_clearance_mm": 120,
+        "boot_l": 400,
+        "frunk_l": 53,
+        "airbags": 7,
+        "seats": 5,
+        "tyre_size": "235/45 R19",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "range_km": 580,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 390,
+        "torque_nm": 670,
+        "accel_0_100_s": 3.8,
+        "top_speed_kmh": 180,
+        "pack_nominal_voltage_v": 381.6,
+        "price_otr_idr": 719000000,
+        "assembly": "CBU import",
+        "kerb_weight_kg": 2185,
+        "dc_10_80_min": 37,
+        "adas": "ACC, AEB, FCW, BSD, LDW, LDP, LKA, FCTA, RCTA, RCTB, AHB"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.goodnewsfromindonesia.id/2024/02/16/byd-umumkan-harga-mobil-listriknya-di-indonesia-termurah-rp425-juta",
+            "title": "BYD Umumkan Harga Mobil Listriknya di Indonesia, Termurah Rp425 Juta",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/performance-2024/",
+            "title": "BYD Seal Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/performance-2024/",
+            "title": "BYD Seal Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Price announced at IIMS February 2024 as Rp719 jt. Motors 160 kW front + 230 kW rear, 310 + 360 Nm. Imported from China. AC charging conflicts between Moladin pages (11 kW on the spec page, 7 kW in the 2024 launch article), so it is left out; Moladin's DC time is a vague '30–80% in 26–45 min'. A 'Dynamic' 61.44 kWh variant was announced in 2024 but never priced or sold. Kerb weight, DC 10–80% time and ADAS list from the Malaysian spec (paultan.org, Performance AWD).",
+      "notes_id": "Harga diumumkan di IIMS Februari 2024 sebesar Rp719 jt. Motor 160 kW depan + 230 kW belakang, 310 + 360 Nm. Diimpor dari China. Daya pengisian AC berbeda antarhalaman Moladin (11 kW di halaman spesifikasi, 7 kW di artikel peluncuran 2024), sehingga dikosongkan; waktu DC versi Moladin kurang jelas, yakni '30–80% dalam 26–45 menit'. Varian 'Dynamic' 61,44 kWh sempat diumumkan pada 2024, tetapi tidak pernah diberi harga atau dijual. Berat kosong, waktu DC 10–80%, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Performance AWD)."
+    },
+    {
+      "id": "byd-seal-2025-premium",
+      "model_year": 2025,
+      "variant": "Premium (Extended Range)",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 82.56,
+        "range_standard": "NEDC",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 150,
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "length_mm": 4800,
+        "width_mm": 1875,
+        "height_mm": 1460,
+        "wheelbase_mm": 2920,
+        "ground_clearance_mm": 120,
+        "boot_l": 400,
+        "frunk_l": 53,
+        "airbags": 7,
+        "seats": 5,
+        "tyre_size": "235/45 R19",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "range_km": 650,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 230,
+        "torque_nm": 360,
+        "accel_0_100_s": 5.9,
+        "price_otr_idr": 639000000,
+        "assembly": "CBU import",
+        "kerb_weight_kg": 2055,
+        "dc_10_80_min": 37,
+        "adas": "ACC, AEB, FCW, BSD, LDW, LDP, LKA, FCTA, RCTA, RCTB, AHB"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/premium-2024/",
+            "title": "BYD Seal Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/premium-2024/",
+            "title": "BYD Seal Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Rp635 jt in Feb 2025, Rp639 jt from about April 2025 to early 2026 (detik Nov 2025, Moladin Feb 2026). AC charging conflicts between Moladin pages (11 kW on the spec page, 7 kW in the 2024 launch article), so it is left out; Moladin's DC time is a vague '30–80% in 26–45 min'. A 'Dynamic' 61.44 kWh variant was announced in 2024 but never priced or sold. Kerb weight, DC 10–80% time and ADAS list from the Malaysian spec (paultan.org, Premium 82.56 kWh RWD).",
+      "notes_id": "Rp635 jt pada Februari 2025, Rp639 jt sejak sekitar April 2025 hingga awal 2026 (detik November 2025, Moladin Februari 2026). Daya pengisian AC berbeda antarhalaman Moladin (11 kW di halaman spesifikasi, 7 kW di artikel peluncuran 2024), sehingga dikosongkan; waktu DC versi Moladin kurang jelas, yakni '30–80% dalam 26–45 menit'. Varian 'Dynamic' 61,44 kWh sempat diumumkan pada 2024, tetapi tidak pernah diberi harga atau dijual. Berat kosong, waktu DC 10–80%, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Premium 82,56 kWh RWD)."
+    },
+    {
+      "id": "byd-seal-2025-performance",
+      "model_year": 2025,
+      "variant": "Performance AWD",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 82.56,
+        "range_standard": "NEDC",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 150,
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "length_mm": 4800,
+        "width_mm": 1875,
+        "height_mm": 1460,
+        "wheelbase_mm": 2920,
+        "ground_clearance_mm": 120,
+        "boot_l": 400,
+        "frunk_l": 53,
+        "airbags": 7,
+        "seats": 5,
+        "tyre_size": "235/45 R19",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "range_km": 580,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 390,
+        "torque_nm": 670,
+        "accel_0_100_s": 3.8,
+        "top_speed_kmh": 180,
+        "pack_nominal_voltage_v": 381.6,
+        "price_otr_idr": 750000000,
+        "assembly": "CBU import",
+        "kerb_weight_kg": 2185,
+        "dc_10_80_min": 37,
+        "adas": "ACC, AEB, FCW, BSD, LDW, LDP, LKA, FCTA, RCTA, RCTB, AHB"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8202797/daftar-harga-mobil-byd-terbaru-paling-murah-segini",
+            "title": "Daftar Harga Mobil BYD Terbaru, Paling Murah Segini",
+            "date": "2025-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/performance-2024/",
+            "title": "BYD Seal Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/performance-2024/",
+            "title": "BYD Seal Performance – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Rp726 jt in Feb 2025, Rp750 jt by Nov 2025 and still listed Feb 2026; no longer on the official price list by October 2026. AC charging conflicts between Moladin pages (11 kW on the spec page, 7 kW in the 2024 launch article), so it is left out; Moladin's DC time is a vague '30–80% in 26–45 min'. A 'Dynamic' 61.44 kWh variant was announced in 2024 but never priced or sold. Kerb weight, DC 10–80% time and ADAS list from the Malaysian spec (paultan.org, Performance AWD).",
+      "notes_id": "Rp726 jt pada Februari 2025, Rp750 jt per November 2025 dan masih tercantum Februari 2026; sudah tidak ada di daftar harga resmi per Oktober 2026. Daya pengisian AC berbeda antarhalaman Moladin (11 kW di halaman spesifikasi, 7 kW di artikel peluncuran 2024), sehingga dikosongkan; waktu DC versi Moladin kurang jelas, yakni '30–80% dalam 26–45 menit'. Varian 'Dynamic' 61,44 kWh sempat diumumkan pada 2024, tetapi tidak pernah diberi harga atau dijual. Berat kosong, waktu DC 10–80%, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Performance AWD)."
+    },
+    {
+      "id": "byd-seal-2026-premium-extended-range",
+      "model_year": 2026,
+      "variant": "Premium Extended Range",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 82.56,
+        "range_standard": "NEDC",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 150,
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "length_mm": 4800,
+        "width_mm": 1875,
+        "height_mm": 1460,
+        "wheelbase_mm": 2920,
+        "ground_clearance_mm": 120,
+        "boot_l": 400,
+        "frunk_l": 53,
+        "airbags": 7,
+        "seats": 5,
+        "tyre_size": "235/45 R19",
+        "crash_rating": "5 stars (Euro NCAP)",
+        "range_km": 650,
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 230,
+        "torque_nm": 360,
+        "accel_0_100_s": 5.9,
+        "price_otr_idr": 869000000,
+        "kerb_weight_kg": 2055,
+        "dc_10_80_min": 37,
+        "adas": "ACC, AEB, FCW, BSD, LDW, LDP, LKA, FCTA, RCTA, RCTB, AHB"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/news/byd-seal-dan-sealion-7-naik-harga-oktober-2026/?show_all=1",
+            "title": "BYD Seal dan Sealion 7 Naik Harga Per Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7149823/harga-byd-di-indonesia-mobil-listrik-yang-baru-diluncurkan-dan-spesifikasinya",
+            "title": "Harga BYD di Indonesia, Mobil Listrik yang Baru Diluncurkan dan Spesifikasinya",
+            "date": "2024-01",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/news/byd-seal-dan-sealion-7-naik-harga-oktober-2026/?show_all=1",
+            "title": "BYD Seal dan Sealion 7 Naik Harga Per Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/spesifikasi-byd-seal-lebih-garang-dari-ioniq-6/",
+            "title": "Spesifikasi BYD Seal, Lebih Garang dari Ioniq 6",
+            "date": "2024-01",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/mobil-baru/byd/byd-seal",
+            "title": "BYD Seal harga dan spesifikasi (Moladin)",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1934883-harga-mobil-byd-naik-ini-daftar-resminya-oktober-2026",
+            "title": "Harga Mobil BYD Naik? Ini Daftar Resminya Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/harga-otr-byd-oktober-2026/?show_all=1",
+            "title": "Harga OTR BYD Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/byd-seal-dan-sealion-7-naik-harga-oktober-2026/?show_all=1",
+            "title": "BYD Seal dan Sealion 7 Naik Harga Per Oktober 2026",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/premium-2024/",
+            "title": "BYD Seal Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/2024/02/22/byd-seal-ev-launched-in-malaysia/",
+            "title": "BYD Seal EV launched in Malaysia (paultan.org)",
+            "date": "2024-02",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://paultan.org/research/byd/seal/mk1/premium-2024/",
+            "title": "BYD Seal Premium – Car Buyer's Guide (paultan.org)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Only Seal variant on the October 2026 list, at Rp869 jt (up Rp230 jt from Rp639 jt); Moladin says specs are unchanged (82.56 kWh, 650 km) and adds a Lavender Grey colour. Motor/performance figures are from Moladin's Premium spec page and assumed unchanged by that page. Assembly not confirmed. AC charging conflicts between Moladin pages (11 kW on the spec page, 7 kW in the 2024 launch article), so it is left out; Moladin's DC time is a vague '30–80% in 26–45 min'. A 'Dynamic' 61.44 kWh variant was announced in 2024 but never priced or sold. Kerb weight, DC 10–80% time and ADAS list from the Malaysian spec (paultan.org, Premium 82.56 kWh RWD).",
+      "notes_id": "Satu-satunya varian Seal di daftar Oktober 2026, seharga Rp869 jt (naik Rp230 jt dari Rp639 jt); Moladin menyebut spesifikasi tidak berubah (82,56 kWh, 650 km) dan menambahkan warna Lavender Grey. Angka motor/performa berasal dari halaman spesifikasi Premium di Moladin dan diasumsikan tidak berubah oleh halaman tersebut. Status perakitan belum terkonfirmasi. Daya pengisian AC berbeda antarhalaman Moladin (11 kW di halaman spesifikasi, 7 kW di artikel peluncuran 2024), sehingga dikosongkan; waktu DC versi Moladin kurang jelas, yakni '30–80% dalam 26–45 menit'. Varian 'Dynamic' 61,44 kWh sempat diumumkan pada 2024, tetapi tidak pernah diberi harga atau dijual. Berat kosong, waktu DC 10–80%, dan daftar ADAS dari spesifikasi Malaysia (paultan.org, Premium 82,56 kWh RWD)."
+    }
+  ]
+}

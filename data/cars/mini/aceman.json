@@ -1,0 +1,688 @@
+{
+  "make": "MINI",
+  "model": "Aceman",
+  "trims": [
+    {
+      "id": "mini-aceman-2026-se",
+      "model_year": 2026,
+      "variant": "Aceman SE",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 1223000000,
+        "battery_gross_kwh": 54.2,
+        "range_km": 405,
+        "range_standard": "WLTP",
+        "power_kw": 160,
+        "torque_nm": 330,
+        "accel_0_100_s": 7.1,
+        "top_speed_kmh": 170,
+        "ac_max_kw": 11,
+        "ac_full_hours": 5.5,
+        "dc_max_kw": 95,
+        "dc_10_80_min": 31,
+        "length_mm": 4079,
+        "width_mm": 1754,
+        "height_mm": 1514,
+        "wheelbase_mm": 2606,
+        "boot_l": 300,
+        "seats": 5,
+        "tyre_size": "255/45 R19",
+        "battery_usable_kwh": 49.2,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "drive": "FWD",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "AEB, FCW, LDW, BSM, ACC",
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-aceman.html",
+            "title": "All-Electric MINI Aceman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://secure.mini.co.id/pricelist.php",
+            "title": "MINI Indonesia - Get A Pricelist (all prices on-the-road)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-aceman.html",
+            "title": "All-Electric MINI Aceman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7664345/mini-aceman-dan-mini-cooper-5-door-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Aceman dan MINI Cooper 5 Door Meluncur di Indonesia, Segini Harganya - detikOto",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-aceman.html",
+            "title": "All-Electric MINI Aceman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7664345/mini-aceman-dan-mini-cooper-5-door-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Aceman dan MINI Cooper 5 Door Meluncur di Indonesia, Segini Harganya - detikOto",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-aceman.html",
+            "title": "All-Electric MINI Aceman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7664345/mini-aceman-dan-mini-cooper-5-door-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Aceman dan MINI Cooper 5 Door Meluncur di Indonesia, Segini Harganya - detikOto",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7664345/mini-aceman-dan-mini-cooper-5-door-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Aceman dan MINI Cooper 5 Door Meluncur di Indonesia, Segini Harganya - detikOto",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7664345/mini-aceman-dan-mini-cooper-5-door-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Aceman dan MINI Cooper 5 Door Meluncur di Indonesia, Segini Harganya - detikOto",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7664345/mini-aceman-dan-mini-cooper-5-door-meluncur-di-indonesia-segini-harganya",
+            "title": "MINI Aceman dan MINI Cooper 5 Door Meluncur di Indonesia, Segini Harganya - detikOto",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-aceman.html",
+            "title": "All-Electric MINI Aceman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mini/electric-aceman/spesifikasi",
+            "title": "Spesifikasi MINI Electric Aceman 2025 - konfigurasi & Fitur - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/se-2025",
+            "title": "MINI Aceman SE (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/se-2025",
+            "title": "MINI Aceman SE (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/se-2025",
+            "title": "MINI Aceman SE (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/se-2025",
+            "title": "MINI Aceman SE (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/se-2025",
+            "title": "MINI Aceman SE (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/se-2025",
+            "title": "MINI Aceman SE (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/car/2191/Mini-Aceman-SE",
+            "title": "Mini Aceman SE - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched GJAW November 2024 at Rp1,128,000,000 (detik; OTR/off-road not stated); now OTR Jakarta Rp1,223,000,000 (MINI price list, oto.com). Same specs since launch. Range: MINI 405 km (FAQ 406 km), detik 407 km WLTP. Oto lists 215 hp and AC 0-100% 5.75 h; MINI says 218 hp / 160 kW and 5.5 h at 11 kW. Boot up to 1,005 l with seats folded. Drive, connectors, airbags and ADAS from the Malaysian spec (carbase.my; active cruise control there is a subscription feature); usable battery, chemistry, voltage, charge port, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan di GJAW November 2024 seharga Rp1.128.000.000 (detik; tidak disebutkan OTR/off the road); kini OTR Jakarta Rp1.223.000.000 (daftar harga MINI, oto.com). Spesifikasi sama sejak peluncuran. Jarak tempuh: MINI 405 km (FAQ 406 km), detik 407 km WLTP. Oto mencantumkan 215 hp dan AC 0-100% 5,75 jam; MINI menyebut 218 hp / 160 kW dan 5,5 jam pada 11 kW. Bagasi hingga 1.005 l dengan jok dilipat. Penggerak, konektor, airbag, dan ADAS dari spesifikasi Malaysia (carbase.my; di sana active cruise control berbasis langganan); baterai usable, kimia baterai, tegangan, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "mini-aceman-2026-jcw",
+      "model_year": 2026,
+      "variant": "John Cooper Works Aceman",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 1341000000,
+        "battery_gross_kwh": 54.2,
+        "range_km": 355,
+        "range_standard": "WLTP",
+        "power_kw": 190,
+        "torque_nm": 350,
+        "accel_0_100_s": 5.9,
+        "top_speed_kmh": 200,
+        "ac_max_kw": 11,
+        "ac_full_hours": 5.5,
+        "dc_max_kw": 95,
+        "dc_10_80_min": 31,
+        "battery_chemistry": "NMC",
+        "drive": "FWD",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "length_mm": 4076,
+        "width_mm": 1754,
+        "height_mm": 1515,
+        "wheelbase_mm": 2606,
+        "boot_l": 300,
+        "seats": 5,
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "AEB, LDW, ACC"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/range/all-electric-mini-aceman.html",
+            "title": "All-Electric MINI Aceman (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://secure.mini.co.id/pricelist.php",
+            "title": "MINI Indonesia - Get A Pricelist (all prices on-the-road)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.mini.co.id/en_ID/home/mini-electromobility/the-electric-mini-family.html",
+            "title": "MINI Electromobility - Electric Family (MINI Indonesia)",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carbase.my/mini/aceman/j05/john-cooper-works-2025",
+            "title": "MINI Aceman John Cooper Works (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "OTR Jakarta Rp1,341,000,000 (MINI price list). Specs from the MINI Indonesia electric family table only. Chemistry, drive, connectors, dimensions, boot, seats, airbags and ADAS from the Malaysian spec (carbase.my).",
+      "notes_id": "OTR Jakarta Rp1.341.000.000 (daftar harga MINI). Spesifikasi hanya dari tabel keluarga mobil listrik MINI Indonesia. Kimia baterai, penggerak, konektor, dimensi, bagasi, jumlah kursi, airbag, dan ADAS dari spesifikasi Malaysia (carbase.my)."
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "make": "VinFast",
+  "model": "VF MPV 7",
+  "trims": [
+    {
+      "id": "vinfast-vf-mpv-7-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "MPV",
+        "price_otr_idr": 420000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 60.13,
+        "range_km": 450,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 150,
+        "torque_nm": 280,
+        "dc_10_80_min": 30,
+        "dc_time_window": "10–70%",
+        "seats": 7,
+        "length_mm": 4740,
+        "width_mm": 1872,
+        "height_mm": 1723,
+        "wheelbase_mm": 2840,
+        "ground_clearance_mm": 180,
+        "airbags": 4,
+        "airbag_positions": "driver, front passenger, curtain",
+        "adas": "BSM, RCTA, front cross traffic alert, 360 camera",
+        "motor_type": "PMSM",
+        "battery_cooling": "Liquid",
+        "dc_max_kw": 80,
+        "dc_connector": "CCS2",
+        "top_speed_kmh": 140,
+        "kerb_weight_kg": 1875,
+        "boot_l": 124,
+        "turning_radius_m": 5.8,
+        "wading_mm": 300
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://investortrust.id/business/94044/vinfast-bets-on-affordable-evs-in-indonesia-as-incentives-fade",
+            "title": "VinFast Bets on Affordable EVs in Indonesia as Incentives Fade",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://investortrust.id/business/94044/vinfast-bets-on-affordable-evs-in-indonesia-as-incentives-fade",
+            "title": "VinFast Bets on Affordable EVs in Indonesia as Incentives Fade",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://investortrust.id/business/94044/vinfast-bets-on-affordable-evs-in-indonesia-as-incentives-fade",
+            "title": "VinFast Bets on Affordable EVs in Indonesia as Incentives Fade",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://investortrust.id/business/94044/vinfast-bets-on-affordable-evs-in-indonesia-as-incentives-fade",
+            "title": "VinFast Bets on Affordable EVs in Indonesia as Incentives Fade",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://investortrust.id/business/94044/vinfast-bets-on-affordable-evs-in-indonesia-as-incentives-fade",
+            "title": "VinFast Bets on Affordable EVs in Indonesia as Incentives Fade",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://investortrust.id/business/94044/vinfast-bets-on-affordable-evs-in-indonesia-as-incentives-fade",
+            "title": "VinFast Bets on Affordable EVs in Indonesia as Incentives Fade",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://investortrust.id/business/94044/vinfast-bets-on-affordable-evs-in-indonesia-as-incentives-fade",
+            "title": "VinFast Bets on Affordable EVs in Indonesia as Incentives Fade",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf-mpv-7-ev",
+            "title": "VinFast VF MPV 7 EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          },
+          {
+            "url": "https://www.autodeal.com.ph/cars/vinfast/mpv-7",
+            "title": "VinFast MPV 7 price and specs (AutoDeal)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          },
+          {
+            "url": "https://www.autodeal.com.ph/cars/vinfast/mpv-7",
+            "title": "VinFast MPV 7 price and specs (AutoDeal)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ],
+        "wading_mm": [
+          {
+            "url": "https://www.carguide.ph/2026/05/vinfast-ph-launches-vf-mpv-7-for-p.html",
+            "title": "VinFast PH launches VF MPV 7 (CarGuide.PH)",
+            "date": "2026-05",
+            "type": "media",
+            "market": "Philippines"
+          },
+          {
+            "url": "https://www.autodeal.com.ph/cars/vinfast/mpv-7",
+            "title": "VinFast MPV 7 price and specs (AutoDeal)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Philippines"
+          }
+        ]
+      },
+      "notes": "Launched at IIMS Feb 2026, derived from the Limo Green with more equipment. Rp420 jt OTR Jakarta with battery owned; Rp345 jt with battery subscription (Rp329 jt IIMS promo). Battery: investortrust 60.2 kWh vs Moladin 60.13 kWh. DC time is 10–70%. Moladin lists AC 0–100% in 8–10 h and tyres 245/40 R19 (looks doubtful vs Limo Green 235/55 R18; left out). CBU import from Vietnam; local Subang production planned. Price is the battery-included (battery ownership) OTR Jakarta price; VinFast also sells with a battery subscription at a lower upfront price. Motor type, battery cooling, DC power and connector, top speed, kerb weight, boot (124 L with the third row up), turning radius and wading depth from the Philippine spec of the VF MPV 7 (carguide.ph, autodeal.com.ph). Philippine AC power is given as 6.9 kW (carguide) and 7.4 kW (autodeal), so it was left out; the Philippine car lists 1,734 mm height and 185 mm ground clearance on 235/50 R19 tyres, slightly different from the Indonesian figures.",
+      "notes_id": "Diluncurkan di IIMS Februari 2026, turunan Limo Green dengan perlengkapan lebih lengkap. Rp420 jt OTR Jakarta dengan baterai milik sendiri; Rp345 jt dengan sewa baterai (promo IIMS Rp329 jt). Baterai: investortrust 60,2 kWh vs Moladin 60,13 kWh. Waktu DC adalah 10–70%. Moladin mencantumkan AC 0–100% dalam 8–10 jam dan ban 245/40 R19 (tampak meragukan dibanding Limo Green 235/55 R18; dikosongkan). CBU impor dari Vietnam; produksi lokal di Subang direncanakan. Harga adalah OTR Jakarta termasuk baterai (baterai milik sendiri); VinFast juga menjual dengan skema sewa baterai dengan harga awal lebih rendah. Tipe motor, pendinginan baterai, daya dan konektor DC, kecepatan maksimum, berat kosong, bagasi (124 L dengan baris ketiga tegak), radius putar, dan kedalaman lintas air dari spesifikasi Filipina VF MPV 7 (carguide.ph, autodeal.com.ph). Daya AC versi Filipina disebut 6,9 kW (carguide) dan 7,4 kW (autodeal) sehingga tidak dicantumkan; versi Filipina mencantumkan tinggi 1.734 mm dan ground clearance 185 mm dengan ban 235/50 R19, sedikit berbeda dari angka Indonesia."
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "make": "Hyundai",
+  "model": "Ioniq 6",
+  "trims": [
+    {
+      "id": "hyundai-ioniq-6-2026-signature",
+      "model_year": 2026,
+      "variant": "Signature",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "assembly": "CBU import",
+        "price_otr_idr": 1237200000,
+        "battery_gross_kwh": 77.4,
+        "range_km": 519,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 239,
+        "torque_nm": 605,
+        "voltage_architecture": "800 V",
+        "dc_10_80_min": 18,
+        "length_mm": 4855,
+        "width_mm": 1880,
+        "height_mm": 1495,
+        "wheelbase_mm": 2950,
+        "ground_clearance_mm": 141,
+        "boot_l": 401,
+        "accel_0_100_s": 5.1,
+        "top_speed_kmh": 185,
+        "adas": "AEB (FCA 2), BCA, LFA, RCCA, ACC (stop & go)",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "battery_usable_kwh": 74.0,
+        "cell_count": 384,
+        "pack_nominal_voltage_v": 697,
+        "ac_max_kw": 11,
+        "dc_max_kw": 350,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "heat_pump": true,
+        "frunk_l": 15,
+        "seats": 5,
+        "airbags": 7,
+        "v2l": true,
+        "v2l_kw": 3.6
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/hyundai/ioniq-6/",
+            "title": "Hyundai Ioniq 6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.hyundai.com/id/en/hyundai-story/articles/0000000525",
+            "title": "Hyundai Electric Car Prices 2025: Complete List and Latest Specifications",
+            "date": "2025-03",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Single Signature variant, CBU from South Korea. DC 10-80% 18 min is on a 350 kW charger; Zigwheels also gives about 73 min on 50 kW and about 12 h on 7 kW AC. Range 519 km, test standard not stated. Same specs 2024-2026; Zigwheels also cites an earlier Rp1.22 billion price. AC 11 kW, DC 350 kW, V2L and 7 airbags from the Malaysian Max AWD spec (paultan.org); usable capacity, cell count, pack voltage, connectors, heat pump, V2L 3.6 kW, frunk and seats from the European Long Range AWD spec (ev-database.org).",
+      "notes_id": "Satu varian Signature, CBU dari Korea Selatan. DC 10-80% 18 menit dengan charger 350 kW; Zigwheels juga menyebut sekitar 73 menit dengan 50 kW dan sekitar 12 jam dengan AC 7 kW. Jarak tempuh 519 km, standar pengujian tidak disebutkan. Spesifikasi sama 2024-2026; Zigwheels juga menyebut harga sebelumnya Rp1,22 miliar. AC 11 kW, DC 350 kW, V2L, dan 7 airbag dari spesifikasi Malaysia Max AWD (paultan.org); kapasitas usable, jumlah sel, tegangan paket, konektor, heat pump, V2L 3,6 kW, frunk, dan jumlah kursi dari spesifikasi Eropa Long Range AWD (ev-database.org)."
+    },
+    {
+      "id": "hyundai-ioniq-6-2023-signature",
+      "model_year": 2023,
+      "variant": "Signature",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 1197000000,
+        "battery_gross_kwh": 77.4,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 239,
+        "torque_nm": 605,
+        "voltage_architecture": "800 V",
+        "dc_10_80_min": 18,
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "accel_0_100_s": 5.1,
+        "top_speed_kmh": 185,
+        "battery_usable_kwh": 74.0,
+        "cell_count": 384,
+        "pack_nominal_voltage_v": 697,
+        "ac_max_kw": 11,
+        "dc_max_kw": 350,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "heat_pump": true,
+        "frunk_l": 15,
+        "seats": 5,
+        "airbags": 7,
+        "range_km": 519,
+        "range_standard": "WLTP",
+        "length_mm": 4855,
+        "width_mm": 1880,
+        "height_mm": 1495,
+        "wheelbase_mm": 2950,
+        "boot_l": 401
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/rze164502/hyundai-resmi-luncurkan-ioniq-6-di-giias-2023",
+            "title": "Hyundai Resmi Luncurkan Ioniq 6 di GIIAS 2023",
+            "date": "2023-08",
+            "type": "press"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2023/07/21/hyundai-ioniq-6-dilancarkan-di-malaysia-rm289888-rm319888-hingga-320-ps-605-nm-jarak-gerak-614-km/",
+            "title": "Hyundai Ioniq 6 dilancarkan di Malaysia - RM289,888-RM319,888, hingga 320 PS/605 Nm - paultan.org",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD",
+            "title": "Hyundai IONIQ 6 Long Range AWD - ev-database.org",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS 14 Aug 2023 at Rp1.197 billion (Republika; city/OTR not stated). Variant name 'Signature' as in the later record (the launch source names no variant). Range given only as 'more than 500 km', so left out (later sources: 519 km). DC 10-80% 18 min on a 350 kW charger. Later Rp1.22 billion, then Rp1.237 billion; same specs 2023-2026. Range 519 km WLTP, dimensions, AC 11 kW, DC 350 kW and 7 airbags from the Malaysian Max AWD spec (paultan.org); usable capacity, cell count, pack voltage, connectors, heat pump, boot, frunk and seats from the European Long Range AWD spec (ev-database.org).",
+      "notes_id": "Diluncurkan di GIIAS 14 Agustus 2023 seharga Rp1,197 miliar (Republika; kota/OTR tidak disebutkan). Nama varian 'Signature' mengikuti data berikutnya (sumber peluncuran tidak menyebut varian). Jarak tempuh hanya disebut 'lebih dari 500 km', sehingga tidak diisi (sumber berikutnya: 519 km). DC 10-80% 18 menit dengan charger 350 kW. Kemudian Rp1,22 miliar, lalu Rp1,237 miliar; spesifikasi sama 2023-2026. Jarak tempuh 519 km WLTP, dimensi, AC 11 kW, DC 350 kW, dan 7 airbag dari spesifikasi Malaysia Max AWD (paultan.org); kapasitas usable, jumlah sel, tegangan paket, konektor, heat pump, bagasi, frunk, dan jumlah kursi dari spesifikasi Eropa Long Range AWD (ev-database.org)."
+    }
+  ]
+}

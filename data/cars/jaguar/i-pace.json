@@ -1,0 +1,296 @@
+{
+  "make": "Jaguar",
+  "model": "I-Pace",
+  "trims": [
+    {
+      "id": "jaguar-i-pace-2022-p400",
+      "model_year": 2022,
+      "variant": "P400",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "battery_gross_kwh": 90,
+        "range_km": 470,
+        "drive": "AWD",
+        "power_kw": 294,
+        "accel_0_100_s": 4.8,
+        "top_speed_kmh": 200,
+        "ac_max_kw": 11,
+        "ac_full_hours": 8.5,
+        "motor_type": "PMSM",
+        "torque_nm": 696,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_max_kw": 100,
+        "length_mm": 4682,
+        "width_mm": 1895,
+        "height_mm": 1565,
+        "wheelbase_mm": 2990,
+        "ground_clearance_mm": 230,
+        "kerb_weight_kg": 2133,
+        "boot_l": 604,
+        "seats": 5,
+        "seat_layout": "2+3",
+        "airbag_positions": "front, front side, curtain",
+        "adas": "ACC, LDW, BSM, RCTA"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6368505/spesifikasi-jaguar-i-pace-mainan-baru-sultan-indonesia-seharga-rp-3-m",
+            "title": "Spesifikasi Jaguar I-Pace, Mainan Baru Sultan Indonesia Seharga Rp 3 M",
+            "date": "2022-10",
+            "type": "press"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/mobil-listrik-jaguar-i-pace-resmi-masuk-indonesia-00-4vfn9-6x1bj2",
+            "title": "Mobil Listrik Jaguar I-PACE Resmi Masuk Indonesia",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6368505/spesifikasi-jaguar-i-pace-mainan-baru-sultan-indonesia-seharga-rp-3-m",
+            "title": "Spesifikasi Jaguar I-Pace, Mainan Baru Sultan Indonesia Seharga Rp 3 M",
+            "date": "2022-10",
+            "type": "press"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/mobil-listrik-jaguar-i-pace-resmi-masuk-indonesia-00-4vfn9-6x1bj2",
+            "title": "Mobil Listrik Jaguar I-PACE Resmi Masuk Indonesia",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6368505/spesifikasi-jaguar-i-pace-mainan-baru-sultan-indonesia-seharga-rp-3-m",
+            "title": "Spesifikasi Jaguar I-Pace, Mainan Baru Sultan Indonesia Seharga Rp 3 M",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6368505/spesifikasi-jaguar-i-pace-mainan-baru-sultan-indonesia-seharga-rp-3-m",
+            "title": "Spesifikasi Jaguar I-Pace, Mainan Baru Sultan Indonesia Seharga Rp 3 M",
+            "date": "2022-10",
+            "type": "press"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/mobil-listrik-jaguar-i-pace-resmi-masuk-indonesia-00-4vfn9-6x1bj2",
+            "title": "Mobil Listrik Jaguar I-PACE Resmi Masuk Indonesia",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6368505/spesifikasi-jaguar-i-pace-mainan-baru-sultan-indonesia-seharga-rp-3-m",
+            "title": "Spesifikasi Jaguar I-Pace, Mainan Baru Sultan Indonesia Seharga Rp 3 M",
+            "date": "2022-10",
+            "type": "press"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/mobil-listrik-jaguar-i-pace-resmi-masuk-indonesia-00-4vfn9-6x1bj2",
+            "title": "Mobil Listrik Jaguar I-PACE Resmi Masuk Indonesia",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mobil-listrik-jaguar-i-pace-resmi-masuk-indonesia-00-4vfn9-6x1bj2",
+            "title": "Mobil Listrik Jaguar I-PACE Resmi Masuk Indonesia",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6368505/spesifikasi-jaguar-i-pace-mainan-baru-sultan-indonesia-seharga-rp-3-m",
+            "title": "Spesifikasi Jaguar I-Pace, Mainan Baru Sultan Indonesia Seharga Rp 3 M",
+            "date": "2022-10",
+            "type": "press"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/mobil-listrik-jaguar-i-pace-resmi-masuk-indonesia-00-4vfn9-6x1bj2",
+            "title": "Mobil Listrik Jaguar I-PACE Resmi Masuk Indonesia",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.fortuneidn.com/luxury/mobil-listrik-jaguar-i-pace-resmi-masuk-indonesia-00-4vfn9-6x1bj2",
+            "title": "Mobil Listrik Jaguar I-PACE Resmi Masuk Indonesia",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6368505/spesifikasi-jaguar-i-pace-mainan-baru-sultan-indonesia-seharga-rp-3-m",
+            "title": "Spesifikasi Jaguar I-Pace, Mainan Baru Sultan Indonesia Seharga Rp 3 M",
+            "date": "2022-10",
+            "type": "press"
+          },
+          {
+            "url": "https://www.fortuneidn.com/luxury/mobil-listrik-jaguar-i-pace-resmi-masuk-indonesia-00-4vfn9-6x1bj2",
+            "title": "Mobil Listrik Jaguar I-PACE Resmi Masuk Indonesia",
+            "date": "2022-10",
+            "type": "press"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carexpert.com.au/jaguar/i-pace/2019-se-suv-4x4-electric-jowo8fsm20180822",
+            "title": "Jaguar I-Pace SE (2019) price & specs (CarExpert)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Launched at BSD City on 25 October 2022 by PT JLM Auto Indonesia (retail by Indomobil); a limited allocation of 12 units until March 2023. Price 'nearly Rp3 billion' / Rp2.9 billion off the road, so price left out. Indonesian sources call it 'P400' (globally EV400). Power 400 PS x0.7355 = 294 kW. Range 470 km, standard not stated. Battery 90 kWh not labelled gross/net. AC 0-100% about 8.5 h on an 11 kW home charger. Torque and dimensions not in the launch sources. Motor type, torque, connectors, DC power, dimensions, ground clearance, kerb weight, boot (to lower window), seats, airbag positions and ADAS from the Australian spec of the EV400 SE (CarExpert, 2019 model; same 90 kWh / 294 kW powertrain, AC charging was upgraded later so not taken).",
+      "notes_id": "Diluncurkan di BSD City pada 25 Oktober 2022 oleh PT JLM Auto Indonesia (ritel oleh Indomobil); alokasi terbatas 12 unit hingga Maret 2023. Harga 'nyaris Rp3 miliar' / Rp2,9 miliar off the road, sehingga harga dikosongkan. Sumber Indonesia menyebutnya 'P400' (secara global EV400). Tenaga 400 PS x0,7355 = 294 kW. Jarak tempuh 470 km, standar tidak disebutkan. Baterai 90 kWh tidak disebut gross/net. AC 0-100% sekitar 8,5 jam dengan pengisi daya rumah 11 kW. Torsi dan dimensi tidak ada di sumber peluncuran. Jenis motor, torsi, konektor, daya DC, dimensi, ground clearance, berat kosong, bagasi (sampai bawah jendela), jumlah kursi, posisi airbag, dan ADAS dari spesifikasi Australia untuk EV400 SE (CarExpert, model 2019; powertrain 90 kWh / 294 kW yang sama, pengisian AC diperbarui kemudian sehingga tidak diambil)."
+    }
+  ]
+}

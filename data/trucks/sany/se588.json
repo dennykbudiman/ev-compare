@@ -1,0 +1,584 @@
+{
+  "make": "Sany",
+  "model": "SE588",
+  "trims": [
+    {
+      "id": "sany-se588-2026-composite-80t",
+      "model_year": 2026,
+      "variant": "Composite (80 t)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Heavy",
+        "battery_gross_kwh": 588,
+        "motor_count": 1,
+        "power_kw": 650,
+        "torque_nm": 2800,
+        "dc_10_80_min": 55,
+        "dc_time_window": "20–80%",
+        "range_km": 445,
+        "battery_ip": "IP68",
+        "assembly": "CBU import",
+        "body_type": "Mining truck",
+        "gradeability_pct": 27,
+        "battery_swap": true,
+        "transmission": "6-speed automated manual"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.cnbcindonesia.com/tech/20260411181826-38-725985/penampakan-truk-listrik-china-di-indonesia-ada-raksasa",
+            "title": "Penampakan Truk Listrik China di Indonesia, Ada Raksasa (CNBC Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/tech/20260411181826-38-725985/penampakan-truk-listrik-china-di-indonesia-ada-raksasa",
+            "title": "Penampakan Truk Listrik China di Indonesia, Ada Raksasa (CNBC Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/tech/20260411181826-38-725985/penampakan-truk-listrik-china-di-indonesia-ada-raksasa",
+            "title": "Penampakan Truk Listrik China di Indonesia, Ada Raksasa (CNBC Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "gradeability_pct": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "battery_swap": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Launched in Indonesia by SANY Group at GIICOMVEC 2026 (Jakarta, 8 Apr 2026) and shown again at Mining Indonesia 2026. Sale and operation: PT Saptaindra Sejati (Indonesian mining contractor) ran 2 trial units from late 2025 and bought 15 units, handed over at Sany's Changsha plant (May 2026), with plans for nearly 100 more. The trucks were sold directly by the manufacturer (SANY Group), and no Indonesian distributor or subsidiary is named for this deal. CNBC Indonesia describes it as a three-axle tractor head; other media call it a mining/heavy-logistics truck that is off-road oriented. Power: Indonesian launch reports give 650 kW peak; Mobil Komersial and electrive give about 480 kW as the conventional/rated figure. Torque 2,800 Nm; single central motor; 6-speed automated manual. Battery 588 kWh (chemistry not stated), IP68, swappable in about 5 minutes. DC dual-gun charging 20–80% in about 55 min (Kupas7 says 20–100% in 70–90 min); charger power not stated. Range 'up to 445 km' (manufacturer claim, no cycle); CNBC Indonesia gives 135–240 km, probably under load. Kerb weight is published only as ranges (Composite 12.6–13.6 t, Super 14.3–14.6 t; CNBC 14.3 t), so it is left out. Range and specs are published for the SE588 in general and not split by version. Price: about Rp 3.2 billion quoted at GIICOMVEC (CNBC Indonesia, Kupas7), excluding the charging gun (about Rp 400 million) and battery-swap option (Rp 1–2 billion). Variant and price basis not stated, so it is not stored as an OTR or a quoted price. Body type: filed as Mining truck because every source places it in mining haulage (Mobil Komersial: tested at mine sites, 220 t gross combination weight), even where it is called a tractor head. Gradeability up to 27% (Mobil Komersial, IDX Channel). Gross vehicle weight left out (Nov 2026 check): the 80 t / 120 t figures are called GVW in some reports, 'kapasitas angkut' (payload) by IDX Channel, and CNBC Indonesia describes a tractor head, so their meaning is unclear.",
+      "notes_id": "Diluncurkan di Indonesia oleh SANY Group di GIICOMVEC 2026 (Jakarta, 8 April 2026) dan dipamerkan lagi di Mining Indonesia 2026. Penjualan dan operasi: PT Saptaindra Sejati (kontraktor tambang Indonesia) menguji 2 unit sejak akhir 2025 dan membeli 15 unit yang diserahterimakan di pabrik Sany di Changsha (Mei 2026), dengan rencana pengadaan hampir 100 unit lagi. Truk dijual langsung oleh pabrikan (SANY Group); tidak ada distributor atau anak usaha Indonesia yang disebut untuk transaksi ini. CNBC Indonesia menyebutnya tractor head tiga gandar; media lain menyebutnya truk tambang/logistik berat yang berorientasi off-road. Tenaga: laporan peluncuran di Indonesia menyebut puncak 650 kW; Mobil Komersial dan electrive menyebut sekitar 480 kW sebagai angka konvensional/nominal. Torsi 2.800 Nm; satu motor di tengah; transmisi otomatis-manual 6 percepatan. Baterai 588 kWh (kimia tidak disebutkan), IP68, bisa ditukar dalam sekitar 5 menit. Pengisian DC dua gun 20–80% sekitar 55 menit (Kupas7 menyebut 20–100% dalam 70–90 menit); daya pengisi tidak disebutkan. Jarak tempuh 'hingga 445 km' (klaim pabrikan, tanpa siklus uji); CNBC Indonesia menyebut 135–240 km, kemungkinan dengan muatan. Berat kosong hanya dipublikasikan dalam rentang (Composite 12,6–13,6 ton, Super 14,3–14,6 ton; CNBC 14,3 ton), jadi tidak dicantumkan. Jarak tempuh dan spesifikasi dipublikasikan untuk SE588 secara umum, tidak dipisah per versi. Harga: sekitar Rp 3,2 miliar di GIICOMVEC (CNBC Indonesia, Kupas7), belum termasuk charging gun (sekitar Rp 400 juta) dan opsi tukar baterai (Rp 1–2 miliar). Varian dan dasar harga tidak disebut, jadi tidak disimpan sebagai harga OTR maupun harga kutipan. Jenis bodi: dimasukkan Mining truck karena semua sumber menempatkannya di angkutan tambang (Mobil Komersial: diuji di lokasi tambang, berat kombinasi 220 ton), meskipun ada yang menyebutnya tractor head. Daya tanjak hingga 27% (Mobil Komersial, IDX Channel). JBB dikosongkan (pemeriksaan Nov 2026): angka 80 t / 120 t disebut JBB di sebagian laporan, 'kapasitas angkut' oleh IDX Channel, dan CNBC Indonesia menyebutnya tractor head, jadi maknanya belum jelas."
+    },
+    {
+      "id": "sany-se588-2026-super-120t",
+      "model_year": 2026,
+      "variant": "Super (120 t)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Heavy",
+        "battery_gross_kwh": 588,
+        "motor_count": 1,
+        "power_kw": 650,
+        "torque_nm": 2800,
+        "dc_10_80_min": 55,
+        "dc_time_window": "20–80%",
+        "range_km": 445,
+        "battery_ip": "IP68",
+        "assembly": "CBU import",
+        "body_type": "Mining truck",
+        "gradeability_pct": 27,
+        "battery_swap": true,
+        "transmission": "6-speed automated manual"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.cnbcindonesia.com/tech/20260411181826-38-725985/penampakan-truk-listrik-china-di-indonesia-ada-raksasa",
+            "title": "Penampakan Truk Listrik China di Indonesia, Ada Raksasa (CNBC Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/tech/20260411181826-38-725985/penampakan-truk-listrik-china-di-indonesia-ada-raksasa",
+            "title": "Penampakan Truk Listrik China di Indonesia, Ada Raksasa (CNBC Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.cnbcindonesia.com/tech/20260411181826-38-725985/penampakan-truk-listrik-china-di-indonesia-ada-raksasa",
+            "title": "Penampakan Truk Listrik China di Indonesia, Ada Raksasa (CNBC Indonesia)",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "gradeability_pct": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "battery_swap": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.idxchannel.com/news/sany-luncurkan-truk-listrik-untuk-pertambangan-dan-logistik-kapasitas-angkut-120-ton/all",
+            "title": "SANY Luncurkan Truk Listrik untuk Pertambangan dan Logistik, Kapasitas Angkut 120 Ton (IDX Channel)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://aftermarketplus.id/truk-dan-bus/sany-group-luncurkan-truk-listrik-tambang-di-giicomvec-2026-hemat-biaya-operasional-hingga-70",
+            "title": "SANY Group Luncurkan Truk Listrik Tambang di GIICOMVEC 2026 (Aftermarketplus)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://mobilkomersial.com/2026/05/21/kontraktor-tambang-ri-ini-borong-truk-listrik-sany-se588-dari-china-simak-kelebihannya/",
+            "title": "Kontraktor Tambang RI Ini Borong Truk Listrik Sany SE588 dari China, Simak Kelebihannya (Mobil Komersial)",
+            "date": "2026-05",
+            "type": "press"
+          },
+          {
+            "url": "https://www.electrive.com/2026/05/20/indonesia-sany-delivers-15-electric-trucks-to-saptaindra-sejati/",
+            "title": "Indonesia: Sany delivers 15 electric trucks to Saptaindra Sejati (electrive)",
+            "date": "2026-05",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Launched in Indonesia by SANY Group at GIICOMVEC 2026 (Jakarta, 8 Apr 2026) and shown again at Mining Indonesia 2026. Sale and operation: PT Saptaindra Sejati (Indonesian mining contractor) ran 2 trial units from late 2025 and bought 15 units, handed over at Sany's Changsha plant (May 2026), with plans for nearly 100 more. The trucks were sold directly by the manufacturer (SANY Group), and no Indonesian distributor or subsidiary is named for this deal. CNBC Indonesia describes it as a three-axle tractor head; other media call it a mining/heavy-logistics truck that is off-road oriented. Power: Indonesian launch reports give 650 kW peak; Mobil Komersial and electrive give about 480 kW as the conventional/rated figure. Torque 2,800 Nm; single central motor; 6-speed automated manual. Battery 588 kWh (chemistry not stated), IP68, swappable in about 5 minutes. DC dual-gun charging 20–80% in about 55 min (Kupas7 says 20–100% in 70–90 min); charger power not stated. Range 'up to 445 km' (manufacturer claim, no cycle); CNBC Indonesia gives 135–240 km, probably under load. Kerb weight is published only as ranges (Composite 12.6–13.6 t, Super 14.3–14.6 t; CNBC 14.3 t), so it is left out. Range and specs are published for the SE588 in general and not split by version. Price: about Rp 3.2 billion quoted at GIICOMVEC (CNBC Indonesia, Kupas7), excluding the charging gun (about Rp 400 million) and battery-swap option (Rp 1–2 billion). Variant and price basis not stated, so it is not stored as an OTR or a quoted price. Body type: filed as Mining truck because every source places it in mining haulage (Mobil Komersial: tested at mine sites, 220 t gross combination weight), even where it is called a tractor head. Gradeability up to 27% (Mobil Komersial, IDX Channel). Gross vehicle weight left out (Nov 2026 check): the 80 t / 120 t figures are called GVW in some reports, 'kapasitas angkut' (payload) by IDX Channel, and CNBC Indonesia describes a tractor head, so their meaning is unclear.",
+      "notes_id": "Diluncurkan di Indonesia oleh SANY Group di GIICOMVEC 2026 (Jakarta, 8 April 2026) dan dipamerkan lagi di Mining Indonesia 2026. Penjualan dan operasi: PT Saptaindra Sejati (kontraktor tambang Indonesia) menguji 2 unit sejak akhir 2025 dan membeli 15 unit yang diserahterimakan di pabrik Sany di Changsha (Mei 2026), dengan rencana pengadaan hampir 100 unit lagi. Truk dijual langsung oleh pabrikan (SANY Group); tidak ada distributor atau anak usaha Indonesia yang disebut untuk transaksi ini. CNBC Indonesia menyebutnya tractor head tiga gandar; media lain menyebutnya truk tambang/logistik berat yang berorientasi off-road. Tenaga: laporan peluncuran di Indonesia menyebut puncak 650 kW; Mobil Komersial dan electrive menyebut sekitar 480 kW sebagai angka konvensional/nominal. Torsi 2.800 Nm; satu motor di tengah; transmisi otomatis-manual 6 percepatan. Baterai 588 kWh (kimia tidak disebutkan), IP68, bisa ditukar dalam sekitar 5 menit. Pengisian DC dua gun 20–80% sekitar 55 menit (Kupas7 menyebut 20–100% dalam 70–90 menit); daya pengisi tidak disebutkan. Jarak tempuh 'hingga 445 km' (klaim pabrikan, tanpa siklus uji); CNBC Indonesia menyebut 135–240 km, kemungkinan dengan muatan. Berat kosong hanya dipublikasikan dalam rentang (Composite 12,6–13,6 ton, Super 14,3–14,6 ton; CNBC 14,3 ton), jadi tidak dicantumkan. Jarak tempuh dan spesifikasi dipublikasikan untuk SE588 secara umum, tidak dipisah per versi. Harga: sekitar Rp 3,2 miliar di GIICOMVEC (CNBC Indonesia, Kupas7), belum termasuk charging gun (sekitar Rp 400 juta) dan opsi tukar baterai (Rp 1–2 miliar). Varian dan dasar harga tidak disebut, jadi tidak disimpan sebagai harga OTR maupun harga kutipan. Jenis bodi: dimasukkan Mining truck karena semua sumber menempatkannya di angkutan tambang (Mobil Komersial: diuji di lokasi tambang, berat kombinasi 220 ton), meskipun ada yang menyebutnya tractor head. Daya tanjak hingga 27% (Mobil Komersial, IDX Channel). JBB dikosongkan (pemeriksaan Nov 2026): angka 80 t / 120 t disebut JBB di sebagian laporan, 'kapasitas angkut' oleh IDX Channel, dan CNBC Indonesia menyebutnya tractor head, jadi maknanya belum jelas."
+    }
+  ]
+}

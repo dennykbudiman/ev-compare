@@ -1,0 +1,326 @@
+{
+  "make": "Mitsubishi Fuso",
+  "model": "eCanter",
+  "trims": [
+    {
+      "id": "mitsubishi-fuso-ecanter-2026-6t-3-4m-m-battery",
+      "model_year": 2026,
+      "variant": "6 t GVW, 3.4 m wheelbase, M battery (83 kWh)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Light",
+        "assembly": "CBU import",
+        "gvw_kg": 6000,
+        "wheelbase_mm": 3400,
+        "battery_gross_kwh": 83,
+        "battery_chemistry": "LFP",
+        "range_km": 140,
+        "torque_nm": 430,
+        "power_kw": 110,
+        "ac_max_kw": 7,
+        "drive": "4x2",
+        "axle_config": "4x2",
+        "length_mm": 5935,
+        "width_mm": 1995,
+        "kerb_weight_kg": 3195,
+        "axle_front_kg": 2600,
+        "axle_rear_kg": 4500,
+        "tyre_size": "205/75 R17.5",
+        "top_speed_kmh": 100,
+        "vehicle_warranty": "6 yrs / 180,000 km",
+        "free_service": "Free service for 5 years",
+        "body_type": "Rigid truck",
+        "transmission": "Single-speed reduction gear",
+        "gradeability_pct": 20
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7636849/sudah-ada-yang-beli-berapa-harga-truk-listrik-fuso-ecanter",
+            "title": "Sudah Ada yang Beli, Berapa Harga Truk Listrik Fuso eCanter? (detikOto)",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7636849/sudah-ada-yang-beli-berapa-harga-truk-listrik-fuso-ecanter",
+            "title": "Sudah Ada yang Beli, Berapa Harga Truk Listrik Fuso eCanter? (detikOto)",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://www.automotiveworld.com/news/sales-of-light-duty-electric-ecanter-begin-in-indonesia-first-unit-delivered-to-customer/",
+            "title": "Sales of light-duty electric eCanter begin in Indonesia, first unit delivered to customer (Automotive World)",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7636849/sudah-ada-yang-beli-berapa-harga-truk-listrik-fuso-ecanter",
+            "title": "Sudah Ada yang Beli, Berapa Harga Truk Listrik Fuso eCanter? (detikOto)",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8604775/satu-lagi-truk-listrik-fuso-ecanter-mengaspal-di-indonesia",
+            "title": "Satu Lagi Truk Listrik Fuso eCanter Mengaspal di Indonesia (detikOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.automotiveworld.com/news/sales-of-light-duty-electric-ecanter-begin-in-indonesia-first-unit-delivered-to-customer/",
+            "title": "Sales of light-duty electric eCanter begin in Indonesia, first unit delivered to customer (Automotive World)",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7636849/sudah-ada-yang-beli-berapa-harga-truk-listrik-fuso-ecanter",
+            "title": "Sudah Ada yang Beli, Berapa Harga Truk Listrik Fuso eCanter? (detikOto)",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8604775/satu-lagi-truk-listrik-fuso-ecanter-mengaspal-di-indonesia",
+            "title": "Satu Lagi Truk Listrik Fuso eCanter Mengaspal di Indonesia (detikOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.automotiveworld.com/news/sales-of-light-duty-electric-ecanter-begin-in-indonesia-first-unit-delivered-to-customer/",
+            "title": "Sales of light-duty electric eCanter begin in Indonesia, first unit delivered to customer (Automotive World)",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7636849/sudah-ada-yang-beli-berapa-harga-truk-listrik-fuso-ecanter",
+            "title": "Sudah Ada yang Beli, Berapa Harga Truk Listrik Fuso eCanter? (detikOto)",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8604775/satu-lagi-truk-listrik-fuso-ecanter-mengaspal-di-indonesia",
+            "title": "Satu Lagi Truk Listrik Fuso eCanter Mengaspal di Indonesia (detikOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234177402/siapa-sangka-truk-listrik-mitsubishi-fuso-ecanter-punya-fitur-canggih-ini?page=all",
+            "title": "Siapa Sangka, Truk Listrik Mitsubishi Fuso eCanter Punya Fitur Canggih Ini (Otomotifnet)",
+            "date": "2024-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7636849/sudah-ada-yang-beli-berapa-harga-truk-listrik-fuso-ecanter",
+            "title": "Sudah Ada yang Beli, Berapa Harga Truk Listrik Fuso eCanter? (detikOto)",
+            "date": "2024-11",
+            "type": "press"
+          },
+          {
+            "url": "https://ekonomi.republika.co.id/berita/sgrcov349/mitsubishi-fuso-luncurkan-truk-listrik-canggih-ecanter-di-giias-2024-ini-target-pasarnya",
+            "title": "Mitsubishi Fuso Luncurkan Truk Listrik Canggih eCanter di GIIAS 2024 (Republika)",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8604775/satu-lagi-truk-listrik-fuso-ecanter-mengaspal-di-indonesia",
+            "title": "Satu Lagi Truk Listrik Fuso eCanter Mengaspal di Indonesia (detikOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.jawapos.com/otomotif/2608040228/mitsubishi-fuso-tancap-gas-truk-listrik-ecanter-laris-resmi-perkuat-armada-logistik-nasional",
+            "title": "Mitsubishi Fuso Tancap Gas, Truk Listrik eCanter Perkuat Armada Logistik Nasional (Jawa Pos)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8604775/satu-lagi-truk-listrik-fuso-ecanter-mengaspal-di-indonesia",
+            "title": "Satu Lagi Truk Listrik Fuso eCanter Mengaspal di Indonesia (detikOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234177402/siapa-sangka-truk-listrik-mitsubishi-fuso-ecanter-punya-fitur-canggih-ini?page=all",
+            "title": "Siapa Sangka, Truk Listrik Mitsubishi Fuso eCanter Punya Fitur Canggih Ini (Otomotifnet)",
+            "date": "2024-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "axle_config": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "axle_front_kg": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "axle_rear_kg": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.industry.co.id/read/134552/mitsubishi-fuso-luncurkan-ecanter-di-ajang-giias-2024-sematkan-segudang-fitur-mutakhir",
+            "title": "Mitsubishi Fuso Luncurkan eCanter di Ajang GIIAS 2024 (Industry.co.id)",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/zNAQ4lwN-chelsea-islan-nyambi-jadi-sopir-truk-listrik-ecanter-di-mitsubishi-fuso",
+            "title": "Chelsea Islan Nyambi Jadi Sopir Truk Listrik eCanter di Mitsubishi Fuso (Medcom)",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://www.industry.co.id/read/134552/mitsubishi-fuso-luncurkan-ecanter-di-ajang-giias-2024-sematkan-segudang-fitur-mutakhir",
+            "title": "Mitsubishi Fuso Luncurkan eCanter di Ajang GIIAS 2024 (Industry.co.id)",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/zNAQ4lwN-chelsea-islan-nyambi-jadi-sopir-truk-listrik-ecanter-di-mitsubishi-fuso",
+            "title": "Chelsea Islan Nyambi Jadi Sopir Truk Listrik eCanter di Mitsubishi Fuso (Medcom)",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://ekonomi.republika.co.id/berita/sgrcov349/mitsubishi-fuso-luncurkan-truk-listrik-canggih-ecanter-di-giias-2024-ini-target-pasarnya",
+            "title": "Mitsubishi Fuso Luncurkan Truk Listrik Canggih eCanter di GIIAS 2024 (Republika)",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234177402/siapa-sangka-truk-listrik-mitsubishi-fuso-ecanter-punya-fitur-canggih-ini?page=all",
+            "title": "Siapa Sangka, Truk Listrik Mitsubishi Fuso eCanter Punya Fitur Canggih Ini (Otomotifnet)",
+            "date": "2024-11",
+            "type": "media"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "gradeability_pct": [
+          {
+            "url": "https://www.velocitytruckcentres.com.au/storage/app/media//Fuso/eCanter/2591AF41.pdf",
+            "title": "FUSO eCanter 4X2 6T MWB specification sheet (Australia, valid from June 2023)",
+            "date": "2023-06",
+            "type": "official",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Only one configuration is sold in Indonesia: GVW 6 t, 3.4 m wheelbase, M-size 83 kWh battery, imported CBU from Japan by KTB; sales began at GIIAS 2024 (first unit to Yusen Logistics) and the same spec was delivered to Fastana Logistik at GIIAS 2026. Same specs 2024-2026. The '3 variants' reports refer to the three battery sizes KTB discussed before launch (S 41 kWh, M 83 kWh, L 124 kWh; detikOto and Moladin, March 2024); only the M battery was launched (the Carmudi article itself would not load). Range 140 km is a manufacturer claim with no named cycle. Price: no official price list; KTB said the base is 'above Rp 1 billion' depending on charger and purchase or lease (detikOto, Nov 2024), and Otomotifnet quoted Rp 1.5 billion OTR including an aluminium box body, so no OTR price is stored; the Rp 1.5 billion is also not stored as a quoted price, because it is an OTR price for a truck with a body, which is none of the quote bases. Warranty 6 years / 180,000 km as reported at launch (sources do not say whether the battery has separate terms). AC 7 kW (11-12 h) per Otomotifnet; DC power and connector for Indonesia not published. Power (110 kW peak / 85 kW continuous), axle configuration, length, width, estimated kerb weight (+/-3.5%), axle ratings, tyre size, top speed, single-speed reduction gearbox and gradeability (20% at rated GVM, theoretical) from the Australian spec sheet for the same 6 t / 3,400 mm / 83 kWh model (4X2 6T MWB). The Australian sheet also lists AC up to 22 kW and DC up to 104 kW via CCS2, but these differ from the Indonesian 7 kW AC figure and are not used. Payload not published (chassis; body by karoseri).",
+      "notes_id": "Hanya satu konfigurasi dijual di Indonesia: JBB 6 ton, jarak sumbu roda 3,4 m, baterai ukuran M 83 kWh, diimpor CBU dari Jepang oleh KTB; penjualan dimulai di GIIAS 2024 (unit pertama untuk Yusen Logistics) dan spesifikasi yang sama diserahkan ke Fastana Logistik di GIIAS 2026. Spesifikasi sama 2024-2026. Berita '3 varian' merujuk pada tiga ukuran baterai yang dibahas KTB sebelum peluncuran (S 41 kWh, M 83 kWh, L 124 kWh; detikOto dan Moladin, Maret 2024); hanya baterai M yang diluncurkan (artikel Carmudi sendiri tidak bisa dibuka). Jarak tempuh 140 km adalah klaim pabrikan tanpa metode uji. Harga: tidak ada daftar harga resmi; KTB menyebut harga dasar 'di atas Rp 1 miliar' tergantung charger dan skema beli atau sewa (detikOto, Nov 2024), dan Otomotifnet menyebut Rp 1,5 miliar OTR termasuk boks aluminium, jadi harga OTR dikosongkan; Rp 1,5 miliar juga tidak disimpan sebagai harga kutipan karena merupakan harga OTR truk lengkap dengan boks. Garansi 6 tahun / 180.000 km sesuai berita peluncuran (sumber tidak menyebut apakah baterai punya ketentuan terpisah). AC 7 kW (11-12 jam) menurut Otomotifnet; daya DC dan konektor untuk Indonesia tidak dipublikasikan. Tenaga (110 kW puncak / 85 kW kontinu), konfigurasi gardan, panjang, lebar, perkiraan berat kosong (+/-3,5%), kapasitas sumbu, ukuran ban, kecepatan maksimum, girboks reduksi satu percepatan, dan daya tanjak (20% pada GVM, teoretis) dari lembar spesifikasi Australia untuk model yang sama 6 t / 3.400 mm / 83 kWh (4X2 6T MWB). Lembar Australia juga menyebut AC hingga 22 kW dan DC hingga 104 kW via CCS2, tetapi berbeda dari angka AC 7 kW Indonesia sehingga tidak dipakai. Daya angkut tidak dipublikasikan (sasis; bodi oleh karoseri)."
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "make": "Seres",
+  "model": "Seres 3",
+  "trims": [
+    {
+      "id": "seres-seres-3-2026-standard",
+      "model_year": 2026,
+      "variant": "Standard",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 370000000,
+        "battery_chemistry": "LFP",
+        "battery_gross_kwh": 54,
+        "range_km": 412,
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 149.9,
+        "torque_nm": 310,
+        "dc_10_80_min": 40,
+        "dc_time_window": "20–80%",
+        "seats": 5,
+        "length_mm": 4385,
+        "width_mm": 1850,
+        "height_mm": 1650,
+        "wheelbase_mm": 2655,
+        "ground_clearance_mm": 180,
+        "tyre_size": "225/55 R18",
+        "airbags": 6,
+        "airbag_positions": "driver, front passenger, front side, curtain",
+        "adas": "BSM, RCTA, 360 camera",
+        "accel_0_100_s": 8.5,
+        "top_speed_kmh": 165
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7842075/spesifikasi-seres-e3-mobil-listrik-baru-pesaing-omoda-e5-dan-byd-atto-3",
+            "title": "Spesifikasi Seres E3, Mobil Listrik Baru Pesaing Omoda E5 dan BYD Atto 3",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7842075/spesifikasi-seres-e3-mobil-listrik-baru-pesaing-omoda-e5-dan-byd-atto-3",
+            "title": "Spesifikasi Seres E3, Mobil Listrik Baru Pesaing Omoda E5 dan BYD Atto 3",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7842075/spesifikasi-seres-e3-mobil-listrik-baru-pesaing-omoda-e5-dan-byd-atto-3",
+            "title": "Spesifikasi Seres E3, Mobil Listrik Baru Pesaing Omoda E5 dan BYD Atto 3",
+            "date": "2025-03",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7842075/spesifikasi-seres-e3-mobil-listrik-baru-pesaing-omoda-e5-dan-byd-atto-3",
+            "title": "Spesifikasi Seres E3, Mobil Listrik Baru Pesaing Omoda E5 dan BYD Atto 3",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7842075/spesifikasi-seres-e3-mobil-listrik-baru-pesaing-omoda-e5-dan-byd-atto-3",
+            "title": "Spesifikasi Seres E3, Mobil Listrik Baru Pesaing Omoda E5 dan BYD Atto 3",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7842075/spesifikasi-seres-e3-mobil-listrik-baru-pesaing-omoda-e5-dan-byd-atto-3",
+            "title": "Spesifikasi Seres E3, Mobil Listrik Baru Pesaing Omoda E5 dan BYD Atto 3",
+            "date": "2025-03",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://moladin.com/mobil-baru/seres/seres-3",
+            "title": "Seres 3 (Moladin)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://auto.katadata.co.id/car/seres-3-launched-at-pevs-2025-starting-price-rp-370-million-18794",
+            "title": "Seres 3 Launched at PEVS 2025, Starting Price Rp 370 Million",
+            "date": "2025-04",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched at PEVS April 2025 (also called E3); still listed for sale in Feb 2026. Launch price given as Rp370–398 jt without naming variants; Rp370 jt is the starting price. Same specs 2025–2026. Major source conflicts: katadata (launch) 54 kWh, 412 km, 201 hp (= 149.9 kW), 310 Nm; detik pre-launch 50 kWh, 405 km; Moladin 53.6 kWh, 350 km WLTP, 120 hp, 195 Nm, length 4,415 mm; detik length 4,385 mm. Launch figures used. Range test standard not stated at launch. Detik says it is assembled locally with 40% TKDN, but this was a pre-launch statement, so assembly is left out.",
+      "notes_id": "Diluncurkan di PEVS April 2025 (juga disebut E3); masih tercantum dijual per Februari 2026. Harga peluncuran disebut Rp370–398 jt tanpa menyebut varian; Rp370 jt adalah harga awal. Spesifikasi sama 2025–2026. Data antarsumber sangat berbeda: katadata (peluncuran) 54 kWh, 412 km, 201 hp (= 149,9 kW), 310 Nm; detik sebelum peluncuran 50 kWh, 405 km; Moladin 53,6 kWh, 350 km WLTP, 120 hp, 195 Nm, panjang 4.415 mm; detik panjang 4.385 mm. Dipakai angka saat peluncuran. Standar pengujian jarak tempuh tidak disebutkan saat peluncuran. Detik menyebut mobil ini dirakit lokal dengan TKDN 40%, tetapi itu pernyataan sebelum peluncuran, sehingga status perakitan dikosongkan."
+    }
+  ]
+}

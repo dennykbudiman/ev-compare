@@ -1,0 +1,724 @@
+{
+  "make": "VinFast",
+  "model": "VF 6",
+  "trims": [
+    {
+      "id": "vinfast-vf-6-2026-eco",
+      "model_year": 2026,
+      "variant": "Eco",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 334990000,
+        "battery_gross_kwh": 59.6,
+        "voltage_architecture": "~400 V",
+        "range_km": 480,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 130,
+        "torque_nm": 250,
+        "dc_connector": "CCS2",
+        "ac_max_kw": 11,
+        "ac_full_hours": 8,
+        "dc_10_80_min": 25,
+        "dc_time_window": "10–70%",
+        "vehicle_warranty": "7 yrs / 160,000 km",
+        "battery_warranty": "8 yrs / unlimited km",
+        "seats": 5,
+        "length_mm": 4241,
+        "width_mm": 1834,
+        "height_mm": 1580,
+        "wheelbase_mm": 2730,
+        "ground_clearance_mm": 170,
+        "boot_l": 423,
+        "tyre_size": "225/60 R17",
+        "airbags": 7,
+        "airbag_positions": "driver, front passenger, front side, curtain",
+        "adas": "ACC, HDA, TJA, ALC, AEB, BSD, RCTA, 360 camera",
+        "battery_chemistry": "LFP",
+        "motor_type": "PMSM",
+        "ac_connector": "Type 2",
+        "turning_radius_m": 5.5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf6-eco-2026-18400,vinfast-vf6-plus-2026-18401",
+            "title": "So sánh xe VinFast VF6 Eco 2026 vs VinFast VF6 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf6-eco-2026-18400,vinfast-vf6-plus-2026-18401",
+            "title": "So sánh xe VinFast VF6 Eco 2026 vs VinFast VF6 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf6-eco-2026-18400,vinfast-vf6-plus-2026-18401",
+            "title": "So sánh xe VinFast VF6 Eco 2026 vs VinFast VF6 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf6-eco-2026-18400,vinfast-vf6-plus-2026-18401",
+            "title": "So sánh xe VinFast VF6 Eco 2026 vs VinFast VF6 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ]
+      },
+      "notes": "Launched May 2025 at Rp384.995 jt (Eco) / Rp439.6 jt (Plus) incl. battery; 2026 prices per oto.com (Jan 2026). Same specs 2025–2026. Range: VinFast launch release 480 km (Eco) / 460 km (Plus) NEDC, matching Moladin; oto.com shows 470/430 km. Moladin's power/torque cells are garbled, so VinFast's 130 kW/250 Nm (Eco) and 150 kW/310 Nm (Plus) are used. ADAS: VinFast lists 22 safety functions incl. ACC, highway and traffic-jam assist, auto lane change, AEB, RCTA, BSD and 360 camera; Moladin shows RCTA and 360 camera on Plus only. Airbag count from Moladin only. DC time is 10–70%. CBU import. Price is the battery-included (battery ownership) OTR Jakarta price; VinFast also sells with a battery subscription at a lower upfront price. Battery chemistry, motor type, AC connector and turning radius from the Vietnamese spec (bonbanh.com).",
+      "notes_id": "Diluncurkan Mei 2025 seharga Rp384,995 jt (Eco) / Rp439,6 jt (Plus) termasuk baterai; harga 2026 menurut oto.com (Januari 2026). Spesifikasi sama 2025–2026. Jarak tempuh: rilis peluncuran VinFast 480 km (Eco) / 460 km (Plus) NEDC, sesuai dengan Moladin; oto.com menampilkan 470/430 km. Kolom tenaga/torsi di Moladin kacau, sehingga dipakai angka VinFast 130 kW/250 Nm (Eco) dan 150 kW/310 Nm (Plus). ADAS: VinFast mencantumkan 22 fungsi keselamatan, termasuk ACC, highway assist dan traffic-jam assist, pindah lajur otomatis, AEB, RCTA, BSD, dan kamera 360; Moladin menampilkan RCTA dan kamera 360 hanya di Plus. Jumlah airbag hanya dari Moladin. Waktu DC adalah 10–70%. CBU impor. Harga adalah OTR Jakarta termasuk baterai (baterai milik sendiri); VinFast juga menjual dengan skema sewa baterai dengan harga awal lebih rendah. Kimia baterai, jenis motor, konektor AC, dan radius putar dari spesifikasi Vietnam (bonbanh.com)."
+    },
+    {
+      "id": "vinfast-vf-6-2026-plus",
+      "model_year": 2026,
+      "variant": "Plus",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 397400000,
+        "battery_gross_kwh": 59.6,
+        "voltage_architecture": "~400 V",
+        "range_km": 460,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 150,
+        "torque_nm": 310,
+        "dc_connector": "CCS2",
+        "ac_max_kw": 11,
+        "ac_full_hours": 8,
+        "dc_10_80_min": 25,
+        "dc_time_window": "10–70%",
+        "vehicle_warranty": "7 yrs / 160,000 km",
+        "battery_warranty": "8 yrs / unlimited km",
+        "seats": 5,
+        "length_mm": 4241,
+        "width_mm": 1834,
+        "height_mm": 1580,
+        "wheelbase_mm": 2730,
+        "ground_clearance_mm": 170,
+        "boot_l": 423,
+        "tyre_size": "235/50 R18",
+        "airbags": 7,
+        "airbag_positions": "driver, front passenger, front side, curtain",
+        "adas": "ACC, HDA, TJA, ALC, AEB, BSD, RCTA, 360 camera",
+        "battery_chemistry": "LFP",
+        "motor_type": "PMSM",
+        "ac_connector": "Type 2",
+        "turning_radius_m": 5.5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/artikel-feature-mobil/spesifikasi-dan-fitur-lengkap-semua-line-up-vinfast-di-indonesia",
+            "title": "Spesifikasi dan Fitur Lengkap Semua Line-up VinFast di Indonesia",
+            "date": "2026-01",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://moladin.com/perbandingan/vinfast-vf6-eco-dan-vinfast-vf6-plus",
+            "title": "VinFast VF6 Eco vs VF6 Plus (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.vingroup.net/en/news/detail/3437/vinfast-officially-launches-vf-6-in-indonesia",
+            "title": "VinFast officially launches VF 6 in Indonesia",
+            "date": "2025-05",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf6-eco-2026-18400,vinfast-vf6-plus-2026-18401",
+            "title": "So sánh xe VinFast VF6 Eco 2026 vs VinFast VF6 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf6-eco-2026-18400,vinfast-vf6-plus-2026-18401",
+            "title": "So sánh xe VinFast VF6 Eco 2026 vs VinFast VF6 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf6-eco-2026-18400,vinfast-vf6-plus-2026-18401",
+            "title": "So sánh xe VinFast VF6 Eco 2026 vs VinFast VF6 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://bonbanh.com/so-sanh-xe-vinfast-vf6-eco-2026-18400,vinfast-vf6-plus-2026-18401",
+            "title": "So sánh xe VinFast VF6 Eco 2026 vs VinFast VF6 Plus 2026 (bonbanh.com)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Vietnam"
+          }
+        ]
+      },
+      "notes": "Launched May 2025 at Rp384.995 jt (Eco) / Rp439.6 jt (Plus) incl. battery; 2026 prices per oto.com (Jan 2026). Same specs 2025–2026. Range: VinFast launch release 480 km (Eco) / 460 km (Plus) NEDC, matching Moladin; oto.com shows 470/430 km. Moladin's power/torque cells are garbled, so VinFast's 130 kW/250 Nm (Eco) and 150 kW/310 Nm (Plus) are used. ADAS: VinFast lists 22 safety functions incl. ACC, highway and traffic-jam assist, auto lane change, AEB, RCTA, BSD and 360 camera; Moladin shows RCTA and 360 camera on Plus only. Airbag count from Moladin only. DC time is 10–70%. CBU import. Price is the battery-included (battery ownership) OTR Jakarta price; VinFast also sells with a battery subscription at a lower upfront price. Battery chemistry, motor type, AC connector and turning radius from the Vietnamese spec (bonbanh.com).",
+      "notes_id": "Diluncurkan Mei 2025 seharga Rp384,995 jt (Eco) / Rp439,6 jt (Plus) termasuk baterai; harga 2026 menurut oto.com (Januari 2026). Spesifikasi sama 2025–2026. Jarak tempuh: rilis peluncuran VinFast 480 km (Eco) / 460 km (Plus) NEDC, sesuai dengan Moladin; oto.com menampilkan 470/430 km. Kolom tenaga/torsi di Moladin kacau, sehingga dipakai angka VinFast 130 kW/250 Nm (Eco) dan 150 kW/310 Nm (Plus). ADAS: VinFast mencantumkan 22 fungsi keselamatan, termasuk ACC, highway assist dan traffic-jam assist, pindah lajur otomatis, AEB, RCTA, BSD, dan kamera 360; Moladin menampilkan RCTA dan kamera 360 hanya di Plus. Jumlah airbag hanya dari Moladin. Waktu DC adalah 10–70%. CBU impor. Harga adalah OTR Jakarta termasuk baterai (baterai milik sendiri); VinFast juga menjual dengan skema sewa baterai dengan harga awal lebih rendah. Kimia baterai, jenis motor, konektor AC, dan radius putar dari spesifikasi Vietnam (bonbanh.com)."
+    }
+  ]
+}

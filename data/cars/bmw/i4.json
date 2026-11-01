@@ -1,0 +1,771 @@
+{
+  "make": "BMW",
+  "model": "i4",
+  "trims": [
+    {
+      "id": "bmw-i4-2024-edrive35",
+      "model_year": 2024,
+      "variant": "eDrive35",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Sedan",
+        "price_otr_idr": 1841000000,
+        "battery_usable_kwh": 67.1,
+        "range_km": 500,
+        "range_standard": "WLTP",
+        "drive": "RWD",
+        "power_kw": 210,
+        "torque_nm": 400,
+        "accel_0_100_s": 6.0,
+        "top_speed_kmh": 190,
+        "ac_max_kw": 11,
+        "ac_full_hours": 7.0,
+        "dc_max_kw": 180,
+        "dc_10_80_min": 41,
+        "length_mm": 4783,
+        "width_mm": 1852,
+        "height_mm": 1448,
+        "wheelbase_mm": 2856,
+        "kerb_weight_kg": 2070,
+        "boot_l": 470,
+        "seats": 5,
+        "battery_warranty": "8 yrs (high-voltage battery; km limit not stated)",
+        "battery_gross_kwh": 70.3,
+        "battery_chemistry": "NMC",
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 353,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "airbags": 6,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "AEB, FCW, ACC, LKA, BSM",
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-gran-coupe.html",
+            "title": "BMW i4 Gran Coupé (G26): Model overview, configurator, prices",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-Indonesia-Price-Announcement_January2026.pdf.asset.1768376279776.pdf",
+            "title": "BMW Model Range 2026 price announcement (January 2026)",
+            "date": "2026-01",
+            "type": "official"
+          },
+          {
+            "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/BMW-ID-Price-announcement-of_2025.pdf.asset.1750308084479.pdf",
+            "title": "BMW Model Range 2025 price announcement (June 2025)",
+            "date": "2025-06",
+            "type": "official"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/bmw/i4/edrive35/",
+            "title": "Harga, promo, DP dan cicilan BMW i4 eDrive35 - Zigwheels",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/bmw/i4/edrive35/",
+            "title": "Harga, promo, DP dan cicilan BMW i4 eDrive35 - Zigwheels",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/bmw/i4/edrive35/",
+            "title": "Harga, promo, DP dan cicilan BMW i4 eDrive35 - Zigwheels",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/bmw/i4/edrive35/",
+            "title": "Harga, promo, DP dan cicilan BMW i4 eDrive35 - Zigwheels",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/bmw/i4/edrive35/",
+            "title": "Harga, promo, DP dan cicilan BMW i4 eDrive35 - Zigwheels",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/bmw/i4/edrive35/",
+            "title": "Harga, promo, DP dan cicilan BMW i4 eDrive35 - Zigwheels",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://bmw.co.id/en/all-models/bmw-i/i4/bmw-i4-technical-data.html",
+            "title": "BMW i4 Gran Coupé: Technical data and measurements of all models",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/bmw/i4/edrive35/",
+            "title": "Harga, promo, DP dan cicilan BMW i4 eDrive35 - Zigwheels",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.bmw.co.id/en/topics/offers-and-services/service-workshop/warranties-2026.html",
+            "title": "BMW Indonesia - Warranties 2026",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://autobuzz.my/2025/01/16/2025-bmw-i4-edrive35-m-sport-in-malaysia-facelifted-design-more-range-rm316k/",
+            "title": "2025 BMW i4 eDrive35 M Sport in Malaysia - facelifted design, more range, RM316k (AutoBuzz)",
+            "date": "2025-01",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/bmw/i4/g26-lci/edrive35-m-sport-2025",
+            "title": "BMW i4 eDrive35 M Sport LCI (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/bmw/i4/g26-lci/edrive35-m-sport-2025",
+            "title": "BMW i4 eDrive35 M Sport LCI (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carbase.my/bmw/i4/g26-lci/edrive35-m-sport-2025",
+            "title": "BMW i4 eDrive35 M Sport LCI (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carbase.my/bmw/i4/g26-lci/edrive35-m-sport-2025",
+            "title": "BMW i4 eDrive35 M Sport LCI (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carbase.my/bmw/i4/g26-lci/edrive35-m-sport-2025",
+            "title": "BMW i4 eDrive35 M Sport LCI (2025) specs - CarBase.my",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/2198/BMW-i4-eDrive35",
+            "title": "BMW i4 eDrive35 (June 2024 - July 2025) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Model year = NIK 2024 units, still listed in the January 2026 and October 2026 price lists. OTR Jakarta Rp1,841,000,000 (off-the-road Rp1,813,000,000); July 2024 list was Rp1,835,000,000 OTR. The bmw.co.id technical data page heads the data 'i4 eDrive40' but the figures (210 kW/286 hp, 400 Nm, 67.1 kWh) are the eDrive35's; the overview page quotes 205 kW DC which is the old eDrive40 figure, the technical page says 180 kW DC (41 min 10-80%). Battery 67.1 kWh is not labelled gross/net (matches BMW's net figure). Zigwheels lists 66 kWh, 490 km and 6.0 s. Range is the top of 406-500 km WLTP. Kerb weight is EC unladen. Boot 470-1,290 l. Gross battery (70.3 kWh), connectors, airbags and ADAS from the Malaysian spec (AutoBuzz, carbase.my); chemistry, voltage, charge port, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "Tahun model = unit NIK 2024, masih tercantum di daftar harga Januari 2026 dan Oktober 2026. OTR Jakarta Rp1.841.000.000 (off-the-road Rp1.813.000.000); daftar Juli 2024 Rp1.835.000.000 OTR. Halaman data teknis bmw.co.id berjudul 'i4 eDrive40', tetapi angkanya (210 kW/286 hp, 400 Nm, 67,1 kWh) milik eDrive35; halaman ikhtisar menyebut DC 205 kW yang merupakan angka eDrive40 lama, sedangkan halaman teknis menyebut DC 180 kW (41 menit 10-80%). Baterai 67,1 kWh tidak diberi label gross/net (cocok dengan angka net BMW). Zigwheels mencantumkan 66 kWh, 490 km, dan 6,0 detik. Jarak tempuh diambil dari batas atas 406-500 km WLTP. Bobot kosong mengacu pada standar EC (unladen). Bagasi 470-1.290 l. Baterai gross (70,3 kWh), konektor, airbag, dan ADAS dari spesifikasi Malaysia (AutoBuzz, carbase.my); kimia baterai, tegangan, posisi port, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "bmw-i4-2022-edrive40",
+      "model_year": 2022,
+      "variant": "eDrive40",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Sedan",
+        "battery_gross_kwh": 83.9,
+        "range_km": 590,
+        "range_standard": "WLTP",
+        "drive": "RWD",
+        "power_kw": 250,
+        "torque_nm": 430,
+        "accel_0_100_s": 5.7,
+        "dc_connector": "CCS2",
+        "width_mm": 1852,
+        "height_mm": 1448,
+        "ground_clearance_mm": 125,
+        "kerb_weight_kg": 2125,
+        "seats": 5,
+        "battery_usable_kwh": 80.7,
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 399,
+        "motor_type": "EESM",
+        "ac_max_kw": 11,
+        "dc_max_kw": 200,
+        "ac_connector": "Type 2",
+        "charge_port": "Right rear",
+        "length_mm": 4783,
+        "wheelbase_mm": 2856,
+        "boot_l": 470,
+        "top_speed_kmh": 190,
+        "airbag_positions": "front, front side, curtain",
+        "adas": "AEB, FCW, ACC, LKA, BSM",
+        "v2l": false,
+        "frunk_l": 0,
+        "heat_pump": true
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mobil-listrik-bmw-ix-dan-i4-mengaspal-di-giias-2022-paling-murah-rp-2-2-miliar-1ydndlzSEXU",
+            "title": "Mobil Listrik BMW iX dan i4 Mengaspal di GIIAS 2022, Paling Murah Rp 2,2 Miliar",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mobil-listrik-bmw-ix-dan-i4-mengaspal-di-giias-2022-paling-murah-rp-2-2-miliar-1ydndlzSEXU",
+            "title": "Mobil Listrik BMW iX dan i4 Mengaspal di GIIAS 2022, Paling Murah Rp 2,2 Miliar",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.autofun.co.id/mobil/bmw/i4/bmw-i4-edrive40-2022/spesifikasi",
+            "title": "BMW i4 eDrive40 2022 Spesifikasi",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          },
+          {
+            "url": "https://kumparan.com/kumparanoto/mobil-listrik-bmw-ix-dan-i4-mengaspal-di-giias-2022-paling-murah-rp-2-2-miliar-1ydndlzSEXU",
+            "title": "Mobil Listrik BMW iX dan i4 Mengaspal di GIIAS 2022, Paling Murah Rp 2,2 Miliar",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.oto.com/berita-mobil/giias-2022-bmw-rilis-mobil-listrik-i4-dan-ix",
+            "title": "GIIAS 2022: BMW Rilis Mobil Listrik i4 dan iX",
+            "date": "2022-08",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.autofun.co.id/mobil/bmw/i4/bmw-i4-edrive40-2022/spesifikasi",
+            "title": "BMW i4 eDrive40 2022 Spesifikasi",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.autofun.co.id/mobil/bmw/i4/bmw-i4-edrive40-2022/spesifikasi",
+            "title": "BMW i4 eDrive40 2022 Spesifikasi",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.autofun.co.id/mobil/bmw/i4/bmw-i4-edrive40-2022/spesifikasi",
+            "title": "BMW i4 eDrive40 2022 Spesifikasi",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.autofun.co.id/mobil/bmw/i4/bmw-i4-edrive40-2022/spesifikasi",
+            "title": "BMW i4 eDrive40 2022 Spesifikasi",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.autofun.co.id/mobil/bmw/i4/bmw-i4-edrive40-2022/spesifikasi",
+            "title": "BMW i4 eDrive40 2022 Spesifikasi",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1252/BMW-i4-eDrive40",
+            "title": "BMW i4 eDrive40 (Nov 2021 - May 2024) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1252/BMW-i4-eDrive40",
+            "title": "BMW i4 eDrive40 (Nov 2021 - May 2024) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1252/BMW-i4-eDrive40",
+            "title": "BMW i4 eDrive40 (Nov 2021 - May 2024) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://bmw.com.au/content/dam/bmw/marketAU/common/images/BMW_i4_Specification_Guide_G26.pdf.asset.1646282088622.pdf",
+            "title": "BMW i4 Specification Guide G26 (BMW Australia)",
+            "date": "2022-02",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://bmw.com.au/content/dam/bmw/marketAU/common/images/BMW_i4_Specification_Guide_G26.pdf.asset.1646282088622.pdf",
+            "title": "BMW i4 Specification Guide G26 (BMW Australia)",
+            "date": "2022-02",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://bmw.com.au/content/dam/bmw/marketAU/common/images/BMW_i4_Specification_Guide_G26.pdf.asset.1646282088622.pdf",
+            "title": "BMW i4 Specification Guide G26 (BMW Australia)",
+            "date": "2022-02",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://bmw.com.au/content/dam/bmw/marketAU/common/images/BMW_i4_Specification_Guide_G26.pdf.asset.1646282088622.pdf",
+            "title": "BMW i4 Specification Guide G26 (BMW Australia)",
+            "date": "2022-02",
+            "type": "official",
+            "market": "Australia"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://bmw.com.au/content/dam/bmw/marketAU/common/images/BMW_i4_Specification_Guide_G26.pdf.asset.1646282088622.pdf",
+            "title": "BMW i4 Specification Guide G26 (BMW Australia)",
+            "date": "2022-02",
+            "type": "official",
+            "market": "Australia"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1252/BMW-i4-eDrive40",
+            "title": "BMW i4 eDrive40 (Nov 2021 - May 2024) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://paultan.org/research/bmw/i4/g26/edrive40-m-sport-2023/",
+            "title": "BMW i4 eDrive40 M Sport (G26) - paultan.org car research",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1252/BMW-i4-eDrive40",
+            "title": "BMW i4 eDrive40 (Nov 2021 - May 2024) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1252/BMW-i4-eDrive40",
+            "title": "BMW i4 eDrive40 (Nov 2021 - May 2024) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://ev-database.org/imp/car/1252/BMW-i4-eDrive40",
+            "title": "BMW i4 eDrive40 (Nov 2021 - May 2024) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS on 11 August 2022 (gridoto calls it 'eDrive40 M Sport'). Launch price Rp1,997,000,000 was reported as OFF the road (kumparan); autofun lists Rp2.06 billion without a basis, so price left out. Power 335 hp (oto.com) x0.7457 = 250 kW; kumparan says about 340 hp. Range: oto.com 590 km WLTP vs kumparan 580 km WLTP. Battery 83.9 kWh is not labelled gross/net; it matches BMW's global gross figure. Autofun prints length 4,738 mm, which looks like a typo for the global 4,783 mm, so length left out. Assumed unchanged into 2023; replaced by the eDrive35 in the 2024 lineup. AC/DC charging power, AC connector, length, wheelbase, boot, top speed, airbag positions and ADAS from the Malaysian spec (paultan.org); motor type (current-excited synchronous) and charge port from the Australian spec guide (bmw.com.au, which gives 84 kWh gross / 81 kWh net); usable battery, voltage, V2L, frunk and heat pump from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan di GIIAS pada 11 Agustus 2022 (gridoto menyebutnya 'eDrive40 M Sport'). Harga peluncuran Rp1.997.000.000 dilaporkan sebagai harga off the road (kumparan); autofun mencantumkan Rp2,06 miliar tanpa keterangan, sehingga harga dikosongkan. Tenaga 335 hp (oto.com) x0,7457 = 250 kW; kumparan menyebut sekitar 340 hp. Jarak tempuh: oto.com 590 km WLTP, kumparan 580 km WLTP. Baterai 83,9 kWh tidak disebut gross/net; angka ini sama dengan kapasitas gross global BMW. Autofun mencantumkan panjang 4.738 mm, tampaknya salah ketik dari angka global 4.783 mm, sehingga panjang dikosongkan. Diperkirakan tidak berubah hingga 2023; digantikan eDrive35 pada jajaran 2024. Daya pengisian AC/DC, konektor AC, panjang, jarak sumbu roda, bagasi, kecepatan maksimum, posisi airbag, dan ADAS dari spesifikasi Malaysia (paultan.org); jenis motor (sinkron dengan eksitasi arus) dan posisi port dari panduan spesifikasi Australia (bmw.com.au, yang menyebut 84 kWh gross / 81 kWh net); baterai usable, tegangan, V2L, frunk, dan heat pump dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

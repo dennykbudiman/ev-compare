@@ -1,0 +1,920 @@
+{
+  "make": "Mitsubishi",
+  "model": "L100 EV",
+  "trims": [
+    {
+      "id": "mitsubishi-l100-ev-2024-two-seater-blind-van",
+      "model_year": 2024,
+      "variant": "Two-Seater Blind Van",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 20.1,
+        "range_km": 180,
+        "range_standard": "WLTC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 195,
+        "top_speed_kmh": 100,
+        "ac_connector": "Type 1",
+        "dc_connector": "CHAdeMO",
+        "ac_full_hours": 7.5,
+        "dc_10_80_min": 42,
+        "dc_time_window": "0–80%",
+        "length_mm": 3395,
+        "width_mm": 1475,
+        "height_mm": 1915,
+        "wheelbase_mm": 2390,
+        "ground_clearance_mm": 165,
+        "turning_radius_m": 4.3,
+        "kerb_weight_kg": 1125,
+        "payload_kg": 425,
+        "cargo_length_mm": 1830,
+        "cargo_width_mm": 1370,
+        "cargo_height_mm": 1230,
+        "seats": 2,
+        "airbags": 2,
+        "vehicle_warranty": "5 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic maintenance for 4 years / 50,000 km (SMART package)",
+        "price_otr_idr": 320000000,
+        "body_type": "Van"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/mitsubishi/mitsubishi-l100/spesifikasi",
+            "title": "Mitsubishi L100 EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/mitsubishi/mitsubishi-l100/spesifikasi",
+            "title": "Mitsubishi L100 EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234380783/mitsubishi-l100-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Mitsubishi L100 EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234380783/mitsubishi-l100-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Mitsubishi L100 EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/mitsubishi/l100-ev/spesifikasi/?amp=1",
+            "title": "Mitsubishi L100 EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/mitsubishi/l100-ev/spesifikasi/?amp=1",
+            "title": "Mitsubishi L100 EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "cargo_length_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "cargo_width_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "cargo_height_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mitsubishi/mitsubishi-l100/spesifikasi",
+            "title": "Mitsubishi L100 EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mitsubishi/mitsubishi-l100/spesifikasi",
+            "title": "Mitsubishi L100 EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launch record (IIMS 2024): Rp 320 million OTR Jakarta was a special price valid February-April 2024. Kei-class blind van (Minicab EV based), two seats, built by MMKI in Cikarang, Bekasi since December 2023. Power 30 kW (41 PS) per the 2026 spec list quoting Mitsubishi Indonesia; launch reports said 42 PS. DC (CHAdeMO) 0-80% in about 42 min, DC kW not published; AC full charge about 7.5 h on 200 V / 15 A (AC kW not published). Payload 425 kg is the load with only the driver aboard. GVW not published. Tyre size left out: OTO/Zigwheels list 145 R14-8PR while Moladin lists 145R12-8PR and launch reports describe 12-inch steel wheels. The Rp 320 million price was a special launch price for February–April 2024 (GridOto).",
+      "notes_id": "Data peluncuran (IIMS 2024): Rp 320 juta OTR Jakarta adalah harga spesial Februari-April 2024. Blind van kelas kei (basis Minicab EV), dua kursi, diproduksi MMKI di Cikarang, Bekasi sejak Desember 2023. Tenaga 30 kW (41 PS) menurut daftar spesifikasi 2026 yang mengutip situs Mitsubishi Indonesia; berita peluncuran menyebut 42 PS. DC (CHAdeMO) 0-80% sekitar 42 menit, daya DC tidak dipublikasikan; AC penuh sekitar 7,5 jam pada 200 V / 15 A (daya AC tidak dipublikasikan). Daya angkut 425 kg adalah muatan dengan hanya pengemudi. JBB tidak dipublikasikan. Ukuran ban dikosongkan: OTO/Zigwheels menulis 145 R14-8PR, Moladin menulis 145R12-8PR, dan berita peluncuran menyebut pelek baja 12 inci. Harga Rp320 juta adalah harga spesial peluncuran untuk Februari–April 2024 (GridOto)."
+    },
+    {
+      "id": "mitsubishi-l100-ev-2026-two-seater-blind-van",
+      "model_year": 2026,
+      "variant": "Two-Seater Blind Van",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "assembly": "CKD Indonesia",
+        "battery_gross_kwh": 20.1,
+        "range_km": 180,
+        "range_standard": "WLTC",
+        "motor_count": 1,
+        "drive": "RWD",
+        "power_kw": 30,
+        "torque_nm": 195,
+        "top_speed_kmh": 100,
+        "ac_connector": "Type 1",
+        "dc_connector": "CHAdeMO",
+        "ac_full_hours": 7.5,
+        "dc_10_80_min": 42,
+        "dc_time_window": "0–80%",
+        "length_mm": 3395,
+        "width_mm": 1475,
+        "height_mm": 1915,
+        "wheelbase_mm": 2390,
+        "ground_clearance_mm": 165,
+        "turning_radius_m": 4.3,
+        "kerb_weight_kg": 1125,
+        "payload_kg": 425,
+        "cargo_length_mm": 1830,
+        "cargo_width_mm": 1370,
+        "cargo_height_mm": 1230,
+        "seats": 2,
+        "airbags": 2,
+        "vehicle_warranty": "5 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic maintenance for 4 years / 50,000 km (SMART package)",
+        "price_otr_idr": 323300000,
+        "body_type": "Van"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/mitsubishi/mitsubishi-l100/spesifikasi",
+            "title": "Mitsubishi L100 EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/mitsubishi/mitsubishi-l100/spesifikasi",
+            "title": "Mitsubishi L100 EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234380783/mitsubishi-l100-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Mitsubishi L100 EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234380783/mitsubishi-l100-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Mitsubishi L100 EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-05",
+            "type": "media"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/mitsubishi/l100-ev/spesifikasi/?amp=1",
+            "title": "Mitsubishi L100 EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/mitsubishi/l100-ev/spesifikasi/?amp=1",
+            "title": "Mitsubishi L100 EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "cargo_length_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "cargo_width_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "cargo_height_mm": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.gridoto.com/amp/224018068/mitsubishi-l100-ev-mulai-dijual-di-iims-2024-harga-spesial-selama-periode-ini",
+            "title": "Mitsubishi L100 EV Mulai Dijual di IIMS 2024, Harga Spesial Selama Periode Ini (GridOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mitsubishi/mitsubishi-l100/spesifikasi",
+            "title": "Mitsubishi L100 EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7196732/spesifikasi-mitsubishi-l100-ev-jarak-tempuh-180-km-harga-rp-320-juta",
+            "title": "Spesifikasi Mitsubishi L100 EV: Jarak Tempuh 180 Km, Harga Rp 320 Juta (detikOto)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/234380783/mitsubishi-l100-ev-tahun-2026-sekarang-dijual-segini",
+            "title": "Mitsubishi L100 EV Tahun 2026 Sekarang Dijual Segini (Otomotifnet)",
+            "date": "2026-05",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/mitsubishi/l100-ev/spesifikasi/?amp=1",
+            "title": "Mitsubishi L100 EV specifications (Zigwheels ID)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/en/bandingkan-mobil/mitsubishi-l100-ev-and-sag-max-ev",
+            "title": "Mitsubishi L100 EV vs SAG Max EV comparison (OTO)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://paultan.org/2024/02/16/mitsubishi-l100-ev-launched-in-indonesia",
+            "title": "Mitsubishi L100 EV launched in Indonesia - electric kei panel van with 180 km range, 42 PS; CKD (paultan.org)",
+            "date": "2024-02",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/mitsubishi/mitsubishi-l100/spesifikasi",
+            "title": "Mitsubishi L100 EV spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Same specs 2024-2026; 2025 price not confirmed. 2026 price Rp 323.3 million OTR Jakarta (Mitsubishi Indonesia list via Otomotifnet, OTO, Zigwheels). Kei-class blind van (Minicab EV based), two seats, built by MMKI in Cikarang, Bekasi since December 2023. Power 30 kW (41 PS) per the 2026 spec list quoting Mitsubishi Indonesia; launch reports said 42 PS. DC (CHAdeMO) 0-80% in about 42 min, DC kW not published; AC full charge about 7.5 h on 200 V / 15 A (AC kW not published). Payload 425 kg is the load with only the driver aboard. GVW not published. Tyre size left out: OTO/Zigwheels list 145 R14-8PR while Moladin lists 145R12-8PR and launch reports describe 12-inch steel wheels.",
+      "notes_id": "Spesifikasi sama 2024-2026; harga 2025 tidak terkonfirmasi. Harga 2026 Rp 323,3 juta OTR Jakarta (daftar Mitsubishi Indonesia via Otomotifnet, OTO, Zigwheels). Blind van kelas kei (basis Minicab EV), dua kursi, diproduksi MMKI di Cikarang, Bekasi sejak Desember 2023. Tenaga 30 kW (41 PS) menurut daftar spesifikasi 2026 yang mengutip situs Mitsubishi Indonesia; berita peluncuran menyebut 42 PS. DC (CHAdeMO) 0-80% sekitar 42 menit, daya DC tidak dipublikasikan; AC penuh sekitar 7,5 jam pada 200 V / 15 A (daya AC tidak dipublikasikan). Daya angkut 425 kg adalah muatan dengan hanya pengemudi. JBB tidak dipublikasikan. Ukuran ban dikosongkan: OTO/Zigwheels menulis 145 R14-8PR, Moladin menulis 145R12-8PR, dan berita peluncuran menyebut pelek baja 12 inci."
+    }
+  ]
+}

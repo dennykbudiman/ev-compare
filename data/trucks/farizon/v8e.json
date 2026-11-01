@@ -1,0 +1,602 @@
+{
+  "make": "Farizon",
+  "model": "V8E",
+  "trims": [
+    {
+      "id": "farizon-v8e-2026-cargo-van",
+      "model_year": 2026,
+      "variant": "Cargo Van",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "gvw_kg": 3500,
+        "payload_kg": 1500,
+        "cargo_length_mm": 3265,
+        "cargo_width_mm": 1690,
+        "cargo_height_mm": 1435,
+        "seats": 2,
+        "battery_gross_kwh": 65,
+        "battery_chemistry": "LFP",
+        "voltage_architecture": "~400 V",
+        "range_km": 428,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "power_kw": 90,
+        "torque_nm": 190,
+        "dc_connector": "CCS2",
+        "dc_max_kw": 100,
+        "dc_10_80_min": 30,
+        "dc_time_window": "20–80%",
+        "airbags": 2,
+        "length_mm": 5395,
+        "width_mm": 1820,
+        "height_mm": 1985,
+        "wheelbase_mm": 3600,
+        "tyre_size": "195/70 R15 LT",
+        "price_otr_idr": 425000000,
+        "assembly": "CKD Indonesia",
+        "body_type": "Van",
+        "cargo_volume_m3": 7.9,
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "cargo_length_mm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "cargo_width_mm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "cargo_height_mm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ybJd78AK-farizon-luncurkan-empat-kendaraan-niaga-listrik-di-giias-2026-dua-model-dirakit-lokal",
+            "title": "Farizon Luncurkan Empat Kendaraan Niaga Listrik di GIIAS 2026, Dua Model Dirakit Lokal (Medcom)",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/berita-mobil/farizon-dan-arista-group-rilis-4-kendaraan-niaga-listrik-di-giias-2026-siapkan-rakitan-lokal-ckd",
+            "title": "Farizon dan Arista Group Rilis 4 Kendaraan Niaga Listrik di GIIAS 2026, Siapkan Rakitan Lokal CKD (OTO)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.gridoto.com/amp/224404194/farizon-resmi-rakit-mobil-di-indonesia-ini-model-pertamanya?page=all",
+            "title": "Farizon Resmi Rakit Mobil di Indonesia, Ini Model Pertamanya (GridOto)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://electrive.com/2026/08/20/farizon-introduces-its-first-locally-assembled-electric-van-in-indonesia",
+            "title": "Farizon introduces its first locally assembled electric van in Indonesia (electrive)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "cargo_volume_m3": [
+          {
+            "url": "https://oto.detik.com/kendaraan-niaga/d-8618414/dijual-rp-425-juta-ini-spesifikasi-farizon-v8e-cargo-van",
+            "title": "Dijual Rp 425 Juta, Ini Spesifikasi Farizon V8E Cargo Van (detikOto)",
+            "date": "2026-08",
+            "type": "media"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Launched at GIIAS 2026 (July 2026). CKD assembly with PT Handal Indonesia Motor in Purwakarta, West Java, started 13 August 2026 (first Farizon model built there, about 40% local content). GVW 3,500 kg, payload up to 1.5 t and 7.9 m3 cargo volume (detikOto). Price Rp 425 juta OTR Jakarta, white only. Power 90 kW (GridOto, Bloomberg Technoz); Moladin lists '148' maximum power with no unit, which was not used. Torque 190 Nm per detikOto, GridOto and Moladin; Bloomberg Technoz says 150 Nm. Range 428 km claimed; Moladin calls it WLTP but press releases name no cycle, so range_standard is left out. DC: CCS2 up to 100 kW, 20–80% in about 30 min (Bloomberg Technoz); Moladin lists 36 min. Moladin lists AC 0–100% in 6–7 hours (not recorded as a single figure). Warranty not published for Indonesia.",
+      "notes_id": "Diluncurkan di GIIAS 2026 (Juli 2026). Perakitan CKD bersama PT Handal Indonesia Motor di Purwakarta, Jawa Barat, dimulai 13 Agustus 2026 (model Farizon pertama yang dirakit di sana, kandungan lokal sekitar 40%). JBB 3.500 kg, payload hingga 1,5 ton, dan volume kargo 7,9 m3 (detikOto). Harga Rp425 juta OTR Jakarta, hanya warna putih. Tenaga 90 kW (GridOto, Bloomberg Technoz); Moladin mencantumkan tenaga maksimum '148' tanpa satuan, yang tidak dipakai. Torsi 190 Nm menurut detikOto, GridOto, dan Moladin; Bloomberg Technoz menyebut 150 Nm. Jarak tempuh 428 km (klaim); Moladin menyebutnya WLTP tetapi rilis pers tidak menyebut siklus uji, sehingga standar uji tidak diisi. DC: CCS2 hingga 100 kW, 20–80% sekitar 30 menit (Bloomberg Technoz); Moladin menyebut 36 menit. Moladin mencantumkan AC 0–100% dalam 6–7 jam (tidak dicatat sebagai satu angka). Garansi untuk Indonesia tidak dipublikasikan."
+    },
+    {
+      "id": "farizon-v8e-2026-van",
+      "model_year": 2026,
+      "variant": "Van (16-seat passenger)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "cab_type": "Van",
+        "seats": 16,
+        "battery_gross_kwh": 65,
+        "battery_chemistry": "LFP",
+        "range_km": 428,
+        "torque_nm": 190,
+        "length_mm": 5395,
+        "width_mm": 1820,
+        "height_mm": 1985,
+        "wheelbase_mm": 3600,
+        "tyre_size": "195/70 R15",
+        "price_otr_idr": 550000000,
+        "body_type": "Minibus",
+        "transmission": "Single-speed reduction gear"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ybJd78AK-farizon-luncurkan-empat-kendaraan-niaga-listrik-di-giias-2026-dua-model-dirakit-lokal",
+            "title": "Farizon Luncurkan Empat Kendaraan Niaga Listrik di GIIAS 2026, Dua Model Dirakit Lokal (Medcom)",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          },
+          {
+            "url": "https://electrive.com/2026/08/20/farizon-introduces-its-first-locally-assembled-electric-van-in-indonesia",
+            "title": "Farizon introduces its first locally assembled electric van in Indonesia (electrive)",
+            "date": "2026-08",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ybJd78AK-farizon-luncurkan-empat-kendaraan-niaga-listrik-di-giias-2026-dua-model-dirakit-lokal",
+            "title": "Farizon Luncurkan Empat Kendaraan Niaga Listrik di GIIAS 2026, Dua Model Dirakit Lokal (Medcom)",
+            "date": "2026-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/berita-mobil/farizon-dan-arista-group-rilis-4-kendaraan-niaga-listrik-di-giias-2026-siapkan-rakitan-lokal-ckd",
+            "title": "Farizon dan Arista Group Rilis 4 Kendaraan Niaga Listrik di GIIAS 2026, Siapkan Rakitan Lokal CKD (OTO)",
+            "date": "2026-08",
+            "type": "press"
+          },
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://www.bloombergtechnoz.com/detail-news/116616/giias-2026-farizon-pamer-4-mobil-niaga-listrik-2-dirakit-lokal/2",
+            "title": "GIIAS 2026: Farizon Pamer 4 Mobil Niaga Listrik, 2 Dirakit Lokal (Bloomberg Technoz)",
+            "date": "2026-11",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-07",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Passenger version of the V8E, launched at GIIAS 2026 (July 2026; global debut) at Rp 550 juta OTR Jakarta. Listed as Small cargo (light commercial) by the project rule for minibuses; GVW is not published, and the 16 seats exceed the usual 9-seat range for this class. Only seats and price come from launch coverage; battery, range, torque, dimensions and tyres are from Moladin, which lists them for the Van as well as the Cargo Van. Power is left out (Moladin's '148' has no unit and conflicts with the Cargo Van's 90 kW). Local assembly was announced only for the Cargo Van, so assembly is left out. Warranty not published for Indonesia.",
+      "notes_id": "Versi penumpang V8E, diluncurkan di GIIAS 2026 (Juli 2026; debut global) dengan harga Rp550 juta OTR Jakarta. Dimasukkan ke kelas Small cargo (niaga ringan) sesuai aturan proyek untuk minibus; JBB tidak dipublikasikan, dan 16 kursi melebihi rentang umum 9 kursi untuk kelas ini. Hanya jumlah kursi dan harga yang berasal dari liputan peluncuran; baterai, jarak tempuh, torsi, dimensi, dan ban dari Moladin, yang mencantumkannya untuk Van maupun Cargo Van. Tenaga tidak diisi ('148' di Moladin tanpa satuan dan berbeda dengan 90 kW milik Cargo Van). Perakitan lokal hanya diumumkan untuk Cargo Van, sehingga status perakitan tidak diisi. Garansi untuk Indonesia tidak dipublikasikan."
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "make": "Zeekr",
+  "model": "009",
+  "trims": [
+    {
+      "id": "zeekr-009-2024-009",
+      "model_year": 2024,
+      "variant": "009",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "assembly": "CBU import",
+        "price_otr_idr": 2250000000,
+        "battery_gross_kwh": 116,
+        "range_km": 582,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "power_kw": 450,
+        "torque_nm": 693,
+        "airbags": 7,
+        "accel_0_100_s": 4.5,
+        "battery_chemistry": "NMC",
+        "drive": "AWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_max_kw": 150,
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "v2l_kw": 3.3,
+        "length_mm": 5209,
+        "width_mm": 2024,
+        "height_mm": 1848,
+        "wheelbase_mm": 3205,
+        "airbag_positions": "front, side, curtain, knee",
+        "adas": "AEB, FCW, LKA, BSM, ACC, 360 camera, park assist",
+        "tyre_size": "265/45 R20"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.electrive.com/2026/02/12/zeekr-re-enters-indonesia-confirms-local-assembly/",
+            "title": "Zeekr re-enters Indonesia, confirms local assembly",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.electrive.com/2026/02/12/zeekr-re-enters-indonesia-confirms-local-assembly/",
+            "title": "Zeekr re-enters Indonesia, confirms local assembly",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.electrive.com/2026/02/12/zeekr-re-enters-indonesia-confirms-local-assembly/",
+            "title": "Zeekr re-enters Indonesia, confirms local assembly",
+            "date": "2026-02",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7655430/harga-termahal-tembus-rp-2-7-miliar-intip-spesifikasi-2-mobil-listrik-zeekr",
+            "title": "Harga Termahal Tembus Rp 2,7 Miliar, Intip Spesifikasi 2 Mobil Listrik Zeekr",
+            "date": "2024-11",
+            "type": "press"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.carbase.my/zeekr/009/ef1e/luxury-2025",
+            "title": "Zeekr 009 (2025) Luxury - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched GJAW Nov 2024, CBU via Premium Auto Prima; indicative Rp2.25-2.7 M (detik), Rp2.25 M (electrive), OTR not stated. Dual motor (603 hp). Chemistry, drive, charging, V2L, dimensions, airbag positions, ADAS and tyres from the Malaysian spec of the same 116 kWh, 603 hp, 582 km WLTP 009 (CarBase.my); seats and boot not taken because the Malaysian 6- and 7-seat versions differ.",
+      "notes_id": "Diluncurkan di GJAW November 2024, CBU melalui Premium Auto Prima; harga indikatif Rp2,25-2,7 M (detik), Rp2,25 M (electrive), tidak disebutkan OTR. Motor ganda (603 hp). Kimia baterai, penggerak, pengisian daya, V2L, dimensi, posisi airbag, ADAS, dan ban dari spesifikasi Malaysia untuk 009 116 kWh, 603 hp, 582 km WLTP yang sama (CarBase.my); jumlah kursi dan bagasi tidak diambil karena versi 6 dan 7 kursi Malaysia berbeda."
+    },
+    {
+      "id": "zeekr-009-2026-009",
+      "model_year": 2026,
+      "variant": "009",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "MPV",
+        "price_otr_idr": 1600000000,
+        "power_kw": 400,
+        "length_mm": 5209,
+        "width_mm": 2024,
+        "top_speed_kmh": 190
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/zeekr/009/",
+            "title": "Spesifikasi Utama ZEEKR 009 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/zeekr/009/",
+            "title": "Spesifikasi Utama ZEEKR 009 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/zeekr/009/",
+            "title": "Spesifikasi Utama ZEEKR 009 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/zeekr/009/",
+            "title": "Spesifikasi Utama ZEEKR 009 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/zeekr/009/",
+            "title": "Spesifikasi Utama ZEEKR 009 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/zeekr/009/",
+            "title": "Spesifikasi Utama ZEEKR 009 (Zigwheels Indonesia)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Relaunched Feb 2026 for pre-booking at 'under Rp1.6 M' (electrive); Zigwheels lists Rp1.6 M OTR. Power converted from Zigwheels' 544 hp. Zeekr plans CKD at Handal Purwakarta, deliveries from Q3/Q4 2026 — assembly of delivered cars not confirmed. Moladin's 009 'Executive' table (75 kWh LFP, FWD, 335 hp, 604 km WLTP) contradicts its own text (603 hp) and the 2024 car, so it was not used; battery and range for the 2026 car are unconfirmed.",
+      "notes_id": "Diluncurkan ulang Februari 2026 untuk pemesanan awal dengan harga 'di bawah Rp1,6 M' (electrive); Zigwheels mencantumkan Rp1,6 M OTR. Tenaga dikonversi dari 544 hp versi Zigwheels. Zeekr berencana merakit CKD di Handal Purwakarta, pengiriman mulai kuartal III/IV 2026 — status perakitan mobil yang sudah dikirim belum terkonfirmasi. Tabel 009 'Executive' di Moladin (75 kWh LFP, FWD, 335 hp, 604 km WLTP) bertentangan dengan teksnya sendiri (603 hp) dan mobil 2024, sehingga tidak dipakai; baterai dan jarak tempuh mobil 2026 belum terkonfirmasi."
+    }
+  ]
+}

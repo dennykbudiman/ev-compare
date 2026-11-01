@@ -1,0 +1,635 @@
+{
+  "make": "Mercedes-Benz",
+  "model": "EQB",
+  "trims": [
+    {
+      "id": "mercedes-benz-eqb-2025-250-plus-progressive-line",
+      "model_year": 2025,
+      "variant": "EQB 250+ Progressive Line",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "assembly": "CBU import",
+        "price_otr_idr": 1665000000,
+        "range_km": 535,
+        "range_standard": "WLTP",
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "power_kw": 140,
+        "torque_nm": 385,
+        "accel_0_100_s": 8.9,
+        "top_speed_kmh": 160,
+        "ac_max_kw": 9.6,
+        "ac_full_hours": 8.2,
+        "dc_max_kw": 100,
+        "length_mm": 4684,
+        "height_mm": 1654,
+        "wheelbase_mm": 2829,
+        "kerb_weight_kg": 2105,
+        "seats": 7,
+        "seat_layout": "2+3+2",
+        "adas": "ACC (DISTRONIC), AEB, Active Parking Assist, Adaptive Highbeam Assist",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "drive": "FWD",
+        "width_mm": 1834,
+        "ground_clearance_mm": 185,
+        "boot_l": 495,
+        "airbags": 9,
+        "crash_rating": "5 stars (ANCAP 2019)",
+        "battery_usable_kwh": 70.5,
+        "battery_gross_kwh": 73.9
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7414905/sabar-mercedes-benz-baru-rakit-mobil-listrik-di-wanaherang-2027",
+            "title": "Sabar! Mercedes-Benz Baru Rakit Mobil Listrik di Wanaherang 2027 - detikOto",
+            "date": "2024-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7585395/mercedes-benz-hadirkan-mobil-listrik-suv-7-seater-baru-harga-rp-1-miliaran",
+            "title": "Mercedes-Benz Hadirkan Mobil Listrik SUV 7-Seater Baru, Harga Rp 1 Miliaran - detikOto",
+            "date": "2024-10",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7585395/mercedes-benz-hadirkan-mobil-listrik-suv-7-seater-baru-harga-rp-1-miliaran",
+            "title": "Mercedes-Benz Hadirkan Mobil Listrik SUV 7-Seater Baru, Harga Rp 1 Miliaran - detikOto",
+            "date": "2024-10",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7585395/mercedes-benz-hadirkan-mobil-listrik-suv-7-seater-baru-harga-rp-1-miliaran",
+            "title": "Mercedes-Benz Hadirkan Mobil Listrik SUV 7-Seater Baru, Harga Rp 1 Miliaran - detikOto",
+            "date": "2024-10",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7585395/mercedes-benz-hadirkan-mobil-listrik-suv-7-seater-baru-harga-rp-1-miliaran",
+            "title": "Mercedes-Benz Hadirkan Mobil Listrik SUV 7-Seater Baru, Harga Rp 1 Miliaran - detikOto",
+            "date": "2024-10",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7585395/mercedes-benz-hadirkan-mobil-listrik-suv-7-seater-baru-harga-rp-1-miliaran",
+            "title": "Mercedes-Benz Hadirkan Mobil Listrik SUV 7-Seater Baru, Harga Rp 1 Miliaran - detikOto",
+            "date": "2024-10",
+            "type": "press"
+          }
+        ],
+        "seat_layout": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.mercedes-benz.co.id/en/vehicles/eqb/",
+            "title": "Mercedes-Benz EQB - Mercedes-Benz Indonesia",
+            "date": "2026-10",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250-plus",
+            "title": "Mercedes-Benz EQB 250+ (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250-plus",
+            "title": "Mercedes-Benz EQB 250+ (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250-plus",
+            "title": "Mercedes-Benz EQB 250+ (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250-plus",
+            "title": "Mercedes-Benz EQB 250+ (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250-plus",
+            "title": "Mercedes-Benz EQB 250+ (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250-plus",
+            "title": "Mercedes-Benz EQB 250+ (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/mercedes-benz/eqb/250-plus-progressive-line",
+            "title": "Mercedes Benz EQB 250 Plus Progressive Line Price, Review and Specs - Oto",
+            "date": "2026-04",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-7585395/mercedes-benz-hadirkan-mobil-listrik-suv-7-seater-baru-harga-rp-1-miliaran",
+            "title": "Mercedes-Benz Hadirkan Mobil Listrik SUV 7-Seater Baru, Harga Rp 1 Miliaran - detikOto",
+            "date": "2024-10",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/car/1988/Mercedes-EQB-250plus",
+            "title": "Mercedes-Benz EQB 250+ - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched October 2024 replacing the EQB 250 (detik: Rp1,655,000,000 off the road, Rp10 million above the old EQB 250, which listed at Rp1,685,000,000 in September 2024). OTR Rp1,665,000,000 per oto.com; Mercedes-Benz Indonesia price page says 'from Rp1,690,000,000' without stating the basis. Dimensions conflict: Mercedes 4,684 x 1,654 mm (length x height) vs oto.com 4,690 x 1,701 mm; width 2,020 mm in both is incl. mirrors, so left out. Seat layout 2+3+2 from Mercedes' '7-seater' description. Drive, width, ground clearance, boot (5 seats up), airbags and ANCAP rating from the Australian spec of the seven-seat EQB 250+ (carsales.com.au); matched on 70.5 kWh and 140 kW. Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 70.5 kWh figure is stored as usable capacity; gross 73.9 kWh is from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan Oktober 2024 menggantikan EQB 250 (detik: Rp1.655.000.000 off the road, Rp10 juta di atas EQB 250 lama yang tercantum Rp1.685.000.000 pada September 2024). OTR Rp1.665.000.000 menurut oto.com; halaman harga Mercedes-Benz Indonesia menyebut 'mulai Rp1.690.000.000' tanpa menyebut dasar harganya. Dimensi berbeda: Mercedes 4.684 x 1.654 mm (panjang x tinggi) vs oto.com 4.690 x 1.701 mm; lebar 2.020 mm di keduanya sudah termasuk spion, sehingga dikosongkan. Konfigurasi kursi 2+3+2 dari deskripsi '7-seater' Mercedes. Penggerak, lebar, ground clearance, bagasi (kursi baris 2 tegak), airbag, dan peringkat ANCAP dari spesifikasi Australia untuk EQB 250+ tujuh kursi (carsales.com.au); dicocokkan pada 70,5 kWh dan 140 kW. Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 70,5 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 73,9 kWh dari spesifikasi Eropa (ev-database.org)."
+    },
+    {
+      "id": "mercedes-benz-eqb-2023-250-progressive-line",
+      "model_year": 2023,
+      "variant": "250 Progressive Line",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "range_standard": "WLTP",
+        "dc_max_kw": 100,
+        "dc_10_80_min": 32,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "vehicle_warranty": "3 yrs / unlimited km",
+        "free_service": "Free periodic service for 5 years (StarService)",
+        "segment": "SUV",
+        "price_otr_idr": 1655000000,
+        "range_km": 448,
+        "seats": 7,
+        "battery_usable_kwh": 66.5,
+        "voltage_architecture": "~400 V",
+        "pack_nominal_voltage_v": 367,
+        "drive": "FWD",
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "charge_port": "Right rear",
+        "v2l": false,
+        "frunk_l": 0,
+        "power_kw": 140,
+        "torque_nm": 385,
+        "motor_type": "PMSM",
+        "length_mm": 4684,
+        "width_mm": 1834,
+        "wheelbase_mm": 2829,
+        "battery_gross_kwh": 69.7
+      },
+      "sources": {
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "segment": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          },
+          {
+            "url": "https://industri.kontan.co.id/news/rilis-dua-model-baru-mercedes-benz-yakin-bisnis-mobil-listrik-mewah-tumbuh-positif",
+            "title": "Rilis Dua Model Baru, Mercedes-Benz Yakin Bisnis Mobil Listrik Mewah Tumbuh Positif",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          }
+        ],
+        "battery_usable_kwh": [
+          {
+            "url": "https://moladin.com/news/harga-mercedes-benz-eqa-dan-eqb-2023-paling-murah/",
+            "title": "Harga Mercedes-Benz EQA dan EQB 2023",
+            "date": "2023-06",
+            "type": "press"
+          },
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "charge_port": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 (2022-2023) - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250",
+            "title": "Mercedes-Benz EQB250 (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250",
+            "title": "Mercedes-Benz EQB250 (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250",
+            "title": "Mercedes-Benz EQB250 (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carsales.com.au/research/mercedes-benz/eqb/2023/eqb250",
+            "title": "Mercedes-Benz EQB250 (X243) 2023 overview - carsales.com.au",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://ev-database.org/imp/car/1664/Mercedes-Benz-EQB-250",
+            "title": "Mercedes-Benz EQB 250 - EV Database",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
+        ]
+      },
+      "notes": "Launched at Senayan City, Jakarta on 15 June 2023. Launch price Rp1,655,000,000 (moladin; kontan rounds to Rp1.65 billion); neither source states OTR or off-the-road, so treat the price basis as unconfirmed. Battery 66.5 kWh not labelled gross/net. DC 100 kW, 10-80% in 32 min. Power, torque and dimensions not in the launch sources. Range 448 km WLTP. Seven seats. Listed at Rp1,685,000,000 in September 2024, then replaced by the EQB 250+ (2025 record). Usable battery 66.5 kWh, power (140 kW), torque (385 Nm), voltage, drive, AC power, connectors, charge port, V2L and frunk from the European spec of the seven-seat EQB 250 (ev-database.org, 2022-2023); matched on variant name and battery. Motor type, length, width and wheelbase from the Australian spec of the EQB 250 (carsales.com.au; 66.5 kWh, 140 kW FWD); the Australian car is a five-seater, so its weight, height and boot figures were not used. Battery check (Nov 2026): Mercedes-Benz quotes usable capacity, so the Indonesian 66.5 kWh figure is stored as usable capacity; gross 69.7 kWh is from the European spec (ev-database.org).",
+      "notes_id": "Diluncurkan di Senayan City, Jakarta pada 15 Juni 2023. Harga peluncuran Rp1.655.000.000 (moladin; kontan membulatkan menjadi Rp1,65 miliar); kedua sumber tidak menyebut OTR atau off the road, sehingga dasar harga belum terkonfirmasi. Baterai 66,5 kWh tidak disebut gross/net. DC 100 kW, 10-80% dalam 32 menit. Tenaga, torsi dan dimensi tidak ada di sumber peluncuran. Jarak tempuh 448 km WLTP. Tujuh kursi. Tercantum Rp1.685.000.000 pada September 2024, lalu digantikan EQB 250+ (catatan 2025). Baterai usable 66,5 kWh, daya (140 kW), torsi (385 Nm), tegangan, penggerak, daya AC, konektor, posisi port, V2L, dan frunk dari spesifikasi Eropa untuk EQB 250 tujuh kursi (ev-database.org, 2022-2023); dicocokkan dari nama varian dan baterai. Jenis motor, panjang, lebar, dan jarak sumbu roda dari spesifikasi Australia EQB 250 (carsales.com.au; 66,5 kWh, 140 kW FWD); mobil Australia berkursi lima, jadi angka berat, tinggi, dan bagasinya tidak dipakai. Pemeriksaan baterai (Nov 2026): Mercedes-Benz mencantumkan kapasitas pakai, jadi angka Indonesia 66,5 kWh disimpan sebagai kapasitas pakai; kapasitas kotor 69,7 kWh dari spesifikasi Eropa (ev-database.org)."
+    }
+  ]
+}

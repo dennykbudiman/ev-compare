@@ -1,0 +1,345 @@
+{
+  "make": "Citroën",
+  "model": "ë-C3",
+  "trims": [
+    {
+      "id": "citroen-e-c3-2025-electric",
+      "model_year": 2025,
+      "variant": "ë-C3 All-Electric",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 380500000,
+        "battery_gross_kwh": 29.2,
+        "range_km": 320,
+        "motor_count": 1,
+        "motor_type": "PMSM",
+        "power_kw": 42,
+        "torque_nm": 143,
+        "top_speed_kmh": 107,
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 57,
+        "ac_full_hours": 10.5,
+        "length_mm": 3981,
+        "width_mm": 1733,
+        "height_mm": 1604,
+        "wheelbase_mm": 2540,
+        "ground_clearance_mm": 170,
+        "kerb_weight_kg": 1316,
+        "boot_l": 315,
+        "seats": 5,
+        "airbags": 2,
+        "airbag_positions": "front",
+        "tyre_size": "195/65 R15",
+        "vehicle_warranty": "5 yrs / 150,000 km",
+        "battery_warranty": "7 yrs / 140,000 km",
+        "free_service": "Free service and parts for 5 years / 70,000 km",
+        "drive": "FWD",
+        "turning_radius_m": 4.98
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/citroen/e-c3/spesifikasi",
+            "title": "Spesifikasi Citroen E-C3 - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-7421189/citroen-e-c3-tantang-neta-v-hingga-wuling-binguoev-ini-spesifikasi-lengkapnya",
+            "title": "Citroen E-C3 Tantang Neta V hingga Wuling BinguoEV, Ini Spesifikasi Lengkapnya - detikOto",
+            "date": "2024-07",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.cardekho.com/overview/Citroen_eC3/Citroen_eC3_Live_(O).htm?amp=1",
+            "title": "Citroen e-C3 Live (O) features & specs (CarDekho)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "India"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.cardekho.com/overview/Citroen_eC3/Citroen_eC3_Live_(O).htm?amp=1",
+            "title": "Citroen e-C3 Live (O) features & specs (CarDekho)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "India"
+          }
+        ]
+      },
+      "notes": "Launched mid-2024 at Rp377,000,000 OTR Jakarta (detik, July 2024), first batch imported from India; local CKD assembly at Indomobil's Purwakarta plant was announced at GIIAS 2024 (reported by Malaysian media; not confirmed here with an Indonesian source, so assembly left out). Oto.com lists Rp380,500,000 OTR (October 2026); a 2025 otodriver headline reports a price cut of up to Rp100 million that could not be read, so the current transaction price may be lower. Power 57 PS x0.7355 = 42 kW (oto.com: 56 hp). Height: oto.com 1,604 mm vs detik 1,586 mm. AC time: detik says 10-80% in up to 10.5 h, oto.com 0-100% about 10.5 h. Range standard not stated. Single variant. Same specs 2024-2026. Drive and turning radius from the Indian spec of the same 29.2 kWh, 42 kW e-C3 (cardekho.com); CarDekho's 4 airbags and 1,302 kg differ from the Indonesian figures, which were kept.",
+      "notes_id": "Diluncurkan pertengahan 2024 seharga Rp377.000.000 OTR Jakarta (detik, Juli 2024), batch pertama diimpor dari India; perakitan CKD lokal di pabrik Indomobil Purwakarta diumumkan di GIIAS 2024 (dilaporkan media Malaysia; belum terkonfirmasi sumber Indonesia, sehingga status perakitan dikosongkan). Oto.com mencantumkan Rp380.500.000 OTR (Oktober 2026); judul berita otodriver 2025 menyebut potongan harga hingga Rp100 juta yang isinya tidak dapat dibaca, sehingga harga transaksi saat ini bisa lebih rendah. Tenaga 57 PS x0,7355 = 42 kW (oto.com: 56 hp). Tinggi: oto.com 1.604 mm vs detik 1.586 mm. Waktu AC: detik menyebut 10-80% hingga 10,5 jam, oto.com 0-100% sekitar 10,5 jam. Standar pengujian jarak tempuh tidak disebutkan. Varian tunggal. Spesifikasi sama 2024-2026. Penggerak dan radius putar dari spesifikasi India untuk e-C3 29,2 kWh, 42 kW yang sama (cardekho.com); 4 airbag dan 1.302 kg versi CarDekho berbeda dari angka Indonesia, yang tetap dipakai."
+    }
+  ]
+}

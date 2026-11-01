@@ -1,0 +1,1012 @@
+{
+  "make": "Kia",
+  "model": "EV6",
+  "trims": [
+    {
+      "id": "kia-ev6-2026-gt-line",
+      "model_year": 2026,
+      "variant": "GT-Line",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 1349000000,
+        "battery_gross_kwh": 77.4,
+        "range_km": 506,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 239,
+        "torque_nm": 605,
+        "voltage_architecture": "800 V",
+        "ac_max_kw": 11,
+        "ac_full_hours": 7,
+        "length_mm": 4695,
+        "width_mm": 1890,
+        "height_mm": 1550,
+        "wheelbase_mm": 2900,
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "accel_0_100_s": 5.2,
+        "adas": "AEB (FCA), LFA, LKA, ACC (stop & go), BCA, BSM, RCCA, DAW, HBA, SEA, SVM, RSPA",
+        "platform": "E-GMP",
+        "dc_max_kw": 350,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "kerb_weight_kg": 2105,
+        "boot_l": 520,
+        "seats": 5,
+        "top_speed_kmh": 185
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.zigwheels.co.id/mobil-baru/kia/ev6/",
+            "title": "Kia EV6 - Zigwheels Indonesia",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Pre-facelift EV6 (77.4 kWh); the global 2025 facelift (84 kWh) is not confirmed for Indonesia. Price Rp1.349 billion at GIIAS 2025 (Viva), launched Dec 2022 at Rp1.299 billion OTR Jakarta. Power 325 PS (= 239 kW); Detik quotes 320 hp. Range 506 km, standard not stated (matches WLTP AWD figure globally). DC: 10-80% in 73 min on 50 kW and to 80% in 18 min on 200 kW+ chargers (window not stated, so no dc_10_80_min). Zigwheels marks the model 'no longer produced' but it is still in the October 2026 price list. Same specs 2024-2026. DC 350 kW, connectors, weight, boot, seats and top speed from the Malaysian GT-Line AWD spec (paultan.org).",
+      "notes_id": "EV6 pra-facelift (77,4 kWh); facelift global 2025 (84 kWh) belum terkonfirmasi untuk Indonesia. Harga Rp1,349 miliar di GIIAS 2025 (Viva), diluncurkan Desember 2022 seharga Rp1,299 miliar OTR Jakarta. Tenaga 325 PS (= 239 kW); Detik menyebut 320 hp. Jarak tempuh 506 km, standar tidak disebutkan (cocok dengan angka WLTP AWD global). DC: 10-80% dalam 73 menit dengan charger 50 kW dan hingga 80% dalam 18 menit dengan charger 200 kW+ (rentang awal tidak disebutkan, sehingga dc_10_80_min tidak diisi). Zigwheels menandai model ini 'sudah tidak diproduksi', tetapi masih ada di daftar harga Oktober 2026. Spesifikasi sama 2024-2026. DC 350 kW, konektor, berat, bagasi, jumlah kursi, dan kecepatan maksimum dari spesifikasi Malaysia GT-Line AWD (paultan.org)."
+    },
+    {
+      "id": "kia-ev6-2026-gt",
+      "model_year": 2026,
+      "variant": "GT",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "price_otr_idr": 1799000000,
+        "battery_gross_kwh": 77.4,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 430,
+        "torque_nm": 740,
+        "accel_0_100_s": 3.5,
+        "battery_warranty": "8 yrs / 160,000 km",
+        "vehicle_warranty": "5 yrs / 150,000 km",
+        "platform": "E-GMP",
+        "cell_supplier": "SK On",
+        "cell_format": "Pouch",
+        "cell_count": 384,
+        "pack_nominal_voltage_v": 697,
+        "motor_type": "PMSM",
+        "ac_max_kw": 10.5,
+        "onboard_charger_kw": 10.5,
+        "dc_max_kw": 240,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "heat_pump": true,
+        "length_mm": 4695,
+        "width_mm": 1890,
+        "height_mm": 1545,
+        "wheelbase_mm": 2900,
+        "ground_clearance_mm": 155,
+        "kerb_weight_kg": 2185,
+        "boot_l": 480,
+        "frunk_l": 20,
+        "seats": 5,
+        "top_speed_kmh": 260,
+        "tyre_size": "255/40 R21"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.viva.co.id/otomotif/1840220-daftar-harga-mobil-listrik-kia-di-giias-2025",
+            "title": "Daftar Harga Mobil Listrik Kia di GIIAS 2025",
+            "date": "2025-07",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233920270/kia-ev6-gt-tampil-perdana-di-giias-semarang-dijual-rp-17-milyar?page=all",
+            "title": "Kia EV6 GT Tampil Perdana di GIIAS Semarang, Dijual Rp 1,7 Milyar",
+            "date": "2023-10",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_format": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "cell_count": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "onboard_charger_kw": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "heat_pump": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "frunk_l": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.carexpert.com.au/kia/ev6/2024-gt-suv-4x4-electric-jsfkwag520230920",
+            "title": "Kia EV6 GT (2024) price & specs - CarExpert",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Australia"
+          }
+        ]
+      },
+      "notes": "Launched Oct 2023 (Rp1.717 billion OTR Semarang); Rp1.799 billion at GIIAS 2025 (Viva). Power published as '577 dk' = 577 hp (= 430 kW, matching the global 585 PS). Pre-facelift 77.4 kWh GT; range not published in Indonesia. Same specs 2024-2026. Cells (SK On pouch, 384), pack voltage, motor type, AC/DC charging, connectors, V2L, heat pump, dimensions, ground clearance, kerb weight, boot, frunk, seats, top speed and tyres from the Australian EV6 GT spec (CarExpert).",
+      "notes_id": "Diluncurkan Oktober 2023 (Rp1,717 miliar OTR Semarang); Rp1,799 miliar di GIIAS 2025 (Viva). Tenaga dipublikasikan sebagai '577 dk' = 577 hp (= 430 kW, sesuai dengan 585 PS global). GT pra-facelift 77,4 kWh; jarak tempuh tidak dipublikasikan di Indonesia. Spesifikasi sama 2024-2026. Sel (pouch SK On, 384), tegangan paket, jenis motor, pengisian AC/DC, konektor, V2L, heat pump, dimensi, ground clearance, berat kosong, bagasi, frunk, jumlah kursi, kecepatan maksimum, dan ban dari spesifikasi Australia EV6 GT (CarExpert)."
+    },
+    {
+      "id": "kia-ev6-2022-gt-line",
+      "model_year": 2022,
+      "variant": "GT-Line",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Crossover",
+        "assembly": "CBU import",
+        "price_otr_idr": 1299000000,
+        "battery_gross_kwh": 77.4,
+        "range_km": 506,
+        "motor_count": 2,
+        "drive": "AWD",
+        "power_kw": 239,
+        "torque_nm": 605,
+        "voltage_architecture": "800 V",
+        "platform": "E-GMP",
+        "ac_max_kw": 11,
+        "ac_full_hours": 7,
+        "v2l": true,
+        "v2l_kw": 3.6,
+        "adas": "AEB (FCA), LFA, LKA, ACC (stop & go), BCA, BVM, RCCA, DAW, HBA, SEA, SVM, RSPA",
+        "dc_max_kw": 350,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "kerb_weight_kg": 2105,
+        "boot_l": 520,
+        "seats": 5,
+        "top_speed_kmh": 185,
+        "length_mm": 4695,
+        "width_mm": 1890,
+        "height_mm": 1550,
+        "wheelbase_mm": 2900,
+        "accel_0_100_s": 5.2
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "platform": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6438402/kia-ev6-gt-line-resmi-dijual-di-indonesia-harganya-tembus-rp-12-miliar",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Harganya Tembus Rp 1,2 Miliar",
+            "date": "2022-12",
+            "type": "press"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.zigwheels.co.id/motovaganza/kia-ev6-gt-line-resmi-dijual-di-indonesia-lebih-mahal-dari-hyundai-ioniq-5/",
+            "title": "Kia EV6 GT-Line Resmi Dijual di Indonesia, Lebih Mahal dari Hyundai Ioniq 5",
+            "date": "2022-12",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/research/kia/ev6/cv/gt-line-awd-2023/",
+            "title": "Kia EV6 GT-Line AWD - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Kia's first BEV in Indonesia, launched 2 Dec 2022 at Rp1.299 billion OTR Jakarta including a home wall charger; imported (Zigwheels: 'karena impor'). Power 320 hp / 324.4 PS (= 239 kW); Detik writes '320 dk'. Range 506 km, standard not stated. DC: 10-80% in 73 min on 50 kW, to 80% in 18 min on 200 kW+ (the 73 min is only for a 50 kW charger, so dc_10_80_min is left out). Price later Rp1.349 billion (GIIAS 2025); same specs 2022-2026. DC 350 kW, connectors, dimensions, weight, boot, seats, 0-100 km/h and top speed from the Malaysian GT-Line AWD spec (paultan.org).",
+      "notes_id": "BEV pertama Kia di Indonesia, diluncurkan 2 Desember 2022 seharga Rp1,299 miliar OTR Jakarta termasuk wall charger rumah; diimpor (Zigwheels: 'karena impor'). Tenaga 320 hp / 324,4 PS (= 239 kW); Detik menulis '320 dk'. Jarak tempuh 506 km, standar tidak disebutkan. DC: 10-80% dalam 73 menit dengan 50 kW, hingga 80% dalam 18 menit dengan 200 kW+ (73 menit hanya untuk charger 50 kW, sehingga dc_10_80_min tidak diisi). Harga kemudian Rp1,349 miliar (GIIAS 2025); spesifikasi sama 2022-2026. DC 350 kW, konektor, dimensi, berat, bagasi, jumlah kursi, 0-100 km/jam, dan kecepatan maksimum dari spesifikasi Malaysia GT-Line AWD (paultan.org)."
+    }
+  ]
+}

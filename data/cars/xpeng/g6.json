@@ -1,0 +1,820 @@
+{
+  "make": "XPeng",
+  "model": "G6",
+  "trims": [
+    {
+      "id": "xpeng-g6-2025-standard-range",
+      "model_year": 2025,
+      "variant": "Standard Range",
+      "status": "discontinued",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "price_otr_idr": 599000000,
+        "power_kw": 210,
+        "torque_nm": 440,
+        "dc_10_80_min": 20,
+        "voltage_architecture": "800 V",
+        "seats": 5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://oto.detik.com/mobil/d-7972730/xpeng-umumkan-harga-g6-dan-x9-di-indonesia-mulai-rp-599-juta",
+            "title": "Xpeng Umumkan Harga G6 dan X9 di Indonesia, Mulai Rp 599 Juta",
+            "date": "2025-06",
+            "type": "press"
+          }
+        ]
+      },
+      "notes": "Launched June 2025 (Erajaya Active Lifestyle) at Rp599 jt (detik does not state OTR). detik quotes 'up to 550 km' without naming the variant, so range not recorded. Pre-facelift G6; replaced by the G6 Pro (5C) in 2026. Moladin notes a G6 RWD was also sold at Rp679 jt.",
+      "notes_id": "Diluncurkan Juni 2025 (Erajaya Active Lifestyle) seharga Rp599 jt (detik tidak menyebut OTR). detik menyebut 'hingga 550 km' tanpa menyebut variannya, sehingga jarak tempuh tidak dicatat. G6 pra-facelift; digantikan G6 Pro (5C) pada 2026. Moladin mencatat G6 RWD juga sempat dijual seharga Rp679 jt."
+    },
+    {
+      "id": "xpeng-g6-2026-pro-long-range",
+      "model_year": 2026,
+      "variant": "Pro Long Range",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_gross_kwh": 80.8,
+        "battery_chemistry": "LFP",
+        "length_mm": 4758,
+        "width_mm": 1920,
+        "height_mm": 1650,
+        "wheelbase_mm": 2890,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "tyre_size": "255/45 R20",
+        "dc_max_kw": 451,
+        "price_otr_idr": 679000000,
+        "range_km": 525,
+        "range_standard": "WLTP",
+        "motor_type": "PMSM",
+        "drive": "RWD",
+        "motor_count": 1,
+        "power_kw": 218,
+        "torque_nm": 440,
+        "ac_max_kw": 11,
+        "dc_10_80_min": 12,
+        "kerb_weight_kg": 2025,
+        "boot_l": 571,
+        "accel_0_100_s": 6.7,
+        "top_speed_kmh": 202,
+        "adas": "ACC, LDW, BSM, RCTA, park assist, 360 camera",
+        "voltage_architecture": "800 V",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "v2l": true,
+        "v2l_kw": 3.3
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8551248/harga-xpeng-g6-awd-dan-x9-facelift-diumumkan-mulai-rp-760-jutaan",
+            "title": "Harga Xpeng G6 AWD dan X9 Facelift Diumumkan, Mulai Rp 760 Jutaan",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8551248/harga-xpeng-g6-awd-dan-x9-facelift-diumumkan-mulai-rp-760-jutaan",
+            "title": "Harga Xpeng G6 AWD dan X9 Facelift Diumumkan, Mulai Rp 760 Jutaan",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/rwd-long-range-2025",
+            "title": "Xpeng G6 (2025) RWD Long Range - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2025/10/01/2025-xpeng-g6-facelift-launched-in-malaysia-rwd-and-awd-variants-up-to-480-hp-from-rm180k/",
+            "title": "2025 XPeng G6 facelift launched in Malaysia - RWD and AWD variants, up to 487 hp, from RM180k",
+            "date": "2025-10",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/rwd-long-range-2025",
+            "title": "Xpeng G6 (2025) RWD Long Range - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/rwd-long-range-2025",
+            "title": "Xpeng G6 (2025) RWD Long Range - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/rwd-long-range-2025",
+            "title": "Xpeng G6 (2025) RWD Long Range - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/rwd-long-range-2025",
+            "title": "Xpeng G6 (2025) RWD Long Range - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Power converted from 292 hp. oto.com lists 2,025 kg (kerb) / 2,553 kg (gross). DC 451 kW peak and 10-80% in about 12 min per oto.com; AC 5-100% about 9.2 h. oto.com's G6 Pro page also attaches the 571 L boot figure to a Toyota Rush in its FAQ, so treat boot as single-source. Voltage architecture, connectors and V2L from the Malaysian spec of the same 80.8 kWh LFP, 292 hp RWD Long Range (CarBase.my, autobuzz.my); Malaysian 7 airbags (with knee) not used because the Indonesian airbag list has no knee airbag.",
+      "notes_id": "Tenaga dikonversi dari 292 hp. oto.com mencantumkan 2.025 kg (kosong) / 2.553 kg (kotor). Puncak DC 451 kW dan 10-80% sekitar 12 menit menurut oto.com; AC 5-100% sekitar 9,2 jam. Halaman G6 Pro di oto.com juga mengaitkan angka bagasi 571 L dengan Toyota Rush di FAQ-nya, sehingga angka bagasi dianggap bersumber tunggal. Arsitektur tegangan, konektor, dan V2L dari spesifikasi Malaysia untuk Long Range 80,8 kWh LFP, 292 hp RWD yang sama (CarBase.my, autobuzz.my); 7 airbag Malaysia (dengan airbag lutut) tidak dipakai karena daftar airbag Indonesia tidak menyebut airbag lutut."
+    },
+    {
+      "id": "xpeng-g6-2026-pro-awd",
+      "model_year": 2026,
+      "variant": "Pro AWD",
+      "status": "on sale",
+      "data_as_of": "2026-10",
+      "values": {
+        "segment": "SUV",
+        "battery_gross_kwh": 80.8,
+        "battery_chemistry": "LFP",
+        "length_mm": 4758,
+        "width_mm": 1920,
+        "height_mm": 1650,
+        "wheelbase_mm": 2890,
+        "seats": 5,
+        "airbag_positions": "front, front side, curtain",
+        "tyre_size": "255/45 R20",
+        "dc_max_kw": 451,
+        "price_otr_idr": 769000000,
+        "voltage_architecture": "800 V",
+        "inverter_tech": "SiC",
+        "range_km": 510,
+        "range_standard": "WLTP",
+        "motor_count": 2,
+        "drive": "AWD",
+        "torque_nm": 660,
+        "v2l": true,
+        "accel_0_100_s": 4.13,
+        "power_kw": 358,
+        "top_speed_kmh": 202,
+        "ac_max_kw": 11,
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "dc_10_80_min": 12,
+        "v2l_kw": 3.3,
+        "kerb_weight_kg": 2220,
+        "boot_l": 571,
+        "adas": "ACC, LCC, AEB, BSD, LKA, park assist"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.oto.com/en/mobil-baru/xpeng/g6-pro/long-range",
+            "title": "XPENG G6 Pro Long Range (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://www.oto.com/mobil-baru/xpeng/g6-pro",
+            "title": "XPENG G6 Pro (oto.com)",
+            "date": "2026-10",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "inverter_tech": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8551248/harga-xpeng-g6-awd-dan-x9-facelift-diumumkan-mulai-rp-760-jutaan",
+            "title": "Harga Xpeng G6 AWD dan X9 Facelift Diumumkan, Mulai Rp 760 Jutaan",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8551248/harga-xpeng-g6-awd-dan-x9-facelift-diumumkan-mulai-rp-760-jutaan",
+            "title": "Harga Xpeng G6 AWD dan X9 Facelift Diumumkan, Mulai Rp 760 Jutaan",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "v2l": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://moladin.com/news/xpeng-g6-awd-resmi-diluncurkan/",
+            "title": "XPENG G6 AWD Resmi Diluncurkan",
+            "date": "2026-06",
+            "type": "media"
+          },
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8551248/harga-xpeng-g6-awd-dan-x9-facelift-diumumkan-mulai-rp-760-jutaan",
+            "title": "Harga Xpeng G6 AWD dan X9 Facelift Diumumkan, Mulai Rp 760 Jutaan",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8551248/harga-xpeng-g6-awd-dan-x9-facelift-diumumkan-mulai-rp-760-jutaan",
+            "title": "Harga Xpeng G6 AWD dan X9 Facelift Diumumkan, Mulai Rp 760 Jutaan",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://oto.detik.com/mobil-listrik/d-8551248/harga-xpeng-g6-awd-dan-x9-facelift-diumumkan-mulai-rp-760-jutaan",
+            "title": "Harga Xpeng G6 AWD dan X9 Facelift Diumumkan, Mulai Rp 760 Jutaan",
+            "date": "2026-06",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/awd-performance-2025",
+            "title": "Xpeng G6 (2025) AWD Performance - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://autobuzz.my/2025/10/01/2025-xpeng-g6-facelift-launched-in-malaysia-rwd-and-awd-variants-up-to-480-hp-from-rm180k/",
+            "title": "2025 XPeng G6 facelift launched in Malaysia - RWD and AWD variants, up to 487 hp, from RM180k",
+            "date": "2025-10",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/awd-performance-2025",
+            "title": "Xpeng G6 (2025) AWD Performance - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/awd-performance-2025",
+            "title": "Xpeng G6 (2025) AWD Performance - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://autobuzz.my/2025/10/01/2025-xpeng-g6-facelift-launched-in-malaysia-rwd-and-awd-variants-up-to-480-hp-from-rm180k/",
+            "title": "2025 XPeng G6 facelift launched in Malaysia - RWD and AWD variants, up to 487 hp, from RM180k",
+            "date": "2025-10",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "v2l_kw": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/awd-performance-2025",
+            "title": "Xpeng G6 (2025) AWD Performance - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/awd-performance-2025",
+            "title": "Xpeng G6 (2025) AWD Performance - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/awd-performance-2025",
+            "title": "Xpeng G6 (2025) AWD Performance - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://autobuzz.my/2025/10/01/2025-xpeng-g6-facelift-launched-in-malaysia-rwd-and-awd-variants-up-to-480-hp-from-rm180k/",
+            "title": "2025 XPeng G6 facelift launched in Malaysia - RWD and AWD variants, up to 487 hp, from RM180k",
+            "date": "2025-10",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.carbase.my/xpeng/g6/f30-fl/awd-performance-2025",
+            "title": "Xpeng G6 (2025) AWD Performance - specs Malaysia (CarBase.my)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Launched 28 June 2026 (XPENG Vision Night). Rp769 jt OTR Jakarta (Moladin, oto.com); detik headline says Rp760 jt. 358 kW = 218 kW rear + 140 kW front; 660 Nm = 440 + 220. Range 510 km WLTP / 600 km NEDC (Moladin); oto.com shows 525 km WLTP for the model generally. Optional Black Edition. AC power, connectors, 10–80% time (given for the model), V2L output, kerb weight (listed as weight), boot and ADAS from the Malaysian spec of the same 80.8 kWh LFP AWD Performance, 660 Nm, 4.13 s (CarBase.my, autobuzz.my).",
+      "notes_id": "Diluncurkan 28 Juni 2026 (XPENG Vision Night). Rp769 jt OTR Jakarta (Moladin, oto.com); judul berita detik menyebut Rp760 jt. 358 kW = 218 kW belakang + 140 kW depan; 660 Nm = 440 + 220. Jarak tempuh 510 km WLTP / 600 km NEDC (Moladin); oto.com menampilkan 525 km WLTP untuk model ini secara umum. Tersedia opsi Black Edition. Daya AC, konektor, waktu 10–80% (disebut untuk model secara umum), output V2L, berat kosong (tertulis sebagai berat), bagasi, dan ADAS dari spesifikasi Malaysia untuk AWD Performance 80,8 kWh LFP, 660 Nm, 4,13 detik yang sama (CarBase.my, autobuzz.my)."
+    }
+  ]
+}

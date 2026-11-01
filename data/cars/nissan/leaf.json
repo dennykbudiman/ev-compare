@@ -1,0 +1,1524 @@
+{
+  "make": "Nissan",
+  "model": "Leaf",
+  "trims": [
+    {
+      "id": "nissan-leaf-2026-one-tone",
+      "model_year": 2026,
+      "variant": "One Tone",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 744000000,
+        "battery_gross_kwh": 40,
+        "range_km": 311,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 110,
+        "torque_nm": 320,
+        "length_mm": 4480,
+        "width_mm": 1790,
+        "height_mm": 1540,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 150,
+        "boot_l": 435,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "FCW, AEB, LDW, LDP, SVM with moving object detection, DAA",
+        "accel_0_100_s": 7.9,
+        "top_speed_kmh": 144,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 5 years or 70,000 km",
+        "pack_nominal_voltage_v": 350,
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 50,
+        "ac_connector": "Type 2",
+        "dc_connector": "CHAdeMO",
+        "kerb_weight_kg": 1544
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/harga-tipe",
+            "title": "Harga Nissan Leaf - Moladin",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/nissan/leaf",
+            "title": "Nissan Leaf 2026 Harga OTR, Spesifikasi - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/nissan/leaf",
+            "title": "Nissan Leaf 2026 Harga OTR, Spesifikasi - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/nissan/leaf",
+            "title": "Nissan Leaf 2026 Harga OTR, Spesifikasi - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://otomotif.antaranews.com/berita/2334534/spesifikasi-all-new-nissan-leaf-indonesia",
+            "title": "Spesifikasi All New Nissan Leaf Indonesia (Antara)",
+            "date": "2021-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "This is the second-generation 40 kWh Leaf (Indonesian launch Aug 2021 at Rp649/651 jt One/Two Tone, Rp738 jt in Jan 2023). The Rp744/746 jt prices in the October 2026 list match this car on Moladin (Feb 2026, '744-746 jt', not split by variant); no source found that the new third-generation Leaf has been launched in Indonesia, and a dealer listing says stock is sold out awaiting a new model. Power 150 PS (= 110 kW). Warranty and free service are the 2021 launch terms. Charging per Detik 2023: 50 kW DC 40-60 min, 7 kW home AC 5-7 h (window not stated). Same specs 2024-2026. CBU origin not stated in sources read. Pack voltage, ~400 V, AC 6.6 kW, DC 50 kW, DC connector (CHAdeMO) and weight from the Malaysian 40 kWh spec (paultan.org). Nov 2026 check: the Indonesian Leaf uses a Type 2 AC socket (Antara, Aug 2021), unlike the Type 1 Malaysian car. Oto.com (Oct 2026) still lists this 40 kWh, 311 km Leaf at Rp744/746 jt; no Indonesian launch of the third-generation Leaf was found.",
+      "notes_id": "Ini adalah Leaf generasi kedua 40 kWh (diluncurkan di Indonesia Agustus 2021 seharga Rp649/651 jt One/Two Tone, Rp738 jt pada Januari 2023). Harga Rp744/746 jt di daftar Oktober 2026 cocok dengan mobil ini di Moladin (Februari 2026, '744-746 jt', tidak dipisah per varian); tidak ditemukan sumber bahwa Leaf generasi ketiga sudah diluncurkan di Indonesia, dan satu iklan diler menyebut stok sudah habis sambil menunggu model baru. Tenaga 150 PS (= 110 kW). Garansi dan servis gratis mengacu ketentuan saat peluncuran 2021. Pengisian menurut Detik 2023: DC 50 kW 40-60 menit, AC rumah 7 kW 5-7 jam (rentang tidak disebutkan). Spesifikasi sama 2024-2026. Asal CBU tidak disebutkan sumber yang dibaca. Tegangan paket, ~400 V, AC 6,6 kW, DC 50 kW, konektor (CHAdeMO), dan berat dari spesifikasi Malaysia 40 kWh (paultan.org). Pemeriksaan Nov 2026: Leaf Indonesia memakai soket AC Type 2 (Antara, Agustus 2021), berbeda dengan versi Malaysia yang Type 1. Oto.com (Okt 2026) masih mencantumkan Leaf 40 kWh, 311 km ini seharga Rp744/746 jt; belum ditemukan peluncuran Leaf generasi ketiga di Indonesia."
+    },
+    {
+      "id": "nissan-leaf-2026-two-tone",
+      "model_year": 2026,
+      "variant": "Two Tone",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 746000000,
+        "battery_gross_kwh": 40,
+        "range_km": 311,
+        "range_standard": "NEDC",
+        "motor_count": 1,
+        "drive": "FWD",
+        "power_kw": 110,
+        "torque_nm": 320,
+        "length_mm": 4480,
+        "width_mm": 1790,
+        "height_mm": 1540,
+        "wheelbase_mm": 2700,
+        "ground_clearance_mm": 150,
+        "boot_l": 435,
+        "seats": 5,
+        "airbags": 6,
+        "adas": "FCW, AEB, LDW, LDP, SVM with moving object detection, DAA",
+        "accel_0_100_s": 7.9,
+        "top_speed_kmh": 144,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 5 years or 70,000 km",
+        "pack_nominal_voltage_v": 350,
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 50,
+        "ac_connector": "Type 2",
+        "dc_connector": "CHAdeMO",
+        "kerb_weight_kg": 1544
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/harga-tipe",
+            "title": "Harga Nissan Leaf - Moladin",
+            "date": "2026-02",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/nissan/leaf",
+            "title": "Nissan Leaf 2026 Harga OTR, Spesifikasi - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/nissan/leaf",
+            "title": "Nissan Leaf 2026 Harga OTR, Spesifikasi - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.oto.com/en/mobil-baru/nissan/leaf",
+            "title": "Nissan Leaf 2026 Harga OTR, Spesifikasi - Oto",
+            "date": "2026-10",
+            "type": "media"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ground_clearance_mm": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/nissan/nissan-leaf/spesifikasi",
+            "title": "Spesifikasi Nissan Leaf - Moladin",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          },
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://otomotif.antaranews.com/berita/2334534/spesifikasi-all-new-nissan-leaf-indonesia",
+            "title": "Spesifikasi All New Nissan Leaf Indonesia (Antara)",
+            "date": "2021-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "This is the second-generation 40 kWh Leaf (Indonesian launch Aug 2021 at Rp649/651 jt One/Two Tone, Rp738 jt in Jan 2023). The Rp744/746 jt prices in the October 2026 list match this car on Moladin (Feb 2026, '744-746 jt', not split by variant); no source found that the new third-generation Leaf has been launched in Indonesia, and a dealer listing says stock is sold out awaiting a new model. Power 150 PS (= 110 kW). Warranty and free service are the 2021 launch terms. Charging per Detik 2023: 50 kW DC 40-60 min, 7 kW home AC 5-7 h (window not stated). Same specs 2024-2026. CBU origin not stated in sources read. Pack voltage, ~400 V, AC 6.6 kW, DC 50 kW, DC connector (CHAdeMO) and weight from the Malaysian 40 kWh spec (paultan.org). Nov 2026 check: the Indonesian Leaf uses a Type 2 AC socket (Antara, Aug 2021), unlike the Type 1 Malaysian car. Oto.com (Oct 2026) still lists this 40 kWh, 311 km Leaf at Rp744/746 jt; no Indonesian launch of the third-generation Leaf was found.",
+      "notes_id": "Ini adalah Leaf generasi kedua 40 kWh (diluncurkan di Indonesia Agustus 2021 seharga Rp649/651 jt One/Two Tone, Rp738 jt pada Januari 2023). Harga Rp744/746 jt di daftar Oktober 2026 cocok dengan mobil ini di Moladin (Februari 2026, '744-746 jt', tidak dipisah per varian); tidak ditemukan sumber bahwa Leaf generasi ketiga sudah diluncurkan di Indonesia, dan satu iklan diler menyebut stok sudah habis sambil menunggu model baru. Tenaga 150 PS (= 110 kW). Garansi dan servis gratis mengacu ketentuan saat peluncuran 2021. Pengisian menurut Detik 2023: DC 50 kW 40-60 menit, AC rumah 7 kW 5-7 jam (rentang tidak disebutkan). Spesifikasi sama 2024-2026. Asal CBU tidak disebutkan sumber yang dibaca. Tegangan paket, ~400 V, AC 6,6 kW, DC 50 kW, konektor (CHAdeMO), dan berat dari spesifikasi Malaysia 40 kWh (paultan.org). Pemeriksaan Nov 2026: Leaf Indonesia memakai soket AC Type 2 (Antara, Agustus 2021), berbeda dengan versi Malaysia yang Type 1. Oto.com (Okt 2026) masih mencantumkan Leaf 40 kWh, 311 km ini seharga Rp744/746 jt; belum ditemukan peluncuran Leaf generasi ketiga di Indonesia."
+    },
+    {
+      "id": "nissan-leaf-2021-one-tone",
+      "model_year": 2021,
+      "variant": "One Tone",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 649000000,
+        "battery_gross_kwh": 40,
+        "range_km": 311,
+        "range_standard": "NEDC",
+        "power_kw": 110,
+        "torque_nm": 320,
+        "accel_0_100_s": 7.9,
+        "top_speed_kmh": 144,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 5 years or 70,000 km",
+        "airbag_positions": "front, side, curtain",
+        "adas": "FCW, AEB (FEB), I-AVM with MOD, DAA",
+        "crash_rating": "5 stars (Euro NCAP, JNCAP, ANCAP)",
+        "pack_nominal_voltage_v": 350,
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 50,
+        "ac_connector": "Type 2",
+        "dc_connector": "CHAdeMO",
+        "kerb_weight_kg": 1544,
+        "drive": "FWD",
+        "airbags": 6,
+        "length_mm": 4480,
+        "width_mm": 1790,
+        "height_mm": 1540,
+        "boot_l": 435,
+        "seats": 5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://otomotif.antaranews.com/berita/2334534/spesifikasi-all-new-nissan-leaf-indonesia",
+            "title": "Spesifikasi All New Nissan Leaf Indonesia (Antara)",
+            "date": "2021-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Second-generation 40 kWh Leaf, launched 18 Aug 2021; price OTR DKI Jakarta (Two Tone Rp2 jt more). Power 150 PS (= 110 kW). Charging: 5-7 h on the home wall charger, 12-15 h on the portable charger; DC rating not given in the release. Crash rating is the global 5-star result (no ASEAN NCAP test cited). Airbag count not stated (dual front, side and curtain). No price change found for 2022; same specs 2021-2022, updated for 2023. Drive, pack voltage, ~400 V, AC 6.6 kW, DC 50 kW, DC connector (CHAdeMO), 6 airbags, length/width/height, weight, boot and seats from the Malaysian 40 kWh spec (paultan.org). Nov 2026 check: the Indonesian Leaf uses a Type 2 AC socket (Antara, Aug 2021), unlike the Type 1 Malaysian car. Oto.com (Oct 2026) still lists this 40 kWh, 311 km Leaf at Rp744/746 jt; no Indonesian launch of the third-generation Leaf was found.",
+      "notes_id": "Leaf generasi kedua 40 kWh, diluncurkan 18 Agustus 2021; harga OTR DKI Jakarta (Two Tone Rp2 jt lebih mahal). Tenaga 150 PS (= 110 kW). Pengisian: 5-7 jam dengan wall charger rumah, 12-15 jam dengan charger portabel; daya DC tidak disebutkan dalam rilis. Peringkat tabrak adalah hasil global bintang 5 (tidak ada uji ASEAN NCAP yang dikutip). Jumlah airbag tidak disebutkan (ganda depan, samping dan tirai). Tidak ditemukan perubahan harga untuk 2022; spesifikasi sama 2021-2022, diperbarui untuk 2023. Penggerak, tegangan paket, ~400 V, AC 6,6 kW, DC 50 kW, konektor (CHAdeMO), 6 airbag, panjang/lebar/tinggi, berat, bagasi, dan jumlah kursi dari spesifikasi Malaysia 40 kWh (paultan.org). Pemeriksaan Nov 2026: Leaf Indonesia memakai soket AC Type 2 (Antara, Agustus 2021), berbeda dengan versi Malaysia yang Type 1. Oto.com (Okt 2026) masih mencantumkan Leaf 40 kWh, 311 km ini seharga Rp744/746 jt; belum ditemukan peluncuran Leaf generasi ketiga di Indonesia."
+    },
+    {
+      "id": "nissan-leaf-2021-two-tone",
+      "model_year": 2021,
+      "variant": "Two Tone",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 651000000,
+        "battery_gross_kwh": 40,
+        "range_km": 311,
+        "range_standard": "NEDC",
+        "power_kw": 110,
+        "torque_nm": 320,
+        "accel_0_100_s": 7.9,
+        "top_speed_kmh": 144,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 160,000 km",
+        "free_service": "Free periodic service for 5 years or 70,000 km",
+        "airbag_positions": "front, side, curtain",
+        "adas": "FCW, AEB (FEB), I-AVM with MOD, DAA",
+        "crash_rating": "5 stars (Euro NCAP, JNCAP, ANCAP)",
+        "pack_nominal_voltage_v": 350,
+        "voltage_architecture": "~400 V",
+        "ac_max_kw": 6.6,
+        "dc_max_kw": 50,
+        "ac_connector": "Type 2",
+        "dc_connector": "CHAdeMO",
+        "kerb_weight_kg": 1544,
+        "drive": "FWD",
+        "airbags": 6,
+        "length_mm": 4480,
+        "width_mm": 1790,
+        "height_mm": 1540,
+        "boot_l": 435,
+        "seats": 5
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "airbag_positions": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "crash_rating": [
+          {
+            "url": "https://asean.nissannews.com/en/releases/the-all-new-nissan-leaf-officially-launches-in-indonesia",
+            "title": "The All-New Nissan LEAF Officially Launches in Indonesia - Nissan ASEAN newsroom",
+            "date": "2021-08",
+            "type": "official"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://otomotif.antaranews.com/berita/2334534/spesifikasi-all-new-nissan-leaf-indonesia",
+            "title": "Spesifikasi All New Nissan Leaf Indonesia (Antara)",
+            "date": "2021-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "Second-generation 40 kWh Leaf, launched 18 Aug 2021; price OTR DKI Jakarta (Two Tone Rp2 jt more). Power 150 PS (= 110 kW). Charging: 5-7 h on the home wall charger, 12-15 h on the portable charger; DC rating not given in the release. Crash rating is the global 5-star result (no ASEAN NCAP test cited). Airbag count not stated (dual front, side and curtain). No price change found for 2022; same specs 2021-2022, updated for 2023. Drive, pack voltage, ~400 V, AC 6.6 kW, DC 50 kW, DC connector (CHAdeMO), 6 airbags, length/width/height, weight, boot and seats from the Malaysian 40 kWh spec (paultan.org). Nov 2026 check: the Indonesian Leaf uses a Type 2 AC socket (Antara, Aug 2021), unlike the Type 1 Malaysian car. Oto.com (Oct 2026) still lists this 40 kWh, 311 km Leaf at Rp744/746 jt; no Indonesian launch of the third-generation Leaf was found.",
+      "notes_id": "Leaf generasi kedua 40 kWh, diluncurkan 18 Agustus 2021; harga OTR DKI Jakarta (Two Tone Rp2 jt lebih mahal). Tenaga 150 PS (= 110 kW). Pengisian: 5-7 jam dengan wall charger rumah, 12-15 jam dengan charger portabel; daya DC tidak disebutkan dalam rilis. Peringkat tabrak adalah hasil global bintang 5 (tidak ada uji ASEAN NCAP yang dikutip). Jumlah airbag tidak disebutkan (ganda depan, samping dan tirai). Tidak ditemukan perubahan harga untuk 2022; spesifikasi sama 2021-2022, diperbarui untuk 2023. Penggerak, tegangan paket, ~400 V, AC 6,6 kW, DC 50 kW, konektor (CHAdeMO), 6 airbag, panjang/lebar/tinggi, berat, bagasi, dan jumlah kursi dari spesifikasi Malaysia 40 kWh (paultan.org). Pemeriksaan Nov 2026: Leaf Indonesia memakai soket AC Type 2 (Antara, Agustus 2021), berbeda dengan versi Malaysia yang Type 1. Oto.com (Okt 2026) masih mencantumkan Leaf 40 kWh, 311 km ini seharga Rp744/746 jt; belum ditemukan peluncuran Leaf generasi ketiga di Indonesia."
+    },
+    {
+      "id": "nissan-leaf-2023-one-tone-two-tone",
+      "model_year": 2023,
+      "variant": "One Tone / Two Tone",
+      "status": "discontinued",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Hatchback",
+        "price_otr_idr": 738000000,
+        "range_km": 311,
+        "range_standard": "NEDC",
+        "torque_nm": 320,
+        "ac_max_kw": 7,
+        "dc_max_kw": 50,
+        "adas": "FCW, AEB, I-AVM with MOD, LDW, LDP",
+        "pack_nominal_voltage_v": 350,
+        "voltage_architecture": "~400 V",
+        "ac_connector": "Type 2",
+        "dc_connector": "CHAdeMO",
+        "kerb_weight_kg": 1544,
+        "battery_gross_kwh": 40,
+        "power_kw": 110,
+        "drive": "FWD",
+        "airbags": 6,
+        "length_mm": 4480,
+        "width_mm": 1790,
+        "height_mm": 1540,
+        "boot_l": 435,
+        "seats": 5,
+        "accel_0_100_s": 7.9
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "price_otr_idr": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "range_standard": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "adas": [
+          {
+            "url": "https://oto.detik.com/mobil/d-6531446/dijual-rp-738-juta-ini-yang-baru-di-nissan-leaf-2023",
+            "title": "Dijual Rp 738 Juta, Ini yang Baru di Nissan Leaf 2023",
+            "date": "2023-01",
+            "type": "press"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://otomotif.antaranews.com/berita/2334534/spesifikasi-all-new-nissan-leaf-indonesia",
+            "title": "Spesifikasi All New Nissan Leaf Indonesia (Antara)",
+            "date": "2021-08",
+            "type": "press"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "boot_l": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "seats": [
+          {
+            "url": "https://paultan.org/research/nissan/leaf/ze1/ev-2022/",
+            "title": "Nissan Leaf EV - paultan.org Car Buyer's Guide",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "accel_0_100_s": [
+          {
+            "url": "https://paultan.org/2019/07/23/2019-nissan-leaf-launched-in-malaysia",
+            "title": "2019 Nissan Leaf launched in Malaysia - from RM189k - paultan.org",
+            "date": "2019-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ]
+      },
+      "notes": "2023 update (Jan 2023): new 17-inch wheels, illuminated badge, intelligent rear-view mirror, added lane departure warning and prevention. Rp738 jt OTR Jabotabek, one price given (not split by colour). Charging: 7 kW home AC 5-7 h, 3.3 kW portable 12-15 h, 50 kW DC 40-60 min (window not stated). Battery and power not restated in the source. Continued with the same specs into 2024-2026 at Rp744/746 jt. Battery 40 kWh, power 110 kW, drive, pack voltage, ~400 V, DC connector (CHAdeMO), 6 airbags, length/width/height, weight, boot, seats and 0-100 km/h from the Malaysian 40 kWh spec (paultan.org; same 311 km NEDC / 320 Nm car). Nov 2026 check: the Indonesian Leaf uses a Type 2 AC socket (Antara, Aug 2021), unlike the Type 1 Malaysian car. Oto.com (Oct 2026) still lists this 40 kWh, 311 km Leaf at Rp744/746 jt; no Indonesian launch of the third-generation Leaf was found.",
+      "notes_id": "Pembaruan 2023 (Januari 2023): pelek 17 inci baru, emblem menyala, intelligent rear-view mirror, tambahan lane departure warning dan prevention. Rp738 jt OTR Jabotabek, satu harga (tidak dipisah per warna). Pengisian: AC rumah 7 kW 5-7 jam, portabel 3,3 kW 12-15 jam, DC 50 kW 40-60 menit (rentang tidak disebutkan). Baterai dan tenaga tidak disebutkan ulang di sumber. Berlanjut dengan spesifikasi sama ke 2024-2026 seharga Rp744/746 jt. Baterai 40 kWh, tenaga 110 kW, penggerak, tegangan paket, ~400 V, konektor (CHAdeMO), 6 airbag, panjang/lebar/tinggi, berat, bagasi, jumlah kursi, dan 0-100 km/jam dari spesifikasi Malaysia 40 kWh (paultan.org; mobil yang sama, 311 km NEDC / 320 Nm). Pemeriksaan Nov 2026: Leaf Indonesia memakai soket AC Type 2 (Antara, Agustus 2021), berbeda dengan versi Malaysia yang Type 1. Oto.com (Okt 2026) masih mencantumkan Leaf 40 kWh, 311 km ini seharga Rp744/746 jt; belum ditemukan peluncuran Leaf generasi ketiga di Indonesia."
+    }
+  ]
+}

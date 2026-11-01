@@ -1,0 +1,265 @@
+{
+  "make": "Foton",
+  "model": "eTruckMate",
+  "trims": [
+    {
+      "id": "foton-etruckmate-2026-mini-truck",
+      "model_year": 2026,
+      "variant": "Mini truck (drop-side deck)",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Small cargo",
+        "assembly": "CKD Indonesia",
+        "gvw_kg": 2540,
+        "payload_kg": 1020,
+        "battery_gross_kwh": 38.64,
+        "battery_chemistry": "LFP",
+        "cell_supplier": "CATL",
+        "range_km": 230,
+        "motor_type": "PMSM",
+        "power_kw": 60,
+        "torque_nm": 220,
+        "dc_10_80_min": 60,
+        "dc_time_window": "0–100%",
+        "ac_full_hours": 6,
+        "length_mm": 4670,
+        "width_mm": 1590,
+        "height_mm": 1860,
+        "cargo_length_mm": 3050,
+        "cargo_width_mm": 1560,
+        "body_type": "Rigid truck",
+        "price_quote_idr": 385000000,
+        "price_quote_basis": "basis not stated"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://oto.detik.com/berita/d-7234795/foton-luncurkan-3-mobil-niaga-bertenaga-listrik",
+            "title": "Foton Luncurkan 3 Mobil Niaga Bertenaga Listrik (detikOto)",
+            "date": "2024-03",
+            "type": "press"
+          },
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "assembly": [
+          {
+            "url": "https://www.idntimes.com/automotive/car/mobil-listrik-komersial-foton-emiler-meluncur-jarak-tempuh-175-km-00-7cdnt-dfzwjn",
+            "title": "Mobil Listrik Komersial Foton eMiler Meluncur, Jarak Tempuh 175 km (IDN Times)",
+            "date": "2025-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148945/foton-pacu-elektrifikasi-kendaraan-komersial-perkuat-perakitan-lokal-dan-ekspansi-pasar-ri",
+            "title": "Foton Pacu Elektrifikasi Kendaraan Komersial, Perkuat Perakitan Lokal dan Ekspansi Pasar RI (Industry.co.id)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://goodcar.id/artikel-mobil/foton-kendaraan-komersial-listrik-indonesia-tampil-di-giicomvec-2026-bawa-ekosistem-easy-move",
+            "title": "Foton Kendaraan Komersial Listrik Indonesia Tampil di GIICOMVEC 2026, Bawa Ekosistem Easy Move (Goodcar)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://oto.detik.com/berita/d-7234795/foton-luncurkan-3-mobil-niaga-bertenaga-listrik",
+            "title": "Foton Luncurkan 3 Mobil Niaga Bertenaga Listrik (detikOto)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/transjakarta-uji-mobil-listrik-foton-etruckmate",
+            "title": "Transjakarta Uji Mobil Listrik Foton eTruckMate (KabarBursa)",
+            "date": "2025-05",
+            "type": "media"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148879/giicomvec-2026-hadirkan-deretan-truk-canggih-dari-brand-global",
+            "title": "GIICOMVEC 2026 Hadirkan Deretan Truk Canggih dari Brand Global (Industry.co.id)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          },
+          {
+            "url": "https://www.industry.co.id/read/148879/giicomvec-2026-hadirkan-deretan-truk-canggih-dari-brand-global",
+            "title": "GIICOMVEC 2026 Hadirkan Deretan Truk Canggih dari Brand Global (Industry.co.id)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://www.industry.co.id/read/148879/giicomvec-2026-hadirkan-deretan-truk-canggih-dari-brand-global",
+            "title": "GIICOMVEC 2026 Hadirkan Deretan Truk Canggih dari Brand Global (Industry.co.id)",
+            "date": "2026-04",
+            "type": "media"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/transjakarta-uji-mobil-listrik-foton-etruckmate",
+            "title": "Transjakarta Uji Mobil Listrik Foton eTruckMate (KabarBursa)",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          },
+          {
+            "url": "https://www.kabarbursa.com/otomotif/transjakarta-uji-mobil-listrik-foton-etruckmate",
+            "title": "Transjakarta Uji Mobil Listrik Foton eTruckMate (KabarBursa)",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/transjakarta-uji-mobil-listrik-foton-etruckmate",
+            "title": "Transjakarta Uji Mobil Listrik Foton eTruckMate (KabarBursa)",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/transjakarta-uji-mobil-listrik-foton-etruckmate",
+            "title": "Transjakarta Uji Mobil Listrik Foton eTruckMate (KabarBursa)",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.kabarbursa.com/otomotif/transjakarta-uji-mobil-listrik-foton-etruckmate",
+            "title": "Transjakarta Uji Mobil Listrik Foton eTruckMate (KabarBursa)",
+            "date": "2025-05",
+            "type": "media"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "cargo_length_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "cargo_width_mm": [
+          {
+            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
+            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://oto.detik.com/berita/d-7234795/foton-luncurkan-3-mobil-niaga-bertenaga-listrik",
+            "title": "Foton Luncurkan 3 Mobil Niaga Bertenaga Listrik (detikOto)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://www.foton-indomobil.com/",
+            "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://www.foton-indomobil.com/",
+            "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ]
+      },
+      "notes": "Cab-over electric mini truck with a drop-side deck (detikOto: 'mini truck'; also called a light pickup and, in 2026, 'e-Mate'). Classed Small cargo: total vehicle weight 2,540 kg (detikOto, 'berat total kendaraan'), under 3.5 t. Same specs 2024–2026 except as noted. Sale evidence: launched at GIICOMVEC 2024 at Rp 371.85 million off the road; same price quoted in Nov 2024 and May 2025; the Foton Indomobil Pasar Minggu dealer lists it 'from Rp 385,000,000' (Nov 2026, basis not stated). About 300 Foton EVs were sold in Indonesia to August 2026, over 40% of them eTruckMate (Foton). No OTR price. The dealer's current 'from Rp 385,000,000' is stored as the quoted price (basis not stated); the launch price of Rp 371.85 million was off the road. Assembly: imported CBU at the 2024 launch (detikOto); assembled CKD at PT National Assemblers, Pulo Gadung, Jakarta since 2025 (IDN Times April 2025; 36.25% local content). Payload: 1,020 kg (Moladin); detikOto and Industry.co.id say '1 ton', Otomotifnet 'up to 1.3 t'. Power: 60 kW peak (KabarBursa: '30 to 60 kW', i.e. rated/peak). Range: 230 km quoted for the 2026 GIICOMVEC display (Industry.co.id); 2024–2025 reports say 'up to 220 km'; no test cycle stated. Charging: DC 0–100% in 1 hour, AC about 6 hours (KabarBursa); charging powers and connectors not published. Cargo deck 3,050 x 1,560 mm (Moladin; side height listed as 360/1,570 mm, unclear, so left out). A Mikrotrans (JakLingko) passenger version was trialled by Transjakarta in 2025; it is not listed as a separate retail variant.",
+      "notes_id": "Truk mini listrik kabin di atas mesin dengan bak terbuka (detikOto: 'mini truck'; disebut juga pikap ringan dan, pada 2026, 'e-Mate'). Masuk Small cargo: berat total kendaraan 2.540 kg (detikOto), di bawah 3,5 ton. Spesifikasi sama 2024–2026 kecuali yang disebutkan. Bukti penjualan: diluncurkan di GIICOMVEC 2024 dengan harga Rp371,85 juta off the road; harga yang sama dikutip pada November 2024 dan Mei 2025; dealer Foton Indomobil Pasar Minggu mencantumkan 'mulai Rp385.000.000' (November 2026, basis harga tidak disebut). Sekitar 300 unit EV Foton terjual di Indonesia hingga Agustus 2026, lebih dari 40% di antaranya eTruckMate (Foton). Tidak ada harga OTR. Harga dealer terkini 'mulai Rp385.000.000' disimpan sebagai harga kutipan (dasar harga tidak disebut); harga peluncuran Rp371,85 juta adalah off the road. Perakitan: diimpor utuh (CBU) saat peluncuran 2024 (detikOto); dirakit CKD di PT National Assemblers, Pulo Gadung, Jakarta sejak 2025 (IDN Times April 2025; TKDN 36,25%). Daya angkut: 1.020 kg (Moladin); detikOto dan Industry.co.id menyebut '1 ton', Otomotifnet 'hingga 1,3 ton'. Tenaga: puncak 60 kW (KabarBursa: '30 hingga 60 kW', yaitu nominal/puncak). Jarak tempuh: 230 km untuk unit pameran GIICOMVEC 2026 (Industry.co.id); laporan 2024–2025 menyebut 'hingga 220 km'; metode uji tidak disebut. Pengisian: DC 0–100% dalam 1 jam, AC sekitar 6 jam (KabarBursa); daya pengisian dan jenis soket tidak dipublikasikan. Ukuran bak 3.050 x 1.560 mm (Moladin; tinggi sisi tertulis 360/1.570 mm, tidak jelas, jadi dikosongkan). Versi penumpang Mikrotrans (JakLingko) diuji coba Transjakarta pada 2025; versi ini tidak tercantum sebagai varian ritel tersendiri."
+    }
+  ]
+}

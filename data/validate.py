@@ -17,7 +17,7 @@ RANGE = {"price_otr_idr": (5e7, 1e10), "battery_gross_kwh": (5, 250), "battery_u
          "length_mm": (2400, 6000), "width_mm": (1300, 2300), "height_mm": (1200, 2200), "wheelbase_mm": (1600, 3600), "kerb_weight_kg": (500, 4000),
          "accel_0_100_s": (2, 25), "top_speed_kmh": (60, 350), "boot_l": (0, 3000), "turning_radius_m": (3, 8)}
 STYPES = {"official", "press", "media"}
-MARKETS = {"Malaysia","Thailand","Philippines","Singapore","Vietnam","Australia","Japan","Korea","China","India","Europe","UK","United States","Global"}
+MARKETS = {"Malaysia","Thailand","Philippines","Singapore","Vietnam","Australia","New Zealand","Japan","Korea","China","India","Middle East","Europe","UK","United States","Latin America","Africa","Global"}
 TRUCK_BODY = {"Pickup","Van","Minibus","Rigid truck","Tractor head","Mining truck"}
 QUOTE_BASIS = {"off the road","chassis only","basis not stated"}
 TRUCK_SEGS = {"Pickup","Small cargo","Light","Medium","Heavy"}

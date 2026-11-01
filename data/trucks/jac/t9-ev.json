@@ -42,7 +42,11 @@
         "assembly": "CKD Indonesia",
         "battery_warranty": "8 yrs",
         "vehicle_warranty": "1 yr",
-        "body_type": "Pickup"
+        "body_type": "Pickup",
+        "ac_connector": "Type 2",
+        "dc_connector": "CCS2",
+        "voltage_architecture": "~400 V",
+        "transmission": "Single-speed reduction gear"
       },
       "sources": {
         "segment": [
@@ -462,10 +466,46 @@
             "date": "2026-04",
             "type": "press"
           }
+        ],
+        "ac_connector": [
+          {
+            "url": "https://www.carlist.my/news/2025-jac-t9-ev-grand-bev-pickup-truck-launched-in-malaysia-rm199k-for-an-electrified-utility-option-141928/141928/",
+            "title": "2025 JAC T9 EV Grand BEV pickup truck launched in Malaysia (Carlist.my)",
+            "date": "2025-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://www.carlist.my/news/2025-jac-t9-ev-grand-bev-pickup-truck-launched-in-malaysia-rm199k-for-an-electrified-utility-option-141928/141928/",
+            "title": "2025 JAC T9 EV Grand BEV pickup truck launched in Malaysia (Carlist.my)",
+            "date": "2025-03",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://paultan.org/research/jac/t9-ev/mk1/luxury-2026/",
+            "title": "JAC T9 EV Luxury 2026 (paultan.org Car Buyer's Guide)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "transmission": [
+          {
+            "url": "https://paultan.org/research/jac/t9-ev/mk1/luxury-2026/",
+            "title": "JAC T9 EV Luxury 2026 (paultan.org Car Buyer's Guide)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Malaysia"
+          }
         ]
       },
-      "notes": "Single variant (double cab 4x4, 88 kWh); same specs 2025–2026, on sale since the August 2025 launch. Price: Rp 888 juta OTR Jakarta is the normal price quoted at Mining Indonesia, September 2026 (Rp 868 juta was a show pre-booking price). Earlier quotes were Rp 780 juta OTR Jakarta at launch (August 2025) and Rp 770 juta OTR on OTO/Moladin listings. Power: 294 hp (Katadata) converted at x0.7457 = 219 kW; iNews gives motor peaks of 70 kW front + 150 kW rear. The 201 hp on OTO/Moladin matches the rear motor alone and was not used. Torque: Indonesian sources quote 340 Nm, which is the rear motor only (iNews: front 176 Nm peak, rear 340 Nm peak), so the combined 516 Nm from the Malaysian spec (paultan.org, Autobuzz) is used instead. Range 340 km is quoted at a constant 60 km/h (no test cycle named); Katadata's 449 km and GIICOMVEC's 344.5 km were not used. DC: 100 kW, 20–80% in 40 min (launch releases); Moladin lists 30–80% in 35–40 min. AC charging is left out because sources disagree (Moladin 9.8 kW, Malaysian spec 11 kW). GVW 3,260 kg and payload 910 kg from iNews (Moladin lists 3,260 as 'vehicle weight', which matches the GVW, so kerb weight is left out). Towing 2,000 kg as quoted; braked/unbraked not stated. Warranty: JAC Indonesia states 8 years battery (as long as capacity stays at or above 80%), 1 year vehicle and 3 years electric motor; no km limits published. Local assembly is claimed for all JAC models (Pulogadung, PT National Assemblers).",
-      "notes_id": "Satu varian (kabin ganda 4x4, 88 kWh); spesifikasi sama 2025–2026, dijual sejak peluncuran Agustus 2025. Harga: Rp888 juta OTR Jakarta adalah harga normal yang disebut di Mining Indonesia, September 2026 (Rp868 juta harga pemesanan khusus pameran). Sebelumnya Rp780 juta OTR Jakarta saat peluncuran (Agustus 2025) dan Rp770 juta OTR di daftar OTO/Moladin. Tenaga: 294 hp (Katadata) dikonversi x0,7457 = 219 kW; iNews menyebut daya puncak motor depan 70 kW + belakang 150 kW. Angka 201 hp di OTO/Moladin hanya sesuai motor belakang sehingga tidak dipakai. Torsi: sumber Indonesia menyebut 340 Nm, yang merupakan motor belakang saja (iNews: depan 176 Nm, belakang 340 Nm), sehingga dipakai torsi gabungan 516 Nm dari spesifikasi Malaysia (paultan.org, Autobuzz). Jarak tempuh 340 km diukur pada kecepatan konstan 60 km/jam (siklus uji tidak disebut); angka 449 km (Katadata) dan 344,5 km (GIICOMVEC) tidak dipakai. DC: 100 kW, 20–80% dalam 40 menit (rilis peluncuran); Moladin menyebut 30–80% dalam 35–40 menit. Daya AC tidak dicantumkan karena sumber berbeda (Moladin 9,8 kW, spesifikasi Malaysia 11 kW). GVW 3.260 kg dan payload 910 kg dari iNews (Moladin mencantumkan 3.260 sebagai 'berat mobil', sama dengan GVW, sehingga berat kosong tidak dicantumkan). Kapasitas towing 2.000 kg sesuai kutipan; tidak disebut dengan atau tanpa rem. Garansi: JAC Indonesia menyebut baterai 8 tahun (selama kapasitas minimal 80%), kendaraan 1 tahun, dan motor listrik 3 tahun; batas km tidak dipublikasikan. Semua model JAC diklaim dirakit lokal (Pulogadung, PT National Assemblers)."
+      "notes": "Single variant (double cab 4x4, 88 kWh); same specs 2025–2026, on sale since the August 2025 launch. Price: Rp 888 juta OTR Jakarta is the normal price quoted at Mining Indonesia, September 2026 (Rp 868 juta was a show pre-booking price). Earlier quotes were Rp 780 juta OTR Jakarta at launch (August 2025) and Rp 770 juta OTR on OTO/Moladin listings. Power: 294 hp (Katadata) converted at x0.7457 = 219 kW; iNews gives motor peaks of 70 kW front + 150 kW rear. The 201 hp on OTO/Moladin matches the rear motor alone and was not used. Torque: Indonesian sources quote 340 Nm, which is the rear motor only (iNews: front 176 Nm peak, rear 340 Nm peak), so the combined 516 Nm from the Malaysian spec (paultan.org, Autobuzz) is used instead. Range 340 km is quoted at a constant 60 km/h (no test cycle named); Katadata's 449 km and GIICOMVEC's 344.5 km were not used. DC: 100 kW, 20–80% in 40 min (launch releases); Moladin lists 30–80% in 35–40 min. AC charging is left out because sources disagree (Moladin 9.8 kW, Malaysian spec 11 kW). GVW 3,260 kg and payload 910 kg from iNews (Moladin lists 3,260 as 'vehicle weight', which matches the GVW, so kerb weight is left out). Towing 2,000 kg as quoted; braked/unbraked not stated. Warranty: JAC Indonesia states 8 years battery (as long as capacity stays at or above 80%), 1 year vehicle and 3 years electric motor; no km limits published. Local assembly is claimed for all JAC models (Pulogadung, PT National Assemblers). Connectors (Type 2 AC, CCS2 DC), the 400 V architecture and the single-speed transmission are from the Malaysian spec (Carlist.my, paultan.org) for the same 88 kWh LFP dual-motor 4x4 version; Malaysia quotes 88 kW DC against Indonesia's 100 kW, so the Indonesian DC figure is kept. Kerb weight, motor type, turning radius and gradeability were not found for this version (November 2026 check).",
+      "notes_id": "Satu varian (kabin ganda 4x4, 88 kWh); spesifikasi sama 2025–2026, dijual sejak peluncuran Agustus 2025. Harga: Rp888 juta OTR Jakarta adalah harga normal yang disebut di Mining Indonesia, September 2026 (Rp868 juta harga pemesanan khusus pameran). Sebelumnya Rp780 juta OTR Jakarta saat peluncuran (Agustus 2025) dan Rp770 juta OTR di daftar OTO/Moladin. Tenaga: 294 hp (Katadata) dikonversi x0,7457 = 219 kW; iNews menyebut daya puncak motor depan 70 kW + belakang 150 kW. Angka 201 hp di OTO/Moladin hanya sesuai motor belakang sehingga tidak dipakai. Torsi: sumber Indonesia menyebut 340 Nm, yang merupakan motor belakang saja (iNews: depan 176 Nm, belakang 340 Nm), sehingga dipakai torsi gabungan 516 Nm dari spesifikasi Malaysia (paultan.org, Autobuzz). Jarak tempuh 340 km diukur pada kecepatan konstan 60 km/jam (siklus uji tidak disebut); angka 449 km (Katadata) dan 344,5 km (GIICOMVEC) tidak dipakai. DC: 100 kW, 20–80% dalam 40 menit (rilis peluncuran); Moladin menyebut 30–80% dalam 35–40 menit. Daya AC tidak dicantumkan karena sumber berbeda (Moladin 9,8 kW, spesifikasi Malaysia 11 kW). GVW 3.260 kg dan payload 910 kg dari iNews (Moladin mencantumkan 3.260 sebagai 'berat mobil', sama dengan GVW, sehingga berat kosong tidak dicantumkan). Kapasitas towing 2.000 kg sesuai kutipan; tidak disebut dengan atau tanpa rem. Garansi: JAC Indonesia menyebut baterai 8 tahun (selama kapasitas minimal 80%), kendaraan 1 tahun, dan motor listrik 3 tahun; batas km tidak dipublikasikan. Semua model JAC diklaim dirakit lokal (Pulogadung, PT National Assemblers). Konektor (AC Type 2, DC CCS2), arsitektur 400 V, dan transmisi satu percepatan dari spesifikasi Malaysia (Carlist.my, paultan.org) untuk versi yang sama, yaitu baterai LFP 88 kWh dengan dua motor 4x4; Malaysia menyebut DC 88 kW sedangkan Indonesia 100 kW, sehingga angka DC Indonesia tetap dipakai. Berat kosong, jenis motor, radius putar, dan kemampuan tanjakan tidak ditemukan untuk versi ini (pemeriksaan November 2026)."
     }
   ]
 }

@@ -517,7 +517,8 @@
         "price_otr_idr": 350000000,
         "body_type": "Van",
         "cargo_volume_m3": 4.8,
-        "transmission": "Single-speed reduction gear"
+        "transmission": "Single-speed reduction gear",
+        "dc_connector": "CHAdeMO"
       },
       "sources": {
         "segment": [
@@ -879,10 +880,18 @@
             "date": "2026-11",
             "type": "media"
           }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233725526/colokan-charger-dfsk-gelora-e-ada-dua-fungsi-masing-masing-buat-ini?page=all",
+            "title": "Colokan Charger DFSK Gelora E Ada Dua, Fungsi Masing-masing Buat Ini (Otomotifnet)",
+            "date": "2023-03",
+            "type": "press"
+          }
         ]
       },
-      "notes": "Locally assembled at DFSK's Cikande plant (Serang, Banten) since early 2023; prices fell from the CBU level at that point. Same specs 2023-2026. Range 300 km as claimed; the 2021 launch named NEDC for this 42 kWh pack, but current sources state no cycle, so range_standard is left out. DC 20-80% in about 80 min (DC kW not published). Connectors not stated for the 42 kWh version. Pack voltage 350 V from Moladin. Moladin's current page has inconsistent figures (range 200 km, list price Rp 360/409 million vs promo Rp 350/399 million); OTO, Listrik Indonesia (2026) and GridOto (2023) agree on Rp 350 million (Blind Van) and Rp 399 million (Minibus). Blind Van: kerb weight 1,500 kg and GVW 2,600 kg from OTO (Zigwheels shows conflicting 1,290/1,970 kg figures that appear to belong to the petrol Gelora); payload not published. AC 0-100% about 8 h (OTO). Cargo volume about 4.8 m3.",
-      "notes_id": "Dirakit lokal di pabrik DFSK Cikande (Serang, Banten) sejak awal 2023; harga turun dari level CBU sejak itu. Spesifikasi sama 2023-2026. Jarak tempuh 300 km sesuai klaim; peluncuran 2021 menyebut NEDC untuk baterai 42 kWh ini, tetapi sumber terkini tidak menyebut metode uji, jadi standar uji jarak tempuh dikosongkan. DC 20-80% sekitar 80 menit (daya DC tidak dipublikasikan). Konektor tidak disebutkan untuk versi 42 kWh. Tegangan baterai 350 V dari Moladin. Halaman Moladin saat ini punya angka yang tidak konsisten (jarak tempuh 200 km, harga Rp 360/409 juta vs promo Rp 350/399 juta); OTO, Listrik Indonesia (2026) dan GridOto (2023) sepakat Rp 350 juta (Blind Van) dan Rp 399 juta (Minibus). Blind Van: berat kosong 1.500 kg dan JBB 2.600 kg dari OTO (Zigwheels menampilkan angka 1.290/1.970 kg yang tampaknya milik Gelora bensin); daya angkut tidak dipublikasikan. AC 0-100% sekitar 8 jam (OTO). Volume kargo sekitar 4,8 m3."
+      "notes": "Locally assembled at DFSK's Cikande plant (Serang, Banten) since early 2023; prices fell from the CBU level at that point. Same specs 2023-2026. Range 300 km as claimed; the 2021 launch named NEDC for this 42 kWh pack, but current sources state no cycle, so range_standard is left out. DC 20-80% in about 80 min (DC kW not published). DC fast-charge socket is CHAdeMO (right side) and the AC socket is behind the front grille, per DFSK Indonesia's PR manager (Otomotifnet, March 2023); the AC connector type is not named and the CHAdeMO statement is not confirmed for the 2021-2022 CBU units. AC power is left out: that article gives about 6.6 kW (written '6,6 kWh'), while a 2020 report gave 220 V / 16 A. Chinese/overseas EC35 figures are not used because pack sizes differ by market (38.6-41.4 kWh). Pack voltage 350 V from Moladin. Moladin's current page has inconsistent figures (range 200 km, list price Rp 360/409 million vs promo Rp 350/399 million); OTO, Listrik Indonesia (2026) and GridOto (2023) agree on Rp 350 million (Blind Van) and Rp 399 million (Minibus). Blind Van: kerb weight 1,500 kg and GVW 2,600 kg from OTO (Zigwheels shows conflicting 1,290/1,970 kg figures that appear to belong to the petrol Gelora); payload not published. AC 0-100% about 8 h (OTO). Cargo volume about 4.8 m3.",
+      "notes_id": "Dirakit lokal di pabrik DFSK Cikande (Serang, Banten) sejak awal 2023; harga turun dari level CBU sejak itu. Spesifikasi sama 2023-2026. Jarak tempuh 300 km sesuai klaim; peluncuran 2021 menyebut NEDC untuk baterai 42 kWh ini, tetapi sumber terkini tidak menyebut metode uji, jadi standar uji jarak tempuh dikosongkan. DC 20-80% sekitar 80 menit (daya DC tidak dipublikasikan). Soket pengisian cepat DC berjenis CHAdeMO (sisi kanan) dan soket AC ada di balik gril depan, menurut PR manager DFSK Indonesia (Otomotifnet, Maret 2023); jenis konektor AC tidak disebut dan keterangan CHAdeMO belum terkonfirmasi untuk unit CBU 2021-2022. Daya AC dikosongkan: artikel itu menyebut sekitar 6,6 kW (ditulis '6,6 kWh'), sedangkan berita 2020 menyebut 220 V / 16 A. Data EC35 dari China dan pasar lain tidak dipakai karena kapasitas baterainya berbeda per pasar (38,6-41,4 kWh). Tegangan baterai 350 V dari Moladin. Halaman Moladin saat ini punya angka yang tidak konsisten (jarak tempuh 200 km, harga Rp 360/409 juta vs promo Rp 350/399 juta); OTO, Listrik Indonesia (2026) dan GridOto (2023) sepakat Rp 350 juta (Blind Van) dan Rp 399 juta (Minibus). Blind Van: berat kosong 1.500 kg dan JBB 2.600 kg dari OTO (Zigwheels menampilkan angka 1.290/1.970 kg yang tampaknya milik Gelora bensin); daya angkut tidak dipublikasikan. AC 0-100% sekitar 8 jam (OTO). Volume kargo sekitar 4,8 m3."
     },
     {
       "id": "dfsk-gelora-e-2026-minibus",
@@ -915,7 +924,10 @@
         "seats": 7,
         "price_otr_idr": 399000000,
         "body_type": "Minibus",
-        "transmission": "Single-speed reduction gear"
+        "transmission": "Single-speed reduction gear",
+        "dc_connector": "CHAdeMO",
+        "turning_radius_m": 5.25,
+        "ac_full_hours": 8
       },
       "sources": {
         "segment": [
@@ -1171,10 +1183,40 @@
             "date": "2026-11",
             "type": "media"
           }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://otomotifnet.gridoto.com/read/233725526/colokan-charger-dfsk-gelora-e-ada-dua-fungsi-masing-masing-buat-ini?page=all",
+            "title": "Colokan Charger DFSK Gelora E Ada Dua, Fungsi Masing-masing Buat Ini (Otomotifnet)",
+            "date": "2023-03",
+            "type": "press"
+          }
+        ],
+        "turning_radius_m": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/dfsk/gelora-electric/e-mb/?amp=1",
+            "title": "DFSK Gelora E-MB specifications (Zigwheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/dfsk/gelora-electric/e-mb/?amp=1",
+            "title": "DFSK Gelora E-MB specifications (Zigwheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://moladin.com/perbandingan/dfsk-gelora-e-mb",
+            "title": "DFSK Gelora E MB spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "Locally assembled at DFSK's Cikande plant (Serang, Banten) since early 2023; prices fell from the CBU level at that point. Same specs 2023-2026. Range 300 km as claimed; the 2021 launch named NEDC for this 42 kWh pack, but current sources state no cycle, so range_standard is left out. DC 20-80% in about 80 min (DC kW not published). Connectors not stated for the 42 kWh version. Pack voltage 350 V from Moladin. Moladin's current page has inconsistent figures (range 200 km, list price Rp 360/409 million vs promo Rp 350/399 million); OTO, Listrik Indonesia (2026) and GridOto (2023) agree on Rp 350 million (Blind Van) and Rp 399 million (Minibus). Minibus (7 seats, passenger body; counted as Small cargo): kerb weight and GVW not published.",
-      "notes_id": "Dirakit lokal di pabrik DFSK Cikande (Serang, Banten) sejak awal 2023; harga turun dari level CBU sejak itu. Spesifikasi sama 2023-2026. Jarak tempuh 300 km sesuai klaim; peluncuran 2021 menyebut NEDC untuk baterai 42 kWh ini, tetapi sumber terkini tidak menyebut metode uji, jadi standar uji jarak tempuh dikosongkan. DC 20-80% sekitar 80 menit (daya DC tidak dipublikasikan). Konektor tidak disebutkan untuk versi 42 kWh. Tegangan baterai 350 V dari Moladin. Halaman Moladin saat ini punya angka yang tidak konsisten (jarak tempuh 200 km, harga Rp 360/409 juta vs promo Rp 350/399 juta); OTO, Listrik Indonesia (2026) dan GridOto (2023) sepakat Rp 350 juta (Blind Van) dan Rp 399 juta (Minibus). Minibus (7 kursi, bodi penumpang; dimasukkan kelas Small cargo): berat kosong dan JBB tidak dipublikasikan."
+      "notes": "Locally assembled at DFSK's Cikande plant (Serang, Banten) since early 2023; prices fell from the CBU level at that point. Same specs 2023-2026. Range 300 km as claimed; the 2021 launch named NEDC for this 42 kWh pack, but current sources state no cycle, so range_standard is left out. DC 20-80% in about 80 min (DC kW not published). DC fast-charge socket is CHAdeMO (right side) and the AC socket is behind the front grille, per DFSK Indonesia's PR manager (Otomotifnet, March 2023); the AC connector type is not named and the CHAdeMO statement is not confirmed for the 2021-2022 CBU units. AC power is left out: that article gives about 6.6 kW (written '6,6 kWh'), while a 2020 report gave 220 V / 16 A. Chinese/overseas EC35 figures are not used because pack sizes differ by market (38.6-41.4 kWh). Pack voltage 350 V from Moladin. Moladin's current page has inconsistent figures (range 200 km, list price Rp 360/409 million vs promo Rp 350/399 million); OTO, Listrik Indonesia (2026) and GridOto (2023) agree on Rp 350 million (Blind Van) and Rp 399 million (Minibus). Minibus (7 seats, passenger body; counted as Small cargo): kerb weight and GVW not published (Zigwheels' E-MB page shows 1,290/1,970 kg, which belong to the petrol Gelora). Turning radius 5.25 m and AC 0-100% about 8 h from Zigwheels' E-MB page (AC time also on Moladin).",
+      "notes_id": "Dirakit lokal di pabrik DFSK Cikande (Serang, Banten) sejak awal 2023; harga turun dari level CBU sejak itu. Spesifikasi sama 2023-2026. Jarak tempuh 300 km sesuai klaim; peluncuran 2021 menyebut NEDC untuk baterai 42 kWh ini, tetapi sumber terkini tidak menyebut metode uji, jadi standar uji jarak tempuh dikosongkan. DC 20-80% sekitar 80 menit (daya DC tidak dipublikasikan). Soket pengisian cepat DC berjenis CHAdeMO (sisi kanan) dan soket AC ada di balik gril depan, menurut PR manager DFSK Indonesia (Otomotifnet, Maret 2023); jenis konektor AC tidak disebut dan keterangan CHAdeMO belum terkonfirmasi untuk unit CBU 2021-2022. Daya AC dikosongkan: artikel itu menyebut sekitar 6,6 kW (ditulis '6,6 kWh'), sedangkan berita 2020 menyebut 220 V / 16 A. Data EC35 dari China dan pasar lain tidak dipakai karena kapasitas baterainya berbeda per pasar (38,6-41,4 kWh). Tegangan baterai 350 V dari Moladin. Halaman Moladin saat ini punya angka yang tidak konsisten (jarak tempuh 200 km, harga Rp 360/409 juta vs promo Rp 350/399 juta); OTO, Listrik Indonesia (2026) dan GridOto (2023) sepakat Rp 350 juta (Blind Van) dan Rp 399 juta (Minibus). Minibus (7 kursi, bodi penumpang; dimasukkan kelas Small cargo): berat kosong dan JBB tidak dipublikasikan (halaman E-MB Zigwheels menampilkan 1.290/1.970 kg yang merupakan milik Gelora bensin). Radius putar 5,25 m dan pengisian AC 0-100% sekitar 8 jam dari halaman E-MB Zigwheels (waktu AC juga tercantum di Moladin)."
     },
     {
       "id": "dfsk-gelora-e-2026-blind-van-b-type",
@@ -1206,7 +1248,8 @@
         "free_service": "Free part maintenance for 5 years / 200,000 km",
         "body_type": "Van",
         "cargo_volume_m3": 4.8,
-        "transmission": "Single-speed reduction gear"
+        "transmission": "Single-speed reduction gear",
+        "battery_ip": "IP67"
       },
       "sources": {
         "segment": [
@@ -1478,10 +1521,18 @@
             "date": "2026-11",
             "type": "media"
           }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/aNr1GEaK-dfsk-gelora-e-b-type-dirilis-tak-sampai-rp250-juta",
+            "title": "DFSK Gelora E B-Type Dirilis, Tak Sampai Rp250 Juta (Medcom.id)",
+            "date": "2025-11",
+            "type": "press"
+          }
         ]
       },
-      "notes": "Lower-priced Blind Van with a smaller 38 kWh battery, launched at GJAW (November 2025); price Rp 248 million OTR Jakarta, still listed in 2026. Range 268 km claimed, no cycle stated in launch reports (Moladin labels it NEDC). DC (CCS2) 20-80% in about 80 min; AC (Type 2) 20-80% in about 3.5 h; charging kW not published. Cargo length 2.5 m, volume up to 4.8 m3. Motor power not published (Moladin shows '80' without unit). Assembly, kerb weight, GVW and payload not published. Dimensions from Moladin (Kontan gives 4.5 x 1.6 x 2 m rounded).",
-      "notes_id": "Blind Van harga lebih rendah dengan baterai lebih kecil 38 kWh, diluncurkan di GJAW (November 2025); harga Rp 248 juta OTR Jakarta, masih tercantum pada 2026. Jarak tempuh 268 km sesuai klaim, metode uji tidak disebut di berita peluncuran (Moladin menulis NEDC). DC (CCS2) 20-80% sekitar 80 menit; AC (Type 2) 20-80% sekitar 3,5 jam; daya pengisian tidak dipublikasikan. Panjang kargo 2,5 m, volume hingga 4,8 m3. Tenaga motor tidak dipublikasikan (Moladin menulis '80' tanpa satuan). Lokasi perakitan, berat kosong, JBB, dan daya angkut tidak dipublikasikan. Dimensi dari Moladin (Kontan menyebut 4,5 x 1,6 x 2 m dibulatkan)."
+      "notes": "Lower-priced Blind Van with a smaller 38 kWh battery, launched at GJAW (November 2025); price Rp 248 million OTR Jakarta, still listed in 2026. Range 268 km claimed, no cycle stated in launch reports (Moladin labels it NEDC). DC (CCS2) 20-80% in about 80 min; AC (Type 2) 20-80% in about 3.5 h; charging kW not published. Cargo length 2.5 m, volume up to 4.8 m3. Motor power not published (Moladin shows '80' without unit). Assembly, kerb weight, GVW and payload not published. Dimensions from Moladin (Kontan gives 4.5 x 1.6 x 2 m rounded). Battery and EV electrical system rated IP67 (Medcom.id). The Malaysian EC35 (38.7 kWh, 268 km WLTP, CCS2) looks close, but its chemistry and the B-Type's motor power are not confirmed, so no Malaysian figure is used.",
+      "notes_id": "Blind Van harga lebih rendah dengan baterai lebih kecil 38 kWh, diluncurkan di GJAW (November 2025); harga Rp 248 juta OTR Jakarta, masih tercantum pada 2026. Jarak tempuh 268 km sesuai klaim, metode uji tidak disebut di berita peluncuran (Moladin menulis NEDC). DC (CCS2) 20-80% sekitar 80 menit; AC (Type 2) 20-80% sekitar 3,5 jam; daya pengisian tidak dipublikasikan. Panjang kargo 2,5 m, volume hingga 4,8 m3. Tenaga motor tidak dipublikasikan (Moladin menulis '80' tanpa satuan). Lokasi perakitan, berat kosong, JBB, dan daya angkut tidak dipublikasikan. Dimensi dari Moladin (Kontan menyebut 4,5 x 1,6 x 2 m dibulatkan). Baterai dan sistem kelistrikan EV berstandar IP67 (Medcom.id). EC35 Malaysia (38,7 kWh, 268 km WLTP, CCS2) tampak mirip, tetapi kimia baterainya dan tenaga motor B-Type belum terkonfirmasi, jadi tidak ada data Malaysia yang dipakai."
     }
   ]
 }

@@ -41,6 +41,7 @@ Use the gross vehicle weight (JBB, Jumlah Berat yang Diperbolehkan) as registere
 - `drive` for trucks: use the axle layout words the source uses: "RWD", "4x2", "4x4", "6x2", "6x4", "8x4", "AWD". Pickups: "4x2" or "4x4" (or RWD/AWD if that's what the source says).
 - `range_standard` for trucks may also be "C-WTVC" (China heavy-vehicle cycle) or "JE05" (Japan). Leave it out if the test method is not stated (most truck ranges are "manufacturer test" or "up to"; say so in notes).
 - Best marks in the app are only given between trucks of the same class AND the same body_type, so set body_type on every trim.
+- Figures from another market (see FIELDS.md): powertrain and charging figures (battery, motor, drive, charging, connectors, top speed, gearbox) need the same battery capacity and chemistry, motor power and drive layout. Weights, payload, axle loads, dimensions and body figures also need the same GVW, wheelbase and body; say in notes which kind of match you relied on.
 - `seats` = seats in the cab. Car-only fields (boot_l, frunk_l, headroom, legroom, airbags for cars, accel_0_100_s) only if published.
 - Prices: OTR (on the road) Jakarta when published. Many trucks are sold off the road or as a chassis only; then leave price_otr_idr out, put the quoted price in price_quote_idr with its price_quote_basis, and explain in notes.
 

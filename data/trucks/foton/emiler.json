@@ -14,7 +14,7 @@
         "gvw_kg": 4500,
         "battery_gross_kwh": 63.75,
         "cell_supplier": "CATL",
-        "range_km": 175,
+        "range_km": 250,
         "motor_count": 1,
         "motor_type": "PMSM",
         "power_kw": 100,
@@ -27,7 +27,7 @@
         "turning_radius_m": 5.25,
         "body_type": "Rigid truck",
         "price_quote_idr": 505000000,
-        "price_quote_basis": "basis not stated"
+        "price_quote_basis": "off the road"
       },
       "sources": {
         "segment": [
@@ -76,6 +76,12 @@
             "title": "GIICOMVEC 2026 Hadirkan Deretan Truk Canggih dari Brand Global (Industry.co.id)",
             "date": "2026-04",
             "type": "media"
+          },
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
           }
         ],
         "battery_gross_kwh": [
@@ -114,22 +120,10 @@
         ],
         "range_km": [
           {
-            "url": "https://www.idntimes.com/automotive/car/mobil-listrik-komersial-foton-emiler-meluncur-jarak-tempuh-175-km-00-7cdnt-dfzwjn",
-            "title": "Mobil Listrik Komersial Foton eMiler Meluncur, Jarak Tempuh 175 km (IDN Times)",
-            "date": "2025-04",
-            "type": "press"
-          },
-          {
-            "url": "https://kumparan.com/kumparanoto/bisa-tempuh-175-km-sekali-cas-truk-listrik-foton-emiler-dijual-rp-480-juta-24tFu0A0zXU",
-            "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
-            "date": "2025-04",
-            "type": "press"
-          },
-          {
-            "url": "https://mobilkomersial.com/2025/04/25/dibanderol-rp-480-juta-foton-emiler-resmi-meluncur-di-indonesia/",
-            "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
-            "date": "2025-04",
-            "type": "press"
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
           }
         ],
         "motor_count": [
@@ -276,6 +270,12 @@
         ],
         "price_quote_idr": [
           {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          },
+          {
             "url": "https://www.foton-indomobil.com/",
             "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
             "date": "2026-11",
@@ -284,15 +284,15 @@
         ],
         "price_quote_basis": [
           {
-            "url": "https://www.foton-indomobil.com/",
-            "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
-            "date": "2026-11",
-            "type": "media"
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
           }
         ]
       },
-      "notes": "4-wheel electric light truck sold as a cab-chassis for local bodies (box, cold box, food truck). GVW 4.5 t puts it in Light. Same specs 2025–2026. Sale evidence: launched 24 April 2025 by PT Indomobil Global Transportasi at Rp 480 million off the road, chassis only, with an AC charger bundled (bodies extra); new dealers opened in Pasar Minggu (Jakarta) and Surabaya at launch; the Foton Indomobil Pasar Minggu dealer lists it 'from Rp 505,000,000' (Nov 2026, basis not stated). No OTR price. The dealer's current 'from Rp 505,000,000' is stored as the quoted price (basis not stated); the launch price was Rp 480 million off the road, chassis only. Assembly: CKD at Indomobil's Pulo Gadung plant per Foton's GIICOMVEC 2026 statements (36.25% local content); the 2025 launch reports did not say it was locally built. Power 100 kW (135 PS) peak, PMSM with e-axle (Aftermarketplus also mentions 63.74 kW, likely rated power). Range 175 km is a manufacturer claim with no cycle. DC fast charging via CCS2, 20–100% in about 1 hour. Length 4.9 m and height 2.1 m are rounded figures from the launch reports. Payload: Aftermarketplus gives 'up to 1,020 kg', the same figure as the eTruckMate and not confirmed elsewhere, so it is left out. 0–50 km/h 7.4 s; gradeability above 20%.",
-      "notes_id": "Truk ringan listrik 4 roda yang dijual dalam bentuk sasis-kabin untuk karoseri lokal (boks, boks pendingin, food truck). JBB 4,5 ton sehingga masuk kelas Light. Spesifikasi sama 2025–2026. Bukti penjualan: diluncurkan 24 April 2025 oleh PT Indomobil Global Transportasi dengan harga Rp480 juta off the road, sasis saja, sudah termasuk unit pengisi daya AC (karoseri terpisah); dealer baru di Pasar Minggu (Jakarta) dan Surabaya dibuka saat peluncuran; dealer Foton Indomobil Pasar Minggu mencantumkan 'mulai Rp505.000.000' (November 2026, basis harga tidak disebut). Tidak ada harga OTR. Harga dealer terkini 'mulai Rp505.000.000' disimpan sebagai harga kutipan (dasar harga tidak disebut); harga peluncuran Rp480 juta off the road, sasis saja. Perakitan: CKD di pabrik Indomobil Pulo Gadung menurut pernyataan Foton di GIICOMVEC 2026 (TKDN 36,25%); laporan peluncuran 2025 tidak menyebut perakitan lokal. Tenaga puncak 100 kW (135 PS), motor PMSM dengan e-axle (Aftermarketplus juga menyebut 63,74 kW, kemungkinan tenaga nominal). Jarak tempuh 175 km adalah klaim pabrikan tanpa metode uji. Pengisian cepat DC lewat CCS2, 20–100% sekitar 1 jam. Panjang 4,9 m dan tinggi 2,1 m adalah angka bulat dari laporan peluncuran. Daya angkut: Aftermarketplus menyebut 'hingga 1.020 kg', angka yang sama dengan eTruckMate dan tidak terkonfirmasi sumber lain, sehingga dikosongkan. Akselerasi 0–50 km/jam 7,4 detik; daya tanjak di atas 20%."
+      "notes": "4-wheel electric light truck sold as a cab-chassis for local bodies (box, cold box, food truck). GVW 4.5 t puts it in Light. Same specs 2025–2026. Sale evidence: launched 24 April 2025 by PT Indomobil Global Transportasi at Rp 480 million off the road, chassis only, with an AC charger bundled (bodies extra); new dealers opened in Pasar Minggu (Jakarta) and Surabaya at launch; the Foton Indomobil Pasar Minggu dealer lists it 'from Rp 505,000,000' (Nov 2026, basis not stated). No OTR price. The dealer's current 'from Rp 505,000,000' is stored as the quoted price (basis not stated); the launch price was Rp 480 million off the road, chassis only. Assembly: CKD at Indomobil's Pulo Gadung plant per Foton's GIICOMVEC 2026 statements (36.25% local content); the 2025 launch reports did not say it was locally built. Power 100 kW (135 PS) peak, PMSM with e-axle (Aftermarketplus also mentions 63.74 kW, likely rated power). Range 175 km is a manufacturer claim with no cycle. DC fast charging via CCS2, 20–100% in about 1 hour. Length 4.9 m and height 2.1 m are rounded figures from the launch reports. Payload: Aftermarketplus gives 'up to 1,020 kg', the same figure as the eTruckMate and not confirmed elsewhere, so it is left out. 0–50 km/h 7.4 s; gradeability above 20%. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. GVW 4.5 t, 4 tyres, range 250 km (earlier reports: 175 km; the official list is used). Every Foton EV comes with one AC charger (device only), except the eAumark series.",
+      "notes_id": "Truk ringan listrik 4 roda yang dijual dalam bentuk sasis-kabin untuk karoseri lokal (boks, boks pendingin, food truck). JBB 4,5 ton sehingga masuk kelas Light. Spesifikasi sama 2025–2026. Bukti penjualan: diluncurkan 24 April 2025 oleh PT Indomobil Global Transportasi dengan harga Rp480 juta off the road, sasis saja, sudah termasuk unit pengisi daya AC (karoseri terpisah); dealer baru di Pasar Minggu (Jakarta) dan Surabaya dibuka saat peluncuran; dealer Foton Indomobil Pasar Minggu mencantumkan 'mulai Rp505.000.000' (November 2026, basis harga tidak disebut). Tidak ada harga OTR. Harga dealer terkini 'mulai Rp505.000.000' disimpan sebagai harga kutipan (dasar harga tidak disebut); harga peluncuran Rp480 juta off the road, sasis saja. Perakitan: CKD di pabrik Indomobil Pulo Gadung menurut pernyataan Foton di GIICOMVEC 2026 (TKDN 36,25%); laporan peluncuran 2025 tidak menyebut perakitan lokal. Tenaga puncak 100 kW (135 PS), motor PMSM dengan e-axle (Aftermarketplus juga menyebut 63,74 kW, kemungkinan tenaga nominal). Jarak tempuh 175 km adalah klaim pabrikan tanpa metode uji. Pengisian cepat DC lewat CCS2, 20–100% sekitar 1 jam. Panjang 4,9 m dan tinggi 2,1 m adalah angka bulat dari laporan peluncuran. Daya angkut: Aftermarketplus menyebut 'hingga 1.020 kg', angka yang sama dengan eTruckMate dan tidak terkonfirmasi sumber lain, sehingga dikosongkan. Akselerasi 0–50 km/jam 7,4 detik; daya tanjak di atas 20%. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. JBB 4,5 ton, 4 ban, jarak tempuh 250 km (laporan sebelumnya: 175 km; daftar resmi yang dipakai). Setiap pembelian Foton EV mendapat satu unit AC charger (perangkat saja), kecuali seri eAumark."
     }
   ]
 }

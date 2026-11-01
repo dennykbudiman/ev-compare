@@ -1201,7 +1201,7 @@ class Component extends DCLogic {
         make: v.make, model: v.model,
         trimLine: [v.model_year, variantOf(v)].filter(Boolean).join(' ') + (v.status_id === 'discontinued' ? ' · ' + L.discontinued : ''),
         hasClass: v.type === 'truck' && !!v.segment,
-        classLabel: v.type === 'truck' ? fill(L.classOf, { c: segName(v.segment, lang) }) + (v.body_type ? ' · ' + bodyShort(v.body_type, lang) : '') : '',
+        classLabel: v.type === 'truck' ? fill(L.classOf, { c: segName(v.segment, lang) }) + (v.body_type && bodyShort(v.body_type, lang) !== segName(v.segment, lang) ? ' · ' + bodyShort(v.body_type, lang) : '') : '',
         changeLabel: fill(L.change, { v: vname(v) + (v.model_year ? ' ' + v.model_year : '') + (v.type === 'truck' && v.segment ? ', ' + fill(L.classOf, { c: segName(v.segment, lang) }) + (v.body_type ? ', ' + bodyName(v.body_type, lang) : '') : '') + (v.status_id === 'discontinued' ? ', ' + L.discontinued : '') }),
         removeLabel: fill(L.remove, { v: vname(v) + (v.model_year ? ' ' + v.model_year : '') }),
         change: function (e) { self.opener = e && e.currentTarget; self.setState({ pk: Object.assign({}, CLOSED, { open: true, step: 'trim', make: v.make, model: v.model, year: yearKey(v), picked: selIds.slice() }) }); },

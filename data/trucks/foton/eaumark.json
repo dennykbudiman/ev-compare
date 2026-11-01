@@ -14,12 +14,12 @@
         "battery_gross_kwh": 81.14,
         "battery_chemistry": "LFP",
         "cell_supplier": "CATL",
-        "range_km": 167,
         "motor_type": "PMSM",
         "power_kw": 130,
         "body_type": "Rigid truck",
         "price_quote_idr": 735000000,
-        "price_quote_basis": "basis not stated"
+        "price_quote_basis": "off the road",
+        "gvw_kg": 7000
       },
       "sources": {
         "segment": [
@@ -80,14 +80,6 @@
             "type": "press"
           }
         ],
-        "range_km": [
-          {
-            "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
-            "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
-            "date": "2024-03",
-            "type": "press"
-          }
-        ],
         "motor_type": [
           {
             "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
@@ -126,6 +118,12 @@
         ],
         "price_quote_idr": [
           {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          },
+          {
             "url": "https://www.foton-indomobil.com/",
             "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
             "date": "2026-11",
@@ -134,15 +132,23 @@
         ],
         "price_quote_basis": [
           {
-            "url": "https://www.foton-indomobil.com/",
-            "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
-            "date": "2026-11",
-            "type": "media"
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
           }
         ]
       },
-      "notes": "Electric light truck (cab-chassis for local bodies such as box, cold box, dump or water tank). Same specs 2024–2026 as far as published. Sale evidence: launched at GIICOMVEC 2024 at Rp 643.8 million off the road (imported CBU then); the Foton Indomobil Pasar Minggu dealer lists 'E-AUMARK' 'from Rp 735,000,000' (Nov 2026, basis and tonnage not stated). No OTR price. The dealer's 'from Rp 735,000,000' is stored as the quoted price (basis not stated); it is taken to be this 7T because the dealer lists the 14 T separately, but the tonnage is not stated. The 2024 launch price of Rp 643.8 million was off the road. Assembly: CKD at PT National Assemblers, Pulo Gadung since 2025 ('eAumark 7 ton', IDN Times April 2025; 36.25% local content). Class: described as a 7-ton light truck (Otomotifnet) and 'light duty truck' (Moladin). '7T' is probably GVW (Foton Indonesia's 14T variant is GVW 14 t), but no source states the 7T GVW, so the GVW is left out. Battery 81.14 kWh CATL LFP, 130 kW, 1,200 Nm and 'up to 167 km' come from the 2024 launch (Moladin); the torque figure may be at the axle rather than the motor (the Malaysian version quotes 'over 900 Nm'); no cycle stated. Foton Indonesia also lists an E-AUMARK 8.5 T variant, but no specs or price were found, so it has no record. Review (Nov 2026): the 1,200 Nm torque is left out because its basis (motor or axle) is not stated; the Malaysian version quotes 'over 900 Nm'.",
-      "notes_id": "Truk ringan listrik (sasis-kabin untuk karoseri lokal seperti boks, boks pendingin, dump, atau tangki air). Spesifikasi sama 2024–2026 sejauh yang dipublikasikan. Bukti penjualan: diluncurkan di GIICOMVEC 2024 dengan harga Rp643,8 juta off the road (saat itu diimpor CBU); dealer Foton Indomobil Pasar Minggu mencantumkan 'E-AUMARK' 'mulai Rp735.000.000' (November 2026, basis harga dan tonase tidak disebut). Tidak ada harga OTR. Harga dealer 'mulai Rp735.000.000' disimpan sebagai harga kutipan (dasar harga tidak disebut); harga ini dianggap untuk varian 7T karena dealer mencantumkan 14 T secara terpisah, tetapi tonasenya tidak disebut. Harga peluncuran 2024 sebesar Rp643,8 juta adalah off the road. Perakitan: CKD di PT National Assemblers, Pulo Gadung sejak 2025 ('eAumark 7 ton', IDN Times April 2025; TKDN 36,25%). Kelas: disebut truk ringan 7 ton (Otomotifnet) dan 'light duty truck' (Moladin). '7T' kemungkinan adalah JBB (varian 14T Foton Indonesia ber-JBB 14 ton), tetapi tidak ada sumber yang menyebut JBB varian 7T, sehingga JBB dikosongkan. Baterai 81,14 kWh LFP CATL, 130 kW, 1.200 Nm, dan 'hingga 167 km' berasal dari peluncuran 2024 (Moladin); angka torsi mungkin diukur di gardan, bukan di motor (versi Malaysia menyebut 'lebih dari 900 Nm'); metode uji tidak disebut. Foton Indonesia juga mencantumkan varian E-AUMARK 8,5 T, tetapi spesifikasi dan harganya tidak ditemukan, sehingga tidak dibuatkan catatan. Tinjauan (Nov 2026): torsi 1.200 Nm tidak dicantumkan karena tidak jelas apakah diukur di motor atau di gardan; versi Malaysia menyebut 'lebih dari 900 Nm'."
+      "notes": "Electric light truck (cab-chassis for local bodies such as box, cold box, dump or water tank). Same specs 2024–2026 as far as published. Sale evidence: launched at GIICOMVEC 2024 at Rp 643.8 million off the road (imported CBU then); the Foton Indomobil Pasar Minggu dealer lists 'E-AUMARK' 'from Rp 735,000,000' (Nov 2026, basis and tonnage not stated). No OTR price. The dealer's 'from Rp 735,000,000' is stored as the quoted price (basis not stated); it is taken to be this 7T because the dealer lists the 14 T separately, but the tonnage is not stated. The 2024 launch price of Rp 643.8 million was off the road. Assembly: CKD at PT National Assemblers, Pulo Gadung since 2025 ('eAumark 7 ton', IDN Times April 2025; 36.25% local content). Class: described as a 7-ton light truck (Otomotifnet) and 'light duty truck' (Moladin). '7T' is probably GVW (Foton Indonesia's 14T variant is GVW 14 t), but no source states the 7T GVW, so the GVW is left out. Battery 81.14 kWh CATL LFP, 130 kW, 1,200 Nm and 'up to 167 km' come from the 2024 launch (Moladin); the torque figure may be at the axle rather than the motor (the Malaysian version quotes 'over 900 Nm'); no cycle stated. Foton Indonesia also lists an E-AUMARK 8.5 T variant, but no specs or price were found, so it has no record. Review (Nov 2026): the 1,200 Nm torque is left out because its basis (motor or axle) is not stated; the Malaysian version quotes 'over 900 Nm'. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. GVW 7 t, 6 tyres. Range is listed as 200–250 km (a span, so not stored); the earlier 167 km from the 2024 launch was removed.",
+      "notes_id": "Truk ringan listrik (sasis-kabin untuk karoseri lokal seperti boks, boks pendingin, dump, atau tangki air). Spesifikasi sama 2024–2026 sejauh yang dipublikasikan. Bukti penjualan: diluncurkan di GIICOMVEC 2024 dengan harga Rp643,8 juta off the road (saat itu diimpor CBU); dealer Foton Indomobil Pasar Minggu mencantumkan 'E-AUMARK' 'mulai Rp735.000.000' (November 2026, basis harga dan tonase tidak disebut). Tidak ada harga OTR. Harga dealer 'mulai Rp735.000.000' disimpan sebagai harga kutipan (dasar harga tidak disebut); harga ini dianggap untuk varian 7T karena dealer mencantumkan 14 T secara terpisah, tetapi tonasenya tidak disebut. Harga peluncuran 2024 sebesar Rp643,8 juta adalah off the road. Perakitan: CKD di PT National Assemblers, Pulo Gadung sejak 2025 ('eAumark 7 ton', IDN Times April 2025; TKDN 36,25%). Kelas: disebut truk ringan 7 ton (Otomotifnet) dan 'light duty truck' (Moladin). '7T' kemungkinan adalah JBB (varian 14T Foton Indonesia ber-JBB 14 ton), tetapi tidak ada sumber yang menyebut JBB varian 7T, sehingga JBB dikosongkan. Baterai 81,14 kWh LFP CATL, 130 kW, 1.200 Nm, dan 'hingga 167 km' berasal dari peluncuran 2024 (Moladin); angka torsi mungkin diukur di gardan, bukan di motor (versi Malaysia menyebut 'lebih dari 900 Nm'); metode uji tidak disebut. Foton Indonesia juga mencantumkan varian E-AUMARK 8,5 T, tetapi spesifikasi dan harganya tidak ditemukan, sehingga tidak dibuatkan catatan. Tinjauan (Nov 2026): torsi 1.200 Nm tidak dicantumkan karena tidak jelas apakah diukur di motor atau di gardan; versi Malaysia menyebut 'lebih dari 900 Nm'. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. JBB 7 ton, 6 ban. Jarak tempuh tercantum 200–250 km (rentang, jadi tidak dicantumkan); angka 167 km dari peluncuran 2024 dihapus."
     },
     {
       "id": "foton-eaumark-2026-8-5t",
@@ -406,8 +412,75 @@
           }
         ]
       },
-      "notes": "eAumark with GVW 8,500 kg (Light, at the top of the class) and payload 5,590 kg per Foton Indonesia's official page, 4x2, single-row cab, 6 tyres, cab-chassis for local bodies. Sale evidence: listed by the official distributor (fotonindonesia.co.id product page and vehicle enquiry list, Nov 2026; Foton's EV site fotonlistrik.id also has an eAumark 8.5T page). No price published, and assembly (CKD or CBU) is not stated for this variant. The official page has template errors like the 14T page: the spec table shows 81.14 kWh (the 7T's battery), while the header and the battery 'Capacity' row show 100.46 (no unit) with a 502.32 V pack; 100.46 kWh is used because it fits 502.32 V x 200 Ah. Power 75 rated / 150 peak is printed without a unit; the same row is labelled kW on the 7T page, so 150 kW peak is stored. Torque 250/560 Nm (rated/peak). Range listed as 200–250 km (C-WTVC, 25 °C), a span rather than one figure, so range_km is left out. DC charging 20–80% in 1 h via CCS2; DC power not published. Dimensions are chassis dimensions; no cargo body size is given for this variant. Gradeability 20%, top speed 90 km/h, front disc / rear drum brakes with pneumatic assist, ABS + EBD, EPB. Warranty: Foton Total Care 3 years / 100,000 km, battery 8 years / 400,000 km, free maintenance programme.",
-      "notes_id": "eAumark dengan JBB 8.500 kg (kelas Light, di batas atas kelas) dan daya angkut 5.590 kg menurut halaman resmi Foton Indonesia, 4x2, kabin satu baris, 6 ban, sasis untuk karoseri lokal. Bukti penjualan: tercantum di distributor resmi (halaman produk dan daftar permintaan kendaraan fotonindonesia.co.id, November 2026; situs EV Foton fotonlistrik.id juga punya halaman eAumark 8.5T). Harga tidak dipublikasikan, dan status perakitan (CKD atau CBU) tidak disebut untuk varian ini. Halaman resmi memiliki kesalahan template seperti halaman 14T: tabel spesifikasi menulis 81,14 kWh (baterai 7T), sedangkan bagian atas dan baris 'Capacity' baterai menulis 100,46 (tanpa satuan) dengan tegangan 502,32 V; angka 100,46 kWh dipakai karena sesuai dengan 502,32 V x 200 Ah. Tenaga 75 nominal / 150 puncak tercetak tanpa satuan; baris yang sama di halaman 7T bersatuan kW, sehingga dicatat 150 kW puncak. Torsi 250/560 Nm (nominal/puncak). Jarak tempuh tercantum 200–250 km (C-WTVC, 25 °C), berupa rentang dan bukan satu angka, sehingga range_km tidak diisi. Pengisian DC 20–80% dalam 1 jam melalui CCS2; daya DC tidak dipublikasikan. Dimensi adalah dimensi sasis; ukuran bak tidak dicantumkan untuk varian ini. Kemampuan tanjakan 20%, kecepatan maksimum 90 km/jam, rem depan cakram / belakang tromol dengan bantuan pneumatik, ABS + EBD, EPB. Garansi: Foton Total Care 3 tahun / 100.000 km, baterai 8 tahun / 400.000 km, program perawatan gratis."
+      "notes": "eAumark with GVW 8,500 kg (Light, at the top of the class) and payload 5,590 kg per Foton Indonesia's official page, 4x2, single-row cab, 6 tyres, cab-chassis for local bodies. Sale evidence: listed by the official distributor (fotonindonesia.co.id product page and vehicle enquiry list, Nov 2026; Foton's EV site fotonlistrik.id also has an eAumark 8.5T page). No price published, and assembly (CKD or CBU) is not stated for this variant. The official page has template errors like the 14T page: the spec table shows 81.14 kWh (the 7T's battery), while the header and the battery 'Capacity' row show 100.46 (no unit) with a 502.32 V pack; 100.46 kWh is used because it fits 502.32 V x 200 Ah. Power 75 rated / 150 peak is printed without a unit; the same row is labelled kW on the 7T page, so 150 kW peak is stored. Torque 250/560 Nm (rated/peak). Range listed as 200–250 km (C-WTVC, 25 °C), a span rather than one figure, so range_km is left out. DC charging 20–80% in 1 h via CCS2; DC power not published. Dimensions are chassis dimensions; no cargo body size is given for this variant. Gradeability 20%, top speed 90 km/h, front disc / rear drum brakes with pneumatic assist, ABS + EBD, EPB. Warranty: Foton Total Care 3 years / 100,000 km, battery 8 years / 400,000 km, free maintenance programme. The September 2026 price list has no 8.5T; it lists a 9T (GVW 9 t, Rp 780 million off the road), which may replace or be the same truck as this 8.5T. Kept separate until confirmed.",
+      "notes_id": "eAumark dengan JBB 8.500 kg (kelas Light, di batas atas kelas) dan daya angkut 5.590 kg menurut halaman resmi Foton Indonesia, 4x2, kabin satu baris, 6 ban, sasis untuk karoseri lokal. Bukti penjualan: tercantum di distributor resmi (halaman produk dan daftar permintaan kendaraan fotonindonesia.co.id, November 2026; situs EV Foton fotonlistrik.id juga punya halaman eAumark 8.5T). Harga tidak dipublikasikan, dan status perakitan (CKD atau CBU) tidak disebut untuk varian ini. Halaman resmi memiliki kesalahan template seperti halaman 14T: tabel spesifikasi menulis 81,14 kWh (baterai 7T), sedangkan bagian atas dan baris 'Capacity' baterai menulis 100,46 (tanpa satuan) dengan tegangan 502,32 V; angka 100,46 kWh dipakai karena sesuai dengan 502,32 V x 200 Ah. Tenaga 75 nominal / 150 puncak tercetak tanpa satuan; baris yang sama di halaman 7T bersatuan kW, sehingga dicatat 150 kW puncak. Torsi 250/560 Nm (nominal/puncak). Jarak tempuh tercantum 200–250 km (C-WTVC, 25 °C), berupa rentang dan bukan satu angka, sehingga range_km tidak diisi. Pengisian DC 20–80% dalam 1 jam melalui CCS2; daya DC tidak dipublikasikan. Dimensi adalah dimensi sasis; ukuran bak tidak dicantumkan untuk varian ini. Kemampuan tanjakan 20%, kecepatan maksimum 90 km/jam, rem depan cakram / belakang tromol dengan bantuan pneumatik, ABS + EBD, EPB. Garansi: Foton Total Care 3 tahun / 100.000 km, baterai 8 tahun / 400.000 km, program perawatan gratis. Daftar harga September 2026 tidak mencantumkan 8.5T, melainkan 9T (JBB 9 ton, Rp780 juta off the road), yang mungkin pengganti atau truk yang sama dengan 8.5T ini. Dicatat terpisah sampai ada kepastian."
+    },
+    {
+      "id": "foton-eaumark-2026-9t",
+      "model_year": 2026,
+      "variant": "9T",
+      "status": "on sale",
+      "data_as_of": "2026-11",
+      "values": {
+        "segment": "Medium",
+        "body_type": "Rigid truck",
+        "gvw_kg": 9000,
+        "range_km": 250,
+        "price_quote_idr": 780000000,
+        "price_quote_basis": "off the road"
+      },
+      "sources": {
+        "segment": [
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          }
+        ],
+        "body_type": [
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          }
+        ],
+        "price_quote_idr": [
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          }
+        ],
+        "price_quote_basis": [
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          }
+        ]
+      },
+      "notes": "Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. eAumark 9T: GVW 9 t (so Medium class), 6 tyres, cab-chassis, range 250 km (test method not stated). No other specs published yet. Foton's website lists an 8.5T instead; this may be the same truck re-rated.",
+      "notes_id": "Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. eAumark 9T: JBB 9 ton (jadi kelas Sedang), 6 ban, sasis-kabin, jarak tempuh 250 km (metode uji tidak disebutkan). Spesifikasi lain belum dipublikasikan. Situs Foton mencantumkan varian 8.5T; mungkin truk yang sama dengan JBB baru."
     },
     {
       "id": "foton-eaumark-2026-14t",
@@ -444,7 +517,8 @@
         "body_type": "Rigid truck",
         "gradeability_pct": 24,
         "price_quote_idr": 1250000000,
-        "price_quote_basis": "basis not stated"
+        "price_quote_basis": "off the road",
+        "range_km": 275
       },
       "sources": {
         "segment": [
@@ -480,6 +554,12 @@
             "url": "https://fotonlistrik.id/foton-eaumark-14t/",
             "title": "Foton eAumark 14T (fotonlistrik.id, PT Indomobil Global Transportasi)",
             "date": "2026-11",
+            "type": "official"
+          },
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
             "type": "official"
           }
         ],
@@ -707,6 +787,12 @@
         ],
         "price_quote_idr": [
           {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          },
+          {
             "url": "https://www.foton-indomobil.com/",
             "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
             "date": "2026-11",
@@ -715,15 +801,23 @@
         ],
         "price_quote_basis": [
           {
-            "url": "https://www.foton-indomobil.com/",
-            "title": "Dealer Foton Indomobil Pasar Minggu - Harga Promo Truk Foton Indonesia (dealer price list)",
-            "date": "2026-11",
-            "type": "media"
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
+            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
+            "date": "2026-09",
+            "type": "official"
           }
         ]
       },
-      "notes": "Largest eAumark (6 tyres, 4x2), GVW 14,000 kg and payload 9,232 kg per Foton Indonesia, so it is Medium, not Light. Locally assembled CKD (fotonlistrik.id, run by PT Indomobil Global Transportasi). Sale evidence: the Foton Indomobil Pasar Minggu dealer lists 'E AUMARK 14 T' 'from Rp 1,250,000,000' with a January 2026 brochure (basis not stated, so it is stored as the quoted price, not as OTR); shown at GIICOMVEC 2026 as 'eAumark 14 Ton'. The official spec page has template errors: battery capacity appears as both 162 kWh and 81.14 kWh (162 kWh is used: it is in the header, the table and on fotonlistrik.id, and fits the 540.96 V pack), and torque appears as both 135/260 Nm (rated/peak) and '2800' with no unit, so torque is left out. Range is listed as 220–275 km (C-WTVC, 25 °C), a span rather than one figure, so the range is left out. DC charging 20–80% in 1.2 h via CCS2; DC power not published. Length/width/height are chassis dimensions; the closed cargo box is listed as 5,500 x 2,350 x 2,300 mm (not stated whether inside or outside, so left out). Also listed: pneumatic drum brakes, 24% gradeability, 13.5 m turning diameter, ABS + EBD, EPB, free AC wall charger. Review (Nov 2026): power left out. The official page lists 65 kW rated / 130 kW peak, the same as the 7T's published 130 kW, on a page that also shows the 7T's 81.14 kWh battery, so it may be copied from the 7T.",
-      "notes_id": "Varian eAumark terbesar (6 roda, 4x2), JBB 14.000 kg dan daya angkut 9.232 kg menurut Foton Indonesia, sehingga masuk kelas Medium, bukan Light. Dirakit lokal secara CKD (fotonlistrik.id, dikelola PT Indomobil Global Transportasi). Bukti penjualan: dealer Foton Indomobil Pasar Minggu mencantumkan 'E AUMARK 14 T' 'mulai Rp1.250.000.000' dengan brosur Januari 2026 (dasar harga tidak disebut, jadi disimpan sebagai harga kutipan, bukan harga OTR); dipamerkan di GIICOMVEC 2026 sebagai 'eAumark 14 Ton'. Halaman spesifikasi resmi memuat kesalahan templat: kapasitas baterai tertulis 162 kWh sekaligus 81,14 kWh (dipakai 162 kWh: tercantum di judul, tabel, dan fotonlistrik.id, serta sesuai dengan paket 540,96 V), dan torsi tertulis 135/260 Nm (nominal/puncak) sekaligus '2800' tanpa satuan, sehingga torsi dikosongkan. Tenaga nominal 65 kW / puncak 130 kW sesuai yang tercantum. Jarak tempuh tertulis 220–275 km (C-WTVC, 25 °C), berupa rentang, bukan satu angka, sehingga jarak tempuh dikosongkan. Pengisian DC 20–80% dalam 1,2 jam lewat CCS2; daya DC tidak dipublikasikan. Panjang/lebar/tinggi adalah dimensi sasis; boks kargo tertutup tertulis 5.500 x 2.350 x 2.300 mm (tidak disebut ukuran dalam atau luar, jadi dikosongkan). Juga tercantum: rem tromol pneumatik, daya tanjak 24%, diameter putar 13,5 m, ABS + EBD, EPB, dan wall charger AC gratis. Tinjauan (Nov 2026): tenaga tidak dicantumkan. Halaman resmi menyebut 65 kW nominal / 130 kW puncak, sama dengan 130 kW milik varian 7T, di halaman yang juga memuat baterai 81,14 kWh milik 7T, sehingga angka ini mungkin tersalin dari 7T."
+      "notes": "Largest eAumark (6 tyres, 4x2), GVW 14,000 kg and payload 9,232 kg per Foton Indonesia, so it is Medium, not Light. Locally assembled CKD (fotonlistrik.id, run by PT Indomobil Global Transportasi). Sale evidence: the Foton Indomobil Pasar Minggu dealer lists 'E AUMARK 14 T' 'from Rp 1,250,000,000' with a January 2026 brochure (basis not stated, so it is stored as the quoted price, not as OTR); shown at GIICOMVEC 2026 as 'eAumark 14 Ton'. The official spec page has template errors: battery capacity appears as both 162 kWh and 81.14 kWh (162 kWh is used: it is in the header, the table and on fotonlistrik.id, and fits the 540.96 V pack), and torque appears as both 135/260 Nm (rated/peak) and '2800' with no unit, so torque is left out. Range is listed as 220–275 km (C-WTVC, 25 °C), a span rather than one figure, so the range is left out. DC charging 20–80% in 1.2 h via CCS2; DC power not published. Length/width/height are chassis dimensions; the closed cargo box is listed as 5,500 x 2,350 x 2,300 mm (not stated whether inside or outside, so left out). Also listed: pneumatic drum brakes, 24% gradeability, 13.5 m turning diameter, ABS + EBD, EPB, free AC wall charger. Review (Nov 2026): power left out. The official page lists 65 kW rated / 130 kW peak, the same as the 7T's published 130 kW, on a page that also shows the 7T's 81.14 kWh battery, so it may be copied from the 7T. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. GVW 14 t, 6 tyres, range 275 km (test method not stated; the official spec page gives 220–275 km C-WTVC).",
+      "notes_id": "Varian eAumark terbesar (6 roda, 4x2), JBB 14.000 kg dan daya angkut 9.232 kg menurut Foton Indonesia, sehingga masuk kelas Medium, bukan Light. Dirakit lokal secara CKD (fotonlistrik.id, dikelola PT Indomobil Global Transportasi). Bukti penjualan: dealer Foton Indomobil Pasar Minggu mencantumkan 'E AUMARK 14 T' 'mulai Rp1.250.000.000' dengan brosur Januari 2026 (dasar harga tidak disebut, jadi disimpan sebagai harga kutipan, bukan harga OTR); dipamerkan di GIICOMVEC 2026 sebagai 'eAumark 14 Ton'. Halaman spesifikasi resmi memuat kesalahan templat: kapasitas baterai tertulis 162 kWh sekaligus 81,14 kWh (dipakai 162 kWh: tercantum di judul, tabel, dan fotonlistrik.id, serta sesuai dengan paket 540,96 V), dan torsi tertulis 135/260 Nm (nominal/puncak) sekaligus '2800' tanpa satuan, sehingga torsi dikosongkan. Tenaga nominal 65 kW / puncak 130 kW sesuai yang tercantum. Jarak tempuh tertulis 220–275 km (C-WTVC, 25 °C), berupa rentang, bukan satu angka, sehingga jarak tempuh dikosongkan. Pengisian DC 20–80% dalam 1,2 jam lewat CCS2; daya DC tidak dipublikasikan. Panjang/lebar/tinggi adalah dimensi sasis; boks kargo tertutup tertulis 5.500 x 2.350 x 2.300 mm (tidak disebut ukuran dalam atau luar, jadi dikosongkan). Juga tercantum: rem tromol pneumatik, daya tanjak 24%, diameter putar 13,5 m, ABS + EBD, EPB, dan wall charger AC gratis. Tinjauan (Nov 2026): tenaga tidak dicantumkan. Halaman resmi menyebut 65 kW nominal / 130 kW puncak, sama dengan 130 kW milik varian 7T, di halaman yang juga memuat baterai 81,14 kWh milik 7T, sehingga angka ini mungkin tersalin dari 7T. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. JBB 14 ton, 6 ban, jarak tempuh 275 km (metode uji tidak disebutkan; halaman spesifikasi resmi menyebut 220–275 km C-WTVC)."
     }
   ]
 }

@@ -32,7 +32,10 @@
         "top_speed_kmh": 140,
         "body_type": "Pickup",
         "price_quote_idr": 780000000,
-        "price_quote_basis": "off the road"
+        "price_quote_basis": "off the road",
+        "torque_nm": 516,
+        "gradeability_pct": 40,
+        "battery_warranty": "8 yrs / 400,000 km"
       },
       "sources": {
         "segment": [
@@ -137,6 +140,12 @@
             "title": "Toyota Hilux BEV Dijual Rp1 Miliar, Mending Mana dengan Pikap Listrik China? (OtoDream)",
             "date": "2026-06",
             "type": "media"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
           }
         ],
         "battery_chemistry": [
@@ -193,6 +202,12 @@
             "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
             "date": "2026-09",
             "type": "official"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
           }
         ],
         "range_standard": [
@@ -207,6 +222,12 @@
             "title": "Toyota Hilux BEV Dijual Rp1 Miliar, Mending Mana dengan Pikap Listrik China? (OtoDream)",
             "date": "2026-06",
             "type": "media"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
           }
         ],
         "motor_count": [
@@ -229,6 +250,12 @@
             "title": "Foton Rilis Mobil Listrik Double Cabin Berpenggerak 4 Roda eTUNLAND di GIICOMVEC 2026 (Wartakotalive)",
             "date": "2026-04",
             "type": "press"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
           }
         ],
         "power_kw": [
@@ -243,12 +270,24 @@
             "title": "Toyota Hilux BEV Dijual Rp1 Miliar, Mending Mana dengan Pikap Listrik China? (OtoDream)",
             "date": "2026-06",
             "type": "media"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
           }
         ],
         "dc_max_kw": [
           {
             "url": "https://wartakota.tribunnews.com/otomotif/886669/foton-rilis-mobil-listrik-double-cabin-berpenggerak-4-roda-etunland-di-giicomvec-2026",
             "title": "Foton Rilis Mobil Listrik Double Cabin Berpenggerak 4 Roda eTUNLAND di GIICOMVEC 2026 (Wartakotalive)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
             "date": "2026-04",
             "type": "press"
           }
@@ -259,6 +298,12 @@
             "title": "Foton Rilis Mobil Listrik Double Cabin Berpenggerak 4 Roda eTUNLAND di GIICOMVEC 2026 (Wartakotalive)",
             "date": "2026-04",
             "type": "press"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
           }
         ],
         "dc_time_window": [
@@ -267,12 +312,24 @@
             "title": "Foton Rilis Mobil Listrik Double Cabin Berpenggerak 4 Roda eTUNLAND di GIICOMVEC 2026 (Wartakotalive)",
             "date": "2026-04",
             "type": "press"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
           }
         ],
         "ac_max_kw": [
           {
             "url": "https://wartakota.tribunnews.com/otomotif/886669/foton-rilis-mobil-listrik-double-cabin-berpenggerak-4-roda-etunland-di-giicomvec-2026",
             "title": "Foton Rilis Mobil Listrik Double Cabin Berpenggerak 4 Roda eTUNLAND di GIICOMVEC 2026 (Wartakotalive)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
             "date": "2026-04",
             "type": "press"
           }
@@ -322,10 +379,46 @@
             "date": "2026-09",
             "type": "official"
           }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.garduoto.com/41052/dibanderol-hampir-rp-800-juta-begini-spesifikasi-foton-e-tunland/",
+            "title": "Dibanderol Hampir Rp 800 Juta, Begini Spesifikasi Foton e-Tunland (Garduoto)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "gradeability_pct": [
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://genz.id/harga-foton-etunland-diumumkan-pickup-listrik-pekerja-keras/",
+            "title": "Harga Foton eTUNLAND Diumumkan, Pickup Listrik Pekerja Keras (GENZ.ID)",
+            "date": "2026-04",
+            "type": "press"
+          },
+          {
+            "url": "https://www.garduoto.com/41052/dibanderol-hampir-rp-800-juta-begini-spesifikasi-foton-e-tunland/",
+            "title": "Dibanderol Hampir Rp 800 Juta, Begini Spesifikasi Foton e-Tunland (Garduoto)",
+            "date": "2026-04",
+            "type": "press"
+          }
         ]
       },
-      "notes": "Launched at GIICOMVEC 2026 (8–11 April 2026) by PT Indomobil Global Transportasi (Foton Indonesia) at Rp 780 million (reported as OTR Jakarta by the media); Foton's marketing head listed it in the current Indonesian line-up in September 2026. Conflict: detikOto, Zigwheels, OTO and TransGo quote 114 hp (85 kW) and 290 Nm, which are exactly the eView minibus figures (85 kW / 290 Nm) and do not fit a dual-motor 4x4. Wartakotalive gives two PMSM motors, front 100 kW / 176 Nm and rear 150 kW / 340 Nm, 250 kW (about 335 hp) combined, and OtoDream (June 2026) gives 250 kW combined; the power figure is used. Range: 350 km WLTP (Wartakotalive, OtoDream); the launch reports also say 'up to 400 km in real-life use'. Battery quoted as 88 kWh in most reports, 88.02 kWh (CATL 3rd-gen LFP) in Wartakotalive. Charging: DC 80 kW, 20–80% in 40 min (other reports: 'about 42 minutes'); AC 11 kW, 30–80% in 7 h and 20–100% in 11.5 h. 0–100 km/h 10 s and 140 km/h are Foton claims. Payload, towing, overall dimensions, connectors, assembly (CBU/CKD) and warranties were not published in Indonesia. A Thai brochure and Uruguayan launch cover a single-motor 4x2 eTunland (130 kW), and a Malaysian listing a dual-motor version with 88.6 kWh, so no foreign figures were used. Review (Nov 2026): torque left out. Its only source (OtoDream) is a comparison article that also mixes up figures with the JAC T9 EV, whose motors are listed with the same 176/340 Nm, so 516 Nm could not be confirmed for the eTunland. The 20–80% DC time of 40 min implies an average close to the 80 kW peak; treat it with care. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. The official list gives Rp 780 million as an off-the-road price, so it is no longer shown as on the road. GVW 3.2 t, 4 tyres, range 350 km. Every Foton EV comes with one AC charger (device only), except the eAumark series.",
-      "notes_id": "Diluncurkan di GIICOMVEC 2026 (8–11 April 2026) oleh PT Indomobil Global Transportasi (Foton Indonesia) dengan harga Rp780 juta (disebut media sebagai harga OTR Jakarta); pada September 2026 kepala pemasaran Foton menyebutnya sebagai bagian dari jajaran model yang dipasarkan di Indonesia. Perbedaan data: detikOto, Zigwheels, OTO, dan TransGo menyebut 114 hp (85 kW) dan 290 Nm, persis angka minibus eView (85 kW / 290 Nm) dan tidak cocok untuk 4x4 bermotor ganda. Wartakotalive menyebut dua motor PMSM, depan 100 kW / 176 Nm dan belakang 150 kW / 340 Nm, gabungan 250 kW (sekitar 335 hp), dan OtoDream (Juni 2026) menyebut 250 kW dan 516 Nm gabungan; angka inilah yang dipakai. Jarak tempuh: 350 km WLTP (Wartakotalive, OtoDream); laporan peluncuran juga menyebut 'hingga 400 km dalam penggunaan nyata'. Baterai umumnya disebut 88 kWh, sedangkan Wartakotalive menyebut 88,02 kWh (LFP CATL generasi ke-3). Pengisian: DC 80 kW, 20–80% dalam 40 menit (laporan lain: 'sekitar 42 menit'); AC 11 kW, 30–80% dalam 7 jam dan 20–100% dalam 11,5 jam. Akselerasi 0–100 km/jam 10 detik dan 140 km/jam adalah klaim Foton. Daya angkut, kemampuan menarik, dimensi keseluruhan, jenis soket, status perakitan (CBU/CKD), dan garansi belum dipublikasikan di Indonesia. Brosur Thailand dan peluncuran Uruguay memuat eTunland 4x2 bermotor tunggal (130 kW), dan daftar Malaysia versi motor ganda 88,6 kWh, sehingga tidak ada angka luar negeri yang dipakai. Tinjauan (Nov 2026): torsi tidak dicantumkan. Satu-satunya sumbernya (OtoDream) adalah artikel perbandingan yang juga mencampur angka dengan JAC T9 EV, yang motornya tercantum dengan 176/340 Nm yang sama, sehingga 516 Nm belum bisa dipastikan untuk eTunland. Waktu DC 20–80% selama 40 menit berarti rata-rata daya hampir sama dengan puncak 80 kW; gunakan dengan hati-hati. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. Daftar resmi menyebut Rp780 juta sebagai harga off the road, jadi tidak lagi ditampilkan sebagai harga OTR. JBB 3,2 ton, 4 ban, jarak tempuh 350 km. Setiap pembelian Foton EV mendapat satu unit AC charger (perangkat saja), kecuali seri eAumark."
+      "notes": "Launched at GIICOMVEC 2026 (8–11 April 2026) by PT Indomobil Global Transportasi (Foton Indonesia); the media reported Rp 780 million as OTR Jakarta, but the official September 2026 price list gives Rp 780 million off the road, Franco Jakarta, not binding, so it is stored as a quoted price. Foton's marketing head listed it in the current Indonesian line-up in September 2026. Power: detikOto, Zigwheels, OTO and TransGo quote 114 hp (85 kW) and 290 Nm, which are exactly the eView minibus figures and do not fit a dual-motor 4x4. Wartakotalive gives two PMSM motors, front 100 kW / 176 Nm and rear 150 kW / 340 Nm, 250 kW (about 335 hp) combined; GENZ.ID gives 250 kW (335 hp) and 516 Nm total (176 Nm front, 340 Nm rear), Garduoto 516 Nm (175 front, 340 rear) and OtoDream 250 kW / 516 Nm; these are used. Review (Nov 2026): torque 516 Nm restored; it had been left out because its only source then (OtoDream) also mixed up figures with the JAC T9 EV, but two more launch reports now give the same total for the eTunland. Range: 350 km WLTP; the launch reports also say 'up to 400 km in real-life use'. Battery 88.02 kWh CATL 3rd-gen LFP (most reports round to 88 kWh). Charging: DC 80 kW, 20–80% in 40 min (other reports: 'about 42 minutes'); AC 11 kW, 30–80% in 7 h and 20–100% in 11.5 h. The 40 min DC time implies an average close to the 80 kW peak; treat it with care. 0–100 km/h about 10 s, 140 km/h and 40% gradeability are Foton claims. Battery warranty 8 years / 400,000 km (launch reports). Payload, towing, connectors, assembly (CBU/CKD) and vehicle warranty were not published in Indonesia. MobilKomersial quotes 5,340 x 1,940 x 1,870 mm and a 1,520 x 1,580 mm bed, but these are the figures of Foton's global single-motor 130 kW eTunland page and the same article calls it single-motor, so they are left out. A Thai brochure and Uruguayan launch cover a single-motor 4x2 eTunland (130 kW), and a Malaysian listing a dual-motor version with 88.6 kWh, so no foreign figures were used. GVW 3.2 t and 4 tyres per the price list. Every Foton EV on the price list comes with one AC charger (device only), except the eAumark series.",
+      "notes_id": "Diluncurkan di GIICOMVEC 2026 (8–11 April 2026) oleh PT Indomobil Global Transportasi (Foton Indonesia); media menyebut Rp780 juta sebagai harga OTR Jakarta, tetapi daftar harga resmi September 2026 mencantumkan Rp780 juta off the road, franco Jakarta, tidak mengikat, sehingga disimpan sebagai harga kutipan. Pada September 2026 kepala pemasaran Foton menyebutnya sebagai bagian dari jajaran model yang dipasarkan di Indonesia. Tenaga: detikOto, Zigwheels, OTO, dan TransGo menyebut 114 hp (85 kW) dan 290 Nm, persis angka minibus eView dan tidak cocok untuk 4x4 bermotor ganda. Wartakotalive menyebut dua motor PMSM, depan 100 kW / 176 Nm dan belakang 150 kW / 340 Nm, gabungan 250 kW (sekitar 335 hp); GENZ.ID menyebut 250 kW (335 hp) dan torsi total 516 Nm (depan 176 Nm, belakang 340 Nm), Garduoto 516 Nm (depan 175, belakang 340), dan OtoDream 250 kW / 516 Nm; angka inilah yang dipakai. Tinjauan (Nov 2026): torsi 516 Nm dicantumkan kembali; sebelumnya dikosongkan karena satu-satunya sumber saat itu (OtoDream) juga mencampur angka dengan JAC T9 EV, tetapi kini dua laporan peluncuran lain menyebut total yang sama untuk eTunland. Jarak tempuh 350 km WLTP; laporan peluncuran juga menyebut 'hingga 400 km dalam penggunaan nyata'. Baterai LFP CATL generasi ke-3 berkapasitas 88,02 kWh (sebagian besar laporan membulatkannya menjadi 88 kWh). Pengisian: DC 80 kW, 20–80% dalam 40 menit (laporan lain: 'sekitar 42 menit'); AC 11 kW, 30–80% dalam 7 jam dan 20–100% dalam 11,5 jam. Waktu DC 40 menit berarti rata-rata daya hampir sama dengan puncak 80 kW; gunakan dengan hati-hati. Akselerasi 0–100 km/jam sekitar 10 detik, kecepatan 140 km/jam, dan daya tanjak 40% adalah klaim Foton. Garansi baterai 8 tahun / 400.000 km (laporan peluncuran). Daya angkut, kemampuan menarik, jenis soket, status perakitan (CBU/CKD), dan garansi kendaraan belum dipublikasikan di Indonesia. MobilKomersial menyebut 5.340 x 1.940 x 1.870 mm dan bak 1.520 x 1.580 mm, tetapi angka ini sama dengan halaman global Foton untuk eTunland bermotor tunggal 130 kW, dan artikel yang sama menyebutnya bermotor tunggal, jadi tidak dipakai. Brosur Thailand dan peluncuran Uruguay memuat eTunland 4x2 bermotor tunggal (130 kW), dan daftar Malaysia versi motor ganda 88,6 kWh, sehingga tidak ada angka dari pasar lain yang dipakai. JBB 3,2 ton dan 4 ban menurut daftar harga. Setiap pembelian Foton EV di daftar harga mendapat satu unit charger AC (perangkat saja), kecuali seri eAumark."
     }
   ]
 }

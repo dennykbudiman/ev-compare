@@ -27,7 +27,23 @@
         "turning_radius_m": 5.25,
         "body_type": "Rigid truck",
         "price_quote_idr": 505000000,
-        "price_quote_basis": "off the road"
+        "price_quote_basis": "off the road",
+        "payload_kg": 2655,
+        "kerb_weight_kg": 1845,
+        "axle_rear_kg": 3500,
+        "width_mm": 1735,
+        "wheelbase_mm": 2750,
+        "battery_chemistry": "LFP",
+        "battery_ip": "IP68",
+        "battery_cooling": "Liquid",
+        "battery_preheat": true,
+        "onboard_charger_kw": 6.6,
+        "ac_max_kw": 6.6,
+        "tyre_size": "215/75 R16C",
+        "top_speed_kmh": 90,
+        "gradeability_pct": 20,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 400,000 km"
       },
       "sources": {
         "segment": [
@@ -82,6 +98,12 @@
             "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
             "date": "2026-09",
             "type": "official"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "battery_gross_kwh": [
@@ -102,6 +124,12 @@
             "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "cell_supplier": [
@@ -146,6 +174,12 @@
             "title": "Foton eMiler Hadir di Indonesia untuk Logistik Modern (OtoExpo)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "power_kw": [
@@ -166,6 +200,12 @@
             "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "torque_nm": [
@@ -186,6 +226,12 @@
             "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "dc_connector": [
@@ -194,6 +240,12 @@
             "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "dc_10_80_min": [
@@ -202,6 +254,12 @@
             "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "dc_time_window": [
@@ -210,6 +268,12 @@
             "title": "Bisa Tempuh 175 Km Sekali Cas, Truk Listrik Foton eMiler Dijual Rp 480 Juta (kumparanOTO)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "length_mm": [
@@ -224,6 +288,12 @@
             "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "height_mm": [
@@ -238,6 +308,12 @@
             "title": "Dibanderol Rp 480 Juta, Foton eMiler Resmi Meluncur di Indonesia (MobilKomersial)",
             "date": "2025-04",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "turning_radius_m": [
@@ -289,10 +365,138 @@
             "date": "2026-09",
             "type": "official"
           }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "kerb_weight_kg": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "axle_rear_kg": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_preheat": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "onboard_charger_kw": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "gradeability_pct": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-miler",
+            "title": "E-MILER (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
         ]
       },
-      "notes": "4-wheel electric light truck sold as a cab-chassis for local bodies (box, cold box, food truck). GVW 4.5 t puts it in Light. Same specs 2025–2026. Sale evidence: launched 24 April 2025 by PT Indomobil Global Transportasi at Rp 480 million off the road, chassis only, with an AC charger bundled (bodies extra); new dealers opened in Pasar Minggu (Jakarta) and Surabaya at launch; the Foton Indomobil Pasar Minggu dealer lists it 'from Rp 505,000,000' (Nov 2026, basis not stated). No OTR price. The dealer's current 'from Rp 505,000,000' is stored as the quoted price (basis not stated); the launch price was Rp 480 million off the road, chassis only. Assembly: CKD at Indomobil's Pulo Gadung plant per Foton's GIICOMVEC 2026 statements (36.25% local content); the 2025 launch reports did not say it was locally built. Power 100 kW (135 PS) peak, PMSM with e-axle (Aftermarketplus also mentions 63.74 kW, likely rated power). Range 175 km is a manufacturer claim with no cycle. DC fast charging via CCS2, 20–100% in about 1 hour. Length 4.9 m and height 2.1 m are rounded figures from the launch reports. Payload: Aftermarketplus gives 'up to 1,020 kg', the same figure as the eTruckMate and not confirmed elsewhere, so it is left out. 0–50 km/h 7.4 s; gradeability above 20%. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. GVW 4.5 t, 4 tyres, range 250 km (earlier reports: 175 km; the official list is used). Every Foton EV comes with one AC charger (device only), except the eAumark series.",
-      "notes_id": "Truk ringan listrik 4 roda yang dijual dalam bentuk sasis-kabin untuk karoseri lokal (boks, boks pendingin, food truck). JBB 4,5 ton sehingga masuk kelas Light. Spesifikasi sama 2025–2026. Bukti penjualan: diluncurkan 24 April 2025 oleh PT Indomobil Global Transportasi dengan harga Rp480 juta off the road, sasis saja, sudah termasuk unit pengisi daya AC (karoseri terpisah); dealer baru di Pasar Minggu (Jakarta) dan Surabaya dibuka saat peluncuran; dealer Foton Indomobil Pasar Minggu mencantumkan 'mulai Rp505.000.000' (November 2026, basis harga tidak disebut). Tidak ada harga OTR. Harga dealer terkini 'mulai Rp505.000.000' disimpan sebagai harga kutipan (dasar harga tidak disebut); harga peluncuran Rp480 juta off the road, sasis saja. Perakitan: CKD di pabrik Indomobil Pulo Gadung menurut pernyataan Foton di GIICOMVEC 2026 (TKDN 36,25%); laporan peluncuran 2025 tidak menyebut perakitan lokal. Tenaga puncak 100 kW (135 PS), motor PMSM dengan e-axle (Aftermarketplus juga menyebut 63,74 kW, kemungkinan tenaga nominal). Jarak tempuh 175 km adalah klaim pabrikan tanpa metode uji. Pengisian cepat DC lewat CCS2, 20–100% sekitar 1 jam. Panjang 4,9 m dan tinggi 2,1 m adalah angka bulat dari laporan peluncuran. Daya angkut: Aftermarketplus menyebut 'hingga 1.020 kg', angka yang sama dengan eTruckMate dan tidak terkonfirmasi sumber lain, sehingga dikosongkan. Akselerasi 0–50 km/jam 7,4 detik; daya tanjak di atas 20%. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. JBB 4,5 ton, 4 ban, jarak tempuh 250 km (laporan sebelumnya: 175 km; daftar resmi yang dipakai). Setiap pembelian Foton EV mendapat satu unit AC charger (perangkat saja), kecuali seri eAumark."
+      "notes": "4-wheel electric light truck sold as a cab-chassis for local bodies (box, cold box, food truck). GVW 4.5 t puts it in Light. Same specs 2025–2026. Sale evidence: launched 24 April 2025 by PT Indomobil Global Transportasi at Rp 480 million off the road, chassis only, with an AC charger bundled (bodies extra); listed in the official September 2026 price list at Rp 505 million off the road, Franco Jakarta, not binding (one AC charger, device only, included); the Foton Indomobil Pasar Minggu dealer lists it from Rp 505,000,000 (Nov 2026). No OTR price. Assembly: CKD at Indomobil's Pulo Gadung plant per Foton's GIICOMVEC 2026 statements (36.25% local content); the 2025 launch reports did not say it was locally built. Official spec page (fotonindonesia.co.id, Nov 2026): GVW 4,500 kg, payload 2,655 kg, kerb weight 1,845 kg (chassis), rear axle 3.5 t, chassis 4,900 x 1,735 x 2,100 mm, wheelbase 2,750 mm, LFP 63.75 kWh (IP68, liquid cooling with PTC heating), PMSM 40 kW rated / 100 kW peak, 105/270 N·m, 6.6 kW on-board charger, CCS2, 215/75 R16C tyres, hydraulic brakes (front disc, rear drum) with ABS + EBD, top speed 90 km/h, gradeability 20%, warranty 3 years / 100,000 km, battery 8 years / 400,000 km. Charging: DC 20–100% in about 1 h; AC 20–100% in about 7 h (not a 0–100% figure, so not stored); the AC connector type is not stated. Range: 250 km from the price list (test method not stated); the official page gives 220–250 km (WLTC) and the 2025 launch 175 km. Cargo box listed as 3,200 x 1,800 x 1,800 mm, not stated as inside or outside, so left out. Turning radius 5.25 m from the launch reports. 0–50 km/h 7.4 s. An 'eMiler' sold in Singapore has a 77 kWh battery and a 2,900 mm wheelbase, so it is a different version and no foreign figures were used.",
+      "notes_id": "Truk ringan listrik 4 roda yang dijual dalam bentuk sasis-kabin untuk karoseri lokal (boks, boks pendingin, food truck). JBB 4,5 ton sehingga masuk kelas Light. Spesifikasi sama 2025–2026. Bukti penjualan: diluncurkan 24 April 2025 oleh PT Indomobil Global Transportasi dengan harga Rp480 juta off the road, sasis saja, sudah termasuk unit pengisi daya AC (karoseri terpisah); tercantum di daftar harga resmi September 2026 seharga Rp505 juta off the road, franco Jakarta, tidak mengikat (termasuk satu unit charger AC, perangkat saja); dealer Foton Indomobil Pasar Minggu mencantumkan mulai Rp505.000.000 (November 2026). Tidak ada harga OTR. Perakitan: CKD di pabrik Indomobil Pulo Gadung menurut pernyataan Foton di GIICOMVEC 2026 (TKDN 36,25%); laporan peluncuran 2025 tidak menyebut perakitan lokal. Halaman spesifikasi resmi (fotonindonesia.co.id, November 2026): JBB 4.500 kg, daya angkut 2.655 kg, berat kosong 1.845 kg (sasis), sumbu belakang 3,5 ton, sasis 4.900 x 1.735 x 2.100 mm, jarak sumbu roda 2.750 mm, baterai LFP 63,75 kWh (IP68, pendinginan cairan dengan pemanas PTC), motor PMSM 40 kW nominal / 100 kW puncak, torsi 105/270 N·m, pengisi daya internal 6,6 kW, CCS2, ban 215/75 R16C, rem hidraulis (cakram depan, tromol belakang) dengan ABS + EBD, kecepatan maksimum 90 km/jam, daya tanjak 20%, garansi 3 tahun / 100.000 km, baterai 8 tahun / 400.000 km. Pengisian: DC 20–100% sekitar 1 jam; AC 20–100% sekitar 7 jam (bukan untuk 0–100%, jadi tidak dicatat); jenis soket AC tidak disebut. Jarak tempuh: 250 km dari daftar harga (metode uji tidak disebut); halaman resmi menyebut 220–250 km (WLTC) dan peluncuran 2025 menyebut 175 km. Boks kargo tertulis 3.200 x 1.800 x 1.800 mm, tanpa keterangan ukuran dalam atau luar, jadi dikosongkan. Radius putar 5,25 m dari laporan peluncuran. Akselerasi 0–50 km/jam 7,4 detik. eMiler yang dijual di Singapura memakai baterai 77 kWh dan jarak sumbu roda 2.900 mm, jadi versinya berbeda dan tidak ada angka dari pasar lain yang dipakai."
     }
   ]
 }

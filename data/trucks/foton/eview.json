@@ -24,7 +24,12 @@
         "body_type": "Minibus",
         "price_quote_idr": 658000000,
         "price_quote_basis": "off the road",
-        "seats": 16
+        "seats": 16,
+        "wheelbase_mm": 3050,
+        "drive": "RWD",
+        "gvw_kg": 3150,
+        "dc_10_80_min": 67,
+        "dc_time_window": "20–80%"
       },
       "sources": {
         "segment": [
@@ -59,6 +64,12 @@
             "title": "Lama Tak Ada Kabar, Foton Malah Nongol dengan eView dan eTruckmate (Medcom)",
             "date": "2024-11",
             "type": "media"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ObzPz81K-spesifikasi-foton-eview-mirip-toyota-hiace-tapi-versi-ev",
+            "title": "Spesifikasi Foton eView, Mirip Toyota Hiace tapi Versi EV (Medcom)",
+            "date": "2024-03",
+            "type": "press"
           }
         ],
         "battery_chemistry": [
@@ -103,6 +114,12 @@
           {
             "url": "https://moladin.com/blog/harga-dan-spesifikasi-foton-ev-kendaraan-komersial-anti-tenggak-bbm/",
             "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
+            "date": "2024-03",
+            "type": "press"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ObzPz81K-spesifikasi-foton-eview-mirip-toyota-hiace-tapi-versi-ev",
+            "title": "Spesifikasi Foton eView, Mirip Toyota Hiace tapi Versi EV (Medcom)",
             "date": "2024-03",
             "type": "press"
           }
@@ -159,6 +176,12 @@
             "title": "Lintas Shuttle Boyong Mobil Listrik Indomobil (KabarBursa)",
             "date": "2025-04",
             "type": "media"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ObzPz81K-spesifikasi-foton-eview-mirip-toyota-hiace-tapi-versi-ev",
+            "title": "Spesifikasi Foton eView, Mirip Toyota Hiace tapi Versi EV (Medcom)",
+            "date": "2024-03",
+            "type": "press"
           }
         ],
         "width_mm": [
@@ -179,6 +202,12 @@
             "title": "Lintas Shuttle Boyong Mobil Listrik Indomobil (KabarBursa)",
             "date": "2025-04",
             "type": "media"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ObzPz81K-spesifikasi-foton-eview-mirip-toyota-hiace-tapi-versi-ev",
+            "title": "Spesifikasi Foton eView, Mirip Toyota Hiace tapi Versi EV (Medcom)",
+            "date": "2024-03",
+            "type": "press"
           }
         ],
         "height_mm": [
@@ -199,6 +228,12 @@
             "title": "Lintas Shuttle Boyong Mobil Listrik Indomobil (KabarBursa)",
             "date": "2025-04",
             "type": "media"
+          },
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ObzPz81K-spesifikasi-foton-eview-mirip-toyota-hiace-tapi-versi-ev",
+            "title": "Spesifikasi Foton eView, Mirip Toyota Hiace tapi Versi EV (Medcom)",
+            "date": "2024-03",
+            "type": "press"
           }
         ],
         "body_type": [
@@ -250,10 +285,56 @@
             "date": "2026-09",
             "type": "official"
           }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ObzPz81K-spesifikasi-foton-eview-mirip-toyota-hiace-tapi-versi-ev",
+            "title": "Spesifikasi Foton eView, Mirip Toyota Hiace tapi Versi EV (Medcom)",
+            "date": "2024-03",
+            "type": "press"
+          },
+          {
+            "url": "https://mobilkomersial.com/2024/03/10/dibanderol-rp591-juta-ini-spesifikasi-minibus-listrik-foton-eview/",
+            "title": "Dibanderol Rp591 Juta, Ini Spesifikasi Minibus Listrik Foton eView (MobilKomersial)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://www.medcom.id/otomotif/mobil/ObzPz81K-spesifikasi-foton-eview-mirip-toyota-hiace-tapi-versi-ev",
+            "title": "Spesifikasi Foton eView, Mirip Toyota Hiace tapi Versi EV (Medcom)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "gvw_kg": [
+          {
+            "url": "https://mobilkomersial.com/2024/03/10/dibanderol-rp591-juta-ini-spesifikasi-minibus-listrik-foton-eview/",
+            "title": "Dibanderol Rp591 Juta, Ini Spesifikasi Minibus Listrik Foton eView (MobilKomersial)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://mobilkomersial.com/2024/03/10/dibanderol-rp591-juta-ini-spesifikasi-minibus-listrik-foton-eview/",
+            "title": "Dibanderol Rp591 Juta, Ini Spesifikasi Minibus Listrik Foton eView (MobilKomersial)",
+            "date": "2024-03",
+            "type": "press"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://mobilkomersial.com/2024/03/10/dibanderol-rp591-juta-ini-spesifikasi-minibus-listrik-foton-eview/",
+            "title": "Dibanderol Rp591 Juta, Ini Spesifikasi Minibus Listrik Foton eView (MobilKomersial)",
+            "date": "2024-03",
+            "type": "press"
+          }
         ]
       },
-      "notes": "Electric minibus / van (passenger body, up to 16 occupants), included as Small cargo because minibuses and shuttles count as light commercial. Same specs 2024–2026. Sale evidence: launched at GIICOMVEC 2024 (March 2024) at Rp 591 million off the road; Rp 658 million off the road from November 2024 (Medcom; KabarBursa: 'Rp 658 juta off the road Jakarta'); dozens of units delivered to the Lintas Shuttle travel operator (Bandung) in April 2025; the Foton Indomobil Pasar Minggu dealer lists it 'from Rp 658,000,000' (Nov 2026, basis not stated). No OTR price. Rp 658 million is stored as the quoted price, off the road: Medcom gives that figure as off the road, and the dealer's current 'from' price is the same figure without a stated basis. Power 115 PS (detikOto) = 85 kW (Moladin, Otomotifnet). Range 235 km NEDC (Otomotifnet); Medcom and Moladin's PLN-event report say 'up to 220 km', KabarBursa 'up to 300 km'. Seats: quoted as 9–16 (Otomotifnet 2024), 11–14 (KabarBursa) and 15–16 (Foton, Sept 2026), so seats is left out. DC fast charging is supported (CCS2 not confirmed); charging power and times are not consistently published. Assembly: imported CBU at the 2024 launch (detikOto); the eView is not among the models Foton says it assembles CKD in Pulo Gadung (eTruckMate, eMiler, eAumark), but its current status is not stated, so assembly is left out. GVW not published. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. Seats 13 + 3 (16), 4 tyres, range 295 km (test method not stated; earlier reports: 235 km NEDC; the official list is used). Every Foton EV comes with one AC charger (device only), except the eAumark series.",
-      "notes_id": "Minibus / van listrik (bodi penumpang, hingga 16 orang), dimasukkan ke Small cargo karena minibus dan shuttle dihitung sebagai kendaraan niaga ringan. Spesifikasi sama 2024–2026. Bukti penjualan: diluncurkan di GIICOMVEC 2024 (Maret 2024) dengan harga Rp591 juta off the road; Rp658 juta off the road sejak November 2024 (Medcom; KabarBursa: 'Rp658 juta off the road Jakarta'); puluhan unit diserahkan ke operator travel Lintas Shuttle (Bandung) pada April 2025; dealer Foton Indomobil Pasar Minggu mencantumkan 'mulai Rp658.000.000' (November 2026, basis harga tidak disebut). Tidak ada harga OTR. Rp658 juta disimpan sebagai harga kutipan off the road: Medcom menyebut angka itu off the road, dan harga 'mulai' dealer saat ini sama tanpa menyebut dasar harga. Tenaga 115 PS (detikOto) = 85 kW (Moladin, Otomotifnet). Jarak tempuh 235 km NEDC (Otomotifnet); Medcom dan laporan Moladin dari pameran PLN menyebut 'hingga 220 km', KabarBursa 'hingga 300 km'. Jumlah kursi disebut 9–16 (Otomotifnet 2024), 11–14 (KabarBursa), dan 15–16 (Foton, September 2026), jadi kolom kursi dikosongkan. Mendukung pengisian cepat DC (CCS2 belum terkonfirmasi); daya dan waktu pengisian tidak dipublikasikan secara konsisten. Perakitan: diimpor utuh (CBU) saat peluncuran 2024 (detikOto); eView tidak termasuk model yang dirakit CKD di Pulo Gadung (eTruckMate, eMiler, eAumark), tetapi status terkininya tidak disebut, sehingga kolom perakitan dikosongkan. JBB tidak dipublikasikan. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. Kursi 13 + 3 (16), 4 ban, jarak tempuh 295 km (metode uji tidak disebutkan; laporan sebelumnya: 235 km NEDC; daftar resmi yang dipakai). Setiap pembelian Foton EV mendapat satu unit AC charger (perangkat saja), kecuali seri eAumark."
+      "notes": "Electric minibus / van (passenger body), included as Small cargo because minibuses and shuttles count as light commercial; GVW 3,150 kg (MobilKomersial, March 2024), under 3.5 t. Same specs 2024–2026. Sale evidence: launched at GIICOMVEC 2024 (March 2024) at Rp 591 million off the road; Rp 658 million off the road from November 2024 (Medcom; KabarBursa: 'Rp 658 juta off the road Jakarta'); dozens of units delivered to the Lintas Shuttle travel operator (Bandung) in April 2025; listed in the official September 2026 price list at Rp 658 million off the road, Franco Jakarta, not binding; the Foton Indomobil Pasar Minggu dealer lists it from Rp 658,000,000 (Nov 2026). No OTR price. Seats: the price list gives 13 + 3 (16), which is stored; earlier reports quoted 9–16 (Otomotifnet 2024), 11–14 (KabarBursa) and 16 passenger seats (MobilKomersial, Medcom). Power 115 PS (detikOto) = 85 kW (Moladin, Otomotifnet), 290 Nm; single PMSM driving the rear wheels (Medcom). Wheelbase 3,050 mm and 15-inch wheels (Medcom, MobilKomersial). Range: 295 km from the price list (test method not stated); earlier reports gave 235 km NEDC and 195 km WLTP (MobilKomersial), 'up to 220 km' (Medcom, Moladin) and 'up to 300 km' (KabarBursa). Charging: DC 20–80% in about 67 minutes (MobilKomersial, 2024); another report says 20% to full in 1 h 20 min and AC about 8 hours (Autos.id). DC power, AC power and connectors are not published (CCS2 not confirmed). Assembly: imported CBU at the 2024 launch (detikOto); the eView is not among the models Foton says it assembles CKD in Pulo Gadung (eTruckMate, eMiler, eAumark), and its current status is not stated, so assembly is left out. The eView Connect shown at GIICOMVEC 2026 is a different, smaller van (4,895 mm, 3,100 mm wheelbase) and has no record here. Every Foton EV on the price list comes with one AC charger (device only), except the eAumark series.",
+      "notes_id": "Minibus / van listrik (bodi penumpang), dimasukkan ke Small cargo karena minibus dan shuttle dihitung sebagai kendaraan niaga ringan; JBB 3.150 kg (MobilKomersial, Maret 2024), di bawah 3,5 ton. Spesifikasi sama 2024–2026. Bukti penjualan: diluncurkan di GIICOMVEC 2024 (Maret 2024) dengan harga Rp591 juta off the road; Rp658 juta off the road sejak November 2024 (Medcom; KabarBursa: 'Rp658 juta off the road Jakarta'); puluhan unit diserahkan ke operator travel Lintas Shuttle (Bandung) pada April 2025; tercantum di daftar harga resmi September 2026 seharga Rp658 juta off the road, franco Jakarta, tidak mengikat; dealer Foton Indomobil Pasar Minggu mencantumkan mulai Rp658.000.000 (November 2026). Tidak ada harga OTR. Kursi: daftar harga menyebut 13 + 3 (16), dan angka ini yang dicatat; laporan sebelumnya menyebut 9–16 (Otomotifnet 2024), 11–14 (KabarBursa), dan 16 kursi penumpang (MobilKomersial, Medcom). Tenaga 115 PS (detikOto) = 85 kW (Moladin, Otomotifnet), torsi 290 Nm; satu motor PMSM yang menggerakkan roda belakang (Medcom). Jarak sumbu roda 3.050 mm dan pelek 15 inci (Medcom, MobilKomersial). Jarak tempuh: 295 km dari daftar harga (metode uji tidak disebut); laporan sebelumnya menyebut 235 km NEDC dan 195 km WLTP (MobilKomersial), 'hingga 220 km' (Medcom, Moladin), dan 'hingga 300 km' (KabarBursa). Pengisian: DC 20–80% sekitar 67 menit (MobilKomersial, 2024); laporan lain menyebut 20% hingga penuh dalam 1 jam 20 menit dan AC sekitar 8 jam (Autos.id). Daya DC, daya AC, dan jenis soket tidak dipublikasikan (CCS2 belum terkonfirmasi). Perakitan: diimpor utuh (CBU) saat peluncuran 2024 (detikOto); eView tidak termasuk model yang dirakit CKD di Pulo Gadung (eTruckMate, eMiler, eAumark), dan status terkininya tidak disebut, sehingga kolom perakitan dikosongkan. eView Connect yang dipamerkan di GIICOMVEC 2026 adalah van lain yang lebih kecil (4.895 mm, jarak sumbu roda 3.100 mm) dan tidak dibuatkan catatan di sini. Setiap pembelian Foton EV di daftar harga mendapat satu unit charger AC (perangkat saja), kecuali seri eAumark."
     }
   ]
 }

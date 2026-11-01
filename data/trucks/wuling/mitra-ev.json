@@ -37,7 +37,8 @@
         "cargo_volume_m3": 6.5,
         "transmission": "Single-speed reduction gear",
         "price_quote_idr": 299000000,
-        "price_quote_basis": "basis not stated"
+        "price_quote_basis": "basis not stated",
+        "ac_full_hours": 8
       },
       "sources": {
         "segment": [
@@ -439,10 +440,18 @@
             "date": "2025-07",
             "type": "official"
           }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "Launch record (July 2025). Launch price Rp 299 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants.",
-      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 299 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik."
+      "notes": "Launch record (July 2025). Launch price Rp 299 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW and AC connector not published; AC 0-100% in about 8 h (Long Range) or 11 h (Premium Range) is from Moladin's spec page only. Kerb weight, payload and warranty not published (Moladin lists 1,320-1,370 kg 'vehicle weight', but the same page gives a wrong cargo figure and these weights are well below the 1,481-1,551 kg of the Chinese Wuling Yangguang, so they are not used); cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Chinese-market figures for the related Wuling Yangguang are not used: its top speed (90-100 km/h), height (1,960 mm), kerb weights and maximum laden weight (2,860 kg) differ from the Indonesian Mitra EV, and its 41.9 kWh pack comes from two cell suppliers, so the same version cannot be confirmed.",
+      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 299 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC dan konektor AC tidak dipublikasikan; pengisian AC 0-100% sekitar 8 jam (Long Range) atau 11 jam (Premium Range) hanya bersumber dari halaman spesifikasi Moladin. Berat kosong, daya angkut, dan garansi tidak dipublikasikan (Moladin mencantumkan 'berat mobil' 1.320-1.370 kg, tetapi halaman yang sama salah mencantumkan kapasitas kargo dan angka itu jauh di bawah 1.481-1.551 kg milik Wuling Yangguang di China, jadi tidak dipakai); volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Data Wuling Yangguang di pasar China tidak dipakai: kecepatan maksimum (90-100 km/jam), tinggi (1.960 mm), berat kosong, dan berat maksimum bermuatan (2.860 kg) berbeda dari Mitra EV Indonesia, dan baterai 41,9 kWh-nya memakai sel dari dua pemasok, jadi kesamaan versinya tidak bisa dipastikan."
     },
     {
       "id": "wuling-mitra-ev-2025-blind-van-premium-range",
@@ -478,7 +487,9 @@
         "body_type": "Van",
         "cargo_volume_m3": 6.5,
         "price_quote_idr": 326000000,
-        "price_quote_basis": "basis not stated"
+        "price_quote_basis": "basis not stated",
+        "transmission": "Single-speed reduction gear",
+        "ac_full_hours": 11
       },
       "sources": {
         "segment": [
@@ -860,10 +871,32 @@
             "date": "2025-07",
             "type": "official"
           }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "Launch record (July 2025). Launch price Rp 326 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants.",
-      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 326 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik."
+      "notes": "Launch record (July 2025). Launch price Rp 326 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW and AC connector not published; AC 0-100% in about 8 h (Long Range) or 11 h (Premium Range) is from Moladin's spec page only. Kerb weight, payload and warranty not published (Moladin lists 1,320-1,370 kg 'vehicle weight', but the same page gives a wrong cargo figure and these weights are well below the 1,481-1,551 kg of the Chinese Wuling Yangguang, so they are not used); cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Chinese-market figures for the related Wuling Yangguang are not used: its top speed (90-100 km/h), height (1,960 mm), kerb weights and maximum laden weight (2,860 kg) differ from the Indonesian Mitra EV, and its 41.9 kWh pack comes from two cell suppliers, so the same version cannot be confirmed.",
+      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 326 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC dan konektor AC tidak dipublikasikan; pengisian AC 0-100% sekitar 8 jam (Long Range) atau 11 jam (Premium Range) hanya bersumber dari halaman spesifikasi Moladin. Berat kosong, daya angkut, dan garansi tidak dipublikasikan (Moladin mencantumkan 'berat mobil' 1.320-1.370 kg, tetapi halaman yang sama salah mencantumkan kapasitas kargo dan angka itu jauh di bawah 1.481-1.551 kg milik Wuling Yangguang di China, jadi tidak dipakai); volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Data Wuling Yangguang di pasar China tidak dipakai: kecepatan maksimum (90-100 km/jam), tinggi (1.960 mm), berat kosong, dan berat maksimum bermuatan (2.860 kg) berbeda dari Mitra EV Indonesia, dan baterai 41,9 kWh-nya memakai sel dari dua pemasok, jadi kesamaan versinya tidak bisa dipastikan."
     },
     {
       "id": "wuling-mitra-ev-2025-minibus-long-range",
@@ -898,7 +931,9 @@
         "airbags": 2,
         "body_type": "Minibus",
         "price_quote_idr": 317000000,
-        "price_quote_basis": "basis not stated"
+        "price_quote_basis": "basis not stated",
+        "transmission": "Single-speed reduction gear",
+        "ac_full_hours": 8
       },
       "sources": {
         "segment": [
@@ -1266,10 +1301,32 @@
             "date": "2025-07",
             "type": "official"
           }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "Launch record (July 2025). Launch price Rp 317 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo.",
-      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 317 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo."
+      "notes": "Launch record (July 2025). Launch price Rp 317 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW and AC connector not published; AC 0-100% in about 8 h (Long Range) or 11 h (Premium Range) is from Moladin's spec page only. Kerb weight, payload and warranty not published (Moladin lists 1,320-1,370 kg 'vehicle weight', but the same page gives a wrong cargo figure and these weights are well below the 1,481-1,551 kg of the Chinese Wuling Yangguang, so they are not used); cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo. Chinese-market figures for the related Wuling Yangguang are not used: its top speed (90-100 km/h), height (1,960 mm), kerb weights and maximum laden weight (2,860 kg) differ from the Indonesian Mitra EV, and its 41.9 kWh pack comes from two cell suppliers, so the same version cannot be confirmed.",
+      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 317 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC dan konektor AC tidak dipublikasikan; pengisian AC 0-100% sekitar 8 jam (Long Range) atau 11 jam (Premium Range) hanya bersumber dari halaman spesifikasi Moladin. Berat kosong, daya angkut, dan garansi tidak dipublikasikan (Moladin mencantumkan 'berat mobil' 1.320-1.370 kg, tetapi halaman yang sama salah mencantumkan kapasitas kargo dan angka itu jauh di bawah 1.481-1.551 kg milik Wuling Yangguang di China, jadi tidak dipakai); volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo. Data Wuling Yangguang di pasar China tidak dipakai: kecepatan maksimum (90-100 km/jam), tinggi (1.960 mm), berat kosong, dan berat maksimum bermuatan (2.860 kg) berbeda dari Mitra EV Indonesia, dan baterai 41,9 kWh-nya memakai sel dari dua pemasok, jadi kesamaan versinya tidak bisa dipastikan."
     },
     {
       "id": "wuling-mitra-ev-2025-minibus-premium-range",
@@ -1304,7 +1361,9 @@
         "airbags": 2,
         "body_type": "Minibus",
         "price_quote_idr": 344000000,
-        "price_quote_basis": "basis not stated"
+        "price_quote_basis": "basis not stated",
+        "transmission": "Single-speed reduction gear",
+        "ac_full_hours": 11
       },
       "sources": {
         "segment": [
@@ -1672,10 +1731,32 @@
             "date": "2025-07",
             "type": "official"
           }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "Launch record (July 2025). Launch price Rp 344 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo.",
-      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 344 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo."
+      "notes": "Launch record (July 2025). Launch price Rp 344 million in Jakarta including the VAT (PPN) incentive for the launch period; not labelled OTR, so it is stored as a quoted price with basis not stated. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW and AC connector not published; AC 0-100% in about 8 h (Long Range) or 11 h (Premium Range) is from Moladin's spec page only. Kerb weight, payload and warranty not published (Moladin lists 1,320-1,370 kg 'vehicle weight', but the same page gives a wrong cargo figure and these weights are well below the 1,481-1,551 kg of the Chinese Wuling Yangguang, so they are not used); cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo. Chinese-market figures for the related Wuling Yangguang are not used: its top speed (90-100 km/h), height (1,960 mm), kerb weights and maximum laden weight (2,860 kg) differ from the Indonesian Mitra EV, and its 41.9 kWh pack comes from two cell suppliers, so the same version cannot be confirmed.",
+      "notes_id": "Data peluncuran (Juli 2025). Harga peluncuran Rp 344 juta di Jakarta termasuk insentif PPN selama periode peluncuran; tidak disebut OTR, jadi disimpan sebagai harga kutipan dengan dasar harga tidak disebut. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC dan konektor AC tidak dipublikasikan; pengisian AC 0-100% sekitar 8 jam (Long Range) atau 11 jam (Premium Range) hanya bersumber dari halaman spesifikasi Moladin. Berat kosong, daya angkut, dan garansi tidak dipublikasikan (Moladin mencantumkan 'berat mobil' 1.320-1.370 kg, tetapi halaman yang sama salah mencantumkan kapasitas kargo dan angka itu jauh di bawah 1.481-1.551 kg milik Wuling Yangguang di China, jadi tidak dipakai); volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo. Data Wuling Yangguang di pasar China tidak dipakai: kecepatan maksimum (90-100 km/jam), tinggi (1.960 mm), berat kosong, dan berat maksimum bermuatan (2.860 kg) berbeda dari Mitra EV Indonesia, dan baterai 41,9 kWh-nya memakai sel dari dua pemasok, jadi kesamaan versinya tidak bisa dipastikan."
     },
     {
       "id": "wuling-mitra-ev-2026-blind-van-long-range",
@@ -1711,7 +1792,8 @@
         "price_otr_idr": 328000000,
         "body_type": "Van",
         "cargo_volume_m3": 6.5,
-        "transmission": "Single-speed reduction gear"
+        "transmission": "Single-speed reduction gear",
+        "ac_full_hours": 8
       },
       "sources": {
         "segment": [
@@ -2111,10 +2193,18 @@
             "date": "2026-11",
             "type": "media"
           }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "2026 price Rp 328 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants.",
-      "notes_id": "Harga 2026 Rp 328 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik."
+      "notes": "2026 price Rp 328 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW and AC connector not published; AC 0-100% in about 8 h (Long Range) or 11 h (Premium Range) is from Moladin's spec page only. Kerb weight, payload and warranty not published (Moladin lists 1,320-1,370 kg 'vehicle weight', but the same page gives a wrong cargo figure and these weights are well below the 1,481-1,551 kg of the Chinese Wuling Yangguang, so they are not used); cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Chinese-market figures for the related Wuling Yangguang are not used: its top speed (90-100 km/h), height (1,960 mm), kerb weights and maximum laden weight (2,860 kg) differ from the Indonesian Mitra EV, and its 41.9 kWh pack comes from two cell suppliers, so the same version cannot be confirmed.",
+      "notes_id": "Harga 2026 Rp 328 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC dan konektor AC tidak dipublikasikan; pengisian AC 0-100% sekitar 8 jam (Long Range) atau 11 jam (Premium Range) hanya bersumber dari halaman spesifikasi Moladin. Berat kosong, daya angkut, dan garansi tidak dipublikasikan (Moladin mencantumkan 'berat mobil' 1.320-1.370 kg, tetapi halaman yang sama salah mencantumkan kapasitas kargo dan angka itu jauh di bawah 1.481-1.551 kg milik Wuling Yangguang di China, jadi tidak dipakai); volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Data Wuling Yangguang di pasar China tidak dipakai: kecepatan maksimum (90-100 km/jam), tinggi (1.960 mm), berat kosong, dan berat maksimum bermuatan (2.860 kg) berbeda dari Mitra EV Indonesia, dan baterai 41,9 kWh-nya memakai sel dari dua pemasok, jadi kesamaan versinya tidak bisa dipastikan."
     },
     {
       "id": "wuling-mitra-ev-2026-blind-van-premium-range",
@@ -2149,7 +2239,9 @@
         "airbags": 1,
         "price_otr_idr": 358000000,
         "body_type": "Van",
-        "cargo_volume_m3": 6.5
+        "cargo_volume_m3": 6.5,
+        "transmission": "Single-speed reduction gear",
+        "ac_full_hours": 11
       },
       "sources": {
         "segment": [
@@ -2529,10 +2621,32 @@
             "date": "2025-07",
             "type": "official"
           }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "2026 price Rp 358 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants.",
-      "notes_id": "Harga 2026 Rp 358 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik."
+      "notes": "2026 price Rp 358 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW and AC connector not published; AC 0-100% in about 8 h (Long Range) or 11 h (Premium Range) is from Moladin's spec page only. Kerb weight, payload and warranty not published (Moladin lists 1,320-1,370 kg 'vehicle weight', but the same page gives a wrong cargo figure and these weights are well below the 1,481-1,551 kg of the Chinese Wuling Yangguang, so they are not used); cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Chinese-market figures for the related Wuling Yangguang are not used: its top speed (90-100 km/h), height (1,960 mm), kerb weights and maximum laden weight (2,860 kg) differ from the Indonesian Mitra EV, and its 41.9 kWh pack comes from two cell suppliers, so the same version cannot be confirmed.",
+      "notes_id": "Harga 2026 Rp 358 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC dan konektor AC tidak dipublikasikan; pengisian AC 0-100% sekitar 8 jam (Long Range) atau 11 jam (Premium Range) hanya bersumber dari halaman spesifikasi Moladin. Berat kosong, daya angkut, dan garansi tidak dipublikasikan (Moladin mencantumkan 'berat mobil' 1.320-1.370 kg, tetapi halaman yang sama salah mencantumkan kapasitas kargo dan angka itu jauh di bawah 1.481-1.551 kg milik Wuling Yangguang di China, jadi tidak dipakai); volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Data Wuling Yangguang di pasar China tidak dipakai: kecepatan maksimum (90-100 km/jam), tinggi (1.960 mm), berat kosong, dan berat maksimum bermuatan (2.860 kg) berbeda dari Mitra EV Indonesia, dan baterai 41,9 kWh-nya memakai sel dari dua pemasok, jadi kesamaan versinya tidak bisa dipastikan."
     },
     {
       "id": "wuling-mitra-ev-2026-minibus-long-range",
@@ -2566,7 +2680,9 @@
         "tyre_size": "195/70 R15C",
         "airbags": 2,
         "price_otr_idr": 348000000,
-        "body_type": "Minibus"
+        "body_type": "Minibus",
+        "transmission": "Single-speed reduction gear",
+        "ac_full_hours": 8
       },
       "sources": {
         "segment": [
@@ -2932,10 +3048,32 @@
             "date": "2026-11",
             "type": "official"
           }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "2026 price Rp 348 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo.",
-      "notes_id": "Harga 2026 Rp 348 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo."
+      "notes": "2026 price Rp 348 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW and AC connector not published; AC 0-100% in about 8 h (Long Range) or 11 h (Premium Range) is from Moladin's spec page only. Kerb weight, payload and warranty not published (Moladin lists 1,320-1,370 kg 'vehicle weight', but the same page gives a wrong cargo figure and these weights are well below the 1,481-1,551 kg of the Chinese Wuling Yangguang, so they are not used); cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo. Chinese-market figures for the related Wuling Yangguang are not used: its top speed (90-100 km/h), height (1,960 mm), kerb weights and maximum laden weight (2,860 kg) differ from the Indonesian Mitra EV, and its 41.9 kWh pack comes from two cell suppliers, so the same version cannot be confirmed.",
+      "notes_id": "Harga 2026 Rp 348 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC dan konektor AC tidak dipublikasikan; pengisian AC 0-100% sekitar 8 jam (Long Range) atau 11 jam (Premium Range) hanya bersumber dari halaman spesifikasi Moladin. Berat kosong, daya angkut, dan garansi tidak dipublikasikan (Moladin mencantumkan 'berat mobil' 1.320-1.370 kg, tetapi halaman yang sama salah mencantumkan kapasitas kargo dan angka itu jauh di bawah 1.481-1.551 kg milik Wuling Yangguang di China, jadi tidak dipakai); volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo. Data Wuling Yangguang di pasar China tidak dipakai: kecepatan maksimum (90-100 km/jam), tinggi (1.960 mm), berat kosong, dan berat maksimum bermuatan (2.860 kg) berbeda dari Mitra EV Indonesia, dan baterai 41,9 kWh-nya memakai sel dari dua pemasok, jadi kesamaan versinya tidak bisa dipastikan."
     },
     {
       "id": "wuling-mitra-ev-2026-minibus-premium-range",
@@ -2969,7 +3107,9 @@
         "tyre_size": "195/70 R15C",
         "airbags": 2,
         "price_otr_idr": 378000000,
-        "body_type": "Minibus"
+        "body_type": "Minibus",
+        "transmission": "Single-speed reduction gear",
+        "ac_full_hours": 11
       },
       "sources": {
         "segment": [
@@ -3335,10 +3475,32 @@
             "date": "2026-11",
             "type": "official"
           }
+        ],
+        "transmission": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          },
+          {
+            "url": "https://www.zigwheels.co.id/en/mobil-baru/wuling/mitra-ev/spesifikasi/?amp=1",
+            "title": "Wuling Mitra EV specifications (Zigwheels Indonesia)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "ac_full_hours": [
+          {
+            "url": "https://moladin.com/mobil-baru/wuling/wuling-mitra-ev/spesifikasi",
+            "title": "Spesifikasi Wuling Mitra EV (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "2026 price Rp 378 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW, AC connector and AC time not published. Kerb weight, payload and warranty not published; cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo.",
-      "notes_id": "Harga 2026 Rp 378 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC, konektor AC, dan waktu AC tidak dipublikasikan. Berat kosong, daya angkut, dan garansi tidak dipublikasikan; volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo."
+      "notes": "2026 price Rp 378 million OTR Jakarta (OTO, Zigwheels; Listrik Indonesia quotes Rp 328-358 million OTR Jakarta from the official site). Same specs as the 2025 launch. Produced by SGMW at Cikarang, Bekasi (production start end of Q3 2025). Range is CLTC per Wuling Indonesia. DC (CCS2) 30-80% in about 30 min; DC/AC kW and AC connector not published; AC 0-100% in about 8 h (Long Range) or 11 h (Premium Range) is from Moladin's spec page only. Kerb weight, payload and warranty not published (Moladin lists 1,320-1,370 kg 'vehicle weight', but the same page gives a wrong cargo figure and these weights are well below the 1,481-1,551 kg of the Chinese Wuling Yangguang, so they are not used); cargo volume (Blind Van) up to 6.5 m3. GVW per variant is from the Wuling Indonesia spec table (Blind Van 2,730/2,770 kg, Minibus 2,500/2,590 kg for Long/Premium Range). Height 1,975 mm per Wuling (Katadata quoted 1,960 mm). Ambulance, food-truck and angkot versions are karoseri conversions, not factory variants. Minibus (8 seats, passenger body) is counted as Small cargo. Chinese-market figures for the related Wuling Yangguang are not used: its top speed (90-100 km/h), height (1,960 mm), kerb weights and maximum laden weight (2,860 kg) differ from the Indonesian Mitra EV, and its 41.9 kWh pack comes from two cell suppliers, so the same version cannot be confirmed.",
+      "notes_id": "Harga 2026 Rp 378 juta OTR Jakarta (OTO, Zigwheels; Listrik Indonesia menyebut Rp 328-358 juta OTR Jakarta dari situs resmi). Spesifikasi sama dengan peluncuran 2025. Diproduksi SGMW di Cikarang, Bekasi (produksi mulai akhir kuartal III 2025). Jarak tempuh CLTC menurut Wuling Indonesia. DC (CCS2) 30-80% sekitar 30 menit; daya DC/AC dan konektor AC tidak dipublikasikan; pengisian AC 0-100% sekitar 8 jam (Long Range) atau 11 jam (Premium Range) hanya bersumber dari halaman spesifikasi Moladin. Berat kosong, daya angkut, dan garansi tidak dipublikasikan (Moladin mencantumkan 'berat mobil' 1.320-1.370 kg, tetapi halaman yang sama salah mencantumkan kapasitas kargo dan angka itu jauh di bawah 1.481-1.551 kg milik Wuling Yangguang di China, jadi tidak dipakai); volume kargo (Blind Van) hingga 6,5 m3. JBB per varian dari tabel spesifikasi Wuling Indonesia (Blind Van 2.730/2.770 kg, Minibus 2.500/2.590 kg untuk Long/Premium Range). Tinggi 1.975 mm menurut Wuling (Katadata menyebut 1.960 mm). Versi ambulans, food truck, dan angkot adalah konversi karoseri, bukan varian pabrik. Minibus (8 kursi, bodi penumpang) dimasukkan kelas Small cargo. Data Wuling Yangguang di pasar China tidak dipakai: kecepatan maksimum (90-100 km/jam), tinggi (1.960 mm), berat kosong, dan berat maksimum bermuatan (2.860 kg) berbeda dari Mitra EV Indonesia, dan baterai 41,9 kWh-nya memakai sel dari dua pemasok, jadi kesamaan versinya tidak bisa dipastikan."
     }
   ]
 }

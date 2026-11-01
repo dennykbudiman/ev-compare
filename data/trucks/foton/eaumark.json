@@ -19,7 +19,24 @@
         "body_type": "Rigid truck",
         "price_quote_idr": 735000000,
         "price_quote_basis": "off the road",
-        "gvw_kg": 7000
+        "gvw_kg": 7000,
+        "payload_kg": 4200,
+        "axle_front_kg": 2500,
+        "axle_rear_kg": 4500,
+        "length_mm": 5960,
+        "width_mm": 2060,
+        "height_mm": 2260,
+        "wheelbase_mm": 3360,
+        "battery_ip": "IP68",
+        "dc_10_80_min": 60,
+        "dc_time_window": "20–100%",
+        "tyre_size": "205/75 R17.5",
+        "top_speed_kmh": 90,
+        "gradeability_pct": 28,
+        "range_km": 250,
+        "vehicle_warranty": "3 yrs / 100,000 km",
+        "battery_warranty": "8 yrs / 400,000 km",
+        "free_service": "Free maintenance programme (terms not published)"
       },
       "sources": {
         "segment": [
@@ -62,6 +79,12 @@
             "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
             "date": "2024-03",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "battery_chemistry": [
@@ -70,6 +93,12 @@
             "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
             "date": "2024-03",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "cell_supplier": [
@@ -78,6 +107,12 @@
             "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
             "date": "2024-03",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "motor_type": [
@@ -86,6 +121,12 @@
             "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
             "date": "2024-03",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "power_kw": [
@@ -94,6 +135,12 @@
             "title": "Harga dan Spesifikasi Foton EV, Kendaraan Komersial Anti Tenggak BBM (Moladin)",
             "date": "2024-03",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "body_type": [
@@ -114,6 +161,12 @@
             "title": "Foton Luncurkan 3 Mobil Niaga Bertenaga Listrik (detikOto)",
             "date": "2024-03",
             "type": "press"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ],
         "price_quote_idr": [
@@ -144,16 +197,158 @@
             "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
             "date": "2026-09",
             "type": "official"
+          },
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "axle_front_kg": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "axle_rear_kg": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "tyre_size": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "gradeability_pct": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "range_km": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aumark-7t",
+            "title": "E-AUMARK 7T (Foton Indonesia)",
+            "date": "2026-11",
+            "type": "official"
           }
         ]
       },
-      "notes": "Electric light truck (cab-chassis for local bodies such as box, cold box, dump or water tank). Same specs 2024–2026 as far as published. Sale evidence: launched at GIICOMVEC 2024 at Rp 643.8 million off the road (imported CBU then); the Foton Indomobil Pasar Minggu dealer lists 'E-AUMARK' 'from Rp 735,000,000' (Nov 2026, basis and tonnage not stated). No OTR price. The dealer's 'from Rp 735,000,000' is stored as the quoted price (basis not stated); it is taken to be this 7T because the dealer lists the 14 T separately, but the tonnage is not stated. The 2024 launch price of Rp 643.8 million was off the road. Assembly: CKD at PT National Assemblers, Pulo Gadung since 2025 ('eAumark 7 ton', IDN Times April 2025; 36.25% local content). Class: described as a 7-ton light truck (Otomotifnet) and 'light duty truck' (Moladin). '7T' is probably GVW (Foton Indonesia's 14T variant is GVW 14 t), but no source states the 7T GVW, so the GVW is left out. Battery 81.14 kWh CATL LFP, 130 kW, 1,200 Nm and 'up to 167 km' come from the 2024 launch (Moladin); the torque figure may be at the axle rather than the motor (the Malaysian version quotes 'over 900 Nm'); no cycle stated. Foton Indonesia also lists an E-AUMARK 8.5 T variant, but no specs or price were found, so it has no record. Review (Nov 2026): the 1,200 Nm torque is left out because its basis (motor or axle) is not stated; the Malaysian version quotes 'over 900 Nm'. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. GVW 7 t, 6 tyres. Range is listed as 200–250 km (a span, so not stored); the earlier 167 km from the 2024 launch was removed.",
-      "notes_id": "Truk ringan listrik (sasis-kabin untuk karoseri lokal seperti boks, boks pendingin, dump, atau tangki air). Spesifikasi sama 2024–2026 sejauh yang dipublikasikan. Bukti penjualan: diluncurkan di GIICOMVEC 2024 dengan harga Rp643,8 juta off the road (saat itu diimpor CBU); dealer Foton Indomobil Pasar Minggu mencantumkan 'E-AUMARK' 'mulai Rp735.000.000' (November 2026, basis harga dan tonase tidak disebut). Tidak ada harga OTR. Harga dealer 'mulai Rp735.000.000' disimpan sebagai harga kutipan (dasar harga tidak disebut); harga ini dianggap untuk varian 7T karena dealer mencantumkan 14 T secara terpisah, tetapi tonasenya tidak disebut. Harga peluncuran 2024 sebesar Rp643,8 juta adalah off the road. Perakitan: CKD di PT National Assemblers, Pulo Gadung sejak 2025 ('eAumark 7 ton', IDN Times April 2025; TKDN 36,25%). Kelas: disebut truk ringan 7 ton (Otomotifnet) dan 'light duty truck' (Moladin). '7T' kemungkinan adalah JBB (varian 14T Foton Indonesia ber-JBB 14 ton), tetapi tidak ada sumber yang menyebut JBB varian 7T, sehingga JBB dikosongkan. Baterai 81,14 kWh LFP CATL, 130 kW, 1.200 Nm, dan 'hingga 167 km' berasal dari peluncuran 2024 (Moladin); angka torsi mungkin diukur di gardan, bukan di motor (versi Malaysia menyebut 'lebih dari 900 Nm'); metode uji tidak disebut. Foton Indonesia juga mencantumkan varian E-AUMARK 8,5 T, tetapi spesifikasi dan harganya tidak ditemukan, sehingga tidak dibuatkan catatan. Tinjauan (Nov 2026): torsi 1.200 Nm tidak dicantumkan karena tidak jelas apakah diukur di motor atau di gardan; versi Malaysia menyebut 'lebih dari 900 Nm'. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. JBB 7 ton, 6 ban. Jarak tempuh tercantum 200–250 km (rentang, jadi tidak dicantumkan); angka 167 km dari peluncuran 2024 dihapus."
+      "notes": "Electric light truck sold as a cab-chassis for local bodies (box, cold box, dump, water tank), 6 tyres. Same specs 2024–2026 as far as published. Sale evidence: launched at GIICOMVEC 2024 at Rp 643.8 million off the road (imported CBU then); listed in the official September 2026 price list (PT Indomobil Global Transportasi) at Rp 735 million off the road, Franco Jakarta, not binding; the Foton Indomobil Pasar Minggu dealer lists 'E-AUMARK' from Rp 735,000,000 (Nov 2026). No OTR price. Assembly: CKD at PT National Assemblers, Pulo Gadung since 2025 ('eAumark 7 ton', IDN Times April 2025; 36.25% local content). Official spec page (fotonindonesia.co.id, Nov 2026): GVW 7,000 kg, payload 4,200 kg, axle loads 2.5 t front / 4.5 t rear, chassis 5,960 x 2,060 x 2,260 mm, wheelbase 3,360 mm, cab width 1,880 mm, CATL LFP 81.14 kWh (IP68), PMSM 65 kW rated / 130 kW peak, final gear ratio 6.142, 205/75 R17.5 tyres, drum brakes front and rear with pneumatic assist, ABS + EBD, EPB, top speed 90 km/h, gradeability 28%, minimum turning diameter 13.5 m, warranty 3 years / 100,000 km, battery 8 years / 400,000 km, free maintenance programme. The page header also shows '81.14 / 100.07 kWh'; the spec table and the 2024 launch give 81.14 kWh, which is kept (100.07 kWh is the battery of Foton's 6-tonne eAumark sold abroad). Range: the page lists 250 km with 'CWTVC 200–250 km' and the price list 200–250 km; 250 km is stored as the top of that span (test method of the single figure not stated). Charging: DC 20–100% in 1 h and AC 20–100% in 7 h; the page says only 'CCS', so the connector type is left out, and the AC time is not a 0–100% figure, so it is left out too. Torque left out: the page gives 415/1,200 N·m, but its basis (motor or axle) is not stated and the Malaysian version quotes 'over 900 Nm'. The cargo box size (4,140 x 2,100 x 2,100 mm) is not stated as inside or outside, so it is left out. The page offers a free AC wall charger, while the September 2026 price list says its free AC charger excludes the eAumark series. eAumark versions sold in Malaysia and Poland with the 81.14 kWh pack have a 115 kW motor, so no foreign figures were used.",
+      "notes_id": "Truk ringan listrik yang dijual dalam bentuk sasis-kabin untuk karoseri lokal (boks, boks pendingin, dump, tangki air), 6 ban. Spesifikasi sama 2024–2026 sejauh yang dipublikasikan. Bukti penjualan: diluncurkan di GIICOMVEC 2024 dengan harga Rp643,8 juta off the road (saat itu diimpor CBU); tercantum di daftar harga resmi September 2026 (PT Indomobil Global Transportasi) seharga Rp735 juta off the road, franco Jakarta, tidak mengikat; dealer Foton Indomobil Pasar Minggu mencantumkan 'E-AUMARK' mulai Rp735.000.000 (November 2026). Tidak ada harga OTR. Perakitan: CKD di PT National Assemblers, Pulo Gadung sejak 2025 ('eAumark 7 ton', IDN Times April 2025; TKDN 36,25%). Halaman spesifikasi resmi (fotonindonesia.co.id, November 2026): JBB 7.000 kg, daya angkut 4.200 kg, beban sumbu depan 2,5 ton / belakang 4,5 ton, sasis 5.960 x 2.060 x 2.260 mm, jarak sumbu roda 3.360 mm, lebar kabin 1.880 mm, baterai LFP CATL 81,14 kWh (IP68), motor PMSM 65 kW nominal / 130 kW puncak, rasio gardan 6,142, ban 205/75 R17.5, rem tromol depan dan belakang dengan bantuan pneumatik, ABS + EBD, EPB, kecepatan maksimum 90 km/jam, daya tanjak 28%, diameter putar minimum 13,5 m, garansi 3 tahun / 100.000 km, baterai 8 tahun / 400.000 km, program perawatan gratis. Bagian atas halaman juga menulis '81.14 / 100,07 kWh'; tabel spesifikasi dan peluncuran 2024 menyebut 81,14 kWh, sehingga angka itu yang dipakai (100,07 kWh adalah baterai eAumark 6 ton yang dijual Foton di luar negeri). Jarak tempuh: halaman resmi menulis 250 km dengan 'CWTVC 200–250 km', dan daftar harga 200–250 km; yang dicatat 250 km sebagai batas atas rentang itu (metode uji untuk angka tunggal ini tidak disebut). Pengisian: DC 20–100% dalam 1 jam dan AC 20–100% dalam 7 jam; halaman hanya menulis 'CCS' tanpa jenisnya, jadi jenis soket dikosongkan, dan waktu AC bukan untuk 0–100%, jadi juga dikosongkan. Torsi tidak dicantumkan: halaman menyebut 415/1.200 N·m, tetapi tidak jelas apakah diukur di motor atau di gardan, dan versi Malaysia menyebut 'lebih dari 900 Nm'. Ukuran boks kargo (4.140 x 2.100 x 2.100 mm) tidak disebut ukuran dalam atau luar, jadi dikosongkan. Halaman resmi menjanjikan wall charger AC gratis, sedangkan daftar harga September 2026 menyebut charger AC gratis tidak berlaku untuk seri eAumark. Versi eAumark di Malaysia dan Polandia dengan baterai 81,14 kWh memakai motor 115 kW, sehingga tidak ada angka dari pasar lain yang dipakai."
     },
     {
-      "id": "foton-eaumark-2026-8-5t",
+      "id": "foton-eaumark-2026-9t",
       "model_year": 2026,
-      "variant": "8.5T",
+      "variant": "9T",
       "status": "on sale",
       "data_as_of": "2026-11",
       "values": {
@@ -184,247 +379,7 @@
         "gradeability_pct": 20,
         "vehicle_warranty": "3 yrs / 100,000 km",
         "battery_warranty": "8 yrs / 400,000 km",
-        "free_service": "Free maintenance programme (terms not published)"
-      },
-      "sources": {
-        "segment": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "body_type": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "gvw_kg": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "payload_kg": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "drive": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "axle_config": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "cab_type": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "length_mm": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "width_mm": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "height_mm": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "wheelbase_mm": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "battery_gross_kwh": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "battery_chemistry": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "cell_supplier": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "battery_cooling": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "battery_ip": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "pack_nominal_voltage_v": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "motor_type": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "power_kw": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "torque_nm": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "dc_connector": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "dc_10_80_min": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "dc_time_window": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "top_speed_kmh": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "gradeability_pct": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "vehicle_warranty": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "battery_warranty": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ],
-        "free_service": [
-          {
-            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
-            "title": "E-AURMARK 8.5 T (Foton Indonesia)",
-            "date": "2026-11",
-            "type": "official"
-          }
-        ]
-      },
-      "notes": "eAumark with GVW 8,500 kg (Light, at the top of the class) and payload 5,590 kg per Foton Indonesia's official page, 4x2, single-row cab, 6 tyres, cab-chassis for local bodies. Sale evidence: listed by the official distributor (fotonindonesia.co.id product page and vehicle enquiry list, Nov 2026; Foton's EV site fotonlistrik.id also has an eAumark 8.5T page). No price published, and assembly (CKD or CBU) is not stated for this variant. The official page has template errors like the 14T page: the spec table shows 81.14 kWh (the 7T's battery), while the header and the battery 'Capacity' row show 100.46 (no unit) with a 502.32 V pack; 100.46 kWh is used because it fits 502.32 V x 200 Ah. Power 75 rated / 150 peak is printed without a unit; the same row is labelled kW on the 7T page, so 150 kW peak is stored. Torque 250/560 Nm (rated/peak). Range listed as 200–250 km (C-WTVC, 25 °C), a span rather than one figure, so range_km is left out. DC charging 20–80% in 1 h via CCS2; DC power not published. Dimensions are chassis dimensions; no cargo body size is given for this variant. Gradeability 20%, top speed 90 km/h, front disc / rear drum brakes with pneumatic assist, ABS + EBD, EPB. Warranty: Foton Total Care 3 years / 100,000 km, battery 8 years / 400,000 km, free maintenance programme. The September 2026 price list has no 8.5T; it lists a 9T (GVW 9 t, Rp 780 million off the road), which may replace or be the same truck as this 8.5T. Kept separate until confirmed.",
-      "notes_id": "eAumark dengan JBB 8.500 kg (kelas Light, di batas atas kelas) dan daya angkut 5.590 kg menurut halaman resmi Foton Indonesia, 4x2, kabin satu baris, 6 ban, sasis untuk karoseri lokal. Bukti penjualan: tercantum di distributor resmi (halaman produk dan daftar permintaan kendaraan fotonindonesia.co.id, November 2026; situs EV Foton fotonlistrik.id juga punya halaman eAumark 8.5T). Harga tidak dipublikasikan, dan status perakitan (CKD atau CBU) tidak disebut untuk varian ini. Halaman resmi memiliki kesalahan template seperti halaman 14T: tabel spesifikasi menulis 81,14 kWh (baterai 7T), sedangkan bagian atas dan baris 'Capacity' baterai menulis 100,46 (tanpa satuan) dengan tegangan 502,32 V; angka 100,46 kWh dipakai karena sesuai dengan 502,32 V x 200 Ah. Tenaga 75 nominal / 150 puncak tercetak tanpa satuan; baris yang sama di halaman 7T bersatuan kW, sehingga dicatat 150 kW puncak. Torsi 250/560 Nm (nominal/puncak). Jarak tempuh tercantum 200–250 km (C-WTVC, 25 °C), berupa rentang dan bukan satu angka, sehingga range_km tidak diisi. Pengisian DC 20–80% dalam 1 jam melalui CCS2; daya DC tidak dipublikasikan. Dimensi adalah dimensi sasis; ukuran bak tidak dicantumkan untuk varian ini. Kemampuan tanjakan 20%, kecepatan maksimum 90 km/jam, rem depan cakram / belakang tromol dengan bantuan pneumatik, ABS + EBD, EPB. Garansi: Foton Total Care 3 tahun / 100.000 km, baterai 8 tahun / 400.000 km, program perawatan gratis. Daftar harga September 2026 tidak mencantumkan 8.5T, melainkan 9T (JBB 9 ton, Rp780 juta off the road), yang mungkin pengganti atau truk yang sama dengan 8.5T ini. Dicatat terpisah sampai ada kepastian."
-    },
-    {
-      "id": "foton-eaumark-2026-9t",
-      "model_year": 2026,
-      "variant": "9T",
-      "status": "on sale",
-      "data_as_of": "2026-11",
-      "values": {
-        "segment": "Medium",
-        "body_type": "Rigid truck",
-        "gvw_kg": 9000,
+        "free_service": "Free maintenance programme (terms not published)",
         "range_km": 250,
         "price_quote_idr": 780000000,
         "price_quote_basis": "off the road"
@@ -432,13 +387,19 @@
       "sources": {
         "segment": [
           {
-            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
-            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
-            "date": "2026-09",
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
             "type": "official"
           }
         ],
         "body_type": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          },
           {
             "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
             "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
@@ -448,9 +409,209 @@
         ],
         "gvw_kg": [
           {
-            "url": "https://github.com/dennykbudiman/ev-compare/blob/main/data/sources/foton-ev-pricelist-2026-09.jpg",
-            "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
-            "date": "2026-09",
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "payload_kg": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "drive": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "axle_config": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "cab_type": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "length_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "width_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "height_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "wheelbase_mm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_gross_kwh": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_chemistry": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_cooling": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_ip": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "pack_nominal_voltage_v": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "motor_type": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "power_kw": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "dc_10_80_min": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "dc_time_window": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "top_speed_kmh": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "gradeability_pct": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "vehicle_warranty": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "battery_warranty": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
+            "type": "official"
+          }
+        ],
+        "free_service": [
+          {
+            "url": "https://fotonindonesia.co.id/kendaraan/e-aurmark-85-t",
+            "title": "E-AURMARK 8.5 T (Foton Indonesia; the same truck is sold as eAumark 9T)",
+            "date": "2026-11",
             "type": "official"
           }
         ],
@@ -468,6 +629,12 @@
             "title": "Pricelist Foton EV, periode September 2026 (PT Indomobil Global Transportasi; copy kept in this repository)",
             "date": "2026-09",
             "type": "official"
+          },
+          {
+            "url": "https://fotonjakarta.com/pricelist",
+            "title": "Pricelist Foton Jakarta (dealer price list, 'e AUMARK 9T')",
+            "date": "2026-11",
+            "type": "media"
           }
         ],
         "price_quote_basis": [
@@ -479,8 +646,8 @@
           }
         ]
       },
-      "notes": "Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. eAumark 9T: GVW 9 t (so Medium class), 6 tyres, cab-chassis, range 250 km (test method not stated). No other specs published yet. Foton's website lists an 8.5T instead; this may be the same truck re-rated.",
-      "notes_id": "Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. eAumark 9T: JBB 9 ton (jadi kelas Sedang), 6 ban, sasis-kabin, jarak tempuh 250 km (metode uji tidak disebutkan). Spesifikasi lain belum dipublikasikan. Situs Foton mencantumkan varian 8.5T; mungkin truk yang sama dengan JBB baru."
+      "notes": "eAumark 9T: 6 tyres, 4x2, single-row cab, sold as a cab-chassis for local bodies. Name: Foton's Indonesian websites (fotonindonesia.co.id and fotonlistrik.id, Nov 2026) list this truck as 'E-AURMARK 8.5 T', while the official September 2026 price list (PT Indomobil Global Transportasi) and the Foton Jakarta dealer list an 'eAumark 9T' instead (Rp 780 million off the road, Franco Jakarta, not binding); neither lists both names. It is the same truck, renamed: Foton sells the 100.46 kWh / 150 kW eAumark as the '9T' in other markets (Foton do Brasil: 150 kW, 560 Nm, homologated GVW 8,500 kg; Frotacia, Brazil: 100.46 kWh, wheelbase 3,360 or 3,800 mm), which is the battery, motor, torque, GVW and wheelbase on the Indonesian 8.5T page, and Foton New Zealand's BJ1088EV has the same 75/150 kW and 250/560 Nm. The former 8.5T record was merged into this one. GVW: the price list says '9 Ton', the official spec page 8,500 kg with 5,590 kg payload. 8,500 kg is used: it is the detailed official figure, and the same 9T is homologated at 8,500 kg abroad, so '9T' is the model name. This puts it in the Light class (at the top of the class); if Foton Indonesia publishes a 9,000 kg registered GVW, it becomes Medium. Figures from the official 8.5T page (Nov 2026): class, GVW, payload, 4x2, single-row cab, chassis 5,960 x 2,205 x 2,280 mm, wheelbase 3,360 mm (tread 1,780/1,720 mm), CATL LFP 100.46 kWh (IP68, liquid-cooled, 502.32 V), PMSM 75/150 (power row printed without a unit; kW on the other eAumark pages, so 150 kW peak), torque 250/560 N·m, DC via CCS2 20–80% in 1 h (DC power not published), top speed 90 km/h, gradeability 20%, warranties and free maintenance programme. That page's spec table also shows 81.14 kWh (the 7T's battery, a template error); 100.46 kWh fits 502.32 V x 200 Ah and matches the 9T abroad. Range 250 km from the price list (test method not stated); the official page gives 200–250 km (C-WTVC, 25 °C). Brakes: front disc / rear drum with pneumatic assist, ABS + EBD, EPB. No kerb weight, tyre size or cargo body size is published. Assembly is not stated for this variant (Foton says the eAumark series is assembled CKD at Pulo Gadung, without naming variants). Foreign versions differ in GVW (New Zealand: 7,495 kg on the 3,360 mm wheelbase) or equipment (Brazil: disc brakes all round), so no foreign figures were used.",
+      "notes_id": "eAumark 9T: 6 ban, 4x2, kabin satu baris, dijual dalam bentuk sasis-kabin untuk karoseri lokal. Nama: situs Foton Indonesia (fotonindonesia.co.id dan fotonlistrik.id, November 2026) mencantumkan truk ini sebagai 'E-AURMARK 8.5 T', sedangkan daftar harga resmi September 2026 (PT Indomobil Global Transportasi) dan dealer Foton Jakarta mencantumkan 'eAumark 9T' (Rp780 juta off the road, franco Jakarta, tidak mengikat); tidak ada yang mencantumkan kedua nama sekaligus. Ini truk yang sama dengan nama baru: di pasar lain Foton menjual eAumark 100,46 kWh / 150 kW sebagai '9T' (Foton do Brasil: 150 kW, 560 Nm, JBB homologasi 8.500 kg; Frotacia, Brasil: 100,46 kWh, jarak sumbu roda 3.360 atau 3.800 mm), sama dengan baterai, motor, torsi, JBB, dan jarak sumbu roda di halaman 8.5T Indonesia, dan BJ1088EV Foton Selandia Baru juga bertenaga 75/150 kW dan bertorsi 250/560 Nm. Catatan 8.5T sebelumnya sudah digabung ke catatan ini. JBB: daftar harga menulis '9 Ton', sedangkan halaman spesifikasi resmi 8.500 kg dengan daya angkut 5.590 kg. Yang dipakai 8.500 kg: angka resmi yang terperinci, dan 9T yang sama di luar negeri juga berhomologasi 8.500 kg, sehingga '9T' adalah nama model. Dengan begitu truk ini masuk kelas Light (di batas atas kelas); jika Foton Indonesia memublikasikan JBB terdaftar 9.000 kg, kelasnya menjadi Medium. Angka dari halaman resmi 8.5T (November 2026): kelas, JBB, daya angkut, 4x2, kabin satu baris, sasis 5.960 x 2.205 x 2.280 mm, jarak sumbu roda 3.360 mm (lebar jejak 1.780/1.720 mm), baterai LFP CATL 100,46 kWh (IP68, pendinginan cairan, 502,32 V), motor PMSM 75/150 (baris tenaga tanpa satuan; di halaman eAumark lain satuannya kW, jadi dicatat 150 kW puncak), torsi 250/560 N·m, pengisian DC lewat CCS2 20–80% dalam 1 jam (daya DC tidak dipublikasikan), kecepatan maksimum 90 km/jam, daya tanjak 20%, garansi, dan program perawatan gratis. Tabel spesifikasi di halaman itu juga menulis 81,14 kWh (baterai 7T, kesalahan templat); 100,46 kWh sesuai dengan 502,32 V x 200 Ah dan dengan 9T di luar negeri. Jarak tempuh 250 km dari daftar harga (metode uji tidak disebut); halaman resmi menyebut 200–250 km (C-WTVC, 25 °C). Rem: cakram depan / tromol belakang dengan bantuan pneumatik, ABS + EBD, EPB. Berat kosong, ukuran ban, dan ukuran bak tidak dipublikasikan. Status perakitan tidak disebut untuk varian ini (Foton menyebut seri eAumark dirakit CKD di Pulo Gadung tanpa merinci varian). Versi luar negeri berbeda JBB (Selandia Baru: 7.495 kg untuk jarak sumbu roda 3.360 mm) atau perlengkapan (Brasil: rem cakram di keempat roda), sehingga tidak ada angka dari pasar lain yang dipakai."
     },
     {
       "id": "foton-eaumark-2026-14t",
@@ -816,8 +983,8 @@
           }
         ]
       },
-      "notes": "Largest eAumark (6 tyres, 4x2), GVW 14,000 kg and payload 9,232 kg per Foton Indonesia, so it is Medium, not Light. Locally assembled CKD (fotonlistrik.id, run by PT Indomobil Global Transportasi). Sale evidence: the Foton Indomobil Pasar Minggu dealer lists 'E AUMARK 14 T' 'from Rp 1,250,000,000' with a January 2026 brochure (basis not stated, so it is stored as the quoted price, not as OTR); shown at GIICOMVEC 2026 as 'eAumark 14 Ton'. The official spec page has template errors: battery capacity appears as both 162 kWh and 81.14 kWh (162 kWh is used: it is in the header, the table and on fotonlistrik.id, and fits the 540.96 V pack), and torque appears as both 135/260 Nm (rated/peak) and '2800' with no unit, so torque is left out. Range is listed as 220–275 km (C-WTVC, 25 °C), a span rather than one figure, so the range is left out. DC charging 20–80% in 1.2 h via CCS2; DC power not published. Length/width/height are chassis dimensions; the closed cargo box is listed as 5,500 x 2,350 x 2,300 mm (not stated whether inside or outside, so left out). Also listed: pneumatic drum brakes, 24% gradeability, 13.5 m turning diameter, ABS + EBD, EPB, free AC wall charger. Review (Nov 2026): power left out. The official page lists 65 kW rated / 130 kW peak, the same as the 7T's published 130 kW, on a page that also shows the 7T's 81.14 kWh battery, so it may be copied from the 7T. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. GVW 14 t, 6 tyres, range 275 km (test method not stated; the official spec page gives 220–275 km C-WTVC).",
-      "notes_id": "Varian eAumark terbesar (6 roda, 4x2), JBB 14.000 kg dan daya angkut 9.232 kg menurut Foton Indonesia, sehingga masuk kelas Medium, bukan Light. Dirakit lokal secara CKD (fotonlistrik.id, dikelola PT Indomobil Global Transportasi). Bukti penjualan: dealer Foton Indomobil Pasar Minggu mencantumkan 'E AUMARK 14 T' 'mulai Rp1.250.000.000' dengan brosur Januari 2026 (dasar harga tidak disebut, jadi disimpan sebagai harga kutipan, bukan harga OTR); dipamerkan di GIICOMVEC 2026 sebagai 'eAumark 14 Ton'. Halaman spesifikasi resmi memuat kesalahan templat: kapasitas baterai tertulis 162 kWh sekaligus 81,14 kWh (dipakai 162 kWh: tercantum di judul, tabel, dan fotonlistrik.id, serta sesuai dengan paket 540,96 V), dan torsi tertulis 135/260 Nm (nominal/puncak) sekaligus '2800' tanpa satuan, sehingga torsi dikosongkan. Tenaga nominal 65 kW / puncak 130 kW sesuai yang tercantum. Jarak tempuh tertulis 220–275 km (C-WTVC, 25 °C), berupa rentang, bukan satu angka, sehingga jarak tempuh dikosongkan. Pengisian DC 20–80% dalam 1,2 jam lewat CCS2; daya DC tidak dipublikasikan. Panjang/lebar/tinggi adalah dimensi sasis; boks kargo tertutup tertulis 5.500 x 2.350 x 2.300 mm (tidak disebut ukuran dalam atau luar, jadi dikosongkan). Juga tercantum: rem tromol pneumatik, daya tanjak 24%, diameter putar 13,5 m, ABS + EBD, EPB, dan wall charger AC gratis. Tinjauan (Nov 2026): tenaga tidak dicantumkan. Halaman resmi menyebut 65 kW nominal / 130 kW puncak, sama dengan 130 kW milik varian 7T, di halaman yang juga memuat baterai 81,14 kWh milik 7T, sehingga angka ini mungkin tersalin dari 7T. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. JBB 14 ton, 6 ban, jarak tempuh 275 km (metode uji tidak disebutkan; halaman spesifikasi resmi menyebut 220–275 km C-WTVC)."
+      "notes": "Largest eAumark (6 tyres, 4x2), GVW 14,000 kg and payload 9,232 kg per Foton Indonesia, so it is Medium, not Light. Locally assembled CKD (fotonlistrik.id, run by PT Indomobil Global Transportasi). Sale evidence: the Foton Indomobil Pasar Minggu dealer lists 'E AUMARK 14 T' 'from Rp 1,250,000,000' with a January 2026 brochure (basis not stated, so it is stored as the quoted price, not as OTR); shown at GIICOMVEC 2026 as 'eAumark 14 Ton'. The official spec page has template errors: battery capacity appears as both 162 kWh and 81.14 kWh (162 kWh is used: it is in the header, the table and on fotonlistrik.id, and fits the 540.96 V pack), and torque appears as both 135/260 Nm (rated/peak) and '2800' with no unit, so torque is left out. Range: 275 km from the price list (test method not stated); the official spec page gives 220–275 km (C-WTVC, 25 °C). DC charging 20–80% in 1.2 h via CCS2; DC power not published. Length/width/height are chassis dimensions; the closed cargo box is listed as 5,500 x 2,350 x 2,300 mm (not stated whether inside or outside, so left out). Also listed: pneumatic drum brakes, 24% gradeability, 13.5 m turning diameter, ABS + EBD, EPB, free AC wall charger. Review (Nov 2026): power left out. The official page lists 65 kW rated / 130 kW peak, the same as the 7T's published 130 kW, on a page that also shows the 7T's 81.14 kWh battery, so it may be copied from the 7T. Foton EV price list September 2026 (PT Indomobil Global Transportasi): prices are off the road, Franco Jakarta, not binding and may change. GVW 14 t, 6 tyres. Review (Nov 2026): the page's '135/260 N·m' row and its separate '2800' torque row look like mislabelled power (135/260 kW) and torque (2,800 Nm): Foton's 12-tonne eAumark in Brazil, with the same 162.28 kWh / 540 V pack, is quoted at 260 kW and 2,800 Nm. That truck's GVW differs (11,500 kg), so neither figure is stored. The 9T on the price list is the former 8.5T (see that record).",
+      "notes_id": "Varian eAumark terbesar (6 roda, 4x2), JBB 14.000 kg dan daya angkut 9.232 kg menurut Foton Indonesia, sehingga masuk kelas Medium, bukan Light. Dirakit lokal secara CKD (fotonlistrik.id, dikelola PT Indomobil Global Transportasi). Bukti penjualan: dealer Foton Indomobil Pasar Minggu mencantumkan 'E AUMARK 14 T' 'mulai Rp1.250.000.000' dengan brosur Januari 2026 (dasar harga tidak disebut, jadi disimpan sebagai harga kutipan, bukan harga OTR); dipamerkan di GIICOMVEC 2026 sebagai 'eAumark 14 Ton'. Halaman spesifikasi resmi memuat kesalahan templat: kapasitas baterai tertulis 162 kWh sekaligus 81,14 kWh (dipakai 162 kWh: tercantum di judul, tabel, dan fotonlistrik.id, serta sesuai dengan paket 540,96 V), dan torsi tertulis 135/260 Nm (nominal/puncak) sekaligus '2800' tanpa satuan, sehingga torsi dikosongkan. Jarak tempuh: 275 km dari daftar harga (metode uji tidak disebut); halaman spesifikasi resmi menyebut 220–275 km (C-WTVC, 25 °C). Pengisian DC 20–80% dalam 1,2 jam lewat CCS2; daya DC tidak dipublikasikan. Panjang/lebar/tinggi adalah dimensi sasis; boks kargo tertutup tertulis 5.500 x 2.350 x 2.300 mm (tidak disebut ukuran dalam atau luar, jadi dikosongkan). Juga tercantum: rem tromol pneumatik, daya tanjak 24%, diameter putar 13,5 m, ABS + EBD, EPB, dan wall charger AC gratis. Tinjauan (Nov 2026): tenaga tidak dicantumkan. Halaman resmi menyebut 65 kW nominal / 130 kW puncak, sama dengan 130 kW milik varian 7T, di halaman yang juga memuat baterai 81,14 kWh milik 7T, sehingga angka ini mungkin tersalin dari 7T. Daftar harga Foton EV September 2026 (PT Indomobil Global Transportasi): harga off the road, franco Jakarta, tidak mengikat dan dapat berubah sewaktu-waktu. JBB 14 ton, 6 ban. Tinjauan (Nov 2026): baris '135/260 N·m' dan baris torsi '2800' di halaman itu tampaknya tenaga (135/260 kW) dan torsi (2.800 Nm) yang salah label: eAumark 12 ton Foton di Brasil, dengan baterai 162,28 kWh / 540 V yang sama, disebut bertenaga 260 kW dan bertorsi 2.800 Nm. JBB truk itu berbeda (11.500 kg), jadi kedua angka tidak dicantumkan. Varian 9T di daftar harga adalah 8.5T yang berganti nama (lihat catatan varian itu)."
     }
   ]
 }

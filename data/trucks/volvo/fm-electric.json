@@ -27,7 +27,13 @@
         "wheelbase_mm": 3900,
         "adas": "FCW, LKS, LDW",
         "body_type": "Tractor head",
-        "transmission": "12-speed automated manual (I-Shift)"
+        "transmission": "12-speed automated manual (I-Shift)",
+        "ac_max_kw": 43,
+        "onboard_charger_kw": 43,
+        "dc_max_kw": 250,
+        "dc_connector": "CCS2",
+        "torque_nm": 2400,
+        "cell_supplier": "Samsung SDI"
       },
       "sources": {
         "segment": [
@@ -283,10 +289,120 @@
             "date": "2024-09",
             "type": "media"
           }
+        ],
+        "ac_max_kw": [
+          {
+            "url": "https://www.autointernational.com.my/Volvo%20Trucks%20Malaysia%20launched%20South%20East%20Asia%20first%20fully-electric,%20heavy-duty%20prime%20mover%20series%20%20%20%20%20-%2013%20%20July%2023.html",
+            "title": "South East Asia's first fully-electric, heavy-duty prime mover series launched by Volvo Trucks Malaysia (Auto International)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.wapcar.my/news/volvo-trucks-launches-first-ev-prime-movers-in-malaysia-first-for-the-region-70643",
+            "title": "Volvo Trucks launches first EV prime movers in Malaysia, first for the region (WapCar)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://soyacincau.com/2023/07/12/volvo-electric-trucks-malaysia-why-300km-range/",
+            "title": "Volvo electric trucks in Malaysia: why only 300km range? (SoyaCincau)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "onboard_charger_kw": [
+          {
+            "url": "https://www.autointernational.com.my/Volvo%20Trucks%20Malaysia%20launched%20South%20East%20Asia%20first%20fully-electric,%20heavy-duty%20prime%20mover%20series%20%20%20%20%20-%2013%20%20July%2023.html",
+            "title": "South East Asia's first fully-electric, heavy-duty prime mover series launched by Volvo Trucks Malaysia (Auto International)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.wapcar.my/news/volvo-trucks-launches-first-ev-prime-movers-in-malaysia-first-for-the-region-70643",
+            "title": "Volvo Trucks launches first EV prime movers in Malaysia, first for the region (WapCar)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_max_kw": [
+          {
+            "url": "https://www.autointernational.com.my/Volvo%20Trucks%20Malaysia%20launched%20South%20East%20Asia%20first%20fully-electric,%20heavy-duty%20prime%20mover%20series%20%20%20%20%20-%2013%20%20July%2023.html",
+            "title": "South East Asia's first fully-electric, heavy-duty prime mover series launched by Volvo Trucks Malaysia (Auto International)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.wapcar.my/news/volvo-trucks-launches-first-ev-prime-movers-in-malaysia-first-for-the-region-70643",
+            "title": "Volvo Trucks launches first EV prime movers in Malaysia, first for the region (WapCar)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://soyacincau.com/2023/07/12/volvo-electric-trucks-malaysia-why-300km-range/",
+            "title": "Volvo electric trucks in Malaysia: why only 300km range? (SoyaCincau)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "dc_connector": [
+          {
+            "url": "https://soyacincau.com/2023/07/12/volvo-electric-trucks-malaysia-why-300km-range/",
+            "title": "Volvo electric trucks in Malaysia: why only 300km range? (SoyaCincau)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://carz.com.my/2023/07/launched-volvo-fm-ev-truck-666-hp-2400-nm-300-km-range-from-rm2-million",
+            "title": "Launched: Volvo FM EV truck, 666 hp, 2400 Nm, 300 km range, from RM2 million (Carz)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          }
+        ],
+        "torque_nm": [
+          {
+            "url": "https://soyacincau.com/2023/07/12/volvo-electric-trucks-malaysia-why-300km-range/",
+            "title": "Volvo electric trucks in Malaysia: why only 300km range? (SoyaCincau)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://carz.com.my/2023/07/launched-volvo-fm-ev-truck-666-hp-2400-nm-300-km-range-from-rm2-million",
+            "title": "Launched: Volvo FM EV truck, 666 hp, 2400 Nm, 300 km range, from RM2 million (Carz)",
+            "date": "2023-07",
+            "type": "media",
+            "market": "Malaysia"
+          },
+          {
+            "url": "https://www.autointernational.com.my/Volvo%20Trucks%20Malaysia%20launched%20South%20East%20Asia%20first%20fully-electric,%20heavy-duty%20prime%20mover%20series%20%20%20%20%20-%2013%20%20July%2023.html",
+            "title": "South East Asia's first fully-electric, heavy-duty prime mover series launched by Volvo Trucks Malaysia (Auto International)",
+            "date": "2023-07",
+            "type": "press",
+            "market": "Malaysia"
+          }
+        ],
+        "cell_supplier": [
+          {
+            "url": "https://batteryindustry.net/?p=25846",
+            "title": "Volvo Trucks opens its first battery plant; cells and modules from Samsung SDI (Battery Industry)",
+            "date": "2026-11",
+            "type": "media",
+            "market": "Europe"
+          }
         ]
       },
-      "notes": "Tractor head launched 11 Sep 2024 at Mining Indonesia 2024 by Volvo Trucks with Indomobil (brand holder PT Wahana Inti Selaras; dealers PT Indotruck Utama and PT Eka Dharma Jaya Sakti), imported CBU from Sweden. Volvo and Indomobil signed agreements with PT Pancaran Darat Transport and PT Artha Satya Karunia to start adopting Volvo e-trucks (volvotrucks.id press release, Sep 2024), but I found no confirmed Indonesian deliveries: Investor.id (Sep 2024) calls it a pilot project, and Kompas (Feb 2025) headlined that it was 'still waiting for regulation'. Status 'on sale' means officially offered, not proven deliveries. Battery: 5 packs, 450 kWh total as quoted (stored as gross; usable not published). 490 kW (666 hp) from 3 electric motors; 12-speed I-Shift. Range is a claim of 'more than 340 km' (no test cycle); Kompas headlined 300 km. AutoJago says a 6th battery is optional for up to 380 km, but no capacity or separate Indonesian variant was published, so it is not a separate trim. Charging: about 10 h on AC and about 2 h 0–100% on DC (Garduoto says 2–3 h); charger power not stated. GCW 44 t and dimensions from Mobil Komersial (2025). The same article gives tyres as '3295/80R22.5' (an obvious typo, probably 295/80 R22.5), so tyre size is left out. Price: AutoJago quotes an estimated Rp 5.5 billion (estimate, no subsidy; not OTR) and about Rp 300 million per battery pack, so no OTR price is stored, and the estimate is not stored as a quoted price either. The volvotrucks.id FM Electric product page shows the global range (360–540 kWh, 2 motors, 350 kW DC, up to 65 t GCW). That is a newer or different configuration than the Indonesian 3-motor 6x4T, so it is not used. Zigwheels/OTO Indonesia list '450 HP 180 kWh' and '666 HP 540 kWh' variants that look like copied Philippine data, so they are not used either.",
-      "notes_id": "Tractor head diluncurkan 11 September 2024 di Mining Indonesia 2024 oleh Volvo Trucks bersama Indomobil (pemegang merek PT Wahana Inti Selaras; diler PT Indotruck Utama dan PT Eka Dharma Jaya Sakti), diimpor CBU dari Swedia. Volvo dan Indomobil meneken kesepakatan dengan PT Pancaran Darat Transport dan PT Artha Satya Karunia untuk mulai mengadopsi truk listrik Volvo (siaran pers volvotrucks.id, September 2024), tetapi saya tidak menemukan konfirmasi pengiriman unit di Indonesia: Investor.id (September 2024) menyebutnya proyek percontohan, dan Kompas (Februari 2025) menulis bahwa truk ini 'masih menunggu regulasi'. Status 'on sale' berarti resmi ditawarkan, bukan bukti unit sudah dikirim. Baterai: 5 paket, total 450 kWh sesuai kutipan (disimpan sebagai kapasitas kotor; kapasitas bersih tidak dipublikasikan). Tenaga 490 kW (666 dk) dari 3 motor listrik, transmisi I-Shift 12 percepatan. Jarak tempuh adalah klaim 'lebih dari 340 km' tanpa siklus uji; Kompas menulis 300 km. Menurut AutoJago, baterai ke-6 tersedia sebagai opsi untuk jarak hingga 380 km, tetapi kapasitasnya dan varian Indonesia tersendiri tidak dipublikasikan, jadi tidak dibuat trim terpisah. Pengisian: sekitar 10 jam dengan AC dan sekitar 2 jam 0–100% dengan DC (Garduoto menyebut 2–3 jam); daya pengisi tidak disebutkan. GCW 44 ton dan dimensi dari Mobil Komersial (2025). Artikel yang sama menulis ban '3295/80R22.5' (jelas salah ketik, kemungkinan 295/80 R22.5), jadi ukuran ban tidak dicantumkan. Harga: AutoJago menyebut estimasi Rp 5,5 miliar (perkiraan, tanpa subsidi; bukan OTR) dan sekitar Rp 300 juta per paket baterai, jadi harga OTR tidak diisi, dan estimasi ini juga tidak disimpan sebagai harga kutipan. Halaman produk FM Electric di volvotrucks.id memuat rentang global (360–540 kWh, 2 motor, DC 350 kW, GCW hingga 65 ton). Itu konfigurasi yang lebih baru atau berbeda dari 6x4T 3 motor versi Indonesia, jadi tidak dipakai. Data Zigwheels/OTO Indonesia ('450 HP 180 kWh' dan '666 HP 540 kWh') tampaknya salinan data Filipina, jadi juga tidak dipakai."
+      "notes": "Tractor head launched 11 Sep 2024 at Mining Indonesia 2024 by Volvo Trucks with Indomobil (brand holder PT Wahana Inti Selaras; dealers PT Indotruck Utama and PT Eka Dharma Jaya Sakti), imported CBU from Sweden. Volvo and Indomobil signed agreements with PT Pancaran Darat Transport and PT Artha Satya Karunia to start adopting Volvo e-trucks (volvotrucks.id press release, Sep 2024), but I found no confirmed Indonesian deliveries: Investor.id (Sep 2024) calls it a pilot project, and Kompas (Feb 2025) headlined that it was 'still waiting for regulation'. Status 'on sale' means officially offered, not proven deliveries. Battery: 5 packs, 450 kWh total as quoted (stored as gross). Volvo's packs for the FH, FM and FMX Electric are 90 kWh each (Battery Industry; Trucksales Australia calls 6 packs '540 kWh nominal'), so 450 kWh matches 5 packs. Volvo New Zealand's info sheet for the same 3-motor 6x4 tractor calls 450–540 kWh 'useable', which conflicts, so no usable figure is stored. 490 kW (666 hp) from 3 electric motors; 12-speed I-Shift. Range is a claim of 'more than 340 km' (no test cycle); Kompas headlined 300 km. AutoJago says a 6th battery is optional for up to 380 km, but no capacity or separate Indonesian variant was published, so it is not a separate trim. Charging: about 10 h on AC and about 2 h 0–100% on DC (Garduoto says 2–3 h); Indonesian sources do not state charger power. Other-market figures: the 43 kW AC on-board charger, DC charging up to 250 kW, the CCS2 port and 2,400 Nm torque come from the Malaysian spec (launch July 2023: SoyaCincau, Auto International, WapCar, Carz), where the FM Electric has the same up-to-3-motor 490 kW driveline and the same 10 h AC / under 2 h DC charge times; CCS2 is standard on all Malaysian models. The cell supplier (Samsung SDI cells and modules, packs assembled in Ghent) comes from a European report. Volvo New Zealand lists GCW up to 50 t for this version; the Indonesian 44 t is kept. GCW 44 t and dimensions from Mobil Komersial (2025). The same article gives tyres as '3295/80R22.5' (an obvious typo, probably 295/80 R22.5), so tyre size is left out. Price: AutoJago quotes an estimated Rp 5.5 billion (estimate, no subsidy; not OTR) and about Rp 300 million per battery pack, so no OTR price is stored, and the estimate is not stored as a quoted price either. The volvotrucks.id FM Electric product page shows the global range (360–540 kWh, 2 motors, 350 kW DC, up to 65 t GCW). That is a newer or different configuration than the Indonesian 3-motor 6x4T, so it is not used. Zigwheels/OTO Indonesia list '450 HP 180 kWh' and '666 HP 540 kWh' variants that look like copied Philippine data, so they are not used either.",
+      "notes_id": "Tractor head diluncurkan 11 September 2024 di Mining Indonesia 2024 oleh Volvo Trucks bersama Indomobil (pemegang merek PT Wahana Inti Selaras; diler PT Indotruck Utama dan PT Eka Dharma Jaya Sakti), diimpor CBU dari Swedia. Volvo dan Indomobil meneken kesepakatan dengan PT Pancaran Darat Transport dan PT Artha Satya Karunia untuk mulai mengadopsi truk listrik Volvo (siaran pers volvotrucks.id, September 2024), tetapi saya tidak menemukan konfirmasi pengiriman unit di Indonesia: Investor.id (September 2024) menyebutnya proyek percontohan, dan Kompas (Februari 2025) menulis bahwa truk ini 'masih menunggu regulasi'. Status 'on sale' berarti resmi ditawarkan, bukan bukti unit sudah dikirim. Baterai: 5 paket, total 450 kWh sesuai kutipan (disimpan sebagai kapasitas kotor). Paket baterai Volvo untuk FH, FM, dan FMX Electric masing-masing 90 kWh (Battery Industry; Trucksales Australia menyebut 6 paket '540 kWh nominal'), jadi 450 kWh sama dengan 5 paket. Lembar info Volvo Selandia Baru untuk tractor 6x4 3 motor yang sama menyebut 450–540 kWh sebagai kapasitas 'useable', sehingga ada pertentangan dan kapasitas bersih tidak disimpan. Tenaga 490 kW (666 dk) dari 3 motor listrik, transmisi I-Shift 12 percepatan. Jarak tempuh adalah klaim 'lebih dari 340 km' tanpa siklus uji; Kompas menulis 300 km. Menurut AutoJago, baterai ke-6 tersedia sebagai opsi untuk jarak hingga 380 km, tetapi kapasitasnya dan varian Indonesia tersendiri tidak dipublikasikan, jadi tidak dibuat trim terpisah. Pengisian: sekitar 10 jam dengan AC dan sekitar 2 jam 0–100% dengan DC (Garduoto menyebut 2–3 jam); sumber Indonesia tidak menyebut daya pengisi. Angka dari pasar lain: on-board charger AC 43 kW, pengisian DC hingga 250 kW, port CCS2, dan torsi 2.400 Nm dari spesifikasi Malaysia (peluncuran Juli 2023: SoyaCincau, Auto International, WapCar, Carz), dengan penggerak hingga 3 motor 490 kW dan waktu pengisian yang sama (AC 10 jam, DC kurang dari 2 jam); CCS2 standar di semua model Malaysia. Pemasok sel (sel dan modul Samsung SDI, paket dirakit di Ghent) dari laporan Eropa. Volvo Selandia Baru mencantumkan GCW hingga 50 ton untuk versi ini; angka Indonesia 44 ton tetap dipakai. GCW 44 ton dan dimensi dari Mobil Komersial (2025). Artikel yang sama menulis ban '3295/80R22.5' (jelas salah ketik, kemungkinan 295/80 R22.5), jadi ukuran ban tidak dicantumkan. Harga: AutoJago menyebut estimasi Rp 5,5 miliar (perkiraan, tanpa subsidi; bukan OTR) dan sekitar Rp 300 juta per paket baterai, jadi harga OTR tidak diisi, dan estimasi ini juga tidak disimpan sebagai harga kutipan. Halaman produk FM Electric di volvotrucks.id memuat rentang global (360–540 kWh, 2 motor, DC 350 kW, GCW hingga 65 ton). Itu konfigurasi yang lebih baru atau berbeda dari 6x4T 3 motor versi Indonesia, jadi tidak dipakai. Data Zigwheels/OTO Indonesia ('450 HP 180 kWh' dan '666 HP 540 kWh') tampaknya salinan data Filipina, jadi juga tidak dipakai."
     }
   ]
 }

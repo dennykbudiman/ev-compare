@@ -411,8 +411,8 @@
           }
         ]
       },
-      "notes": "Launched at GIIAS 2026 (July 2026). CKD assembly with PT Handal Indonesia Motor in Purwakarta, West Java, started 13 August 2026 (first Farizon model built there, about 40% local content). GVW 3,500 kg, payload up to 1.5 t and 7.9 m3 cargo volume (detikOto). Price Rp 425 juta OTR Jakarta, white only. Power 90 kW (GridOto, Bloomberg Technoz); Moladin lists '148' maximum power with no unit, which was not used. Torque 190 Nm per detikOto, GridOto and Moladin; Bloomberg Technoz says 150 Nm. Range 428 km claimed; Moladin calls it WLTP but press releases name no cycle, so range_standard is left out. DC: CCS2 up to 100 kW, 20–80% in about 30 min (Bloomberg Technoz); Moladin lists 36 min. Moladin lists AC 0–100% in 6–7 hours (not recorded as a single figure). Warranty not published for Indonesia.",
-      "notes_id": "Diluncurkan di GIIAS 2026 (Juli 2026). Perakitan CKD bersama PT Handal Indonesia Motor di Purwakarta, Jawa Barat, dimulai 13 Agustus 2026 (model Farizon pertama yang dirakit di sana, kandungan lokal sekitar 40%). JBB 3.500 kg, payload hingga 1,5 ton, dan volume kargo 7,9 m3 (detikOto). Harga Rp425 juta OTR Jakarta, hanya warna putih. Tenaga 90 kW (GridOto, Bloomberg Technoz); Moladin mencantumkan tenaga maksimum '148' tanpa satuan, yang tidak dipakai. Torsi 190 Nm menurut detikOto, GridOto, dan Moladin; Bloomberg Technoz menyebut 150 Nm. Jarak tempuh 428 km (klaim); Moladin menyebutnya WLTP tetapi rilis pers tidak menyebut siklus uji, sehingga standar uji tidak diisi. DC: CCS2 hingga 100 kW, 20–80% sekitar 30 menit (Bloomberg Technoz); Moladin menyebut 36 menit. Moladin mencantumkan AC 0–100% dalam 6–7 jam (tidak dicatat sebagai satu angka). Garansi untuk Indonesia tidak dipublikasikan."
+      "notes": "Launched at GIIAS 2026 (July 2026). CKD assembly with PT Handal Indonesia Motor in Purwakarta, West Java, started 13 August 2026 (first Farizon model built there, about 40% local content). GVW 3,500 kg, payload up to 1.5 t and 7.9 m3 cargo volume (detikOto). Price Rp 425 juta OTR Jakarta, white only. Power 90 kW (GridOto, Bloomberg Technoz); Moladin lists '148' maximum power with no unit, which was not used. Torque 190 Nm per detikOto, GridOto and Moladin; Bloomberg Technoz says 150 Nm. Range 428 km claimed; Moladin calls it WLTP but press releases name no cycle, so range_standard is left out. DC: CCS2 up to 100 kW, 20–80% in about 30 min (Bloomberg Technoz); Moladin lists 36 min. Moladin lists AC 0–100% in 6–7 hours (not recorded as a single figure). Warranty not published for Indonesia. Other markets (November 2026): the Australian V8E (ADR-approved, not yet on sale) is quoted with 8.5 m3 of cargo space and a 1.6 t payload, which differ from the Indonesian Cargo Van (7.9 m3, 1.5 t), so it is not taken as the same version and no foreign figures are used.",
+      "notes_id": "Diluncurkan di GIIAS 2026 (Juli 2026). Perakitan CKD bersama PT Handal Indonesia Motor di Purwakarta, Jawa Barat, dimulai 13 Agustus 2026 (model Farizon pertama yang dirakit di sana, kandungan lokal sekitar 40%). JBB 3.500 kg, payload hingga 1,5 ton, dan volume kargo 7,9 m3 (detikOto). Harga Rp425 juta OTR Jakarta, hanya warna putih. Tenaga 90 kW (GridOto, Bloomberg Technoz); Moladin mencantumkan tenaga maksimum '148' tanpa satuan, yang tidak dipakai. Torsi 190 Nm menurut detikOto, GridOto, dan Moladin; Bloomberg Technoz menyebut 150 Nm. Jarak tempuh 428 km (klaim); Moladin menyebutnya WLTP tetapi rilis pers tidak menyebut siklus uji, sehingga standar uji tidak diisi. DC: CCS2 hingga 100 kW, 20–80% sekitar 30 menit (Bloomberg Technoz); Moladin menyebut 36 menit. Moladin mencantumkan AC 0–100% dalam 6–7 jam (tidak dicatat sebagai satu angka). Garansi untuk Indonesia tidak dipublikasikan. Pasar lain (November 2026): V8E Australia (sudah lolos ADR, belum dijual) disebut memiliki ruang kargo 8,5 m3 dan daya angkut 1,6 ton, berbeda dengan Cargo Van Indonesia (7,9 m3, 1,5 ton), sehingga tidak dianggap versi yang sama dan tidak ada angka luar negeri yang dipakai."
     },
     {
       "id": "farizon-v8e-2026-van",
@@ -435,7 +435,10 @@
         "tyre_size": "195/70 R15",
         "price_otr_idr": 550000000,
         "body_type": "Minibus",
-        "transmission": "Single-speed reduction gear"
+        "transmission": "Single-speed reduction gear",
+        "voltage_architecture": "~400 V",
+        "motor_count": 1,
+        "airbags": 2
       },
       "sources": {
         "segment": [
@@ -593,10 +596,34 @@
             "date": "2026-07",
             "type": "media"
           }
+        ],
+        "voltage_architecture": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "motor_count": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
+        ],
+        "airbags": [
+          {
+            "url": "https://moladin.com/mobil-baru/farizon/farizon-v8e/spesifikasi",
+            "title": "Farizon V8E spesifikasi (Moladin)",
+            "date": "2026-11",
+            "type": "media"
+          }
         ]
       },
-      "notes": "Passenger version of the V8E, launched at GIIAS 2026 (July 2026; global debut) at Rp 550 juta OTR Jakarta. Listed as Small cargo (light commercial) by the project rule for minibuses; GVW is not published, and the 16 seats exceed the usual 9-seat range for this class. Only seats and price come from launch coverage; battery, range, torque, dimensions and tyres are from Moladin, which lists them for the Van as well as the Cargo Van. Power is left out (Moladin's '148' has no unit and conflicts with the Cargo Van's 90 kW). Local assembly was announced only for the Cargo Van, so assembly is left out. Warranty not published for Indonesia.",
-      "notes_id": "Versi penumpang V8E, diluncurkan di GIIAS 2026 (Juli 2026; debut global) dengan harga Rp550 juta OTR Jakarta. Dimasukkan ke kelas Small cargo (niaga ringan) sesuai aturan proyek untuk minibus; JBB tidak dipublikasikan, dan 16 kursi melebihi rentang umum 9 kursi untuk kelas ini. Hanya jumlah kursi dan harga yang berasal dari liputan peluncuran; baterai, jarak tempuh, torsi, dimensi, dan ban dari Moladin, yang mencantumkannya untuk Van maupun Cargo Van. Tenaga tidak diisi ('148' di Moladin tanpa satuan dan berbeda dengan 90 kW milik Cargo Van). Perakitan lokal hanya diumumkan untuk Cargo Van, sehingga status perakitan tidak diisi. Garansi untuk Indonesia tidak dipublikasikan."
+      "notes": "Passenger version of the V8E, launched at GIIAS 2026 (July 2026; global debut) at Rp 550 juta OTR Jakarta. Listed as Small cargo (light commercial) by the project rule for minibuses; GVW is not published, and the 16 seats exceed the usual 9-seat range for this class. Only seats and price come from launch coverage; battery, 400 V architecture, motor count, range, torque, dimensions, tyres and airbags (2) are from Moladin, which lists them for the Van as well as the Cargo Van. Power is left out (Moladin's '148' has no unit and conflicts with the Cargo Van's 90 kW). Local assembly was announced only for the Cargo Van, so assembly is left out. Warranty not published for Indonesia. Other markets (November 2026): the Australian V8E (ADR-approved, not yet on sale) is quoted with 8.5 m3 of cargo space and a 1.6 t payload, which differ from the Indonesian Cargo Van (7.9 m3, 1.5 t), so it is not taken as the same version and no foreign figures are used.",
+      "notes_id": "Versi penumpang V8E, diluncurkan di GIIAS 2026 (Juli 2026; debut global) dengan harga Rp550 juta OTR Jakarta. Dimasukkan ke kelas Small cargo (niaga ringan) sesuai aturan proyek untuk minibus; JBB tidak dipublikasikan, dan 16 kursi melebihi rentang umum 9 kursi untuk kelas ini. Hanya jumlah kursi dan harga yang berasal dari liputan peluncuran; baterai, arsitektur 400 V, jumlah motor, jarak tempuh, torsi, dimensi, ban, dan airbag (2) dari Moladin, yang mencantumkannya untuk Van maupun Cargo Van. Tenaga tidak diisi ('148' di Moladin tanpa satuan dan berbeda dengan 90 kW milik Cargo Van). Perakitan lokal hanya diumumkan untuk Cargo Van, sehingga status perakitan tidak diisi. Garansi untuk Indonesia tidak dipublikasikan. Pasar lain (November 2026): V8E Australia (sudah lolos ADR, belum dijual) disebut memiliki ruang kargo 8,5 m3 dan daya angkut 1,6 ton, berbeda dengan Cargo Van Indonesia (7,9 m3, 1,5 ton), sehingga tidak dianggap versi yang sama dan tidak ada angka luar negeri yang dipakai."
     }
   ]
 }
